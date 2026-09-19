@@ -1,0 +1,144 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_police.tob,25,,未翻,
+2,0x1c,system,system,kw_police.sts,13,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_警官,12,ROM2_KW_警官,人工定稿,
+4,0x3c,dialogue,label,ROM2_KW会話_警官,16,ROM2_KW會話_警官,人工定稿,
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_警官_昇,16,ROM2_KW_警官_昇,人工定稿,
+8,0x8c,system,system,0312,4,,未翻,
+9,0x91,dialogue,narrative,lic｢自分が警官だｯﾀﾗﾅｧ｣,22,lic｢如果我是警官就好｣,人工定稿,P7 校对修正: なぁ 愿望语气漏译
+10,0xa8,system,system,2000,4,,未翻,
+11,0xad,dialogue,narrative,lic｢警官がﾖｶｯﾀﾉｶ?｣,18,lic｢當警官較好?｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+12,0xc0,system,system,0313,4,,未翻,
+13,0xc5,dialogue,narrative,lic｢ﾅﾝﾄﾅｸ安全ﾅ気がｽﾙｹど,23,lic｢總覺得比較安全，但,人工定稿,P7 校对修正: けど 连接词漏译
+14,0xe0,dialogue,narrative,実際ｿｳでﾓﾅｲﾖﾅ｣,14,實際上不盡然｣,人工定稿,P7 校对修正: そうでもない 误译
+15,0xf0,system,system,2001,4,,未翻,
+16,0xf5,dialogue,narrative,lic｢ｱｧ､自分ｦ指名ｽﾚばｼばﾗｸﾊ持ﾂが,31,lic｢指名自己的話能維持一陣，但,人工定稿,P7 校对修正: しばらく/が 漏译
+17,0x118,dialogue,narrative,ｿﾉ間最低でﾓ1人ずﾂﾊ死ﾝでｼﾏｳｶﾗﾅ｣,30,其間至少也會死一個人呀｣,人工定稿,"P7 校对修正: その間 误译, からな 补语气"
+18,0x138,system,system,0314,4,,未翻,
+19,0x13d,dialogue,narrative,lic｢だﾖﾅｧ｡,10,lic｢對呀。,人工定稿,P7 校对修正: だよなぁ 承答位口径(对照 kw_detect 同类行)
+20,0x148,dialogue,narrative,人が死ﾇﾀびﾆ自分ﾉｾｲだｯﾃ,22,毎當有人死便覺自己害的,人工定稿,P7 校对修正
+21,0x160,dialogue,narrative,感じﾙだﾛｳｼﾅ｣,12,會這麼想的｣,人工定稿,P7 校对修正: だろう 的「哦」花按 v1.4 卡改陈述
+22,0x170,system,system,2002,4,,未翻,
+23,0x175,dialogue,narrative,lic｢ｶﾄｲｯﾃ誰ｶｦ守ｯﾃ予想が外ﾚﾃﾓ,28,lic｢但就算守了誰，預想落空,人工定稿,P7 校对修正: かといって/ても 结构补全
+24,0x194,dialogue,narrative,一緒だがﾅ｣,10,也是一樣｣,人工定稿,导入警告: kana_residue
+25,0x19f,system,system,t0315,5,,未翻,
+26,0x1a5,dialogue,narrative,lic｢ｳｰﾝ､ﾔｯぱ俺ﾊ市民でﾖｶｯﾀﾖ｣,27,lic｢唔，我還是當市民好｣,人工定稿,P7 校对修正: うーん 漏译
+27,0x1c4,dialogue,narrative,ロム2_KW_警官_香菜,18,ROM2_KW_警官_香菜,人工定稿,
+28,0x1d8,dialogue,narrative,｢警官ﾈｰ､ﾐﾝﾅ警官ﾆﾅｯﾁｬｴば,23,｢警官呀，都當警官的話,人工定稿,P7 校对修正: 补回缺失的开引号
+29,0x1f0,dialogue,narrative,誰ﾓ死ﾅﾅｸﾃ済ﾑﾉﾆﾈ｣,16,就誰都不用死了｣,人工定稿,导入警告: kana_residue
+30,0x204,system,system,2003,4,,未翻,
+31,0x209,dialogue,narrative,lic｢ｿﾚでﾊゲームが成立ｼﾅｲｶﾗﾅ……,31,lic｢那樣的話遊戲就不成立呀……,人工定稿,P7 校对修正: それでは/からな 补全
+32,0x22c,dialogue,narrative,ｿﾝﾅルールﾆﾊﾅﾗﾅｲだﾛｳﾅ｣,21,應該不會有那種規則｣,人工定稿,P7 校对修正: だろうな 的「哦」花改陈述
+33,0x244,dialogue,narrative,｢成立ｼﾅｲｶﾗ良ｲﾝじｬﾅｲ｣,20,｢不成立不也挺好?｣,人工定稿,P7 校对修正: 良いんじゃない 求确认句尾按卡改问句
+34,0x25c,dialogue,narrative,何ｶ含ﾐﾉｱﾘｿｳﾅ言ｲ方だﾅ……?,25,像是話中有話的説法……?,人工定稿,P7 校对修正: 何か/含み/ありそう/言い方 漏译
+35,0x278,dialogue,narrative,ロム2_KW_警官_圭介,18,ROM2_KW_警官_圭介,人工定稿,
+36,0x28c,system,system,0181,4,,未翻,
+37,0x291,dialogue,narrative,lic｢警官が2人ｲﾀﾗﾖｶｯﾀﾉﾆ……｣,27,lic｢有兩個警官就好了……｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+38,0x2b0,system,system,2004,4,,未翻,
+39,0x2b5,dialogue,narrative,lic｢ﾌﾑ｡ｿｳｼﾀﾗ何ｶ策でﾓｱｯﾀﾉｶ?｣,27,lic｢唔。那有什麼計策?｣,人工定稿,"P7 校对修正: ﾌﾑ 误译, 收尾引号缺失"
+40,0x2d4,system,system,0182,4,,未翻,
+41,0x2d9,dialogue,narrative,lic｢ｲｴ……霞が心配でﾂｲ……｣,27,lic｢不……忍不住擔心霞｣,人工定稿,"P7 校对修正: つい 漏译, 收尾引号缺失"
+42,0x2f8,dialogue,narrative,ロム2_KW_警官_霞,16,ROM2_KW_警官_霞,人工定稿,
+43,0x30c,system,system,0184,4,,未翻,
+44,0x311,dialogue,narrative,lic｢私が警官だｯﾀﾗ……,21,lic｢如果我是警官……,人工定稿,导入警告: kana_residue
+45,0x328,dialogue,narrative,圭ｸﾝｦ守ｯﾃｱげﾗﾚﾀﾉﾆ……｣,22,就能保護圭了……｣,人工定稿,导入警告: kana_residue
+46,0x340,system,system,2005,4,,未翻,
+47,0x345,dialogue,narrative,lic｢ｼｶｼ､ｿﾚｦｼﾃｼﾏｯﾀﾗ,18,lic｢但那樣做的話,人工定稿,导入警告: kana_residue
+48,0x358,dialogue,narrative,樫沢氏ﾉ作戦ﾊ失敗ｽﾙぞ?｣,22,樫澤的作戰會失敗哇?｣,人工定稿,"P7 校对修正: だぞ 按口径作「哇」, 补 の"
+49,0x370,system,system,0185,4,,未翻,
+50,0x375,dialogue,narrative,lic｢ｿｳ……でｽﾖﾈ……ごﾒﾝﾅｻｲ……｣,31,lic｢是呀……對不起……｣,人工定稿,"P7 校对修正: ですよね 漏译, 收尾引号缺失"
+51,0x398,dialogue,narrative,ロム2_KW_警官_美紀,18,ROM2_KW_警官_美紀,人工定稿,
+52,0x3ac,system,system,1110,4,,未翻,
+53,0x3b1,dialogue,narrative,lic｢ｱﾀｼが警官だｯﾀﾗ,18,lic｢如果我是警官,人工定稿,导入警告: kana_residue
+54,0x3c4,dialogue,narrative,ｵ姉ｻﾏﾊ絶対安全だｯﾀﾉﾆ!!｣,23,姐姐大人就絶對安全!!｣,人工定稿,导入警告: kana_residue
+55,0x3dc,system,system,2006,4,,未翻,
+56,0x3e1,dialogue,narrative,lic｢ｿﾚでﾊ樫沢氏ﾉ作戦が成立ｼﾅｲｼ,30,lic｢那樣樫澤的作戰就不成立,人工定稿,P7 校对修正: の 漏译
+57,0x400,dialogue,narrative,君ﾓ危険だﾄ思ｳが?｣,17,也會有危險?｣,人工定稿,P7 校对修正: 求确认句尾禁「哦」(v1.4 卡)
+58,0x414,system,system,1111,4,,未翻,
+59,0x419,dialogue,narrative,lic｢ｿﾚでﾓｲｲﾝｽ!,14,lic｢無所謂!,人工定稿,导入警告: kana_residue
+60,0x428,dialogue,narrative,ｵ姉ｻﾏが無事ﾅﾗ!｣,15,姐姐大人平安!｣,人工定稿,导入警告: kana_residue
+61,0x438,dialogue,narrative,正直､彼女が警官でﾅｸﾃﾖｶｯﾀ……｡,29,説實話，幸好美紀不是警官……,人工定稿,P7 校对修正: 补回省略号
+62,0x458,dialogue,narrative,ロム2_KW_警官_ﾊﾙｶ,17,ROM2_KW_警官_遙,人工定稿,
+63,0x46c,system,system,0122,4,,未翻,
+64,0x471,dialogue,narrative,lic｢……ｹｲｶﾝ? 知ｯﾃﾙﾖ｣,21,lic｢……警官?知道哦｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+65,0x488,system,system,2007,4,,未翻,
+66,0x48d,dialogue,narrative,lic｢本当ｶ!?｣,12,lic｢真的!?｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+67,0x49a,system,system,st0123,6,,未翻,
+68,0x4a1,dialogue,narrative,lic｢ｳﾝ｡薫ｻﾝ｣,12,lic｢對。薰｣,人工定稿,"P7 校对修正: うん 误译, 补回收尾引号"
+69,0x4ae,system,system,st2008,6,,未翻,
+70,0x4b5,dialogue,narrative,lic｢……ｿｳｶ｣,12,lic｢……哦｣,人工定稿,"P7 校对修正: そうか 误译, 补回收尾引号"
+71,0x4c2,dialogue,narrative,stｲﾔ､可能性ﾊ否ﾒﾅｲが……,23,st不，不能説不可能……,人工定稿,P7 校对修正: 否めない 语义不清
+72,0x4dc,dialogue,narrative,彼女ﾊｵｿﾗｸ質問ﾉ意図ｦ勘違ｲｼﾃｲﾙﾅ｡,30,他大概誤解了提問的意圖。,人工定稿,P7 校对修正: 質問の意図 漏译
+73,0x4fc,dialogue,narrative,どｯﾁﾆｼﾛ知ﾗﾅｲﾄｲｳｺﾄだﾛｳが……｡,28,總之大概就是不知道……。,人工定稿,P7 校对修正: だろう 漏译
+74,0x51c,dialogue,narrative,ロム2_KW_警官_ﾂﾑじ,18,ROM2_KW_警官_旋,人工定稿,
+75,0x530,system,system,0139,4,,未翻,
+76,0x535,dialogue,narrative,lic｢警官? ｯﾃ､薫ｻﾝじｬﾅｲでｽﾖﾈ｣,28,lic｢警官?不是指薰對不?｣,人工定稿,P7 校对修正: じゃないですよね 求确认句尾按 v1.4 卡
+77,0x554,system,system,2009,4,,未翻,
+78,0x559,dialogue,narrative,lic｢ｱｱ｡ゲーム内でﾉ話だ｣,23,lic｢哦。是遊戲裏的事｣,人工定稿,"P7 校对修正: ああ 误译, 收尾引号缺失"
+79,0x574,system,system,0140,4,,未翻,
+80,0x579,dialogue,narrative,lic｢ｿｯﾁﾊﾜｶﾗﾅｲｹど､,17,lic｢那我不知道，,人工定稿,导入警告: kana_residue
+81,0x58c,dialogue,narrative,薫ｻﾝﾊ､ﾊﾙｶﾆ優ｼｸｼﾃｸﾚﾙｼ､,21,薰對遙很温柔，,人工定稿,
+82,0x5a4,dialogue,narrative,ｿﾉ警官ﾓﾊﾙｶｦ守ｯﾃｸﾚﾀﾗｲｲﾅ｣,23,那警官也守護遙就好｣,人工定稿,导入警告: kana_residue
+83,0x5bc,dialogue,narrative,ｿｳｼﾀﾗ樫沢氏ﾉ作戦ﾊ通用ｼﾅｸﾅﾙが､,29,那樣樫澤的作戰就行不通，,人工定稿,"P7 校对修正: の 漏译, 通用しなくなる 表达"
+84,0x5dc,dialogue,narrative,ﾀﾗﾚばﾉ話ﾆ本気で答ｴﾙｺﾄﾓﾅｲｶ｡,26,也不必對假設認真回答。,人工定稿,P7 校对修正: たらればの話 漏译
+85,0x5f8,dialogue,narrative,ロム2_KW_警官_ジャック,22,ROM2_KW_警官_傑克,人工定稿,
+86,0x610,system,system,0156,4,,未翻,
+87,0x615,dialogue,narrative,lic｢ﾁｷｼｮｳ!,10,lic｢可惡!,人工定稿,导入警告: kana_residue
+88,0x620,dialogue,narrative,ｿﾉ名前ｦオレﾉ前で出ｽﾝじｬﾈｪ!,26,別在我面前提那名字!,人工定稿,
+89,0x63c,dialogue,narrative,虫唾が走ﾙぜ!｣,13,令人作嘔咯!｣,人工定稿,P7 校对修正: ぜ 按口径补「咯」
+90,0x64c,system,system,2010,4,,未翻,
+91,0x651,dialogue,narrative,lic｢ﾌﾑ｡ｽﾏﾅｲ｣,12,lic｢唔｡抱歉｣,人工定稿,"P7 校对修正: ﾌﾑ 误译, 补回收尾引号"
+92,0x65e,dialogue,narrative,stｺﾉ話題ﾊﾔﾒﾃｵｲﾀ方がﾖｻｿｳだﾅ｡,27,st這話題先放下比較好。,人工定稿,P7 校对修正: 与 kw_vote 同句定稿口径统一
+93,0x67c,dialogue,narrative,ロム2_KW_警官_薫,16,ROM2_KW_警官_薰,人工定稿,
+94,0x690,system,system,0301,4,,未翻,
+95,0x695,dialogue,narrative,lic｢警官ﾄﾊ本来皆ｻﾝｦ守ﾙ仕事でｽが……,35,lic｢警官本是守護大家的工作，但……,人工定稿,P7 校对修正: 仕事 漏译
+96,0x6bc,dialogue,narrative,人員ﾆﾊ限ﾘがｱﾙｼ､実際ﾉﾄｺﾛ,23,人員有限，而且實際上,人工定稿,P7 校对修正: し 连接漏译
+97,0x6d4,dialogue,narrative,限界ﾊｱﾘﾏｽ｣,10,有極限的｣,人工定稿,导入警告: kana_residue
+98,0x6df,system,system,t0302,5,,未翻,
+99,0x6e5,dialogue,narrative,lic｢1ターンﾆ1人ｼｶ守ﾚﾅｲﾄｲｳﾉﾊ,27,lic｢一回合只守護一人這件事,人工定稿,P7 校对修正: というのは 漏译(与下行衔接)
+100,0x704,dialogue,narrative,私達ﾍﾉ皮肉ﾅﾝでｼｮｳｶ……?｣,24,是對我們的諷刺……?｣,人工定稿,导入警告: kana_residue
+101,0x720,system,system,2011,4,,未翻,
+102,0x725,dialogue,narrative,lic｢考ｴｽぎだﾄ思ｳぞ｣,19,lic｢覺得想太多了哇｣,人工定稿,"P7 校对修正: と思うぞ 漏译, 补回收尾引号"
+103,0x73c,dialogue,narrative,ロム2_KW_警官_樫沢,18,ROM2_KW_警官_樫澤,人工定稿,
+104,0x750,system,system,0286,4,,未翻,
+105,0x755,dialogue,narrative,lic｢警官が協力ｼﾃｸﾚﾀﾐﾀｲで助ｶﾘﾏｼﾀ｡,32,lic｢警官似乎肯協助，幇大忙了。,人工定稿,P7 校对修正: みたい 漏译
+106,0x778,dialogue,narrative,誰ｶﾊ知ﾘﾏｾﾝが､警官ﾉ協力無ｼﾆﾊ,27,不知是誰，但沒有警官的協助,人工定稿,P7 校对修正: が/の 漏译
+107,0x794,dialogue,narrative,成立ｼﾅｲ作戦でｽｶﾗﾈ｣,18,這作戰就無法成立｣,人工定稿,导入警告: kana_residue
+108,0x7a8,system,system,2012,4,,未翻,
+109,0x7ad,dialogue,narrative,lic｢ｱｱ｡ｺﾉ調子でｲｹﾙﾄ良ｲがﾅ｣,26,lic｢哦。照這樣下去就好｣,人工定稿,"P7 校对修正: ああ 误译, 收尾引号缺失"
+110,0x7c8,system,system,0287,4,,未翻,
+111,0x7cd,dialogue,narrative,lic｢心変ﾜﾘが心配でｽﾈ｣,21,lic｢擔心他會變心呀｣,人工定稿,P7 校对修正: ですよね 的「哦」花按 v1.4 卡
+112,0x7e4,dialogue,narrative,ロム2_KW_警官_唯柚,18,ROM2_KW_警官_唯柚,人工定稿,
+113,0x7f8,system,system,0221,4,,未翻,
+114,0x7fd,dialogue,narrative,lic｢警官……ｵﾏﾜﾘｻﾝ!｣,20,lic｢警官……是巡警!｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+115,0x814,system,system,2013,4,,未翻,
+116,0x819,dialogue,narrative,lic｢ｿｳだが､違ｳ｡,15,lic｢對，不對。,人工定稿,导入警告: kana_residue
+117,0x82c,dialogue,narrative,ｺﾉゲームﾉ中でﾉ警官ﾉｺﾄだ｣,24,是遊戲裏的警官｣,人工定稿,导入警告: kana_residue
+118,0x848,system,system,0222,4,,未翻,
+119,0x84d,dialogue,narrative,lic｢ｳｰﾝ､ﾕﾕ､誰だｶﾜｶﾝﾅｲｹど……,28,lic｢唔，唯柚不知道是誰……,人工定稿,P7 校对修正: うーん 漏译
+120,0x86c,dialogue,narrative,警官ｻﾝﾊｷｯﾄ､良ｲ人だﾄ思ｲﾏｽ｣,25,我想警官一定是好人｣,人工定稿,P7 校对修正: と思います 漏译
+121,0x888,system,system,2014,4,,未翻,
+122,0x88d,dialogue,narrative,lic｢ﾎｵ｡何故だ?｣,15,lic｢哦。為何?｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+123,0x8a0,system,system,0223,4,,未翻,
+124,0x8a5,dialogue,narrative,lic｢だｯﾃ自分ﾉｺﾄｦ差ｼ置ｲﾃ､,24,lic｢因為他不顧自己，,人工定稿,P7 校对修正: 差し置いて 误译
+125,0x8c0,dialogue,narrative,ﾐﾝﾅﾉﾀﾒﾆ作戦ﾆ乗ｯﾃｸﾚﾀﾝでｽﾖﾈ｣,26,他為了大家參與了作戰呀｣,人工定稿,P7 校对修正: んですよね 按 v1.4 卡作共感语气
+126,0x8dc,system,system,0224,4,,未翻,
+127,0x8e1,dialogue,narrative,lic｢ﾀﾄｴ途中で心変ﾜﾘｼﾀﾄｼﾃﾓ,25,lic｢就算途中變心,人工定稿,导入警告: kana_residue
+128,0x8fc,dialogue,narrative,良ｲ人ﾅﾉﾊ間違ｲﾅｲﾉでｽ｣,20,是好人這點沒錯｣,人工定稿,导入警告: kana_residue
+129,0x914,dialogue,narrative,意外ﾄ鋭ｲﾅ……｡,14,意外敏鋭……。,人工定稿,P7 校对修正: 补回句号
+130,0x924,dialogue,narrative,ロム2_KW_警官_紅春,18,ROM2_KW_警官_紅春,人工定稿,
+131,0x938,system,system,0263,4,,未翻,
+132,0x93d,dialogue,narrative,lic｢ﾓｼ……亡ｸﾅｯﾀ人が警官だｯﾀﾗ,29,lic｢如果死者是警官,人工定稿,导入警告: kana_residue
+133,0x95c,dialogue,narrative,ﾓｳ私達､守ﾗﾚﾅｲﾝでｽﾖﾈ……?｣,25,就沒人能守護我們了對不?｣,人工定稿,P7 校对修正: ですよね 求确认句尾按 v1.4 卡
+134,0x978,system,system,2015,4,,未翻,
+135,0x97d,dialogue,narrative,lic｢ｿｳﾅﾙﾅ｣,10,lic｢沒錯｣,人工定稿,"P7 校对修正: そうなるな 误译, 补回收尾引号"
+136,0x988,system,system,0264,4,,未翻,
+137,0x98d,dialogue,narrative,lic｢ｳｩ……ﾓｳ嫌でｽ､ｺﾝﾅﾄｺ……｣,28,lic｢我討厭這種地方……｣,人工定稿,P7 校对修正: 补回收尾引号
+138,0x9ac,system,system,2016,4,,未翻,
+139,0x9b1,dialogue,narrative,lic｢落ﾁ着ｹ｡,11,lic｢冷靜。,人工定稿,导入警告: kana_residue
+140,0x9bd,dialogue,narrative,.stｿｳだﾄｼﾀﾗ､ｿﾚｺｿ冷静ｻが必要ﾅﾉだ｣,32,.st如果真是那樣，正是需要冷靜｣,人工定稿,P7 校对修正: そうだとしたら/それこそ 结构补全
+141,0x9e0,system,system,0265,4,,未翻,
+142,0x9e5,dialogue,narrative,lic｢ﾊｲ……｣,11,lic｢是……｣,人工定稿,P7 校对修正: 补回缺失的收尾引号
+143,0x9f1,dialogue,narrative,.stロム2_KW_警官_西野,21,.stROM2_KW_警官_西野,人工定稿,

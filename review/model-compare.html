@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant"><meta charset="utf-8">
+<title>模型翻译对比</title>
+<style>
+body { font-family: system-ui, sans-serif; margin: 16px; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #ddd; padding: 4px 8px; vertical-align: top;
+        font-size: 13px; }
+td.jp, th.jp { width: 30%; }
+.jp { font-family: "Yu Gothic", monospace; }
+tr.sep td { background: #eef; font-weight: 600; }
+td.warn, .warn { color: #b00; font-size: 11px; }
+</style>
+<body>
+<h2>模型翻译对比</h2>
+<p>抽样 chunk: chunk-0156</p>
+<table><tr><th class="jp">原文</th><th>deepseek<br><small>deepseek-v4-flash<br>tokens 2891+12267</small></th></tr>
+<tr class="sep"><td colspan="2">chunk-0156 / r2_t1_1_0.tob seq 3-252</td></tr>
+<tr><td class="jp">ROM2_ターン1</td><td class="jp">ROM2_ターン1</td><td class="zh">ROM2_回合1</td></tr>
+<tr><td class="jp">ROM2_プロローグ</td><td class="jp">ROM2_プロローグ</td><td class="zh">ROM2_序章</td></tr>
+<tr><td class="jp">ロム2_美紀ﾆ起ｺｻﾚﾙ</td><td class="jp">ロム2_美紀ﾆ起ｺｻﾚﾙ</td><td class="zh">ROM2_被美紀叫醒</td></tr>
+<tr><td class="jp">_1_｢……ﾃ……ｵｷ……｣</td><td class="jp">_1_｢……ﾃ……ｵｷ……｣</td><td class="zh">_1_「……起……來……」</td></tr>
+<tr><td class="jp">――耳元で聞ｷ慣ﾚﾀ声がｽﾙ｡</td><td class="jp">――耳元で聞ｷ慣ﾚﾀ声がｽﾙ｡</td><td class="zh">――耳邊傳來聽慣了的聲音。</td></tr>
+<tr><td class="jp">_1_｢……起ｷﾃ…………ﾏ……｣</td><td class="jp">_1_｢……起ｷﾃ…………ﾏ……｣</td><td class="zh">_1_「……起來…………嘛……」</td></tr>
+<tr><td class="jp">ぺｼぺｼﾄ頬ｦ叩ｶﾚﾙ｡</td><td class="jp">ぺｼぺｼﾄ頬ｦ叩ｶﾚﾙ｡</td><td class="zh">被拍了幾下。</td></tr>
+<tr><td class="jp">……美紀ｸﾝｶ｡</td><td class="jp">……美紀ｸﾝｶ｡</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">意識ﾊｱﾙﾉだが､頭が重ｸﾃ思考が回ﾗﾅｲ｡</td><td class="jp">意識ﾊｱﾙﾉだが､頭が重ｸﾃ思考が回ﾗﾅｲ｡</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">身体ｦ動ｶｿｳﾄｲｳ気ﾆﾅﾚﾅｲ……｡</td><td class="jp">身体ｦ動ｶｿｳﾄｲｳ気ﾆﾅﾚﾅｲ……｡</td><td class="zh">完全沒有要動身體的念頭……。</td></tr>
+<tr><td class="jp">_1_｢ｵ姉ｻﾏｰｯ! ｼｯｶﾘｼﾃ下ｻｲﾖｫ……｣</td><td class="jp">_1_｢ｵ姉ｻﾏｰｯ! ｼｯｶﾘｼﾃ下ｻｲﾖｫ……｣</td><td class="zh">_1_「姐姐大人――！請振作一點呀……」</td></tr>
+<tr><td class="jp">……ﾏだ眠ｲﾉだ｡</td><td class="jp">……ﾏだ眠ｲﾉだ｡</td><td class="zh">……我還想睡。</td></tr>
+<tr><td class="jp">起ｷﾀｸﾅｲ｡</td><td class="jp">起ｷﾀｸﾅｲ｡</td><td class="zh">不想起來。</td></tr>
+<tr><td class="jp">.st放ｯﾃｵｲﾃｸﾚﾅｲだﾛｳｶ……｡</td><td class="jp">.st放ｯﾃｵｲﾃｸﾚﾅｲだﾛｳｶ……｡</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">_1_｢……起ｷﾅｲ｡</td><td class="jp">_1_｢……起ｷﾅｲ｡</td><td class="zh">_1_「……不起來。<div class="warn">quote_unbalanced</div></td></tr>
+<tr><td class="jp">ﾄｲｳｺﾄﾊ､起ｷﾅｲﾝｽﾈ｡</td><td class="jp">ﾄｲｳｺﾄﾊ､起ｷﾅｲﾝｽﾈ｡</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">ﾇﾌﾌ……｣</td><td class="jp">ﾇﾌﾌ……｣</td><td class="zh">桀桀……」<div class="warn">quote_unbalanced</div></td></tr>
+<tr><td class="jp">_1_｢ｵ姉ｻﾏｰ! ﾝｰ……｣</td><td class="jp">_1_｢ｵ姉ｻﾏｰ! ﾝｰ……｣</td><td class="zh">_1_「姐姐大人――！嗚――……」</td></tr>
+<tr><td class="jp">｢ﾔﾒﾛ｣</td><td class="jp">｢ﾔﾒﾛ｣</td><td class="zh">「住手」</td></tr>
+<tr><td class="jp">_1_｢ﾝﾐｭ……｣</td><td class="jp">_1_｢ﾝﾐｭ……｣</td><td class="zh">_1_「嗚……」</td></tr>
+<tr><td class="jp">_1_｢ﾋｬﾆﾌﾙﾝﾌﾊ｣</td><td class="jp">_1_｢ﾋｬﾆﾌﾙﾝﾌﾊ｣</td><td class="zh">_1_「哇哈哈哈……」</td></tr>
+<tr><td class="jp">t｢今､何ｦｼﾖｳﾄｼﾃｲﾀ｣</td><td class="jp">t｢今､何ｦｼﾖｳﾄｼﾃｲﾀ｣</td><td class="zh">t「剛才，想做什麼」</td></tr>
+<tr><td class="jp">_1_｢ｲﾊﾙﾗ……｣</td><td class="jp">_1_｢ｲﾊﾙﾗ……｣</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">t油断ﾓ隙ﾓｱｯﾀﾓﾝじｬﾅｲﾅ｡</td><td class="jp">t油断ﾓ隙ﾓｱｯﾀﾓﾝじｬﾅｲﾅ｡</td><td class="zh">t完全沒有什麼大意或破綻。</td></tr>
+<tr><td class="jp">｢……ﾑ｡</td><td class="jp">｢……ﾑ｡</td><td class="zh">「……嗚。<div class="warn">quote_unbalanced</div></td></tr>
+<tr><td class="jp">ｺｺﾊ……｣</td><td class="jp">ｺｺﾊ……｣</td><td class="zh">這裡是……」<div class="warn">quote_unbalanced</div></td></tr>
+<tr><td class="jp">.st美紀ｸﾝﾉ大アップが邪魔で</td><td class="jp">.st美紀ｸﾝﾉ大アップが邪魔で</td><td class="zh">.st鏡頭裡美紀靠得太近，</td></tr>
+<tr><td class="jp">ｽぐﾆ気づｶﾅｶｯﾀが､</td><td class="jp">ｽぐﾆ気づｶﾅｶｯﾀが､</td><td class="zh">害我沒能馬上注意到，</td></tr>
+<tr><td class="jp">どｳﾓ見慣ﾚﾅｲ場所ﾉﾖｳだ｡</td><td class="jp">どｳﾓ見慣ﾚﾅｲ場所ﾉﾖｳだ｡</td><td class="zh">不過這裡似乎是個陌生的地方。</td></tr>
+<tr><td class="jp">尻ﾉ下ﾆｱﾙﾉﾊ堅ｲ床で､</td><td class="jp">尻ﾉ下ﾆｱﾙﾉﾊ堅ｲ床で､</td><td class="zh">屁股下面是堅硬的地板，</td></tr>
+<tr><td class="jp">背中ﾆｱﾙﾉﾊ無機質ﾅ壁｡</td><td class="jp">背中ﾆｱﾙﾉﾊ無機質ﾅ壁｡</td><td class="zh">背後則是又冷又硬的牆壁。</td></tr>
+<tr><td class="jp">どｺｶﾆ来ﾃ､座ﾘ込ﾝで眠ｯﾃｼﾏｯﾀ?</td><td class="jp">どｺｶﾆ来ﾃ､座ﾘ込ﾝで眠ｯﾃｼﾏｯﾀ?</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">記憶がﾅｲ｡</td><td class="jp">記憶がﾅｲ｡</td><td class="zh">完全沒有記憶。</td></tr>
+<tr><td class="jp">st私ﾊ酒でﾓ呑ﾝで泥酔ｼﾃｲﾀﾉだﾛｳｶ?</td><td class="jp">st私ﾊ酒でﾓ呑ﾝで泥酔ｼﾃｲﾀﾉだﾛｳｶ?</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">｢……ﾄﾘｱｴず動ｷﾀｲﾉだが､</td><td class="jp">｢……ﾄﾘｱｴず動ｷﾀｲﾉだが､</td><td class="zh">「……無論如何，我想先動一動，<div class="warn">quote_unbalanced</div></td></tr>
+<tr><td class="jp">どｲﾃﾓﾗｴﾅｲだﾛｳｶ｣</td><td class="jp">どｲﾃﾓﾗｴﾅｲだﾛｳｶ｣</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">_1_｢ｳｩｩ……｣</td><td class="jp">_1_｢ｳｩｩ……｣</td><td class="zh">_1_「嗚嗚嗚……」</td></tr>
+<tr><td class="jp">stロム2_状況把握</td><td class="jp">stロム2_状況把握</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">彼女ﾊ大人ｼｸ言ｳｺﾄｦ聞ｲﾃ</td><td class="jp">彼女ﾊ大人ｼｸ言ｳｺﾄｦ聞ｲﾃ</td><td class="zh"><div class="warn">cp932_unencodable</div></td></tr>
+<tr><td class="jp">私ﾉ前ｶﾗ立ﾁ上がﾙ｡</td><td class="jp">私ﾉ前ｶﾗ立ﾁ上がﾙ｡</td><td class="zh">從我面前站了起來。</td></tr>
+</table>

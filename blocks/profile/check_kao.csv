@@ -1,0 +1,29 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_kao.tob,25,,未翻,
+2,0x1c,system,system,check_kao.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_薫,7,調査_薰,人工定稿,
+4,0x34,dialogue,label,調査_薫_判定,12,調査_薰_判定,人工定稿,
+5,0x44,dialogue,label,調査_薫_未調査,14,調査_薰_未調査,人工定稿,
+6,0x54,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,P7 校对修正
+7,0x70,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『皇木薫』ﾉ名前ｦ押ｽ｡,29,我從中按下『皇木薰』的名字。,人工定稿,P7 校对修正
+8,0x90,dialogue,narrative,『皇木薫でｲｲでｽｶ?』ﾉメッセージ｡,31,出現『皇木薰是否正確?』信息。,人工定稿,P7 校对修正
+9,0xb0,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按『確認』後，,人工定稿,P7 校对修正
+10,0xc0,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現出『調査結果』這幾個字。,人工定稿,
+11,0xe8,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,P7 终轮统一: 共享句形(然後……)
+12,0xf1,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,P7 终轮统一: 共享句形(.st…………)
+13,0xfe,dialogue,narrative,st……｡,7,st……,人工定稿,P7 校对修正
+14,0x106,dialogue,narrative,ka『皇木薫ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,35,ka『皇木薰不是連環殺手』,人工定稿,
+15,0x12c,system,system,2049,4,,未翻,
+16,0x131,dialogue,narrative,_ka｢ﾌﾑ｡薫ｻﾝﾊ違ｳﾉｶ｣,18,_ka｢唔。薰不是?｣,人工定稿,导入警告: kana_residue
+17,0x144,dialogue,narrative,胸ｦ撫で下ﾛｽ｡,12,鬆了口氣。,人工定稿,
+18,0x154,dialogue,narrative,彼女ﾊ味方だﾄ頼ﾘﾅｲが,19,雖是同伴卻不可靠，,人工定稿,
+19,0x168,dialogue,narrative,敵ﾆﾊ回ｼﾀｸﾅｲタイプだｶﾗだ｡,24,是不想與之為敵的類型。,人工定稿,
+20,0x184,dialogue,narrative,彼女が信頼でｷﾙﾖｳﾆﾅｯﾀﾉﾊ,22,能信任薰這件事,人工定稿,P7 校对修正
+21,0x19c,dialogue,narrative,大ｷﾅ収穫ﾄ言ｯﾃﾓ良ｲだﾛｳ｡,22,説是大收穫也不為過。,人工定稿,
+22,0x1b4,dialogue,narrative,調査_薫_調査済,14,調査_薰_調査濟,人工定稿,
+23,0x1c4,system,system,2050,4,,未翻,
+24,0x1c9,dialogue,narrative,_ka｢ｱｰ､ｺﾚ､前ﾆﾓ見ﾀﾅ｣,19,_ka｢哦，這之前看過｣,人工定稿,P7 校对修正
+25,0x1dd,dialogue,narrative,ﾊｱﾘﾅぜ二回ﾓ選ﾝでｼﾏｯﾀﾉだﾛｳ｡,26,為何又選了兩次?,人工定稿,
+26,0x1f8,dialogue,narrative,押ｼﾀｸﾅﾙ名前ﾅﾉだﾛｳｶ｡,19,是讓人想按的名字?,人工定稿,
+27,0x20c,dialogue,narrative,……貴重ﾅ調査ﾉ機会ﾆ､,20,……寶貴的調査機會，,人工定稿,P7 词形统一: 貴重→寶貴(日式用词)
+28,0x224,dialogue,narrative,何ｦﾔｯﾃｲﾙﾉだ私ﾊ……｡,19,我到底在幹什麼……,人工定稿,

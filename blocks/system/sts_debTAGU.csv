@@ -1,0 +1,96 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_debTAGU.tob,27,,未翻,
+2,0x1c,system,system,sts_debTAGU.sts,15,,未翻,
+3,0x2c,system,system,tagu_deb_start,14,,未翻,
+4,0x3c,dialogue,command,デバッグスタート,16,,未翻,
+5,0x50,dialogue,command,エンディングテスト,18,,未翻,
+6,0x64,dialogue,command,ボイステスト,12,,未翻,
+7,0x71,system,system,ts,2,,未翻,
+8,0x74,dialogue,narrative,SEテスト,8,SE測試,人工定稿,
+9,0x7d,dialogue,narrative,GU.演出確認,11,GU.演出確認,人工定稿,
+10,0x89,dialogue,narrative,GU.KWテスト,11,GU.KW測試,人工定稿,
+11,0x95,dialogue,narrative,GU.CGフルオープン,17,GU.CG全開放,人工定稿,
+12,0xa8,system,system,0000,4,,未翻,
+13,0xad,dialogue,narrative,ebTﾌﾋｬﾋｬﾋｬﾋｬﾋｬ｡,15,ebT桀桀桀桀桀。,人工定稿,
+14,0xbd,system,system,ts,2,,未翻,
+15,0xc0,dialogue,narrative,今宮一郎ﾄ申ｼﾏｽ｡,15,我叫今宮一郎。,人工定稿,
+16,0xd0,system,system,0671,4,,未翻,
+17,0xd5,system,system,ebT0001,7,,未翻,
+18,0xdd,system,system,ebT0002,7,,未翻,
+19,0xe5,dialogue,narrative,ebTSEテスト??,13,ebTSE測試??,人工定稿,
+20,0xf3,dialogue,narrative,.ﾏだ,4,.未,人工定稿,
+21,0xf8,dialogue,label,KWテスト??,10,KW測試??,人工定稿,
+22,0x103,dialogue,narrative,.殺人ゲームｶ…,14,.殺人遊戲……,人工定稿,
+23,0x112,system,system,s,1,,未翻,
+24,0x114,dialogue,narrative,結婚ｼﾏｽ,7,結婚,人工定稿,
+25,0x11c,dialogue,narrative,ロム1_香菜ｦ信じﾅｲ,17,ROM1_不相信香菜,人工定稿,"P7 校对修正: ロム->ROM(同 kw 块 ROM2), 清假名残留"
+26,0x130,dialogue,narrative,｢ｱ､ｵ二人ｻﾝ……｣,15,｢哦，二位……｣,人工定稿,机翻警告: kana_residue
+27,0x140,dialogue,narrative,｢三上ﾊﾓｳ大丈夫ｶ?｣,17,｢三上已經沒事了?｣,人工定稿,机翻警告: kana_residue
+28,0x154,dialogue,narrative,｢ｱ､ﾊｲ｡ｵｶげ様で……｣,19,｢是，託福……｣,人工定稿,"P7 校对修正: ﾊｲ 补回, 托福->託福(同 r2_t1_3_0_0 定稿同句)"
+29,0x168,dialogue,narrative,｢ｽﾐﾏｾﾝ……度々､ご心配ｦｵｶｹｼﾃ……｣,32,｢抱歉……一再讓各位掛念……｣,人工定稿,机翻警告: kana_residue
+30,0x18c,dialogue,narrative,｢仕方ﾅｲﾜﾖ｡,10,｢沒法呀。,人工定稿,P7 校对修正: 没->沒(全库繁体形)
+31,0x197,dialogue,narrative,.人ﾉ死ﾅﾝﾃ､慣ﾚﾙﾓﾉじｬﾅｲｼ……｣,27,.人的死，沒法習慣……｣,人工定稿,"P7 校对修正: 补回 人(人の死), 此種->這種, 没->沒"
+32,0x1b4,dialogue,narrative,｢……でﾓ､ﾏﾀ減ﾘﾏｼﾀﾈ｣,19,｢……不過又少了呀｣,人工定稿,P7 校对修正: 补回 でﾓ(不過) 连接词
+33,0x1c8,dialogue,narrative,｢ｴ……?｣,8,｢欸?｣,人工定稿,P7 校对修正: ？->? 随原文半角(同 kw_suspect 同句)
+34,0x1d1,dialogue,narrative,GU.｢人が減ﾘﾏｼﾀﾈｯﾃ言ｯﾀﾝでｽﾖ｡,27,GU.｢我説人數減少了呀。,人工定稿,机翻警告: kana_residue
+35,0x1f0,dialogue,narrative,エンディングﾆﾊﾏだ遠ｲﾐﾀｲだｹど｣,29,離結局似乎還很遠……｣,人工定稿,机翻警告: kana_residue
+36,0x210,dialogue,narrative,｢ｵｲ､ｿﾝﾅ言ｲ方ﾅｲだﾛ｡,18,｢沒那種説法呀。,人工定稿,"P7 校对修正: だろ 按 v1.4 卡不用 咯(咯属 だぜ), 没->沒"
+37,0x224,dialogue,narrative,怒ﾙぞ｣,6,怒哇｣,人工定稿,"P7 校对修正: ぞ 按 v1.4 卡/全库定稿 用 哇, 原译 咯 漂移"
+38,0x22b,dialogue,narrative,T｢別ﾆ､怒ﾚば?,12,T｢隨意呀?,人工定稿,P7 校对修正: れば? 问句不用 咯(咯属 だぜ)
+39,0x238,dialogue,narrative,でﾓｺﾚ､ｿｳｲｳルールﾅﾝでｼｮ?｣,24,但這就是那種規則對不?｣,人工定稿,"P7 校对修正: なんでしょ? 求确认句尾按 v1.4 卡用 對不?, 并补回 これ(這)"
+40,0x254,dialogue,narrative,｢ｿﾉルールｦ認ﾒﾙｯﾃｲｳﾉｶ?｣,22,｢是要承認那種規則?｣,人工定稿,机翻警告: kana_residue
+41,0x26c,dialogue,narrative,｢怖ｲ顔ｼﾅｲでｸだｻｲﾖ｡,18,｢別擺可怕表情呀。,人工定稿,
+42,0x280,dialogue,narrative,怖ｲじｬﾅｲでｽｶ｣,13,很可怕呀｣,人工定稿,"P7 校对修正: じゃないか 是加强肯定, 原译 才不可怕 语义反了; 禁 哦"
+43,0x28e,system,system,s,1,,未翻,
+44,0x290,dialogue,narrative,｢ｱﾉ……ﾂﾑじ､ｸﾝ｡,15,｢那個……旋。｣,人工定稿,机翻警告: kana_residue
+45,0x2a0,dialogue,narrative,今ﾊﾐﾝﾅ､ピリピリｼﾃﾙｶﾗ……｣,25,現在大家都很緊張……｣,人工定稿,机翻警告: kana_residue
+46,0x2bc,dialogue,narrative,｢ｱｱ､ｿｳでｽﾈ｡,11,｢哦，是呀。,人工定稿,机翻警告: kana_residue
+47,0x2c8,dialogue,narrative,ｽﾐﾏｾﾝ､発言ﾆﾊ気ｦ付ｹﾏｽ｣,21,抱歉，我會注意發言的｣,人工定稿,机翻警告: kana_residue
+48,0x2e0,dialogue,narrative,｢変ﾅｺﾄ言ｯﾃ､ぼｸﾔﾊﾙｶが狙ﾜﾚﾀﾗ,26,｢説了怪話，我和遙被鎖定,人工定稿,"P7 校对修正: 狙われる=被鎖定(全库), 原译 被襲撃 漂移; 与下行 就麻煩了 连读"
+49,0x2fc,dialogue,narrative,困ﾘﾏｽｶﾗﾈ｣,9,就麻煩了｣,人工定稿,P7 校对修正: 补回 たら(就) 条件承接
+50,0x306,dialogue,narrative,U.｢ｿｺﾉ香菜ｻﾝﾐﾀｲﾆ……｣,21,U.｢就像那個香菜……｣,人工定稿,P7 校对修正: 补回 ｿｺﾉ(那個)
+51,0x31c,dialogue,narrative,｢言ｳﾜﾈ､ｺﾉガキ｣,14,｢難聽，這小鬼｣,人工定稿,P7 校对修正: 补回 ｺﾉ(這)
+52,0x32c,dialogue,narrative,｢ｴ､香菜ｻﾝが……どｳｶ､ｼﾀﾝでｽｶ?｣,29,｢欸，香菜小姐……怎麼了?｣,人工定稿,"P7 校对修正: どうかした=怎麼了, 原译 出状況了 不成句"
+53,0x34c,dialogue,narrative,｢ｻｯｷ､,5,｢剛才,人工定稿,P7 校对修正: ｻｯｷ 译全 剛才
+54,0x352,dialogue,narrative,bT香菜ｻﾝがシリアルキラーﾅﾝじｬﾅｲｶｯﾃ,34,bT説香菜小姐會不會是連環殺手,人工定稿,
+55,0x378,dialogue,narrative,話が出ﾃﾀﾝだ｣,12,提過了｣,人工定稿,
+56,0x385,system,system,ts,2,,未翻,
+57,0x388,dialogue,narrative,｢でﾓ､ｱﾉ時､,10,｢不過那時,人工定稿,
+58,0x393,dialogue,narrative,.ﾂﾑじｸﾝﾊｲﾅｶｯﾀﾊずだｹど……?｣,27,.旋當時應該不在才對……?｣,人工定稿,机翻警告: kana_residue
+59,0x3b0,dialogue,narrative,｢ｱ､皆ｻﾝ同じ考ｴだｯﾀﾝでｽｶ｡,24,｢哦，大家也都這樣想呀。,人工定稿,机翻警告: kana_residue
+60,0x3cc,dialogue,narrative,ﾅﾗぼｸﾉ考ｴﾓ間違ｲでﾊﾅｶｯﾀﾝでｽﾈ｣,28,那我的想法也沒錯了｣,人工定稿,机翻警告: kana_residue
+61,0x3ec,dialogue,narrative,｢香菜ｦ疑ｯﾃﾙｯﾃｺﾄｶ……?｣,22,｢就是懷疑香菜……?｣,人工定稿,P7 校对修正: 懐(日文形)->懷
+62,0x404,dialogue,narrative,｢ｴｴ｡ｿｳ聞ｺｴﾏｾﾝでｼﾀｶ?｣,20,｢是､聽起來不是這樣?｣,人工定稿,"P7 校对修正: ｴｴ=是(非 欸?), 补回 聞こえ(聽起來); 槽宽 20B 用原文半角､"
+63,0x41c,dialogue,narrative,｢……ｵ兄ﾁｬﾝ､ｵ姉ﾁｬﾝﾊｲｲ人だﾖ?｣,28,｢……哥哥、姐姐是好人哦?｣,人工定稿,机翻警告: kana_residue
+64,0x43c,dialogue,narrative,｢ﾊﾙｶ｡どｳｼﾃｿｳ思ｳ?｣,17,｢遙。為何這樣想?｣,人工定稿,机翻警告: kana_residue
+65,0x450,dialogue,narrative,｢ｿﾚﾊ……｣,9,｢那是…｣,人工定稿,"P7 校对修正: 补回 は(那是); 槽宽 9B 放不下 ……, 用单 … (同 kw_lover 定稿)"
+66,0x45a,dialogue,narrative,U.ﾊﾙｶﾁｬﾝが言葉ﾆ詰ﾏﾙﾄ､,21,U.當遙答不上話時，,人工定稿,
+67,0x470,dialogue,narrative,ﾂﾑじｸﾝﾊグルﾘﾄ首ｦｺﾁﾗﾆ向ｹﾀ｡,25,旋把頭轉向了這邊。,人工定稿,
+68,0x48c,dialogue,narrative,｢……ﾊﾙｶﾆ､何ｶ吹ｷ込ﾝだﾝでｽｶ?｣,28,｢……向遙灌輸了何事?｣,人工定稿,机翻警告: kana_residue
+69,0x4ac,dialogue,narrative,｢ｲﾔ､吹ｷ込ﾝだｯﾃｲｳｶ……｣,22,｢不，與其説是灌輸……｣,人工定稿,机翻警告: kana_residue
+70,0x4c4,dialogue,narrative,｢ﾊﾙｶﾊ人見知ﾘｽﾙ子ﾅﾝでｽ｡,22,｢遙是個怕生的孩子。,人工定稿,机翻警告: kana_residue
+71,0x4dc,dialogue,narrative,ｿﾚが､香菜ｻﾝｦ庇ｳﾅﾝﾃ､,19,可是，竟庇護香菜，,人工定稿,P7 校对修正: ｿﾚが=可是(原译 那孩子 误读为 それ が 主格)
+72,0x4f0,dialogue,narrative,何ｶｱｯﾀﾄｼｶ思ｴﾏｾﾝ｣,16,只能認為出了事｣,人工定稿,P7 校对修正: 原译 只能想有事 不成句; 槽宽 16B 省略 是
+73,0x504,dialogue,narrative,ｺﾉ子､俺ﾄ香菜ｦ疑ｯﾃﾙﾉｶ……?,25,這孩子懷疑我和香菜……?,人工定稿,"P7 校对修正: 补回 ｺﾉ(這), 懐->懷"
+74,0x520,dialogue,narrative,ﾊﾙｶﾁｬﾝが香菜ｦ信じﾃﾙﾉﾊ､,22,遙相信香菜，是因為,人工定稿,
+75,0x538,dialogue,narrative,香菜が彼女ﾉ時計ｦ修理ｼﾀｶﾗだ｡,27,香菜修理了遙的時鐘。,人工定稿,
+76,0x554,dialogue,narrative,でﾓｿﾚﾊ､ﾂﾑじｸﾝﾆ貰ｯﾀﾓﾉだｶﾗ,24,但那是旋送的，,人工定稿,
+77,0x570,dialogue,narrative,壊ﾚﾀｺﾄｦ秘密ﾆｼﾃｵｲﾃｸﾚﾄ,20,拜託我保密壞掉的事,人工定稿,
+78,0x588,dialogue,narrative,頼ﾏﾚﾃｲﾀ｡,8,拜託了。,人工定稿,
+79,0x591,dialogue,narrative,GU.ｵｿﾗｸ秘密ﾆｼﾀｲｶﾗｺｿ､,20,GU.恐怕正因想保密，,人工定稿,P7 校对修正: 补回 ｺｿ(正因)
+80,0x5a8,dialogue,narrative,今ﾓ黙ﾘ込ﾝでｼﾏｯﾀﾉだﾛｳ｡,21,現在才會沈默不語。,人工定稿,
+81,0x5c0,dialogue,narrative,ｼｶｼ､今ﾊｿﾝﾅｺﾄ言ｯﾃﾙ場合だﾛｳｶ｡,27,但現在不是説這種事的時候。,人工定稿,P7 校对修正: 此種->這種(大陆词形)
+82,0x5dc,dialogue,narrative,ど､どｳ言ｴばｲｲ……!?,19,該如何説……!?,人工定稿,
+83,0x5f0,dialogue,narrative,次ﾉ投票,7,次投票,人工定稿,
+84,0x5f8,dialogue,narrative,腕輪,4,手環,人工定稿,
+85,0x5fd,dialogue,narrative,ebT西野ﾉ死,10,ebT西野死,人工定稿,P7 校对修正: 补回 漏译的 死
+86,0x608,dialogue,narrative,怪ｼｲ行動,8,可疑行動,人工定稿,
+87,0x611,dialogue,narrative,GU.単独行動,11,GU.單獨行動,人工定稿,
+88,0x61d,dialogue,narrative,GU.容疑者,9,GU.嫌疑人,人工定稿,
+89,0x627,system,system,TX,2,,未翻,
+90,0x62a,dialogue,narrative,s_秘密,6,s_秘密,人工定稿,
+91,0x631,dialogue,narrative,ebT拳銃,7,ebT手槍,人工定稿,
+92,0x639,dialogue,narrative,ebT三角関係,11,ebT三角關係,人工定稿,
+93,0x645,dialogue,narrative,GU.学校,7,GU.學校,人工定稿,
+94,0x64d,dialogue,narrative,ebT恋人,7,ebT戀人,人工定稿,
+95,0x655,dialogue,narrative,ebT兄弟,7,ebT兄弟,人工定稿,

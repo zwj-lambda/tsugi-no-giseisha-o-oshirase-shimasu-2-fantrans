@@ -1,0 +1,27 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_dead.tob,23,,未翻,
+2,0x18,system,system,kw_dead.sts,11,,未翻,
+3,0x24,dialogue,label,ROM2_KW_死亡汎用_昇,19,ROM2_KW_死亡通用_昇,人工定稿,
+4,0x38,dialogue,label,ROM2_KW_死亡汎用_霞,19,ROM2_KW_死亡通用_霞,人工定稿,
+5,0x4c,dialogue,narrative,ロム2_KW_死亡汎用_昇,20,ROM2_KW_死亡通用_昇,人工定稿,
+6,0x64,system,system,0289,4,,未翻,
+7,0x69,dialogue,narrative,ad.｢……悪ｲ､今ﾊﾁｮｯﾄ,19,ad.｢……抱歉，有點,人工定稿,导入警告: kana_residue
+8,0x80,dialogue,narrative,ｿﾝﾅ気分じｬ……ﾅｲﾝだ……｣,24,沒那種心情……｣,人工定稿,导入警告: kana_residue
+9,0x9c,system,system,1841,4,,未翻,
+10,0xa1,dialogue,narrative,ad.｢ｱ､ｱｱ｡ｽﾏﾅｲ｣,14,ad.｢哦，抱歉｣,人工定稿,导入警告: kana_residue
+11,0xb0,dialogue,narrative,彼ﾊ大事ﾅ人ｦ失ｯﾃｲﾙ｡,18,他失去了重要的人。,人工定稿,
+12,0xc4,dialogue,narrative,話題ﾆﾊ気ｦ付ｹﾅｲﾄﾅ｡,17,得注意話題。,人工定稿,
+13,0xd8,dialogue,narrative,ロム2_KW_死亡汎用_霞,20,ROM2_KW_死亡通用_霞,人工定稿,
+14,0xf0,system,system,0161,4,,未翻,
+15,0xf5,dialogue,narrative,ad.｢ｴｯﾄ……ｱﾉ……,17,ad.｢這個……那個,人工定稿,导入警告: kana_residue
+16,0x108,dialogue,narrative,ｳｯ……ぐｽｯ……｣,15,嗚……抽噎……｣,人工定稿,导入警告: kana_residue
+17,0x118,system,system,1842,4,,未翻,
+18,0x11d,dialogue,narrative,ad.｢ど､どｳｼﾀ?｣,14,ad.｢怎麼了?｣,人工定稿,导入警告: kana_residue
+19,0x12c,system,system,0162,4,,未翻,
+20,0x131,dialogue,narrative,ad.｢ごﾒﾝﾅｻｲ､圭ｸﾝﾉｺﾄ……,23,ad.｢對不起，圭的事……,人工定稿,导入警告: kana_residue
+21,0x14c,dialogue,narrative,思ｲ出ｼﾃ……｣,12,想起來……｣,人工定稿,导入警告: kana_residue
+22,0x15c,system,system,1843,4,,未翻,
+23,0x161,dialogue,narrative,ad.｢ｽ､ｽﾏﾅｲ｡,11,ad.｢抱歉。,人工定稿,导入警告: kana_residue
+24,0x16d,system,system,ts,2,,未翻,
+25,0x170,dialogue,narrative,他ﾉ話題ﾆｼﾖｳ｣,12,換別的話題｣,人工定稿,导入警告: kana_residue
+26,0x180,dialogue,narrative,彼女ﾊ大事ﾅ人ｦ失ｯﾃｲﾙ｡,20,少女失去了重要的人。,人工定稿,"P7 校对修正: 女子为日式残留(日文 女子=她), 改 少女 保留女性指代; 与 seq11(彼→他)成对"

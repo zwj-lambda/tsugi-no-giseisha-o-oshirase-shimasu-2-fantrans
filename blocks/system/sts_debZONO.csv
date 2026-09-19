@@ -1,0 +1,273 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_debZONO.tob,27,,未翻,
+2,0x1c,system,system,sts_debZONO.sts,15,,未翻,
+3,0x2c,system,system,zono_deb_start,14,,未翻,
+4,0x3c,dialogue,command,ゾノデバッグスタート,20,,未翻,
+5,0x54,dialogue,narrative,テストメニュー1,15,測試菜單1,人工定稿,
+6,0x64,dialogue,narrative,テストメニュー2,15,測試菜單2,人工定稿,
+7,0x74,dialogue,narrative,テストメニュー3,15,測試菜單3,人工定稿,
+8,0x84,dialogue,narrative,テストメニュー4,15,測試菜單4,人工定稿,
+9,0x94,dialogue,narrative,BUテスト,8,BU測試,人工定稿,
+10,0x9d,dialogue,narrative,NO.選択肢テスト,15,NO.選項測試,人工定稿,
+11,0xad,system,system,ts,2,,未翻,
+12,0xb0,dialogue,label,KWテスト,8,KW測試,人工定稿,
+13,0xb9,dialogue,narrative,NO.BUベタテスト,15,NO.BU基本測試,人工定稿,
+14,0xc9,system,system,ts,2,,未翻,
+15,0xcc,dialogue,narrative,移動テスト,10,移動測試,人工定稿,
+16,0xd7,dialogue,narrative,.アイテムテスト,15,.道具測試,人工定稿,
+17,0xe8,dialogue,narrative,移動人物設定テスト,18,移動人物設定測試,人工定稿,
+18,0xfc,dialogue,narrative,投票アニメテスト,16,投票動畫測試,人工定稿,
+19,0x110,dialogue,narrative,未実装,6,未實裝,人工定稿,P7 校对修正: 装->裝(日文新字体改繁体形)
+20,0x117,dialogue,narrative,Z樫沢ﾆ従ｳ,9,Z遵從樫澤,人工定稿,
+21,0x121,dialogue,narrative,NO.信用でｷﾅｲ,12,NO.無法信任,人工定稿,
+22,0x12e,dialogue,narrative,O.<switch_err> ﾆ分岐ｼﾃｷﾀ,24,O.<switch_err> 分支到了,人工定稿,"P7 校对修正: 分岐->分支, 对齐 r2_t6_4_1_0 定稿译法"
+23,0x148,dialogue,narrative,ｳざｲ,4,好煩,人工定稿,
+24,0x14d,dialogue,narrative,ebZﾅﾆｲｯﾃﾝﾉ?,11,ebZ説什麼?,人工定稿,P7 校对修正: 补回 言ってん 语义(原译仅 何)
+25,0x159,dialogue,narrative,NO.空気読ﾝで,12,NO.讀空氣,人工定稿,"P7 校对修正: 読->讀(日文新字体), 语序 読空氣->讀空氣"
+26,0x166,dialogue,narrative,O.ｳﾋｬｰ!,7,O.嗚呀!,人工定稿,P7 校对修正: ウヒャー->嗚呀(风格指南)
+27,0x16e,dialogue,narrative,bZｳﾋｬｰ?,7,bZ嗚呀?,人工定稿,P7 校对修正: 补 呀 与原文问号
+28,0x176,dialogue,narrative,bZｳﾋｬｰ!?,8,bZ嗚呀!?,人工定稿,P7 校对修正: 补 呀 与原文问号
+29,0x17f,dialogue,narrative,Zｳﾋｬﾋｬﾋｬｰ!?,11,Z嗚桀桀桀!?,人工定稿,P7 校对修正: ウヒャヒャヒャー 笑声按 ヒャ->桀 转写
+30,0x18b,dialogue,narrative,.ﾝ!,3,.唔,人工定稿,"P7 校对修正: ん->唔(全库定稿统一, 原译嗚为误)"
+31,0x18f,dialogue,narrative,_ﾝﾝ?,4,_唔?,人工定稿,"P7 校对修正: ん->唔, 补原文问号"
+32,0x194,dialogue,narrative,ﾝﾝﾝw,4,唔w,人工定稿,P7 校对修正: ん->唔
+33,0x199,dialogue,narrative,ebZﾝﾝﾝﾝ＞＜,11,ebZ唔唔＞＜,人工定稿,"P7 校对修正: ん->唔, 补回漏译的＞＜"
+34,0x1a5,dialogue,narrative,NO.ﾝﾝﾝﾝﾝ^^,10,NO.唔唔^^,人工定稿,"P7 校对修正: ん->唔, 补回漏译的^^"
+35,0x1b0,dialogue,narrative,35歳,4,35歳,人工定稿,
+36,0x1b5,dialogue,narrative,ebZ18歳,7,ebZ18歳,人工定稿,
+37,0x1bd,dialogue,narrative,ebZ43歳,7,ebZ43歳,人工定稿,
+38,0x1c5,dialogue,narrative,ebZ彼氏ｲﾅｲでｼｮ?,15,ebZ沒男友對不?,人工定稿,"P7 校对修正: でしょ? 求确认句尾, 按 v1.4 卡禁 對哦"
+39,0x1d5,system,system,ts,2,,未翻,
+40,0x1d8,dialogue,narrative,ﾓﾃﾅｲでｼｮ?,9,沒人氣?,人工定稿,
+41,0x1e2,dialogue,narrative,O.ジャックｻﾝﾄﾊどｳｲｳ関係?,24,O.和傑克先生是什麼關係?,人工定稿,
+42,0x1fc,dialogue,narrative,パートナーﾅｼ,12,沒有同伴,人工定稿,
+43,0x209,system,system,ts,2,,未翻,
+44,0x20c,dialogue,narrative,パートナーｱﾘ,12,有同伴,人工定稿,
+45,0x219,system,system,ts,2,,未翻,
+46,0x21c,dialogue,narrative,所在不明,8,下落不明,人工定稿,
+47,0x225,dialogue,narrative,NO.除外テスト,13,NO.排除測試,人工定稿,
+48,0x233,dialogue,narrative,.移動用変数初期化テスト,23,.移動用變量初始化測試,人工定稿,"P7 校对修正: 變數->變量(大陆词形, 同 sts_cmn)"
+49,0x24c,dialogue,command,パートナーテスト,16,,未翻,
+50,0x25d,dialogue,narrative,eス所在不明テスト,17,eス下落不明測試,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+51,0x270,dialogue,narrative,香菜､圭介､ジャック,18,香菜、圭介、傑克,人工定稿,
+52,0x284,dialogue,narrative,楓､ﾂﾑじ､ﾊﾙｶ,11,楓、旋、遙,人工定稿,
+53,0x290,dialogue,narrative,霞､唯柚､樫沢,12,霞､唯柚､樫澤,人工定稿,"P7 校对修正: 槽宽仅 12B, 用原文半角､补回第三个分隔符"
+54,0x29d,system,system,ts,2,,未翻,
+55,0x2a0,dialogue,narrative,西野､薫､美紀,12,西野､薰､美紀,人工定稿,"P7 校对修正: 槽宽仅 12B, 用原文半角､补回第三个分隔符"
+56,0x2ad,system,system,ts,2,,未翻,
+57,0x2b0,dialogue,narrative,紅春､昇,7,紅春､昇,人工定稿,"P7 校对修正: 槽宽仅 7B, 用原文半角､补回分隔符"
+58,0x2b8,dialogue,command,リセット,8,,未翻,
+59,0x2c1,dialogue,narrative,NO.キーワード分岐テスト,23,NO.關鍵詞分支測試,人工定稿,
+60,0x2dc,dialogue,label,KWテスト??,10,KW測試??,人工定稿,
+61,0x2e7,dialogue,narrative,.殺人ゲームｶ…,14,.殺人遊戲呀…,人工定稿,
+62,0x2f6,system,system,s,1,,未翻,
+63,0x2f8,dialogue,narrative,選択肢テスト2_開始,18,選項測試2_開始,人工定稿,
+64,0x30c,dialogue,narrative,ﾐﾅｻﾝ､全員､僕ﾆ投票ｼﾃｸだｻｲ,24,各位、全員、請投票給我,人工定稿,
+65,0x328,dialogue,narrative,選択肢テスト2_1,15,選項測試2_1,人工定稿,
+66,0x338,dialogue,narrative,ご協力ｱﾘがﾄｳござｲﾏｽ｡,20,感謝各位的協助。,人工定稿,
+67,0x350,dialogue,narrative,選択肢テスト2_2,15,選項測試2_2,人工定稿,
+68,0x360,dialogue,narrative,…ﾏｧｲｲでｼｮｳ｡,12,…嘛，算了。,人工定稿,P7 校对修正: 顿号误用改逗号
+69,0x36d,system,system,ts,2,,未翻,
+70,0x370,dialogue,narrative,選択肢テスト3_開始,18,選項測試3_開始,人工定稿,
+71,0x384,dialogue,narrative,ｱｩｩ……ぐｽｯ……ｵ花ｧ……,23,嗚嗚……嗚咽……小花…,人工定稿,
+72,0x39c,dialogue,narrative,選択肢テスト3_1,15,選項測試3_1,人工定稿,
+73,0x3ac,dialogue,narrative,でｽﾖﾈ…,7,對哦…,人工定稿,
+74,0x3b4,dialogue,narrative,選択肢テスト3_2,15,選項測試3_2,人工定稿,
+75,0x3c4,dialogue,narrative,でｽﾖﾈ……,9,對哦……,人工定稿,
+76,0x3ce,dialogue,narrative,O.選択肢テスト3_3,17,O.選項測試3_3,人工定稿,
+77,0x3e0,dialogue,narrative,でｽﾖﾈ………,11,對哦………,人工定稿,
+78,0x3ec,dialogue,narrative,選択肢テスト4_開始,18,選項測試4_開始,人工定稿,
+79,0x400,dialogue,narrative,選択肢テスト4_1,15,選項測試4_1,人工定稿,
+80,0x410,dialogue,narrative,マネｼﾅｲでｸだｻｲ,14,請不要學我,人工定稿,
+81,0x420,dialogue,narrative,選択肢テスト4_2,15,選項測試4_2,人工定稿,
+82,0x430,dialogue,narrative,ｳﾋｬｰでｽﾖ,8,嗚呀哦,人工定稿,P7 校对修正: 去掉原文没有的感叹号
+83,0x439,dialogue,narrative,NO.選択肢テスト4_3,18,NO.選項測試4_3,人工定稿,
+84,0x44c,dialogue,narrative,何驚ｲﾃﾙﾝでｽｶ,12,在吃驚什麼?,人工定稿,
+85,0x459,system,system,ts,2,,未翻,
+86,0x45c,dialogue,narrative,選択肢テスト4_4,15,選項測試4_4,人工定稿,
+87,0x46c,dialogue,narrative,ﾌざｹﾅｲでｸだｻｲ,13,請不要開玩笑,人工定稿,
+88,0x47a,system,system,s,1,,未翻,
+89,0x47c,dialogue,narrative,選択肢テスト5_開始,18,選項測試5_開始,人工定稿,
+90,0x490,dialogue,narrative,ﾝ､何だﾈ?,8,唔、什麼,人工定稿,"P7 校对修正: ん->唔; 何->什麼(槽宽不足, 省略问号)"
+91,0x499,dialogue,narrative,NO.何ｶ用ｶﾈ?,11,NO.什麼事?,人工定稿,P7 校对修正: 补回 用(何か用かね)
+92,0x4a5,dialogue,narrative,NO.選択肢テスト5_1,18,NO.選項測試5_1,人工定稿,
+93,0x4b8,dialogue,narrative,ﾝ,1,n,人工定稿,
+94,0x4ba,dialogue,narrative,s_選択肢テスト5_2,17,s_選項測試5_2,人工定稿,
+95,0x4cc,dialogue,narrative,ﾝﾝ,2,唔,人工定稿,P7 校对修正: ん->唔
+96,0x4cf,dialogue,narrative,_選択肢テスト5_3,16,_選項測試5_3,人工定稿,
+97,0x4e0,dialogue,narrative,ﾝﾝﾝ,3,唔,人工定稿,P7 校对修正: ん->唔
+98,0x4e4,dialogue,narrative,選択肢テスト5_4,15,選項測試5_4,人工定稿,
+99,0x4f4,dialogue,narrative,ﾝﾝﾝﾝ,4,唔唔,人工定稿,P7 校对修正: ん->唔
+100,0x4f9,dialogue,narrative,ebZ選択肢テスト5_5,18,ebZ選項測試5_5,人工定稿,
+101,0x50c,dialogue,narrative,ﾝﾝﾝﾝﾝ,5,唔唔,人工定稿,P7 校对修正: ん->唔
+102,0x512,dialogue,narrative,bZ選択肢テスト6_開始,20,bZ選項測試6_開始,人工定稿,
+103,0x528,dialogue,narrative,ｲｸﾂﾆ見ｴﾙ?,9,像幾歳?,人工定稿,
+104,0x532,dialogue,narrative,O.選択肢テスト6_1,17,O.選項測試6_1,人工定稿,
+105,0x544,dialogue,narrative,ﾋどｲ…,6,過分…,人工定稿,
+106,0x54b,dialogue,narrative,Z選択肢テスト6_2,16,Z選項測試6_2,人工定稿,
+107,0x55c,dialogue,narrative,ｿﾝﾅﾆ若ｸ見ｴﾏｽｶ?,14,有那麼年輕?,人工定稿,P7 校对修正: 若い->年輕(原译 嫩 词义漂移)
+108,0x56c,dialogue,narrative,選択肢テスト6_3,15,選項測試6_3,人工定稿,
+109,0x57c,dialogue,narrative,……逮捕ｼﾏｽ｡,12,……逮捕。,人工定稿,
+110,0x589,system,system,ts,2,,未翻,
+111,0x58c,dialogue,narrative,選択肢テスト6_4,15,選項測試6_4,人工定稿,
+112,0x59c,dialogue,narrative,ﾎｯﾄｲﾃｸだｻｲ,10,請別管我,人工定稿,
+113,0x5a7,dialogue,narrative,.選択肢テスト6_5,16,.選項測試6_5,人工定稿,
+114,0x5b8,dialogue,narrative,ｼ､失礼でｽﾈ…,12,失、失禮了…,人工定稿,
+115,0x5c5,system,system,ts,2,,未翻,
+116,0x5c8,dialogue,narrative,選択肢テスト6_6,15,選項測試6_6,人工定稿,
+117,0x5d8,dialogue,narrative,追ｳﾓﾉﾄ追ﾜﾚﾙﾓﾉ…,15,追者與被追者…,人工定稿,"P7 校对修正: 补回 者, 保持 者/者 并列"
+118,0x5e8,dialogue,narrative,でｽｶﾈ…,7,是哦…,人工定稿,
+119,0x5f0,dialogue,narrative,ﾝ､出ﾄﾙﾉｶﾈ???,12,唔、出了??,人工定稿,P7 校对修正: ん->唔
+120,0x5fd,system,system,ts,2,,未翻,
+121,0x600,dialogue,narrative,ｳﾋｬｰ!!!,7,嗚呀!!,人工定稿,P7 终轮统一: 双感叹号恢复
+122,0x608,dialogue,narrative,ｳﾋｬｰ!!!!,8,嗚呀!!,人工定稿,
+123,0x611,dialogue,narrative,NO.ﾌﾋｬﾋｬﾋｬﾋｬ!!!,15,NO.桀桀桀桀!!!,人工定稿,
+124,0x621,system,system,ts,2,,未翻,
+125,0x624,dialogue,narrative,ﾌﾋｬﾋｬﾋｬﾋｬ!!!!,13,桀桀桀桀!!!!,人工定稿,
+126,0x632,system,system,s,1,,未翻,
+127,0x634,dialogue,narrative,ﾌﾋｬﾋｬﾋｬﾋｬ!!!!!,14,桀桀桀桀!!!!!,人工定稿,
+128,0x644,dialogue,narrative,出ﾃﾙ???,7,出了?,人工定稿,
+129,0x64c,dialogue,narrative,出ﾃﾙ!?,6,出!?,人工定稿,
+130,0x653,dialogue,narrative,Z出ﾃﾙﾉ!?,8,Z出!?,人工定稿,
+131,0x65c,dialogue,narrative,出ﾃﾙﾉﾈ…,8,出了哦…,人工定稿,
+132,0x665,dialogue,narrative,NO.ﾓｳｲｲﾜﾖ…,11,NO.行了,人工定稿,
+133,0x671,dialogue,narrative,NO.どｳｾ私ﾅﾝｶ…,14,NO.反正我……,人工定稿,终轮省略号统一: 单…→…… x1
+134,0x680,dialogue,narrative,ｺｺﾊ…?,6,這…?,人工定稿,
+135,0x687,dialogue,narrative,Zどｺ…?,7,Z何處?,人工定稿,"P7 校对修正: どこ=哪里, 原译 何 语义错"
+136,0x68f,dialogue,narrative,Z私ﾊ…,6,Z我…,人工定稿,
+137,0x696,dialogue,narrative,bZ…,4,bZ…,人工定稿,
+138,0x69b,dialogue,narrative,_本日ﾊｵ集ﾏﾘｲﾀだｷ､ｱﾘがﾄｳござｲﾏｽ｡,31,_今天各位能聚集在此，非常感謝。,人工定稿,
+139,0x6bc,dialogue,narrative,今日ﾊﾐﾅｻﾝﾆ殺ｼ合ｲｦｼﾃｲﾀだｷﾏｽ｡,27,今天請各位互相殘殺。,人工定稿,
+140,0x6d8,dialogue,narrative,ｴｴ､ｿﾝﾅ…,8,欸、怎…,人工定稿,
+141,0x6e1,dialogue,narrative,NO.ｵ花ｵ花ｵ花!!!,15,NO.小花小花小花,人工定稿,P7 校对修正: 补回第三次反复(!!! 让位)
+142,0x6f1,system,system,ts,2,,未翻,
+143,0x6f4,dialogue,narrative,ﾋどｲ有様だ…,12,真是難看……,人工定稿,终轮省略号统一: 单…→…… x1
+144,0x701,system,system,ts,2,,未翻,
+145,0x704,dialogue,narrative,ﾂﾑじﾄ～,7,旋和～,人工定稿,"P7 校对修正: 和旋->旋和(中文语序, 与下行 遙的 连读)"
+146,0x70c,dialogue,narrative,ﾊﾙｶﾉ～,6,遙的～,人工定稿,
+147,0x713,dialogue,narrative,Z鉄人兵団!,10,Z鐵人兵團!,人工定稿,
+148,0x71e,dialogue,narrative,O.変ﾜﾙ～,8,O.變化～,人工定稿,
+149,0x727,dialogue,narrative,Z変～ﾜ～ﾙ～ﾖ～,14,Z變～化～咯～,人工定稿,
+150,0x736,system,system,s,1,,未翻,
+151,0x738,dialogue,narrative,立ﾁ絵～が変ﾜﾙ～,15,立繪～會變化～,人工定稿,
+152,0x748,dialogue,narrative,ﾖﾛ～ｺび～,9,喜～悅～,人工定稿,
+153,0x752,dialogue,narrative,O.ｶﾅｼﾐ～,8,O.悲傷～,人工定稿,
+154,0x75b,dialogue,narrative,Zﾌﾌﾌﾌﾌ～～ﾌ～,13,Z呵呵～～呵,人工定稿,
+155,0x769,system,system,ts,2,,未翻,
+156,0x76c,dialogue,narrative,終ﾜﾘ,4,結束,人工定稿,
+157,0x771,dialogue,narrative,ebZ移動テスト_昇_導入,21,ebZ移動測試_昇_導入,人工定稿,
+158,0x788,dialogue,narrative,ﾅﾆ?,3,何?,人工定稿,P7 校对修正: 补原文问号(槽宽 3B 仅容 何?)
+159,0x78c,dialogue,narrative,移動テスト_昇_終ﾜﾘ,18,移動測試_昇_結束,人工定稿,
+160,0x7a0,dialogue,narrative,終ﾜﾘ?,5,結束?,人工定稿,
+161,0x7a6,dialogue,narrative,bZ移動テスト_香菜_導入,22,bZ移動測試_香菜_導入,人工定稿,
+162,0x7c0,dialogue,narrative,移動テスト_香菜_終ﾜﾘ,20,移動測試_香菜_結束,人工定稿,
+163,0x7d8,dialogue,narrative,移動テスト_楓_導入,18,移動測試_楓_導入,人工定稿,
+164,0x7eb,dialogue,narrative,ﾘ移動テスト_楓_終ﾜﾘ,19,ﾘ移動測試_楓_結束,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+165,0x800,dialogue,narrative,移動テスト_美紀_導入,20,移動測試_美紀_導入,人工定稿,
+166,0x818,dialogue,narrative,移動テスト_美紀_終ﾜﾘ,20,移動測試_美紀_結束,人工定稿,
+167,0x830,dialogue,narrative,移動テスト_圭介_導入,20,移動測試_圭介_導入,人工定稿,
+168,0x848,dialogue,narrative,移動テスト_圭介_終ﾜﾘ,20,移動測試_圭介_結束,人工定稿,
+169,0x860,dialogue,narrative,移動テスト_霞_導入,18,移動測試_霞_導入,人工定稿,
+170,0x873,dialogue,narrative,ﾘ移動テスト_霞_終ﾜﾘ,19,ﾘ移動測試_霞_結束,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+171,0x888,dialogue,narrative,移動テスト_紅春_導入,20,移動測試_紅春_導入,人工定稿,
+172,0x8a0,dialogue,narrative,移動テスト_紅春_終ﾜﾘ,20,移動測試_紅春_結束,人工定稿,
+173,0x8b8,dialogue,narrative,移動テスト_唯柚_導入,20,移動測試_唯柚_導入,人工定稿,
+174,0x8d0,dialogue,narrative,移動テスト_唯柚_終ﾜﾘ,20,移動測試_唯柚_結束,人工定稿,
+175,0x8e8,dialogue,narrative,移動テスト_ﾂﾑじ_導入,20,移動測試_旋_導入,人工定稿,
+176,0x900,dialogue,narrative,移動テスト_ﾂﾑじ_終ﾜﾘ,20,移動測試_旋_結束,人工定稿,
+177,0x918,dialogue,narrative,移動テスト_ﾊﾙｶ_導入,19,移動測試_遙_導入,人工定稿,
+178,0x92c,dialogue,narrative,移動テスト_ﾊﾙｶ_終ﾜﾘ,19,移動測試_遙_結束,人工定稿,
+179,0x940,dialogue,narrative,移動テスト_樫沢_導入,20,移動測試_樫澤_導入,人工定稿,
+180,0x958,dialogue,narrative,移動テスト_樫沢_終ﾜﾘ,20,移動測試_樫澤_結束,人工定稿,
+181,0x970,dialogue,narrative,移動テスト_薫_導入,18,移動測試_薰_導入,人工定稿,
+182,0x983,dialogue,narrative,ﾘ移動テスト_薫_終ﾜﾘ,19,ﾘ移動測試_薰_結束,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+183,0x998,dialogue,narrative,移動テスト_ジャック_導入,24,移動測試_傑克_導入,人工定稿,
+184,0x9b4,dialogue,narrative,移動テスト_ジャック_終ﾜﾘ,24,移動測試_傑克_結束,人工定稿,
+185,0x9d0,dialogue,narrative,移動テスト_西野_導入,20,移動測試_西野_導入,人工定稿,
+186,0x9e5,dialogue,narrative,Iﾜﾘ移動テスト_西野_終ﾜﾘ,23,Iﾜﾘ移動測試_西野_結束,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+187,0xa00,dialogue,label,KWテスト_殺人ゲーム,19,KW測試_殺人遊戲,人工定稿,"P7 校对修正: テスト->測試(清假名残留, 同 sts_debIWAI)"
+188,0xa14,dialogue,narrative,殺人ゲーム,10,殺人遊戲,人工定稿,
+189,0xa1f,dialogue,narrative,.KWテスト_笹木美紀,18,.KW測試_笹木美紀,人工定稿,P7 校对修正: テスト->測試
+190,0xa34,dialogue,label,KWテスト_ジャミング,19,KW測試_干擾,人工定稿,P7 校对修正: テスト->測試
+191,0xa48,dialogue,command,ジャミング,10,,未翻,
+192,0xa53,dialogue,narrative,.KWテスト_書庫,14,.KW測試_書庫,人工定稿,P7 校对修正: テスト->測試
+193,0xa62,system,system,s,1,,未翻,
+194,0xa64,dialogue,narrative,本がｲｯぱｲ,9,書本好多,人工定稿,
+195,0xa6e,dialogue,narrative,O.KWテスト_バイト,17,O.KW測試_打工,人工定稿,P7 校对修正: テスト->測試
+196,0xa80,dialogue,narrative,王将でバイトｼﾃﾏｼﾀ,17,在王將打過工,人工定稿,
+197,0xa94,dialogue,label,KWテスト_カテゴリ_ゲーム,24,KW測試_類別_遊戲,人工定稿,"P7 校对修正: テスト->測試, カテゴリ->類別(kw_ct 定稿)"
+198,0xab0,dialogue,command,カテゴリ,8,,未翻,
+199,0xab9,dialogue,narrative,NO.ゲーム,9,NO.遊戲,人工定稿,
+200,0xac3,dialogue,narrative,ZKWテスト_カテゴリ_話題,23,ZKW測試_類別_話題,人工定稿,"P7 校对修正: テスト->測試, カテゴリ->類別"
+201,0xadc,dialogue,narrative,話題,4,話題,人工定稿,
+202,0xae1,dialogue,narrative,ebZKWテスト_カテゴリ_場所,25,ebZKW測試_類別_場所,人工定稿,"P7 校对修正: テスト->測試, カテゴリ->類別"
+203,0xafc,dialogue,narrative,場所,4,場所,人工定稿,
+204,0xb01,dialogue,narrative,ebZKWテスト_カテゴリ_人物,25,ebZKW測試_類別_人物,人工定稿,"P7 校对修正: テスト->測試, カテゴリ->類別"
+205,0xb1c,dialogue,narrative,人物,4,人物,人工定稿,
+206,0xb21,dialogue,narrative,ebZKWテスト_カテゴリ_ｿﾉ他,25,ebZKW測試_類別_其他,人工定稿,"P7 校对修正: テスト->測試, カテゴリ->類別"
+207,0xb3c,dialogue,narrative,ｿﾉ他,4,其他,人工定稿,
+208,0xb41,dialogue,narrative,ebZKWテスト_ｿﾉ他,16,ebZKW測試_其他,人工定稿,P7 校对修正: テスト->測試
+209,0xb52,system,system,s,1,,未翻,
+210,0xb54,dialogue,label,KWテスト_キャンセル,19,KW測試_取消,人工定稿,P7 校对修正: テスト->測試
+211,0xb68,dialogue,narrative,キャンセルｻﾚﾏｼﾀﾈ｡,17,取消了呀。,人工定稿,
+212,0xb7a,binary,system,�,-1,,未翻,
+213,0xb7c,dialogue,narrative,ｵﾅｶｽｲﾀ…,8,好餓……,人工定稿,终轮省略号统一: 单…→…… x1
+214,0xb85,dialogue,narrative,NO.ｱ､クッキー,13,NO.哦，曲奇,人工定稿,
+215,0xb93,dialogue,narrative,.眠ｲ…,6,.困…,人工定稿,
+216,0xb9a,dialogue,narrative,bZ気分リフレッシュ!,19,bZ心情變好了!,人工定稿,
+217,0xbb0,dialogue,narrative,ｵ花ﾅｸｼﾁｬｯﾀ…,12,花弄掉了……,人工定稿,终轮省略号统一: 单…→…… x1
+218,0xbbd,system,system,ts,2,,未翻,
+219,0xbc0,dialogue,narrative,ｱﾘがﾄｳ…,8,謝謝……,人工定稿,终轮省略号统一: 单…→…… x1
+220,0xbc9,dialogue,narrative,NO.火遊びがｼﾀｲ年頃ﾅﾉ,20,NO.想玩火的年紀呀,人工定稿,
+221,0xbe0,dialogue,narrative,ヒャッハー!,11,哇哈!,人工定稿,
+222,0xbec,dialogue,narrative,汚物ﾊ消毒だｰ!!,14,汚物該消毒!!,人工定稿,
+223,0xbfc,dialogue,narrative,電話貸ｼﾃｸだｻｲ｡,14,請借我電話。,人工定稿,P7 校对修正: 删去 ください 误拆出的 下
+224,0xc0c,dialogue,narrative,ﾓｼﾓｼ,4,在嘛,人工定稿,
+225,0xc11,dialogue,narrative,ebZｵ金ﾎｼｲﾖｳ…,13,ebZ想要錢呀…,人工定稿,
+226,0xc1f,dialogue,narrative,.ﾏ､二束三文ﾆﾊﾅﾙｶ…,18,.嘛，能換幾個錢…,人工定稿,
+227,0xc34,dialogue,narrative,今何時?,7,幾點?,人工定稿,
+228,0xc3c,dialogue,narrative,ﾌｰﾝ,3,哦,人工定稿,
+229,0xc40,dialogue,narrative,ｱｰ､腹減ｯﾀﾅｧ…,13,肚子餓了呀…,人工定稿,
+230,0xc4e,system,system,s,1,,未翻,
+231,0xc50,dialogue,narrative,ﾀﾘﾈｴﾖ,5,缺呀,人工定稿,
+232,0xc56,dialogue,narrative,bZﾓｳﾒﾝどｸｻｲ･･･,14,bZ真麻煩……,人工定稿,P7 校对修正: ･･･->……(清假名残留)
+233,0xc65,system,system,ts,2,,未翻,
+234,0xc68,dialogue,narrative,以上｡,5,以上,人工定稿,
+235,0xc6e,dialogue,narrative,bZ全員聞ｲﾀテスト,16,bZ全員聽到的測試,人工定稿,
+236,0xc80,dialogue,narrative,ﾔｧ､僕西野!,10,我是西野!,人工定稿,"P7 校对修正: 僕西野 为自我介绍, 原译误作呼语"
+237,0xc8b,dialogue,narrative,.汚職議員だﾖ!!,14,.貪腐議員哦!!,人工定稿,P7 校对修正: 补回 だよ 语气(卡片 §3)
+238,0xc9a,system,system,s,1,,未翻,
+239,0xc9c,dialogue,narrative,今日ﾊ投票画面ﾉテストﾆ､,22,今天為了投票畫面測試，,人工定稿,P7 校对修正: 界面->畫面(同块 seq242 一致)
+240,0xcb4,dialogue,narrative,来ﾃｸﾚﾃｱﾘがﾄｳ（^-^）,19,感謝參加（^-^）,人工定稿,
+241,0xcc8,dialogue,narrative,じｬｱ早速ﾊじﾒﾙﾈ!,15,那馬上開始咯!,人工定稿,
+242,0xcd8,dialogue,narrative,投票画面が起動ｼﾀﾖ!,18,投票畫面啓動了哦!,人工定稿,
+243,0xcec,dialogue,narrative,ﾔｯﾀﾈ!!,6,太好了,人工定稿,
+244,0xcf3,dialogue,narrative,Z腕輪ｦ接続ｽﾙﾝだｯﾃ!,18,Z説是要連接手環哦!,人工定稿,
+245,0xd08,dialogue,narrative,ﾍｰ,2,哦,人工定稿,
+246,0xd0b,dialogue,narrative,_役職が出ﾃﾙﾖ!,13,_身份出來哦!,人工定稿,
+247,0xd19,system,system,ts,2,,未翻,
+248,0xd1c,dialogue,narrative,ﾁｬﾝﾄ覚ｴﾃｵｲﾃﾈ!,13,要好好記住哦!,人工定稿,
+249,0xd2a,system,system,s,1,,未翻,
+250,0xd2c,dialogue,narrative,ｺﾉ中ｶﾗ誰ｶｦ選ﾝで投票ｼﾃﾈ!,23,請從中選一個人投票哦!,人工定稿,
+251,0xd44,dialogue,narrative,選ばﾚﾀ人ﾊ死ﾝじｬｳ可能性ﾓｱﾙｶﾗ,27,因為被選中的人也可能死，,人工定稿,
+252,0xd60,dialogue,narrative,慎重ﾆ考ｴﾃﾈ!!,12,慎重考慮哦!!,人工定稿,P7 终轮统一: 双感叹号恢复
+253,0xd6d,system,system,ts,2,,未翻,
+254,0xd70,dialogue,narrative,ｴｴｪｪｪ!!??,9,欸欸!!?,人工定稿,P7 终轮统一: 双感叹号恢复
+255,0xd7a,dialogue,narrative,O.ぼ､ぼｸﾆ死ﾝでﾎｼｲｯﾃｺﾄ!?,23,O.是、是要我死!?,人工定稿,
+256,0xd94,dialogue,narrative,集計中だｶﾗ､ﾁｮｯﾄ待ｯﾃﾈ!,21,統計中，稍微等一下哦!,人工定稿,
+257,0xdac,dialogue,narrative,ｿﾚﾏで僕ﾄｵ話ｼﾖｳﾖ!!,17,在那之前陪我説話!,人工定稿,P7 校对修正: それまで 漏译
+258,0xdc0,dialogue,narrative,探偵ｻﾝが､指名中だﾖ!,19,偵探先生指名中哦!,人工定稿,
+259,0xdd4,dialogue,narrative,指名ｻﾚﾀﾗ､役職がバレチャウﾝだﾖ!,30,一旦被指名，身份就會暴露哦!,人工定稿,
+260,0xdf4,dialogue,narrative,ドキドキｼﾁｬｳﾖﾈ!!,16,心跳加速呀!!,人工定稿,
+261,0xe08,dialogue,narrative,終ﾜｯﾀﾖ!,7,結束了!,人工定稿,P7 校对修正: 补原文感叹号
+262,0xe10,dialogue,narrative,ｵ疲ﾚ様!!,8,辛苦了!!,人工定稿,
+263,0xe19,dialogue,narrative,NO.ﾏﾀ来ﾃﾈ!!,11,NO.再來哦!!,人工定稿,P7 校对修正: 补回 ね 与原文感叹号
+264,0xe25,dialogue,narrative,NO.投票探偵テスト,17,NO.投票偵探測試,人工定稿,
+265,0xe38,dialogue,narrative,ｱ!,2,呀,人工定稿,
+266,0xe3b,dialogue,narrative,_探偵ｻﾝﾉ結果ﾓ見ﾃﾐﾖｳﾖ!,21,_看看偵探先生結果嘛!,人工定稿,
+267,0xe54,dialogue,narrative,ﾂﾑじｸﾝが､シリアルキラーだｯﾀﾉ!?,30,旋竟然是連環殺手!?,人工定稿,
+268,0xe74,dialogue,narrative,ｺﾜｲﾈｰ,5,好怕,人工定稿,
+269,0xe7a,dialogue,narrative,bZｺﾚでホントﾆ終ﾜﾘだﾖ!,21,bZ就此真的結束了哦!,人工定稿,
+270,0xe90,dialogue,narrative,ﾏﾀ遊ﾝでﾈ!,9,再來玩哦!,人工定稿,P7 校对修正: 补原文感叹号
+271,0xe9a,dialogue,narrative,O.ﾝ､チミ､ﾏだ未実装じｬﾅｲｶ｡,25,O.唔，小子，還未實裝呀。,人工定稿,"P7 校对修正: ん->唔(全库统一); じゃないか 无问号属共感陈述, 保留 呀"
+272,0xeb4,dialogue,narrative,早ｸｼﾀﾏｴ,7,快點做,人工定稿,

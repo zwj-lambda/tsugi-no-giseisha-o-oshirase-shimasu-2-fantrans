@@ -1,0 +1,27 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_hid.tob,25,,未翻,
+2,0x1c,system,system,check_hid.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_樫沢,9,調査_樫澤,人工定稿,
+4,0x38,dialogue,label,調査_樫沢_判定,14,調査_樫澤_判定,人工定稿,
+5,0x48,dialogue,label,調査_樫沢_未調査,16,調査_樫澤_未調査,人工定稿,
+6,0x5c,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,P7 终轮统一: 共享句对齐(畫面中映出的參加者姓名。)
+7,0x78,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『樫沢秀明』ﾉ名前ｦ押ｽ｡,31,我從中按下『樫澤秀明』的名字。,人工定稿,"P7 校对修正: 原文私ハ明示, 补回主语我"
+8,0x98,dialogue,narrative,『樫沢秀明でｲｲでｽｶ?』ﾉメッセージ｡,33,『樫澤秀明是否正確?』的信息。,人工定稿,P7 校对修正: 訊息→信息(大陆用词); 确认句口径同 check_koh
+9,0xbc,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按下『確認』，,人工定稿,
+10,0xcc,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現出『調査結果』這幾個字。,人工定稿,
+11,0xf4,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,P7 终轮统一: 共享句形(然後……)
+12,0xfd,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,P7 终轮统一: 共享句形(.st…………)
+13,0x10a,dialogue,narrative,st……｡,7,st……,人工定稿,P7 终轮统一: 共享句形(st……)
+14,0x112,dialogue,narrative,hi『樫沢秀明ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,37,hi『樫澤秀明不是連環殺手』,人工定稿,
+15,0x138,system,system,2045,4,,未翻,
+16,0x13d,dialogue,narrative,_hi｢ｿ､ｿｳｶ｡樫沢氏ﾊ違ｳﾉｶ!｣,24,_hi｢原來如此，不是樫澤!｣,人工定稿,"P7 校对修正: 句末按原文用!, 并补回被略的 樫澤氏"
+17,0x158,dialogue,narrative,ｺﾚﾊｶﾅﾘ安心ｼﾀ｡,13,這下安心了。,人工定稿,
+18,0x168,dialogue,narrative,彼ｦ信頼でｷﾙﾄｲｳｺﾄﾊ,17,能信任他這件事,人工定稿,
+19,0x17c,dialogue,narrative,非常ﾆ大ｷﾅ収穫ﾆ思ｴﾙ｡,19,我覺得是極大收穫。,人工定稿,
+20,0x190,dialogue,narrative,調査_樫沢_調査済,16,調査_樫澤_調査濟,人工定稿,
+21,0x1a4,system,system,2046,4,,未翻,
+22,0x1a9,dialogue,narrative,_hi｢ｱ､ｳﾝ｡知ｯﾃﾙ｣,15,_hi｢哦、我知道｣,人工定稿,导入警告: kana_residue
+23,0x1ba,dialogue,narrative,堰ﾅぜﾏﾀ選ﾝでｼﾏｯﾀﾉだﾛｳｶ｡,23,為何又選中了?,人工定稿,
+24,0x1d4,dialogue,narrative,ﾓｼｶｼﾃ私ﾊ彼ﾉｺﾄが好ｷﾅﾉだﾛｳｶ｡,26,難道我喜歡他?,人工定稿,
+25,0x1f0,dialogue,narrative,……ｲﾔ､ｿﾝﾅﾜｹﾅｲｼ｡,16,……不，不可能。,人工定稿,
+26,0x204,dialogue,narrative,貴重ﾅ調査ﾉ機会ｦ､棒ﾆ振ｯﾃｼﾏｯﾀ……｡,32,寶貴的調査機會，白白浪費了……。,人工定稿,P7 词形统一: 貴重→寶貴(日式用词)

@@ -1,0 +1,206 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/r2_t6_3_0_0.tob,27,,未翻,
+2,0x1c,system,system,r2_t6_3_0_0.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_ターン6_フリー移動イベント,31,ROM2_回合6_自由移動事件,人工定稿,
+4,0x4c,dialogue,label,ROM2_ターン6_フリーイベント判定,31,ROM2_回合6_自由事件判定,人工定稿,
+5,0x6c,dialogue,label,ROM2_ターン6_フリー移動,23,ROM2_回合6_自由移動,人工定稿,
+6,0x84,dialogue,narrative,ロム2_ターン6_フリー移動場所セット,34,ROM2_回合6_自由移動地點設定,人工定稿,
+7,0xa8,dialogue,command,フェードアウト,14,,未翻,
+8,0xb8,dialogue,narrative,ロム2_ターン6_ダミー,20,ROM2_回合6_假資料,人工定稿,P7 校对修正: 与同族自由移动块(回合2/3/4)的 ダミー→假資料 对齐
+9,0xd0,dialogue,narrative,ロム2_昇初回,12,ROM2_昇初回,人工定稿,P7 校对修正: 初回标签与块内 霞初回 及回合2块统一
+10,0xdd,system,system,ts,2,,未翻,
+11,0xe0,dialogue,narrative,周ﾘﾆ誰ﾓｲﾅｲｺﾄｦ確認ｼﾅがﾗ､,23,一邊確認四周沒人，,人工定稿,
+12,0xf8,dialogue,narrative,素早ｸロックｦ解除ｽﾙ｡,19,迅速地解除了鎖定。,人工定稿,
+13,0x10c,system,system,0186,4,,未翻,
+14,0x111,dialogue,narrative,_3_｢……浅川ｻﾝ……?｣,20,_3_｢……淺川……?｣,人工定稿,
+15,0x128,system,system,1099,4,,未翻,
+16,0x12d,dialogue,narrative,_3_｢……森崎氏……｣,19,_3_｢……森崎……｣,人工定稿,
+17,0x144,dialogue,narrative,ｿｺﾆﾊ彼が一人で佇ﾝでｲﾀ｡,22,他一個人站在那裡。,人工定稿,
+18,0x15c,dialogue,narrative,思ﾜず身構ｴﾙが……｡,18,不禁警戒起來……,人工定稿,
+19,0x170,system,system,0187,4,,未翻,
+20,0x175,dialogue,narrative,_3_｢ｻｯｷﾊ……ごﾒﾝ｡笹木ﾓｱﾘがﾄﾅ｣,29,_3_｢剛才抱歉。也謝謝笹木。｣,人工定稿,P7 校对修正: 补回 も(也)
+21,0x194,system,system,0790,4,,未翻,
+22,0x199,dialogue,narrative,_3_｢……ｳﾝ｣,11,_3_｢……是｣,人工定稿,终轮省略号统一: 单…→…… x1
+23,0x1a5,dialogue,narrative,_0.落ﾁ着ｲﾀ様子で､ﾅﾆﾖﾘだ｡,24,_0.看他很冷靜，太好了。,人工定稿,
+24,0x1c0,system,system,0188,4,,未翻,
+25,0x1c5,dialogue,narrative,_3_｢……俺ｻ､誰が死ﾝでﾓ……,26,_3_｢……我，誰死了都……,人工定稿,
+26,0x1e0,dialogue,narrative,俺ﾄ香菜だｹﾊ大丈夫だｯﾃ､,22,至少我和香菜不會有事，,人工定稿,"P7 校对修正: だけは=至少, 原译只有误"
+27,0x1f8,dialogue,narrative,ﾅﾝﾄﾅｸ思ｯﾃﾀ……ﾅﾉﾆ……｣,22,隱約想過……可是……｣,人工定稿,
+28,0x210,system,system,1100,4,,未翻,
+29,0x215,dialogue,narrative,_3_｢森崎氏……｣,15,_3_｢森崎……｣,人工定稿,
+30,0x225,system,system,ts,2,,未翻,
+31,0x228,system,system,0189,4,,未翻,
+32,0x22d,dialogue,narrative,_3_｢ｱﾝﾅ風ﾆ死ﾝだﾉﾆ､何ｶ､現実味がﾅｸﾃ｡,34,_3_｢明明那樣死了，總覺得沒現實感。,人工定稿,P7 终轮统一: 真實感→現實感
+33,0x250,dialogue,narrative,悪ｲ夢だｯﾀﾗどﾝﾅﾆ良ｲだﾛｳｯﾃ……｣,29,要是這是惡夢，該有多好……｣,人工定稿,P7 校对修正
+34,0x270,system,system,0791,4,,未翻,
+35,0x275,dialogue,narrative,_3_｢森崎｡ｱﾝﾀ､香菜ｻﾝﾉｺﾄ……｣,27,_3_｢森崎。關於香菜……｣,人工定稿,机翻警告: quote_unbalanced
+36,0x294,system,system,0190,4,,未翻,
+37,0x299,dialogue,narrative,_3_｢……別ﾚﾃｶﾗﾓ､忘ﾚﾀｺﾄﾊ一度ﾓﾅｲﾝだ｡,34,_3_｢……分開後，一次也沒忘過。,人工定稿,
+38,0x2bc,dialogue,narrative,だｶﾗｺｺで再会ｼﾀ時､正直嬉ｼｶｯﾀｼ､,29,所以在這裡重逢時，我很高興，,人工定稿,
+39,0x2dc,dialogue,narrative,ﾓｼｶｼﾀﾗﾔﾘ直ｾﾙﾝじｬﾅｲｶﾅﾝﾃ……｣,27,想著説不定能重新開始……｣,人工定稿,机翻警告: quote_unbalanced
+40,0x2f8,system,system,0191,4,,未翻,
+41,0x2fd,dialogue,narrative,_3_｢ﾅﾉﾆ､何で上手ｸｲｶﾈｴﾝだﾛｳ……,30,_3_｢可是，為什麼總是不順利……,人工定稿,"P7 校对修正: 补回 何で(為什麼), 原译丢疑问"
+42,0x31c,dialogue,narrative,死ﾇ間際ﾆｼｶ気持ﾁｦ伝ｴﾃﾔﾚﾅｲﾅﾝﾃ……｣,32,居然只能在臨死前傳達心意……｣,人工定稿,
+43,0x340,dialogue,narrative,森崎氏ﾊ真ｯ赤ﾆ目ｦ腫ﾗｼﾀ状態で､,28,森崎哭得兩眼紅腫，,人工定稿,"P7 校对修正: 目を腫らした=紅腫, 语序"
+44,0x360,dialogue,narrative,力ﾅｸ笑ｯﾀ｡,9,無力一笑,人工定稿,
+45,0x36a,system,system,0.1101,6,,未翻,
+46,0x371,dialogue,narrative,_3_｢……力不足でｽﾏﾅｶｯﾀ｣,23,_3_｢……力量不足，抱歉｣,人工定稿,P7 校对修正: 补回 スマナカッタ(抱歉)
+47,0x38c,system,system,0192,4,,未翻,
+48,0x391,dialogue,narrative,_3_｢……浅川ｻﾝﾊ悪ｸﾅｲｯﾃ｣,23,_3_｢……淺川沒有錯。｣,人工定稿,
+49,0x3ac,system,system,1102,4,,未翻,
+50,0x3b1,dialogue,narrative,_3_｢だが……｣,13,_3_｢但是……｣,人工定稿,终轮省略号统一: 单…→…… x1
+51,0x3bf,system,system,.0193,5,,未翻,
+52,0x3c5,dialogue,narrative,_3_｢香菜が言ｯﾃﾀﾝだ｡,19,_3_｢香菜説過的。,人工定稿,P7 校对修正: 言ってた=説過(非提過)
+53,0x3dc,dialogue,narrative,俺ﾖﾘ､浅川ｻﾝﾉ方がずｯﾄ手伝ｯﾃｸﾚﾙｯﾃ｡,32,比起我，淺川幇了更多忙。,人工定稿,"P7 校对修正: ずっと手伝ってくれる=幫了更多忙, 非更願意協助"
+54,0x400,dialogue,narrative,ｱﾝﾀﾓ見習ｯﾃﾁｮｯﾄﾊ役ﾆ立ﾃｯﾃ｣,24,還要我學著，起些作用。｣,人工定稿,
+55,0x41c,system,system,1103,4,,未翻,
+56,0x421,system,system,_3_0194,7,,未翻,
+57,0x429,dialogue,narrative,_3_｢全ｸｿﾉ通ﾘだﾖﾅ……｣,21,_3_｢一點都沒錯呀……｣,人工定稿,P7 校对修正: だよな 共感句尾→呀(v1.4 语气词决策卡)
+58,0x440,system,system,1104,4,,未翻,
+59,0x445,dialogue,narrative,_3_｢……ｱﾏﾘ自虐的ﾆﾅﾙﾅ｡,22,_3_｢……別太自虐了。,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+60,0x45c,dialogue,narrative,君ﾊ彼女ﾉ心ﾉ支ｴﾆﾅｯﾃｲﾀﾉだﾛｳ｡,26,森崎一直是香菜的精神支柱。,人工定稿,
+61,0x478,dialogue,narrative,ｿﾚﾊ君ﾆｼｶでｷﾅｲｺﾄだ｣,18,只有森崎能做到。｣,人工定稿,
+62,0x48c,system,system,0195,4,,未翻,
+63,0x491,dialogue,narrative,_3_｢ｿｳだﾄ嬉ｼｲﾝだｹど……｣,24,_3_｢要是那樣就好了……｣,人工定稿,"P7 校对修正: 补 了, 中文条件句成句"
+64,0x4ac,system,system,0196,4,,未翻,
+65,0x4b1,dialogue,narrative,_3_｢ﾄｺﾛで､浅川ｻﾝ｡,17,_3_｢對了，淺川。,人工定稿,
+66,0x4c4,dialogue,narrative,ｺｺﾆ来ﾀｯﾃｺﾄﾊ､,12,都來這裡了，,人工定稿,P7 校对修正: ここに来たってことは=都來這裡了(原译會來這裡误将来时)
+67,0x4d1,system,system,ts,2,,未翻,
+68,0x4d4,dialogue,narrative,俺ﾆ何ｶ話がｱﾙﾝだﾛ?｣,18,有話要跟我説?｣,人工定稿,机翻警告: quote_unbalanced
+69,0x4e8,system,system,1105,4,,未翻,
+70,0x4ed,dialogue,narrative,_3_｢ｱｱ……ｺﾉゲームﾉ鍵ﾄﾅﾙ人物ﾉｺﾄﾆﾂｲﾃ,35,_3_｢哦……關於這個遊戲的關鍵人物，,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+71,0x514,dialogue,narrative,どｳｼﾃﾓ聞ｷﾀｸﾃﾅ｣,14,實在想問。｣,人工定稿,P7 校对修正: どうしても=實在(原译怎麼都意不明)
+72,0x524,dialogue,narrative,ロム2_甘ｴﾙ唯柚,14,ROM2_撒嬌唯柚,人工定稿,P7 复核修正
+73,0x534,dialogue,narrative,休憩所でﾊ､紅春ｸﾝﾄ唯柚ｸﾝが,25,在休息處，紅春和唯柚,人工定稿,
+74,0x550,dialogue,narrative,会話ｦｼﾃｲﾀ……ﾄｲｳﾖﾘﾊ､,20,正在對話……不如説，,人工定稿,
+75,0x568,dialogue,narrative,唯柚ｸﾝが紅春ｸﾝﾆ甘ｴﾃｲﾙ様子だｯﾀ｡,30,更像是唯柚在向紅春撒嬌。,人工定稿,
+76,0x588,system,system,0107,4,,未翻,
+77,0x58d,dialogue,narrative,_3_｢ｳｪｴｴﾝｯ､紅春ﾁｬｱｱｱﾝｯ!｣,24,_3_｢嗚哇哇，小紅春!｣,人工定稿,
+78,0x5a8,system,system,0084,4,,未翻,
+79,0x5ad,dialogue,narrative,_3_｢怖ｶｯﾀでｽﾈｪ……ﾖｼﾖｼ｡,23,_3_｢嚇壞了呀……乖乖。,人工定稿,P7 校对修正: 怖かった=嚇壞了(非可怕); 去掉多余｣; 補｡; ねぇ→呀
+80,0x5c8,dialogue,narrative,昇ｻﾝ､酷ｲ人でｽﾈｪ｣,16,昇，好過分呀。｣,人工定稿,P7 校对修正: でスねぇ 共感句尾→呀(v1.4 卡); 与上一行同形同译
+81,0x5dc,system,system,0108,4,,未翻,
+82,0x5e1,dialogue,narrative,_3_｢ｳｳﾝ｡昇ｻﾝﾊ､悪ｸﾅｲﾖ……,24,_3_｢不，昇並不壞哦……,人工定稿,
+83,0x5fc,dialogue,narrative,ﾕﾕがﾈ､香菜ｻﾝﾆ投票ｼﾁｬｯﾀｶﾗ……｣,29,是唯柚，給香菜投了票……｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+84,0x61c,system,system,0085,4,,未翻,
+85,0x621,dialogue,narrative,_3_｢ｿｳでｽﾈｪ｡でﾓ､大丈夫でｽﾖｫ｡,28,_3_｢是哦。不過，沒事的哦。,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+86,0x640,dialogue,narrative,唯柚ｻﾝﾊ指名ｼﾀだｹ｡悪ｲﾉﾊ香菜ｻﾝｦ殺ｼﾀ,33,唯柚只是指名。壞的是殺了香菜的,人工定稿,
+87,0x664,dialogue,narrative,『シリアルキラー』ﾅﾉでｽｶﾗ……｣,30,『連環殺手』，所以……｣,人工定稿,"P7 校对修正: 跨行接续 86, 原译因為是断裂"
+88,0x684,system,system,0109,4,,未翻,
+89,0x689,dialogue,narrative,_3_｢ﾎﾝﾄ……?,12,_3_｢真的?,人工定稿,
+90,0x696,dialogue,narrative,0.ｳｩ､ｱﾘがﾄｳ､紅春ﾁｬﾝ……,23,0.嗚，謝謝，小紅春……,人工定稿,
+91,0x6b0,dialogue,narrative,ﾕﾕ､ﾁｮｯﾄだｹ……気が楽ﾆﾅｯﾀﾖ……｣,30,唯柚稍微……安心一點了哦……｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+92,0x6d0,system,system,1106,4,,未翻,
+93,0x6d5,dialogue,narrative,_3_｢…………｣,13,_3_｢……｣,人工定稿,
+94,0x6e3,system,system,.0792,5,,未翻,
+95,0x6e9,dialogue,narrative,_3_｢どｳｼﾀﾝｽｶ､ｵ姉ｻﾏ｣,19,_3_｢姐姐大人怎麼了｣,人工定稿,"P7 校对修正: 补 どうした(怎麼了), 去掉原文没有的?"
+96,0x700,system,system,1107,4,,未翻,
+97,0x705,dialogue,narrative,_3_｢ｲﾔ……｣,11,_3_｢沒事…｣,人工定稿,P7 校对修正: いや 对询问的回应=沒事
+98,0x711,dialogue,narrative,_0.ｿﾉﾄｷ､ﾊﾙｶｸﾝが怒ｯﾀ顔で,23,_0.那時，遙帶著怒氣，,人工定稿,
+99,0x72c,dialogue,narrative,唯柚ｸﾝｦ睨ﾐﾂｹﾀ｡,14,怒視唯柚。,人工定稿,
+100,0x73c,system,system,0028,4,,未翻,
+101,0x741,dialogue,narrative,_3_｢ﾕﾕﾁｬﾝ……だｲｷﾗｲ!｣,21,_3_｢小唯柚…最討厭!｣,人工定稿,P7 校对修正: だいきらい=最討厭
+102,0x758,system,system,0110,4,,未翻,
+103,0x75d,dialogue,narrative,_3_｢……ｴ?｣,11,_3_｢欸?｣,人工定稿,P7 校对修正: 全角？→半角? 随原文
+104,0x769,system,system,_0.0029,7,,未翻,
+105,0x771,dialogue,narrative,_3_｢ぜｯﾀｲ､ﾕﾙｻﾅｲﾓﾝ!,18,_3_｢絶對不原諒嘛!,人工定稿,P7 校对修正: 补回 ぜったい(絶對)
+106,0x784,dialogue,narrative,ｵ兄ﾁｬﾝﾆﾔｯﾂｹﾃﾓﾗｳｶﾗ!!｣,20,我會叫哥哥教訓!!｣,人工定稿,
+107,0x79c,system,system,0044,4,,未翻,
+108,0x7a1,dialogue,narrative,_3_ﾊﾙｶｸﾝﾊぷｲｯﾄｿｯぽｦ向ｲﾃ､,24,_3_遙氣呼呼地轉過頭去，,人工定稿,
+109,0x7bc,dialogue,narrative,唯柚ｸﾝｶﾗ離ﾚﾃｲｸ｡,15,離開唯柚身邊。,人工定稿,
+110,0x7cc,system,system,0111,4,,未翻,
+111,0x7d1,dialogue,narrative,_3_｢…………ﾅ､ﾅﾝﾅﾉｫ……｣,24,_3_｢……什、什麼呀……｣,人工定稿,终轮省略号统一: 单…→…… x1
+112,0x7ec,system,system,0086,4,,未翻,
+113,0x7f1,dialogue,narrative,_3_｢ｴｯﾄ……気ﾆｽﾙｺﾄﾅｲﾄ思ｲﾏｽﾖ?｣,29,_3_｢那個……我想不用在意哦?｣,人工定稿,P7 校对修正: 补回 と思います(我想)
+114,0x810,system,system,0087,4,,未翻,
+115,0x815,dialogue,narrative,_3_｢ｿﾚﾖﾘ､楓ｻﾝﾄ美紀ｻﾝ……,24,_3_｢對了，楓和美紀……,人工定稿,P7 校对修正: それより=對了(换话题)
+116,0x830,dialogue,narrative,ずｯﾄｿｺﾆｲﾏｽｹど､,14,一直待在那裡，,人工定稿,
+117,0x840,dialogue,narrative,私達ﾆ何ｶ御用でｽｶ?｣,18,有事找我們?｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+118,0x854,system,system,0112,4,,未翻,
+119,0x859,dialogue,narrative,_3_｢ﾌｪ?｣,8,_3_｢欸?,人工定稿,
+120,0x862,system,system,3_1108,6,,未翻,
+121,0x869,dialogue,narrative,_3_｢ｱｱ……ｽﾏﾅｲ｡,15,_3_｢哦…抱歉。,人工定稿,
+122,0x879,system,system,ts,2,,未翻,
+123,0x87c,dialogue,narrative,少ｼ聞ｷﾀｲｺﾄがｱｯﾃﾅ……｣,21,有件事想問一下……｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+124,0x894,dialogue,narrative,ロム2_霞初回,12,ROM2_霞初回,人工定稿,
+125,0x8a1,system,system,ts,2,,未翻,
+126,0x8a4,system,system,0079,4,,未翻,
+127,0x8a9,dialogue,narrative,_3_｢ｻｷﾎどﾊ……取ﾘ乱ｼﾃｽﾐﾏｾﾝでｼﾀ｣,31,_3_｢剛才……我失態了，很抱歉。｣,人工定稿,机翻警告: kana_residue
+128,0x8cc,system,system,1109,4,,未翻,
+129,0x8d1,dialogue,narrative,_3_｢……気ﾆｼﾅｸﾃ良ｲ｡,19,_3_｢……不用在意。,人工定稿,机翻警告: kana_residue
+130,0x8e8,dialogue,narrative,ｿﾚﾖﾘﾓ……少ｼﾊ､落ﾁ着ｲﾀｶ?｣,24,比起那個……冷靜些了?｣,人工定稿,P7 校对修正: 全角？→半角? 随原文
+131,0x904,system,system,0080,4,,未翻,
+132,0x909,dialogue,narrative,_3_｢……ﾊｲ｣,11,_3_｢是。｣,人工定稿,
+133,0x915,dialogue,narrative,_0.霞ｸﾝﾊ涙ｦ目ﾆ浮ｶべﾀﾏﾏ､ｿｳ答ｴﾀ｡,30,_0.霞眼中含着涙，那樣答道。,人工定稿,
+134,0x934,dialogue,narrative,薫ｻﾝﾓ見ﾃｲﾃｸﾚﾃｲﾙｼ､,17,薰也在看着，,人工定稿,
+135,0x948,dialogue,narrative,大丈夫だﾛｳ｡,11,多半沒事。,人工定稿,P7 校对修正: 没→沒 繁体正字统一
+136,0x954,system,system,1110,4,,未翻,
+137,0x959,dialogue,narrative,_3_｢ｺﾝﾅﾄｷﾆ何だが､,17,_3_｢雖不合時宜，,人工定稿,"P7 校对修正: 何だが=雖不合時宜, 原译语序不顺"
+138,0x96c,dialogue,narrative,霞ｸﾝﾆ聞ｲﾃｵｷﾀｲｺﾄがｱﾙﾝだが……｣,29,我有件事想問霞……｣,人工定稿,机翻警告: kana_residue
+139,0x98c,system,system,0081,4,,未翻,
+140,0x991,dialogue,narrative,_3_｢ﾊｲ……｣,11,_3_｢是……｣,人工定稿,机翻警告: kana_residue
+141,0x99d,dialogue,narrative,_0.ロム2_ﾂﾑじﾆ詰ﾒ寄ﾙ薫,22,_0.ROM2_薰迫近旋,人工定稿,
+142,0x9b4,system,system,0045,4,,未翻,
+143,0x9b9,dialogue,narrative,_3_｢ﾊﾙｶ……人前でｱﾝﾅｺﾄｦ言ｯﾀﾗだﾒだﾖ｣,35,_3_｢遙……在人前説那種話不行哦。｣,人工定稿,P7 校对修正: 遥→遙 术语表字形统一
+144,0x9e0,system,system,0030,4,,未翻,
+145,0x9e5,dialogue,narrative,_3_｢でﾓ､ｵ兄ﾁｬﾝ……,18,_3_｢可是，哥哥……,人工定稿,机翻警告: kana_residue
+146,0x9f8,dialogue,narrative,ﾕﾕﾁｬﾝがｲｹﾅｲﾝだﾓﾝ……｣,21,是小唯柚不好嘛……｣,人工定稿,"P7 校对修正: ユユチャン→小唯柚, 与101行同形同译"
+147,0xa10,system,system,0031,4,,未翻,
+148,0xa15,dialogue,narrative,_3_｢香菜ｻﾝ……だｲｽｷだｯﾀﾉﾆ……ｳｳｯ……｣,37,_3_｢香菜……明明最喜歡……嗚嗚……｣,人工定稿,机翻警告: kana_residue
+149,0xa3c,dialogue,narrative,ﾊﾙｶｸﾝﾊｿｳ言ｳﾄ､ぼﾛぼﾛﾄ泣ｷ始ﾒﾙ｡,28,遙説完，便涙水直流哭起來。,人工定稿,
+150,0xa5c,system,system,0046,4,,未翻,
+151,0xa61,dialogue,narrative,_3_｢……ﾊﾙｶ……｣,16,_3_｢……遙……｣,人工定稿,P7 校对修正: 遥→遙 术语表字形统一
+152,0xa72,system,system,s,1,,未翻,
+153,0xa74,dialogue,narrative,ｿｺﾆ薫ｻﾝが近づｲﾃｸﾙ｡,18,這時薰走了過來。,人工定稿,
+154,0xa88,system,system,0153,4,,未翻,
+155,0xa8d,dialogue,narrative,_3_｢ｱ､ｱﾉ……ﾂﾑじｸﾝ｣,19,_3_｢那、那個……旋｣,人工定稿,P7 校对修正: あ、あの 顿挫=那、那個
+156,0xaa4,system,system,0047,4,,未翻,
+157,0xaa9,dialogue,narrative,_3_｢……ﾅﾝでｽｶ?｣,16,_3_｢……有事?｣,人工定稿,P7 校对修正: 全角？→半角? 随原文
+158,0xaba,system,system,s,1,,未翻,
+159,0xabc,dialogue,narrative,薫ｻﾝﾊ一端､躊躇ｯﾀ顔ｦ見ｾﾙが､,26,薰一度露出躊躇的表情，,人工定稿,
+160,0xad8,dialogue,narrative,ﾔがﾃ意ｦ決ｼﾀﾖｳﾆ真ｯ直ぐﾄ,22,不一會像決心已定直直地,人工定稿,
+161,0xaf0,dialogue,narrative,ﾂﾑじｸﾝﾄ向ｷ合ｯﾀ｡,15,和旋面對面。,人工定稿,
+162,0xb00,system,system,0154,4,,未翻,
+163,0xb05,dialogue,narrative,_3_｢私､ずｯﾄ気ﾆﾅｯﾃﾀﾉ｡,20,_3_｢我，一直很在意。,人工定稿,机翻警告: kana_residue
+164,0xb1c,dialogue,narrative,ﾂﾑじｸﾝｯﾃ､ﾓｼｶｼﾃ,14,旋，該不會,人工定稿,
+165,0xb2c,dialogue,narrative,シリアルキラーじｬﾅｲｶｯﾃ……｣,27,是連環殺手……｣,人工定稿,机翻警告: kana_residue
+166,0xb48,system,system,0048,4,,未翻,
+167,0xb4d,dialogue,narrative,_3_｢……別ﾆ｡どｳｼﾃ?｣,19,_3_｢沒什麼。為何?｣,人工定稿,P7 校对修正: 別に=沒什麼(非没事); 全角？→半角?
+168,0xb64,system,system,0155,4,,未翻,
+169,0xb69,dialogue,narrative,_3_｢ｴ……､ｱ､ごﾒﾝﾈ｡何ﾄﾅｸ……｣,28,_3_｢欸，抱歉。莫名覺得……｣,人工定稿,P7 校对修正: 何となく→莫名覺得(原译莫名悬空)
+170,0xb88,system,system,0049,4,,未翻,
+171,0xb8d,dialogue,narrative,_3_｢……誰ｶﾆ言ｯﾀ?｣,18,_3_｢……跟人説了?｣,人工定稿,"P7 校对修正: 誰かに言った=跟人説了(原译聽誰説语义相反, 与173答复不接)"
+172,0xba0,system,system,0156,4,,未翻,
+173,0xba5,dialogue,narrative,_3_｢ｲ､言ｯﾃﾅｲｹど……｣,20,_3_｢沒、沒説……｣,人工定稿,P7 校对修正: い、言ってない 顿挫=沒、沒説; 没→沒
+174,0xbbc,system,system,0050,4,,未翻,
+175,0xbc1,dialogue,narrative,_3_｢……ぼｸ､怖ｲﾝでｽﾖ｡,21,_3_｢……我很害怕。,人工定稿,机翻警告: kana_residue
+176,0xbd8,dialogue,narrative,だｶﾗ､ｿﾝﾅ変ﾅｺﾄｦ言ﾜﾅｲでｸだｻｲ｣,27,所以別説那種怪話。｣,人工定稿,
+177,0xbf4,dialogue,narrative,下ｶﾗ睨ﾑﾖｳﾆ薫ｻﾝｦ見上げﾙﾂﾑじｸﾝﾆ､,30,旋從下方以怒視般的目光仰望薰，,人工定稿,
+178,0xc14,dialogue,narrative,薫ｻﾝﾊびｸﾘﾄ震ｴﾙ｡,15,薰嚇了一跳。,人工定稿,
+179,0xc24,system,system,0157,4,,未翻,
+180,0xc29,dialogue,narrative,_3_｢ご､ごﾒﾝﾈ｡ﾓｳ言ﾜﾅｲｶﾗ……｣,27,_3_｢抱、抱歉。不再説……｣,人工定稿,
+181,0xc48,system,system,0793,4,,未翻,
+182,0xc4d,dialogue,narrative,_3_｢ﾝｰ……雲行ｷが怪ｼｲｯｽﾈ｡どｳｼﾏｽ?｣,33,_3_｢情況好像不太妙呀。如何是好?｣,人工定稿,P7 校对修正: 雲行き=情況; 全角？→半角?
+183,0xc70,system,system,0442,4,,未翻,
+184,0xc75,dialogue,narrative,_3_｢……美紀ｸﾝ｡行ｺｳｶ｣,21,_3_｢……美紀。走咯｣,人工定稿,"P7 校对修正: 行こうか→走咯, 对齐回合2同句译法"
+185,0xc8c,system,system,1112,4,,未翻,
+186,0xc91,dialogue,narrative,_3_｢取ﾘ込ﾐ中ﾆｽﾏﾅｲ､少ｼ良ｲだﾛｳｶ｣,30,_3_｢忙中打擾，能否談談｣,人工定稿,"P7 校对修正: 原文无?, 删去增译的？"
+187,0xcb0,dialogue,narrative,気ﾏずｲ雰囲気ﾉ三人ﾉ間ﾆ私達が入ﾘ込ﾑﾄ､,35,正當我們走進不自在的三人中時，,人工定稿,
+188,0xcd4,dialogue,narrative,薫ｻﾝﾊホッﾄｼﾀ表情ｦ見ｾﾀ｡,22,薰露出鬆了口氣的表情。,人工定稿,"P7 校对修正: 补 了/的, 去压缩感"
+189,0xcec,system,system,0032,4,,未翻,
+190,0xcf1,dialogue,narrative,_3_｢ｳｯ､ぐｽﾝｯ……楓ｻｧﾝ……｣,26,_3_｢嗚，抽泣……楓……｣,人工定稿,机翻警告: kana_residue
+191,0xd0c,system,system,1113,4,,未翻,
+192,0xd11,dialogue,narrative,_3_｢泣ｸﾅ､ﾊﾙｶｸﾝ｡,15,_3_｢別哭，遙。,人工定稿,P7 校对修正: 遥→遙; 补句末｡
+193,0xd21,system,system,ts,2,,未翻,
+194,0xd24,dialogue,narrative,ﾎﾗ､ハンカチだ｣,14,來，手巾。｣,人工定稿,
+195,0xd34,system,system,0033,4,,未翻,
+196,0xd39,dialogue,narrative,_3_｢ｱﾘがﾄｳ……｣,15,_3_｢謝謝……｣,人工定稿,机翻警告: kana_residue
+197,0xd49,system,system,ts,2,,未翻,
+198,0xd4c,dialogue,narrative,ハンカチｦ受ｹﾄﾘ､涙ｦ拭ｳﾊﾙｶｸﾝ｡,27,遙接過手巾，擦拭眼涙。,人工定稿,
+199,0xd68,dialogue,narrative,ｿﾉ様子ｦﾂﾑじｸﾝﾊじｯﾄ眺ﾒﾃｲﾀ｡,25,旋一直注視着那副樣子。,人工定稿,
+200,0xd84,system,system,0051,4,,未翻,
+201,0xd89,dialogue,narrative,_3_｢……ｿﾚで､何ｶ用でｽｶ?,23,_3_｢……那，有何貴幹?,人工定稿,P7 校对修正: 全角？→半角? 随原文
+202,0xda4,dialogue,narrative,ﾓｼｶｼﾃ､ﾏﾀ話がｱﾙﾄｶ?｣,18,難不成又有話?｣,人工定稿,P7 校对修正: また=又(非還); 全角？→半角?
+203,0xdb8,system,system,1114,4,,未翻,
+204,0xdbd,dialogue,narrative,_3_｢ﾏｱ､ｿﾝﾅﾄｺﾛだ｣,16,_3_｢差不多｣,人工定稿,
+205,0xdce,system,system,s,1,,未翻,

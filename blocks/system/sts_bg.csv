@@ -1,0 +1,8 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_bg.tob,22,,未翻,
+2,0x18,system,system,sts_bg.sts,10,,未翻,
+3,0x24,dialogue,narrative,背景汎用処理,12,背景通用處理,人工定稿,
+4,0x34,dialogue,narrative,セット_背景,11,設定_背景,人工定稿,
+5,0x40,dialogue,narrative,"""所在不明､ﾄﾘｱｴずエントランス\n""",31,"""位置不明，暫且用大門\n""",人工定稿,
+6,0x60,dialogue,narrative,"""主人公ﾅﾉﾆ､ﾄﾘｱｴずエントランス\n""",32,"""明明是主人公，卻暫且用大門\n""",人工定稿,"P7 校对修正: なのに 转折未收, 补 卻 与 明明 呼应(原句两句断开)"
+7,0x84,dialogue,narrative,"""場所指定がﾅｲ､代ﾜﾘﾆ玄関昼ｦ指定\n""",33,"""沒有指定地點，改為指定玄關晝\n""",人工定稿,

@@ -1,0 +1,134 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_triangle.tob,27,,未翻,
+2,0x1c,system,system,kw_triangle.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_三角関係,16,ROM2_KW_三角關係,人工定稿,
+4,0x40,dialogue,label,ROM2_KW会話_三角関係,20,ROM2_KW會話_三角關係,人工定稿,
+5,0x58,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x70,dialogue,command,フェードアウト,14,,未翻,
+7,0x80,dialogue,narrative,ロム2_KW_三角関係_昇,20,ROM2_KW_三角關係_昇,人工定稿,
+8,0x98,system,system,0220,4,,未翻,
+9,0x9d,dialogue,narrative,ian｢ﾔﾒﾛ｡ｿﾝﾅ話ｦｽﾙﾝじｬﾅｲ｣,23,ian｢別説了。別聊那種事｣,人工定稿,导入警告: kana_residue
+10,0xb8,system,system,1432,4,,未翻,
+11,0xbd,dialogue,narrative,ian｢ｱｱ､ｽﾏﾅｲ……｣,16,ian｢唔 抱歉……｣,人工定稿,导入警告: kana_residue
+12,0xce,system,system,s,1,,未翻,
+13,0xd0,dialogue,narrative,彼ﾆﾊ冗談でﾊｽﾏﾅｲ話だｯﾀﾅ｡,23,對他來説可不是玩笑。,人工定稿,
+14,0xe8,dialogue,narrative,ロム2_KW_三角関係_香菜,22,ROM2_KW_三角關係_香菜,人工定稿,
+15,0x100,system,system,0234,4,,未翻,
+16,0x105,dialogue,narrative,ian｢ｻ､三角関係でｽｯﾃ……?｣,25,ian｢那，三角關係是……?｣,人工定稿,导入警告: kana_residue
+17,0x120,system,system,1433,4,,未翻,
+18,0x125,dialogue,narrative,ian｢ｱｱ､俗ﾆ言ｳ二股ﾄｲｳﾔﾂだﾅ｣,26,ian｢就是俗稱的脚踏兩條船｣,人工定稿,导入警告: kana_residue
+19,0x140,system,system,0235,4,,未翻,
+20,0x145,dialogue,narrative,ian｢ｿ､ｿﾚが私ﾆﾅﾝﾉ関係がｱﾙﾉﾖ,26,ian｢那、那跟我有什麼關係呀,人工定稿,"P7 校对: 「私になんの関係があるのよ」误读为「那種關係是什麼」, 实为「跟我有什麼關係」的否认; のよ→呀(风格指南)"
+21,0x160,dialogue,narrative,昇ﾄﾊﾄｯｸﾆ別ﾚﾃﾙﾝだｶﾗ!!｣,21,早就和昇分手了!!｣,人工定稿,导入警告: kana_residue
+22,0x178,system,system,1434,4,,未翻,
+23,0x17d,dialogue,narrative,ian｢ｵﾔ? 森崎氏ﾉ話ﾅどｼﾀｶﾅ??｣,27,ian｢哦? 我有提到森崎??｣,人工定稿,"P7 校对: 「森崎氏の話などしたかな」=我有提到森崎嗎, 原译「森崎怎麼知道的」把主语方向译反; 行首おや→哦为独立用法"
+24,0x19c,system,system,0236,4,,未翻,
+25,0x1a1,dialogue,narrative,ian｢ﾝﾅｯ……ｸｯ……!,18,ian｢唔……嘖……!,人工定稿,导入警告: kana_residue
+26,0x1b4,dialogue,narrative,ﾓｳｯ! 知ﾗﾅｲ!｣,12,算了!不管!｣,人工定稿,导入警告: kana_residue
+27,0x1c1,system,system,ts,2,,未翻,
+28,0x1c4,dialogue,narrative,ロム2_KW_三角関係_圭介,22,ROM2_KW_三角關係_圭介,人工定稿,
+29,0x1dc,system,system,0103,4,,未翻,
+30,0x1e1,dialogue,narrative,ian｢ｱ～､女子ｯﾃｿｳｲｳ話好ｷでｽﾖﾈ,28,ian｢哦～女孩子就愛聊這種事呀,人工定稿,"P7 校对: 行首あ~按全库主流作「哦～」(原「呀～」); 句尾ですよね为共感求同, 依 v1.4 卡补「呀」(原译整句丢失)"
+31,0x200,dialogue,narrative,楓ｻﾝﾓでｽｶ?｣,11,楓也是?｣,人工定稿,导入警告: kana_residue
+32,0x20c,system,system,1435,4,,未翻,
+33,0x211,dialogue,narrative,ian｢何ｦ言ｯﾃｲﾙﾉだ?,17,ian｢在説什麼?,人工定稿,导入警告: kana_residue
+34,0x224,dialogue,narrative,私ﾊ2人ぐﾗｲでﾊ満足でｷﾅｲﾖ｡,24,我可不會滿足於兩個人。,人工定稿,
+35,0x240,dialogue,narrative,五角､六角ﾉ修羅場が見ﾀｲﾓﾉだ｣,27,還想看五角六角的修羅場!｣,人工定稿,导入警告: kana_residue
+36,0x25c,system,system,0104,4,,未翻,
+37,0x261,dialogue,narrative,ian｢楓ｻﾝが言ｳﾄ冗談ﾆ聞ｺｴﾅｲでｽﾈ……｣,34,ian｢楓小姐説出來就不像玩笑了……｣,人工定稿,导入警告: kana_residue
+38,0x284,dialogue,narrative,ロム2_KW_三角関係_霞,20,ROM2_KW_三角關係_霞,人工定稿,
+39,0x29c,system,system,0094,4,,未翻,
+40,0x2a1,dialogue,narrative,ian｢三角関係……｣,17,ian｢三角關係……｣,人工定稿,导入警告: kana_residue
+41,0x2b4,dialogue,narrative,珍ｼｸ目が輝ｲﾃｲﾙﾅ｡,16,難得地兩眼放光。,人工定稿,
+42,0x2c8,system,system,0095,4,,未翻,
+43,0x2cd,dialogue,narrative,ian｢一人ﾉ女性ｦ奪ｲ合ｯﾀﾘｽﾙﾝでｽﾖﾈ｡,31,ian｢就是去爭奪同一個女人呀。,人工定稿,"P7 校对: v1.4 卡 求确认句尾(んですよね)禁「哦」, 改「呀」; 并删去原文没有的收尾｣(本行原文无｣, 跨行引号按原文保真)"
+44,0x2f0,dialogue,narrative,実際ﾆｿﾝﾅ事ﾆﾅｯﾀﾗ困ｯﾁｬｳでｼｮｳｹど,29,雖然真變成那樣會很困擾,人工定稿,
+45,0x310,dialogue,narrative,ﾁｮｯﾄだｹロマンチックでｽﾖﾈ!｣,26,可是也有幾分浪漫呀!｣,人工定稿,"P7 校对: v1.4 卡 求确认句尾(ですよね!)禁「哦」, 无问号不加问号, 依卡用「呀」并保留原文「!」"
+46,0x32c,dialogue,narrative,……ｿｳだﾛｳｶ｡,12,……是這樣?,人工定稿,
+47,0x339,system,system,ts,2,,未翻,
+48,0x33c,dialogue,narrative,ロム2_KW_三角関係_美紀,22,ROM2_KW_三角關係_美紀,人工定稿,
+49,0x354,system,system,0944,4,,未翻,
+50,0x359,dialogue,narrative,ian｢ｵ姉ｻﾏﾄｱﾀｼﾉ間ﾆ三角関係ﾅﾝﾃ,28,ian｢姐姐大人和我之間,人工定稿,导入警告: kana_residue
+51,0x378,dialogue,narrative,言葉ﾉ入ﾙ隙ﾊﾅｲでｽﾖﾈ!｣,20,根本沒那種餘地呀!｣,人工定稿,"P7 校对: 「言葉の入る隙はない」的「隙」漏译(原译改写成「有什麼三角關係」), 补「根本沒那種餘地」; ですよね!→「呀!」依 v1.4 卡"
+52,0x390,system,system,0945,4,,未翻,
+53,0x395,dialogue,narrative,ian｢ｱﾀｼﾊｵ姉ｻﾏ一筋でｽｶﾗ!｣,24,ian｢我只屬於姐姐大人!｣,人工定稿,导入警告: kana_residue
+54,0x3b0,system,system,1436,4,,未翻,
+55,0x3b5,dialogue,narrative,ian｢ｿｳだﾅ｡線がﾂﾅがｯﾃｲﾅｲﾉだｶﾗ,28,ian｢是呀。線沒有相連,人工定稿,导入警告: kana_residue
+56,0x3d4,dialogue,narrative,三角ﾆﾊﾅﾘﾖｳがﾅｲだﾛｳﾅ｡,20,應該成不了三角。,人工定稿,"P7 校对: 「なりようがないだろうな」的推量 だろう 丢失, 依全库「だろう→應該式」口径补「應該」"
+57,0x3ec,dialogue,narrative,ﾀだﾉ点ﾄ点だ｣,12,只是兩個點｣,人工定稿,"P7 校对: 「ただの点と点だ」=只是兩個點, 原译「點連點」读成点与点相连, 与上文「線が繋がっていない」矛盾"
+58,0x3f9,system,system,ts,2,,未翻,
+59,0x3fc,system,system,0946,4,,未翻,
+60,0x401,dialogue,narrative,ian｢ｳﾋｬｰ､ｿﾚﾊ酷ｲｯｽ!｣,19,ian｢嗚呀，太狠了!｣,人工定稿,导入警告: kana_residue
+61,0x418,dialogue,narrative,ロム2_KW_三角関係_ﾊﾙｶ,21,ROM2_KW_三角關係_遙,人工定稿,
+62,0x430,system,system,0063,4,,未翻,
+63,0x435,dialogue,narrative,ian｢テレビでﾖｸｱﾙﾖｳﾅﾉ?｣,22,ian｢就像電視裡常見的?｣,人工定稿,导入警告: kana_residue
+64,0x44c,system,system,1437,4,,未翻,
+65,0x451,dialogue,narrative,ian｢ｿｳｿｳ｡,9,ian｢對對,人工定稿,"P7 校对: 「そうそう」是承接赞同(全库多作「對對」), 非「哦哦」的领悟义; 槽宽 9B 容不下句点"
+66,0x45b,dialogue,narrative,nﾄｲｯﾃﾓ､ﾊﾙｶｸﾝﾊピンﾄｺﾅｲｶ｣,23,n但遙就沒什麼實感唄｣,人工定稿,导入警告: kana_residue
+67,0x474,system,system,0064,4,,未翻,
+68,0x479,dialogue,narrative,ian｢ｲﾁどﾆ2人ｶﾗｵ手紙ｦﾓﾗｯﾀ事がｱﾙﾉ｡,32,ian｢我曾同時收到兩個人的信。,人工定稿,导入警告: kana_residue
+69,0x49c,dialogue,narrative,2人ﾄﾓ同じクラスﾉ子だｯﾀﾝだｹど……,32,2人都是同班的同學……,人工定稿,
+70,0x4c0,dialogue,narrative,ｿｳｲｳﾉﾓ三角関係?｣,16,那也算三角關係?｣,人工定稿,P7 校对: 补回漏译的「も」=也
+71,0x4d4,system,system,1438,4,,未翻,
+72,0x4d9,dialogue,narrative,ian｢ｻｽがだﾅ……｣,16,ian｢真厲害……｣,人工定稿,导入警告: kana_residue
+73,0x4ea,system,system,s,1,,未翻,
+74,0x4ec,dialogue,narrative,ﾅぜだﾛｳ､微妙ﾅ敗北感がｱﾙ｡,24,不知為何有微妙的敗北感。,人工定稿,
+75,0x508,dialogue,narrative,ロム2_KW_三角関係_ﾂﾑじ,22,ROM2_KW_三角關係_旋,人工定稿,
+76,0x520,system,system,0071,4,,未翻,
+77,0x525,dialogue,narrative,ian｢ｸだﾗﾅｲ｡,11,ian｢無聊。,人工定稿,导入警告: kana_residue
+78,0x531,dialogue,narrative,le.ｿﾝﾅﾉ興味ﾅｲﾖ｣,15,le.沒那興趣｣,人工定稿,导入警告: kana_residue
+79,0x541,system,system,ts,2,,未翻,
+80,0x544,system,system,1439,4,,未翻,
+81,0x549,dialogue,narrative,ian｢絶世ﾉ美女2人ﾆ言ｲ寄ﾗﾚﾀﾘｽﾙﾉﾆ,30,ian｢明明被兩位絶世美女追求,人工定稿,"P7 校对: 补回漏译的「のに」(逆接), 与 82 的「卻」构成明明…卻"
+82,0x568,dialogue,narrative,興味ﾅｲﾉｶ??｣,11,卻沒興趣??｣,人工定稿,"P7 校对: 承 81 的 のに 逆接落点, 补「卻」"
+83,0x574,system,system,0072,4,,未翻,
+84,0x579,dialogue,narrative,ian｢ﾅｲﾈ｡ぼｸﾊﾊﾙｶ以外ﾆ興味ﾅｲｶﾗ｣,29,ian｢沒有。我只對遙有興趣｣,人工定稿,导入警告: kana_residue
+85,0x598,dialogue,narrative,ｿﾚﾊ逆ﾆ危険ﾅ宣言ﾆ聞ｺｴﾙぞ……｡,28,這話反而像危險宣言……。,人工定稿,
+86,0x5b8,dialogue,narrative,ロム2_KW_三角関係_ジャック,26,ROM2_KW_三角關係_傑克,人工定稿,
+87,0x5d4,dialogue,narrative,ロム2_KW_三角関係_薫,20,ROM2_KW_三角關係_薰,人工定稿,
+88,0x5e9,dialogue,narrative,ャb0216,7,ャb0216,人工定稿,导入警告: kana_residue
+89,0x5f1,dialogue,narrative,ian｢ﾌｩ……浅川ｻﾝ｡ｲｲでｽｶ?｣,25,ian｢呼……淺川小姐 可以?｣,人工定稿,导入警告: kana_residue
+90,0x60c,system,system,1440,4,,未翻,
+91,0x611,dialogue,narrative,ian｢ｱ､ｱｧ｣,9,ian｢呀呀｣,人工定稿,导入警告: kana_residue
+92,0x61b,dialogue,narrative,n予想ﾊｼﾃｲﾀが､,13,n雖早有預料，,人工定稿,
+93,0x629,system,system,ts,2,,未翻,
+94,0x62c,dialogue,narrative,ｽでﾆ微妙ﾅ威圧感が……｡,22,但已有股微妙威壓……。,人工定稿,
+95,0x644,system,system,0217,4,,未翻,
+96,0x649,dialogue,narrative,ian｢ｱﾉでｽﾈ｡,11,ian｢那個。,人工定稿,"P7 校对: 「あのですね」是发话前的停顿导语(那个…), 原译「是的」无上文可应, 属误译"
+97,0x655,dialogue,narrative,le.三角関係ﾄｲｳﾉﾊ3点がｱｯﾃ成立ｼﾏｽ｡,32,le.所謂三角關係有三點才成立。,人工定稿,P7 校对: 补回原文句尾句号(用户反馈句号缺失类)
+98,0x678,dialogue,narrative,ｺﾚﾊﾜｶﾘﾏｽﾈ?｣,11,這點明白?｣,人工定稿,导入警告: kana_residue
+99,0x684,system,system,0218,4,,未翻,
+100,0x689,dialogue,narrative,ian｢一人ｼｶｲﾅｶｯﾀﾗ……ﾀだﾉ点でｽ!｣,31,ian｢如果只有一人……就只是點!｣,人工定稿,导入警告: kana_residue
+101,0x6ac,system,system,1441,4,,未翻,
+102,0x6b1,dialogue,narrative,ian｢……誠ﾆ申ｼ訳ﾅｲ｣,19,ian｢……非常抱歉｣,人工定稿,导入警告: kana_residue
+103,0x6c8,system,system,0219,4,,未翻,
+104,0x6cd,dialogue,narrative,ian｢ﾜｶﾚばﾖﾛｼｲ｣,14,ian｢明白就好｣,人工定稿,导入警告: kana_residue
+105,0x6dc,dialogue,narrative,ロム2_KW_三角関係_樫沢,22,ROM2_KW_三角關係_樫澤,人工定稿,
+106,0x6f4,dialogue,narrative,ロム2_KW_三角関係_唯柚,22,ROM2_KW_三角關係_唯柚,人工定稿,
+107,0x70c,system,system,0146,4,,未翻,
+108,0x711,dialogue,narrative,ian｢ﾕﾕ､色ﾝﾅ人ﾆプロポーズｻﾚﾙﾝだｹど,33,ian｢唯柚，老是被各種人求婚,人工定稿,导入警告: kana_residue
+109,0x734,dialogue,narrative,ｿｳｲｳﾉｯﾃ三角関係ｯﾃｲｳﾉｶﾅ?｣,24,那樣也算三角關係?｣,人工定稿,导入警告: kana_residue
+110,0x750,system,system,1442,4,,未翻,
+111,0x755,dialogue,narrative,ian｢唯柚ｸﾝﾅﾗ､ｿｳｲｳ話ﾓ多ｲだﾛｳﾅ｡,29,ian｢唯柚的話，這種事應該不少,人工定稿,"P7 校对: 补回「だろう」推量(應該), 依全库だろう→應該式"
+112,0x774,dialogue,narrative,ｿﾚｦ三角関係ﾄｲｳﾉｶどｳｶﾊ……｣,26,算不算三角關係就難説……｣,人工定稿,导入警告: kana_residue
+113,0x790,system,system,0147,4,,未翻,
+114,0x795,dialogue,narrative,ian｢ﾅﾝだｶ違ｳ感じがｼﾏｽﾖﾈ｡,24,ian｢總覺得不太一樣呀。,人工定稿,"P7 校对: 去「總覺得…感覺」重复(翻译腔)并补句号; ですよね为共感, 依 v1.4 卡用「呀」"
+115,0x7b0,dialogue,narrative,でﾓ､相関図で見ﾙﾄ､パパﾄ仲良ｸﾅﾘﾀｲ人が,35,不過從關係圖來看，想跟父親,人工定稿,
+116,0x7d4,dialogue,narrative,ﾕﾕﾆプロポーズｽﾙｶﾗ……｣,22,變親近的人會求婚……｣,人工定稿,导入警告: kana_residue
+117,0x7ec,system,system,1443,4,,未翻,
+118,0x7f1,dialogue,narrative,ian｢三角ﾆﾊﾅﾙ､ﾄ……｡,19,ian｢成了三角、……,人工定稿,导入警告: kana_residue
+119,0x808,dialogue,narrative,一般ﾆ言ｳ三角関係ﾄﾊ程遠ｲがﾅ｣,27,但離一般説的三角關係很遠｣,人工定稿,导入警告: kana_residue
+120,0x824,system,system,0148,4,,未翻,
+121,0x829,dialogue,narrative,ian｢ﾔｯぱﾘ違ｳｶｰ｣,15,ian｢果然不對｣,人工定稿,导入警告: kana_residue
+122,0x839,system,system,ts,2,,未翻,
+123,0x83c,dialogue,narrative,ロム2_KW_三角関係_紅春,22,ROM2_KW_三角關係_紅春,人工定稿,
+124,0x854,system,system,0195,4,,未翻,
+125,0x859,dialogue,narrative,ian｢三角関係……ﾓｼ､私が,23,ian｢三角關係……要是,人工定稿,导入警告: kana_residue
+126,0x874,dialogue,narrative,大好ｷﾅ人ﾆ二股ｶｹﾗﾚﾀﾘｼﾀﾗ……,26,最喜歡的人脚踏兩條船……,人工定稿,
+127,0x890,dialogue,narrative,どｳﾅｯﾁｬｳｶﾜｶﾘﾏｾﾝ｣,16,會怎樣我不知道｣,人工定稿,导入警告: kana_residue
+128,0x8a4,system,system,1444,4,,未翻,
+129,0x8a9,dialogue,narrative,ian｢……でﾊ､自分ｦ取ﾘ合ｲｻﾚﾙ形ﾅﾗどｳだ?｣,37,ian｢……那麼，要是自己被爭奪?｣,人工定稿,导入警告: kana_residue
+130,0x8d0,system,system,0196,4,,未翻,
+131,0x8d5,dialogue,narrative,ian｢ｱ､ｿﾚﾊﾁｮｯﾄ……ロマンチックｶﾓ｣,32,ian｢哦，那有點……或許挺浪漫｣,人工定稿,导入警告: kana_residue
+132,0x8f8,dialogue,narrative,気持ﾁﾊﾜｶﾙが､身勝手ﾅﾓﾉだﾅ……｡,29,心情能明白，但太自私了……。,人工定稿,
+133,0x918,dialogue,narrative,ロム2_KW_三角関係_西野,22,ROM2_KW_三角關係_西野,人工定稿,

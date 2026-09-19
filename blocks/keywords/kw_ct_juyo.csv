@@ -1,0 +1,9 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_ct_juyo.tob,26,,未翻,
+2,0x1c,system,system,kw_ct_juyo.sts,14,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_カテゴリ_重要分岐,25,ROM2_KW_類別_重要分支,人工定稿,
+4,0x48,dialogue,label,ROM2_KW_重要,12,ROM2_KW_重要,人工定稿,
+5,0x55,system,system,s,1,,未翻,
+6,0x57,binary,system,�<assert>式が偽  ( v_キーワード < 23 && v_キーワード > 36),-1,,未翻,
+7,0x94,dialogue,command,フェードアウト,14,,未翻,
+8,0xa4,dialogue,label,KW_ダミー,9,KW_假資料,人工定稿,P7 终轮统一: ダミー→假資料

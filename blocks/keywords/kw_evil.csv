@@ -1,0 +1,238 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_evil.tob,23,,未翻,
+2,0x18,system,system,kw_evil.sts,11,,未翻,
+3,0x24,dialogue,label,ROM2_KW_悪,10,ROM2_KW_惡,人工定稿,
+4,0x30,dialogue,label,ROM2_KW会話_悪,14,ROM2_KW會話_惡,人工定稿,
+5,0x40,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x58,dialogue,command,フェードアウト,14,,未翻,
+7,0x68,dialogue,narrative,ロム2_KW_悪_美紀,16,ROM2_KW_惡_美紀,人工定稿,
+8,0x7c,system,system,1013,4,,未翻,
+9,0x81,dialogue,narrative,il.｢悪!?｣,9,il.｢惡!?｣,人工定稿,导入警告: kana_residue
+10,0x8b,system,system,.1014,5,,未翻,
+11,0x91,dialogue,narrative,il.｢どｺﾆｲﾙﾝｽｶ?,14,il.｢在何處?,人工定稿,导入警告: kana_residue
+12,0xa0,dialogue,narrative,ﾂｲﾆｱﾀｼﾉ出番が!!｣,16,終於輪到我出場!｣,人工定稿,导入警告: kana_residue
+13,0xb4,system,system,1693,4,,未翻,
+14,0xb9,dialogue,narrative,il.｢ｲﾀﾗ戦ｳﾂﾓﾘﾅﾉｶ｣,17,il.｢在的話就打?｣,人工定稿,P7 校对修正: 補 いたら(在的話) 條件
+15,0xcc,system,system,1015,4,,未翻,
+16,0xd1,dialogue,narrative,il.｢ﾔﾙｯｼｭ!｣,11,il.｢上了!｣,人工定稿,导入警告: kana_residue
+17,0xdd,system,system,ts,2,,未翻,
+18,0xe0,system,system,1694,4,,未翻,
+19,0xe5,dialogue,narrative,il.｢……ｼｭ?｣,12,il.｢……呼?｣,人工定稿,导入警告: kana_residue
+20,0xf2,system,system,s,1,,未翻,
+21,0xf4,system,system,1016,4,,未翻,
+22,0xf9,dialogue,narrative,il.｢ｼｭｯｼｭｯ｣,11,il.｢呼呼｣,人工定稿,导入警告: kana_residue
+23,0x105,system,system,ts,2,,未翻,
+24,0x108,dialogue,narrative,噛ﾝだｺﾄｦ誤魔化ｽﾀﾒｶ,18,怕是掩飾咬到的事?,人工定稿,P7 校对修正: 補 ためか 推測語氣
+25,0x11c,dialogue,narrative,シャドウボクシングｦ始ﾒﾙ｡,24,開始打起影子拳撃。,人工定稿,P7 校对修正: 打起…拳撃 搭配
+26,0x138,system,system,1695,4,,未翻,
+27,0x13d,dialogue,narrative,il.｢ﾊｧ……暴力ﾊアウトだﾄ言ｯﾃｲﾙだﾛｳ?｣,36,il.｢呼……不是説了暴力不行對不?｣,人工定稿,P7 校对修正: だろう? 求确认按 v1.4 用 對不
+28,0x164,system,system,1017,4,,未翻,
+29,0x169,dialogue,narrative,il.｢ｱ､ｿ､ｿｳｯｽﾈ……,17,il.｢唔，是、是哦,人工定稿,导入警告: kana_residue
+30,0x17c,dialogue,narrative,でﾓ悪ﾊ……｣,11,不過惡……｣,人工定稿,导入警告: kana_residue
+31,0x188,system,system,1696,4,,未翻,
+32,0x18d,dialogue,narrative,il.｢ｲﾂｶ見ﾂｹ出ｽ｡,15,il.｢總會找出。,人工定稿,P7 校对修正: 補原文句號
+33,0x1a0,dialogue,narrative,だが､ｿﾉ時ﾆ戦ｳﾅどﾄ言ｲ出ｻﾅｲﾖｳﾆﾅ｣,30,但是，到時可別説什麼別戰鬥哦｣,人工定稿,"P7 校对修正: 戦うなと言い出す=別説別戰鬥, 原译反义"
+34,0x1c0,system,system,1018,4,,未翻,
+35,0x1c5,dialogue,narrative,il.｢……肝ﾆ銘じﾃｵｸｯｽ｣,21,il.｢……我會銘記於心｣,人工定稿,导入警告: kana_residue
+36,0x1dc,dialogue,narrative,ロム2_KW_悪_昇,14,ROM2_KW_惡_昇,人工定稿,
+37,0x1ec,system,system,0265,4,,未翻,
+38,0x1f1,dialogue,narrative,il.｢……悪､ｶ｡,13,il.｢……惡呀,人工定稿,导入警告: kana_residue
+39,0x200,dialogue,narrative,ｿｳｲｴば香菜ﾆﾊﾁｮｯﾄ悪ｲｺﾄｦｼﾀﾅ｣,26,説起來對香菜做了點壞事｣,人工定稿,导入警告: kana_residue
+40,0x21c,system,system,1697,4,,未翻,
+41,0x221,dialogue,narrative,il.｢どｳｶｼﾀﾉｶ?｣,14,il.｢怎麼了?｣,人工定稿,导入警告: kana_residue
+42,0x230,system,system,0266,4,,未翻,
+43,0x235,dialogue,narrative,il.｢ｲﾔ､ﾌﾄ思ｲ出ｼﾀ昔ﾉｺﾄﾅﾝだｹど……｣,33,il.｢不，突然想起以前的事……｣,人工定稿,导入警告: kana_residue
+44,0x258,system,system,0267,4,,未翻,
+45,0x25d,dialogue,narrative,il.｢ｽごｸ流行ｯﾃﾙ推理小説がｱｯﾃﾅ｡,30,il.｢有本非常流行的推理小説。,人工定稿,导入警告: kana_residue
+46,0x27c,dialogue,narrative,展開が読ﾒﾅｲｺﾄで有名ｯﾃﾝで,24,以猜不到劇情發展而聞名,人工定稿,
+47,0x298,dialogue,narrative,香菜が挑戦ｼﾀがｯﾀﾝだﾖ｣,21,香菜一直想挑戰哦｣,人工定稿,导入警告: kana_residue
+48,0x2b0,system,system,0268,4,,未翻,
+49,0x2b5,dialogue,narrative,il.｢ﾀだ､ﾅｶﾅｶ手ﾆ入ﾗﾅｲｶﾗ,22,il.｢只是很難弄到手,人工定稿,导入警告: kana_residue
+50,0x2cc,dialogue,narrative,貸ｼﾃｸﾚｯﾃ言ﾜﾚﾃ貸ｼﾀﾝだｹど……｣,28,對方求我借就借了……｣,人工定稿,导入警告: kana_residue
+51,0x2ec,system,system,0269,4,,未翻,
+52,0x2f1,dialogue,narrative,il.｢人物ﾉ登場シーンﾆ『ｺｲﾂ犯人』ｯﾃ,33,il.｢在角色登場時寫『這人是犯人』,人工定稿,导入警告: kana_residue
+53,0x314,dialogue,narrative,落書ｷｼﾃ貸ｼﾀﾝだ｣,15,塗鴉後才借出｣,人工定稿,导入警告: kana_residue
+54,0x324,system,system,1698,4,,未翻,
+55,0x329,dialogue,narrative,il.｢……悪ﾒ｣,12,il.｢……壞｣,人工定稿,导入警告: kana_residue
+56,0x336,system,system,s,1,,未翻,
+57,0x338,system,system,0270,4,,未翻,
+58,0x33d,dialogue,narrative,il.｢ﾒﾁｬｸﾁｬ怒ﾗﾚﾀｼﾅ……｡,22,il.｢被狠狠罵了一頓……,人工定稿,导入警告: kana_residue
+59,0x354,dialogue,narrative,今考ｴﾙﾄ､悪ｲｺﾄｼﾀﾖ｣,17,現在想想做了壞事｣,人工定稿,导入警告: kana_residue
+60,0x368,dialogue,narrative,ｿｳ言ｲﾅがﾗﾓ､美ｼｲ思ｲ出ﾅﾉだﾛｳ､,27,雖嘴上這麼説也是美好回憶，,人工定稿,
+61,0x384,dialogue,narrative,顔ﾊ笑ｯﾃｲﾀ｡,10,臉上帶著笑,人工定稿,
+62,0x390,dialogue,narrative,ロム2_KW_悪_香菜,16,ROM2_KW_惡_香菜,人工定稿,
+63,0x3a4,dialogue,narrative,｢悪ｶ……ﾌﾌﾌ､ｿｳ｡,15,｢惡呀……呵呵。,人工定稿,导入警告: kana_residue
+64,0x3b4,dialogue,narrative,私ﾊ悪ﾉマッドサイエンティストﾖ!｣,31,我是邪惡的瘋狂科學家呀!｣,人工定稿,P7 校对修正: のよ→呀(风格指南)
+65,0x3d4,system,system,1699,4,,未翻,
+66,0x3d9,dialogue,narrative,il.｢ﾎｳ｡具体的ﾆ何ｶ悪ｲ発明品でﾓ?｣,31,il.｢哦。具體是什麼邪惡發明?｣,人工定稿,导入警告: kana_residue
+67,0x3fc,dialogue,narrative,｢ｿｳﾈ｡人型ﾉ巨大ロボットﾄｶ作ﾘﾀｲﾜﾈ｡,32,｢是哦。想做巨大的人型機器人。,人工定稿,导入警告: kana_residue
+68,0x420,dialogue,narrative,ｱﾄﾊタイムマシンﾄｶ……洗脳装置ﾓアリﾈ｣,36,還有時光機之類……洗腦裝置也不錯｣,人工定稿,导入警告: kana_residue
+69,0x448,system,system,1700,4,,未翻,
+70,0x44d,dialogue,narrative,il.｢洗脳ﾊﾄﾓｶｸ､ロボットﾄタイムマシンﾊ,36,il.｢洗腦先不説，機器人和時光機,人工定稿,P7 校对修正: ロボット=機器人 统一
+71,0x474,dialogue,narrative,是非触ﾗｾﾃﾓﾗｲﾀｲﾓﾉだ｣,19,真想親自摸一摸｣,人工定稿,导入警告: kana_residue
+72,0x488,dialogue,narrative,｢ｿｳﾈ｡パイロット候補ﾆｼﾃｵｸﾜ｣,26,｢是哦。先留作駕駛員候補｣,人工定稿,导入警告: kana_residue
+73,0x4a4,dialogue,narrative,ロム2_KW_悪_圭介,16,ROM2_KW_惡_圭介,人工定稿,
+74,0x4b8,system,system,0136,4,,未翻,
+75,0x4bd,dialogue,narrative,il.｢悪ｯﾃ世ﾉ中ｶﾗ無ｸﾅﾗﾅｲﾝでｼｮｳｶ｣,30,il.｢惡這種東西不會從世上消失?｣,人工定稿,P7 校对修正: 補 世の中から(從世上)
+76,0x4dc,system,system,1701,4,,未翻,
+77,0x4e1,dialogue,narrative,il.｢ｿﾓｿﾓ悪ﾉ定義次第だﾅ｡,23,il.｢本來就看惡的定義。,人工定稿,导入警告: kana_residue
+78,0x4fc,dialogue,narrative,例ｴば正義ﾉ味方だｹｦ集ﾒﾀﾄｼﾃﾓ,26,例如就算只聚集正義的同伴,人工定稿,P7 校对修正: 補 例えば(例如)
+79,0x518,dialogue,narrative,ｿﾉ中でﾉ悪が生ﾏﾚﾙだﾛｳ?｣,22,其中也會産生惡對不?｣,人工定稿,P7 校对修正: だろう? 求确认按 v1.4 用 對不
+80,0x530,system,system,0137,4,,未翻,
+81,0x535,dialogue,narrative,il.｢ｱｱ｡チームワークｦ乱ｽ奴ﾄｶでｽｶ｣,32,il.｢哦。比如擾亂團隊合作的人?｣,人工定稿,导入警告: kana_residue
+82,0x558,system,system,1702,4,,未翻,
+83,0x55d,dialogue,narrative,il.｢人間ﾊ集団で生ｷﾙ生ｷ物だ｡,27,il.｢人類是群居生存的生物。,人工定稿,导入警告: kana_residue
+84,0x57c,dialogue,narrative,ｿｼﾃ集団ﾄﾊｿﾉ中で比較ｼﾃ,21,集體就是在其中比較,人工定稿,
+85,0x594,dialogue,narrative,悪ﾄｼﾃｼﾏｳﾓﾉだ｣,13,當成惡的對象｣,人工定稿,导入警告: kana_residue
+86,0x5a4,system,system,1703,4,,未翻,
+87,0x5a9,dialogue,narrative,il.｢ｿｼﾃ誰ﾓｿﾚｦ止ﾒﾊｼﾅｲ｡,21,il.｢然後誰都不會阻止,人工定稿,导入警告: kana_residue
+88,0x5c0,dialogue,narrative,自分が次ﾉ悪ﾆﾅﾙﾉが怖ｲｶﾗﾅ｣,24,因為怕自己成為下一個惡｣,人工定稿,导入警告: kana_residue
+89,0x5dc,system,system,0138,4,,未翻,
+90,0x5e1,dialogue,narrative,il.｢だﾄｽﾚば……,15,il.｢那樣的話,人工定稿,导入警告: kana_residue
+91,0x5f4,dialogue,narrative,ｿﾝﾅ考ｴ方ｦｽﾙ,11,持那種想法,人工定稿,
+92,0x600,dialogue,narrative,人ｿﾉﾓﾉが悪ﾅﾉだﾄ思ｲﾏｽ｣,21,的人本身就是惡｣,人工定稿,导入警告: kana_residue
+93,0x618,system,system,1704,4,,未翻,
+94,0x61d,dialogue,narrative,il.｢ｱﾙｲﾊ､ｿｳﾅﾉｶﾓｼﾚﾅｲﾅ｣,21,il.｢或許真是如此哦｣,人工定稿,导入警告: kana_residue
+95,0x634,dialogue,narrative,ロム2_KW_悪_霞,14,ROM2_KW_惡_霞,人工定稿,
+96,0x644,dialogue,narrative,｢本当ﾆ悪ｲ人ﾅﾝﾃ……ｲﾙﾉでｼｮｳｶ……｣,32,｢真正壞的人……真的存在?……｣,人工定稿,导入警告: kana_residue
+97,0x668,system,system,1705,4,,未翻,
+98,0x66d,dialogue,narrative,il.｢どｳｲｳｺﾄだ?｣,15,il.｢什麼意思?｣,人工定稿,导入警告: kana_residue
+99,0x680,system,system,0139,4,,未翻,
+100,0x685,dialogue,narrative,il.｢ｱ､ごﾒﾝﾅｻｲ｡,14,il.｢唔，抱歉。,人工定稿,导入警告: kana_residue
+101,0x694,dialogue,narrative,ｱﾉ､悪ｲｺﾄｦｽﾙ人ﾊ……ｲﾏｽｹど……,28,做壞事的人……是有的，不過,人工定稿,
+102,0x6b4,dialogue,narrative,ﾐﾝﾅ何ｶ､理由がｱﾙﾝだﾄ思ｳﾝでｽ……｣,31,我覺得大家都有某種理由……｣,人工定稿,导入警告: kana_residue
+103,0x6d4,system,system,0140,4,,未翻,
+104,0x6d9,dialogue,narrative,il.｢だｯﾃ悪ｲｺﾄﾅﾝﾃ……,20,il.｢因為壞事之類……,人工定稿,P7 校对修正: なんて→之類 語感
+105,0x6f0,dialogue,narrative,本当ﾊ誰ﾓｼﾀｸﾅｲﾊず､でｽﾖﾈ……?｣,28,其實誰都不想做的，對不……?｣,人工定稿,"P7 校对修正: ですよね……? 求确认, 禁 對哦(v1.4)"
+106,0x710,system,system,1706,4,,未翻,
+107,0x715,dialogue,narrative,il.｢……ｿｳだﾄ良ｲがﾅ｣,20,il.｢……那樣就好了｣,人工定稿,导入警告: kana_residue
+108,0x72c,dialogue,narrative,ジャック氏ｦ見ﾃｲﾙﾄ､,18,看著傑克，,人工定稿,
+109,0x740,dialogue,narrative,ｿｳﾊ考ｴﾗﾚﾅｸﾅｯﾃｸﾙ……｡,20,漸漸無法這麼想了……,人工定稿,
+110,0x758,dialogue,narrative,ロム2_KW_悪_ﾊﾙｶ,15,ROM2_KW_惡_遙,人工定稿,
+111,0x768,system,system,0095,4,,未翻,
+112,0x76d,dialogue,narrative,il.｢……ﾜﾙｲﾋﾄ､ｷﾗｲ｣,18,il.｢壞人，討厭｣,人工定稿,导入警告: kana_residue
+113,0x780,system,system,1707,4,,未翻,
+114,0x785,dialogue,narrative,il.｢ﾏｧ好ｷﾅ人ﾊｲﾅｲだﾛｳﾅ｣,22,il.｢嘛，大概沒人喜歡｣,人工定稿,导入警告: kana_residue
+115,0x79c,system,system,0096,4,,未翻,
+116,0x7a1,dialogue,narrative,il.｢ｵ兄ﾁｬﾝがﾔｯﾂｹﾃｸﾚﾙﾓﾝ｣,23,il.｢哥哥會幇我收拾的嘛｣,人工定稿,导入警告: kana_residue
+117,0x7bc,system,system,1708,4,,未翻,
+118,0x7c1,dialogue,narrative,il.｢ﾂﾑじｸﾝ､頼ﾗﾚﾃｲﾙﾉだﾅ……｣,27,il.｢旋，被信賴著哦……｣,人工定稿,导入警告: kana_residue
+119,0x7e0,dialogue,narrative,ロム2_KW_悪_ﾂﾑじ,16,ROM2_KW_惡_旋,人工定稿,
+120,0x7f4,system,system,0098,4,,未翻,
+121,0x7f9,dialogue,narrative,il.｢テレビでﾊ悪ｲ人がﾔﾗﾚﾙｹど……,31,il.｢電視裡壞人會被收拾，不過,人工定稿,导入警告: kana_residue
+122,0x81c,dialogue,narrative,現実ﾊ悪ｲ人ﾉ方が強ｲﾝでｽﾖ｣,24,現實裡壞人反而更強哦｣,人工定稿,导入警告: kana_residue
+123,0x838,system,system,1709,4,,未翻,
+124,0x83d,dialogue,narrative,il.｢ﾅぜｿｳ思ｳ?｣,14,il.｢怎麼想的?｣,人工定稿,P7 校对修正: なぜそう思う 译意完整
+125,0x84c,system,system,0099,4,,未翻,
+126,0x851,dialogue,narrative,il.｢だｯﾃ､正義ﾉ味方ﾅﾝﾃｲﾅｲじｬﾅｲｶ｡,31,il.｢因為正義的同伴根本不存在呀｣,人工定稿,P7 校对修正: じゃないか 共感→呀(槽内去掉逗号)
+127,0x874,dialogue,narrative,弱ｲｶﾗ絶滅ｼﾁｬｯﾀﾝだﾖ｡,19,因為弱才滅絶了哦。,人工定稿,
+128,0x888,dialogue,narrative,残ｯﾃﾙﾉﾊ悪ｲ人ばｶﾘ……｣,21,留下來的全是壞人……｣,人工定稿,导入警告: kana_residue
+129,0x8a0,system,system,0100,4,,未翻,
+130,0x8a5,dialogue,narrative,il.｢ｵ姉ｻﾝがﾓｼ正義ﾉ味方だｯﾃ言ｳﾅﾗ……,35,il.｢要是姐姐説自己是正義的同伴……,人工定稿,导入警告: kana_residue
+131,0x8cc,dialogue,narrative,気ｦ付ｹﾃｸだｻｲﾈ｡,14,請小心哦。,人工定稿,
+132,0x8dc,dialogue,narrative,食ﾜﾚﾏｽﾖ､悪人ﾆ｣,14,被壞人吃掉哦｣,人工定稿,导入警告: kana_residue
+133,0x8ec,dialogue,narrative,……薄気味ﾉ悪ｲｺﾄｦ言ｳﾔﾂだﾅ｡,26,……説話令人發毛的人。,人工定稿,
+134,0x908,dialogue,narrative,ロム2_KW_悪_ジャック,20,ROM2_KW_惡_傑克,人工定稿,
+135,0x920,system,system,0109,4,,未翻,
+136,0x925,dialogue,narrative,il.｢悪ｸﾃ何が悪ｲ!｣,17,il.｢壞又怎樣!｣,人工定稿,导入警告: kana_residue
+137,0x938,system,system,1710,4,,未翻,
+138,0x93d,dialogue,narrative,il.｢ｲﾔ､悪ｲだﾛｳ｡悪ｲﾉだｶﾗ｣,24,il.｢不，就是壞。因為壞｣,人工定稿,导入警告: kana_residue
+139,0x958,system,system,0110,4,,未翻,
+140,0x95d,dialogue,narrative,il.｢ｹｯ､悪ｶｯﾀﾅ!｣,15,il.｢切，我錯了｣,人工定稿,导入警告: kana_residue
+141,0x970,dialogue,narrative,……深ｲ会話だﾅ｡,15,……深刻的對話,人工定稿,
+142,0x980,dialogue,narrative,ロム2_KW_悪_薫,14,ROM2_KW_惡_薰,人工定稿,
+143,0x990,system,system,0258,4,,未翻,
+144,0x995,dialogue,narrative,il.｢警察官ﾉ任務ﾊ悪ﾄ戦ｳ事でｽ!｣,29,il.｢警察的任務就是與惡戰鬥!｣,人工定稿,导入警告: kana_residue
+145,0x9b4,system,system,1711,4,,未翻,
+146,0x9b9,dialogue,narrative,il.｢薫ｻﾝﾊ普段どﾝﾅ仕事ｦ?｣,24,il.｢薰平時做什麼工作?｣,人工定稿,导入警告: kana_residue
+147,0x9d4,system,system,0259,4,,未翻,
+148,0x9d9,dialogue,narrative,il.｢ｴｰｯﾄスピード違反ﾄｲｯﾀ悪ﾔ,27,il.｢唔，超速之類的惡，以及,人工定稿,导入警告: kana_residue
+149,0x9f8,dialogue,narrative,暴走族ﾄｲｯﾀ巨悪ﾄ戦ｯﾃﾏｽ｡,22,跟暴走族這種大惡戰鬥。,人工定稿,
+150,0xa10,dialogue,narrative,ｱ､ｿﾚﾄ飲酒運転ﾓ!｣,16,哦，還有酒駕!｣,人工定稿,导入警告: kana_residue
+151,0xa24,system,system,0260,4,,未翻,
+152,0xa29,dialogue,narrative,il.｢地味ﾆ見ｴﾏｽｹど､日本ﾆ一番多ｲ悪ﾅﾝでｽ｡,38,il.｢雖然看似不起眼，卻是日本最多的惡。,人工定稿,导入警告: kana_residue
+153,0xa50,dialogue,narrative,大変ﾅﾝでｽﾖ｡逆ギレﾓﾖｸｻﾚﾏｽｼ｣,26,很辛苦哦。還常被反咬一口｣,人工定稿,P7 校对修正: 逆ギレ=被反咬一口
+154,0xa6c,system,system,1712,4,,未翻,
+155,0xa71,dialogue,narrative,il.｢ｱｱ｡一般市民ﾄｼﾃﾓｱﾘがﾀｸ思ｯﾃｲﾙ｡,32,il.｢哦。作為普通市民也很感激。,人工定稿,导入警告: kana_residue
+156,0xa94,dialogue,narrative,実態ﾆ合ﾜｾﾀ取締ﾘﾄﾊ思ｴﾅｲｶﾗ,24,因為不覺得那取締符合實情,人工定稿,"P7 校对修正: 取締り=取締, 実態=實情"
+157,0xab0,dialogue,narrative,理不尽ﾆ見ｴﾙｺﾄﾓｱﾙだﾛｳが……｣,27,看起來不講理的時候也有……｣,人工定稿,导入警告: kana_residue
+158,0xacc,system,system,0261,4,,未翻,
+159,0xad1,dialogue,narrative,il.｢気持ﾁﾊﾜｶﾘﾏｽｹど……,22,il.｢心情我能明白……,人工定稿,导入警告: kana_residue
+160,0xae8,dialogue,narrative,ｿﾚが安全ﾉﾀﾒでｽｶﾗ｣,17,因為那是為了安全｣,人工定稿,导入警告: kana_residue
+161,0xafc,system,system,1713,4,,未翻,
+162,0xb01,dialogue,narrative,il.｢ｱｱ｡ﾒげずﾆ頑張ｯﾃｸﾚ｣,22,il.｢哦。別氣餒，加油,人工定稿,导入警告: kana_residue
+163,0xb18,dialogue,narrative,ロム2_KW_悪_樫沢,16,ROM2_KW_惡_樫澤,人工定稿,
+164,0xb2c,system,system,0243,4,,未翻,
+165,0xb31,dialogue,narrative,il.｢悪ﾄｲｳﾉﾊﾂﾏﾘ､,15,il.｢所謂惡，即,人工定稿,导入警告: kana_residue
+166,0xb44,dialogue,narrative,ｿﾚが許ｻﾚﾙ事が,13,那被允許的事,人工定稿,
+167,0xb54,dialogue,narrative,社会的ﾆ不便ﾅ事ｦ指ｽﾉでｼｮｳﾈ｣,26,是指社會上不便的事呀｣,人工定稿,P7 校对修正: でしょうね 共感→呀(v1.4)
+168,0xb70,system,system,1714,4,,未翻,
+169,0xb75,dialogue,narrative,il.｢ﾌﾑ｡深ｲﾅ｣,12,il.｢唔，深｣,人工定稿,导入警告: kana_residue
+170,0xb82,system,system,s,1,,未翻,
+171,0xb84,system,system,0244,4,,未翻,
+172,0xb89,dialogue,narrative,il.｢人が人ｦ殺ｽ事ｦ悪ﾄ感じﾙﾉﾊ,27,il.｢把殺人視為惡是因為,人工定稿,导入警告: kana_residue
+173,0xba8,dialogue,narrative,人が簡単ﾆ殺ｻﾚﾃｼﾏｳﾖｳでﾊ,22,要是人輕易就被殺掉,人工定稿,
+174,0xbc0,dialogue,narrative,社会が混乱ｼﾃｼﾏｳｶﾗﾆｽぎﾏｾﾝ｣,25,只會讓社會陷入混亂而已｣,人工定稿,导入警告: kana_residue
+175,0xbdc,system,system,0245,4,,未翻,
+176,0xbe1,dialogue,narrative,il.｢戦場で人ｦ殺ｽ事ｦ悪ﾄﾊ,23,il.｢在戰場殺人,人工定稿,导入警告: kana_residue
+177,0xbfc,dialogue,narrative,言ﾜﾅｲでｽｶﾗﾈ｣,12,不算惡哦｣,人工定稿,导入警告: kana_residue
+178,0xc0c,system,system,1715,4,,未翻,
+179,0xc11,dialogue,narrative,il.｢ﾀｼｶﾆ､,9,il.｢確實,人工定稿,导入警告: kana_residue
+180,0xc1b,dialogue,narrative,.ｱﾉルールﾊ人殺ｼが合法化ｻﾚﾃｲﾙ｡,29,.那規則下殺人被合法化。,人工定稿,"P7 校对修正: 合法化されている=被合法化, 去「説」"
+181,0xc3c,dialogue,narrative,ｺｺﾊﾏｻﾆ戦場ﾄｲｳｺﾄｶ｣,17,這裡簡直就是戰場｣,人工定稿,导入警告: kana_residue
+182,0xc50,system,system,0246,4,,未翻,
+183,0xc55,dialogue,narrative,il.｢合法化?,11,il.｢合法化?,人工定稿,导入警告: kana_residue
+184,0xc61,system,system,ts,2,,未翻,
+185,0xc64,dialogue,narrative,ﾔﾒﾃｸだｻｲ｡,9,別這樣。,人工定稿,
+186,0xc6e,system,system,s,1,,未翻,
+187,0xc70,dialogue,narrative,ｿﾝﾅﾓﾉ､認ﾒﾀ覚ｴﾊｱﾘﾏｾﾝ｣,20,那種東西我沒認可過｣,人工定稿,导入警告: kana_residue
+188,0xc88,system,system,0247,4,,未翻,
+189,0xc8d,dialogue,narrative,il.｢ルールで認ﾒﾗﾚﾃｲﾃﾓ我々ﾊ認ﾒﾅｲ｡,32,il.｢就算規則認可，我們也不認可。,人工定稿,导入警告: kana_residue
+190,0xcb0,dialogue,narrative,社会で不便ﾄｲｳﾉﾊ､ｿｳｲｳ意味でｽﾖ｣,29,所謂社會上不便就是指這意思哦｣,人工定稿,导入警告: kana_residue
+191,0xcd0,system,system,1716,4,,未翻,
+192,0xcd5,dialogue,narrative,il.｢……ｿｳｶ｡ｿﾚﾓｿｳだﾅ｣,21,il.｢這樣呀。那倒也是｣,人工定稿,导入警告: kana_residue
+193,0xcec,dialogue,narrative,ロム2_KW_悪_唯柚,16,ROM2_KW_惡_唯柚,人工定稿,
+194,0xd00,system,system,0188,4,,未翻,
+195,0xd05,dialogue,narrative,il.｢最近パパﾆ悪ｲ虫がﾂｶﾅｲｶｯﾃ,27,il.｢最近老被説父親會招壞蟲,人工定稿,"P7 校对修正: よく言われる 被动, 補 被"
+196,0xd24,dialogue,narrative,ﾖｸ言ﾜﾚﾙﾝでｽｹど｣,15,被這麼説，不過｣,人工定稿,导入警告: kana_residue
+197,0xd34,system,system,0189,4,,未翻,
+198,0xd39,dialogue,narrative,il.｢悪ｲ虫ｯﾃ,11,il.｢壞蟲是,人工定稿,导入警告: kana_residue
+199,0xd45,system,system,ts,2,,未翻,
+200,0xd48,dialogue,narrative,油虫ﾉｺﾄｶﾅ……?,14,是指膩蟲……?,人工定稿,P7 校对修正: 油虫=膩蟲(蚜虫)
+201,0xd58,dialogue,narrative,ﾕﾕﾆﾊｿﾝﾅﾉﾂｶﾅｲﾉﾆ｣,15,唯柚明明不招的｣,人工定稿,导入警告: kana_residue
+202,0xd68,dialogue,narrative,ｵ花ﾆﾄｯﾃ悪ｲ虫､ﾄｲｳｺﾄｶ｡,20,對花來説就是壞蟲哦。,人工定稿,
+203,0xd80,dialogue,narrative,ﾀｼｶﾆ語源ﾊｿｺだﾛｳが……｡,22,確實語源應該就在那……,人工定稿,
+204,0xd98,dialogue,narrative,ロム2_KW_悪_紅春,16,ROM2_KW_惡_紅春,人工定稿,
+205,0xdac,system,system,0227,4,,未翻,
+206,0xdb1,dialogue,narrative,il.｢小児科ﾉ子どﾓ達ﾄﾖｸ,21,il.｢常和兒科的小朋友,人工定稿,导入警告: kana_residue
+207,0xdc8,dialogue,narrative,子どﾓ向ｹﾉ番組ﾄｶ見ﾙﾝでｽｹど｣,26,看兒童節目之類的，不過｣,人工定稿,导入警告: kana_residue
+208,0xde4,system,system,0228,4,,未翻,
+209,0xde9,dialogue,narrative,il.｢ｿｳｲｳ番組ﾉ悪役ｯﾃ､,20,il.｢那種節目的反派，,人工定稿,导入警告: kana_residue
+210,0xe00,dialogue,narrative,だｲﾀｲﾊ悪ｲ事ｦｽﾙ前ﾆ,17,大多在做壞事之前,人工定稿,
+211,0xe14,dialogue,narrative,ﾔｯﾂｹﾗﾚﾁｬｳﾝでｽ｣,14,就被收拾掉了｣,人工定稿,导入警告: kana_residue
+212,0xe24,system,system,0229,4,,未翻,
+213,0xe29,dialogue,narrative,il.｢だｶﾗ実際ﾊ､ｱﾝﾏﾘ悪ｲ事ﾊ,24,il.｢所以實際上沒怎麼,人工定稿,导入警告: kana_residue
+214,0xe44,dialogue,narrative,ｼﾃﾅｲﾝでｽﾖ｡,10,做壞事哦。,人工定稿,
+215,0xe50,dialogue,narrative,ﾅﾉﾆ退治ｻﾚﾁｬｯﾃ､ﾁｮｯﾄ可哀想でｽﾖﾈ｣,30,卻被收拾掉，有點可憐呀｣,人工定稿,P7 校对修正: ですよね 共感→呀(v1.4)
+216,0xe70,system,system,1717,4,,未翻,
+217,0xe75,dialogue,narrative,il.｢放ｯﾃｵｲﾀ場合悪ｲ事ｦｽﾙﾉでｱﾚば……,34,il.｢放著不管會做壞事的話……,人工定稿,导入警告: kana_residue
+218,0xe98,dialogue,narrative,ｲﾔ､説得ｽﾙべｷｶ｣,14,不，該説服?｣,人工定稿,导入警告: kana_residue
+219,0xea8,system,system,0230,4,,未翻,
+220,0xead,dialogue,narrative,il.｢ｿｳでｽﾖ｡,11,il.｢是哦。,人工定稿,导入警告: kana_residue
+221,0xeb9,system,system,ts,2,,未翻,
+222,0xebc,dialogue,narrative,話ｼ合ｲで解決ｽﾚば､ﾐﾝﾅ仲良ｼﾅﾊずでｽ｣,33,若能靠商量解決，大家都該和睦相處｣,人工定稿,导入警告: kana_residue
+223,0xee0,dialogue,narrative,ロム2_KW_悪_西野,16,ROM2_KW_惡_西野,人工定稿,
+224,0xef4,system,system,0067,4,,未翻,
+225,0xef9,dialogue,narrative,il.｢ｱ､ｱｱ､悪ﾄﾊ失礼ﾅ!,19,il.｢呀，説惡太失禮!,人工定稿,导入警告: kana_residue
+226,0xf10,dialogue,narrative,ﾝ､誰が悪代官だﾈ､チミ!｣,22,唔，誰是惡代官呀!｣,人工定稿,导入警告: kana_residue
+227,0xf28,system,system,1718,4,,未翻,
+228,0xf2d,dialogue,narrative,il.｢ｲﾔ､ｵ代官様ﾄﾊ言ｯﾀ覚ｴがｱﾘﾏｾﾝが｡,33,il.｢不，我可沒説過什麼代官大人。,人工定稿,导入警告: kana_residue
+229,0xf50,dialogue,narrative,誰ｶﾆ言ﾜﾚﾀﾉでｽｶ?,15,是誰説的?,人工定稿,
+230,0xf60,dialogue,narrative,例ｴば何ｶ賄賂的ﾅ……｣,20,比如説什麼賄賂……｣,人工定稿,导入警告: kana_residue
+231,0xf78,system,system,0068,4,,未翻,
+232,0xf7d,dialogue,narrative,il.｢ﾝ､ﾑﾑ……｡,13,il.｢唔唔……,人工定稿,导入警告: kana_residue
+233,0xf8c,dialogue,narrative,ﾌﾝ､ﾓ､ﾓｳｿﾉ話ﾊ良ｲでﾊﾅｲｶ｣,22,切，那、那話題別提了!｣,人工定稿,"P7 校对修正: もう良い=算了/別提, 原译反义"
+234,0xfa4,system,system,1719,4,,未翻,
+235,0xfa9,dialogue,narrative,il.｢ﾎｳ｡ﾖｲでﾊﾅｲｶ､ﾖｲでﾊﾅｲｶ……ﾄ｣,30,il.｢哦。『別提了別提了』……｣,人工定稿,"P7 校对修正: 同上, 引号标引用"
+236,0xfc8,system,system,0069,4,,未翻,
+237,0xfcd,dialogue,narrative,il.｢だｶﾗ悪代官でﾊﾅｲ!｣,21,il.｢所以不是惡代官!｣,人工定稿,导入警告: kana_residue

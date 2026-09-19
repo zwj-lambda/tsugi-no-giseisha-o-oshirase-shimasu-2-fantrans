@@ -1,0 +1,5 @@
+# 本机与临时文件
+__pycache__/
+.env*
+.DS_Store
+Thumbs.db

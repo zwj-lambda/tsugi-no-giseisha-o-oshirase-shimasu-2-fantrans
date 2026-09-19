@@ -1,0 +1,492 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_ope.tob,22,,未翻,
+2,0x18,system,system,kw_ope.sts,10,,未翻,
+3,0x24,dialogue,label,ROM2_KW_樫沢ﾉ作戦,17,ROM2_KW_樫澤作戰,人工定稿,
+4,0x38,dialogue,label,ROM2_KW会話_樫沢ﾉ作戦,21,ROM2_KW會話_樫澤作戰,人工定稿,
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_美紀,23,ROM2_KW_樫澤之作戰_美紀,人工定稿,
+8,0x90,system,system,1034,4,,未翻,
+9,0x95,dialogue,narrative,e.s｢ｱﾀｼﾊ半信半疑ｯﾃ感じｯｽ｣,25,e.s｢我是半信半疑的感覺｣,人工定稿,导入警告: kana_residue
+10,0xb0,system,system,1035,4,,未翻,
+11,0xb5,dialogue,narrative,e.s｢だｯﾃ､樫沢ﾊ偉ｿｳﾆｺﾉ作戦ｦ,26,e.s｢因為樫澤擺架子向大家,人工定稿,导入警告: kana_residue
+12,0xd0,dialogue,narrative,ﾐﾝﾅﾆ勧ﾒﾀｹど……,15,推薦這作戰……,人工定稿,
+13,0xe0,dialogue,narrative,実際､死人が出ﾁｬｯﾀじｬﾅｲｽｶ｣,25,但實際出了人命不是嘛｣,人工定稿,导入警告: kana_residue
+14,0xfc,system,system,1036,4,,未翻,
+15,0x101,dialogue,narrative,e.s｢ｺﾉﾏﾏ続ｹﾃ大丈夫ｶﾅｰｯﾃ不安ｯｽ｣,30,e.s｢擔心這樣下去是否沒問題｣,人工定稿,"P7 校对修正: かなーって不安 误译+翻译腔: 改""擔心…是否…"""
+16,0x120,system,system,1788,4,,未翻,
+17,0x125,dialogue,narrative,e.s｢……美紀ｸﾝﾉ言ｲﾀｲｺﾄﾊﾜｶﾙ｣,27,e.s｢……我明白美紀想説的｣,人工定稿,导入警告: kana_residue
+18,0x144,system,system,1789,4,,未翻,
+19,0x149,dialogue,narrative,e.s｢だが､樫沢氏ﾉ作戦ﾖﾘ有効ﾅ作戦がｱﾙｶ?｣,38,e.s｢但有比樫澤作戰更有效的?｣,人工定稿,导入警告: kana_residue
+20,0x170,system,system,1037,4,,未翻,
+21,0x175,dialogue,narrative,e.s｢ｿﾚﾊ……｣,12,e.s｢那……｣,人工定稿,导入警告: kana_residue
+22,0x184,system,system,1790,4,,未翻,
+23,0x189,dialogue,narrative,e.s｢ﾖﾘ良ｲ考ｴが見ﾂｶﾙﾏでﾊ､,24,e.s｢在找到更好想法前，,人工定稿,导入警告: kana_residue
+24,0x1a4,dialogue,narrative,美紀ｸﾝﾆﾓ協力ｼﾃ貰ｲﾀｲﾝだが……｣,29,希望美紀也配合……｣,人工定稿,"P7 校对修正: 協力 块内统一""配合""(与58/192/289/337/347一致); 去赘余""一起"""
+25,0x1c4,system,system,1038,4,,未翻,
+26,0x1c9,dialogue,narrative,e.s｢ｳｰ､ﾏｧｵ姉ｻﾏがｿｳ言ｳﾅﾗ……,27,e.s｢唔，既然姐姐大人這麼説,人工定稿,导入警告: kana_residue
+27,0x1e8,dialogue,narrative,ｱﾀｼﾊ従ｳｯｽｹど……｣,17,我只好服從……｣,人工定稿,导入警告: kana_residue
+28,0x1fc,system,system,1791,4,,未翻,
+29,0x201,dialogue,narrative,e.s｢腑ﾆ落ﾁﾅｲﾉﾊ､作戦が悪ｲﾉでﾊﾅｲ｡,31,e.s｢讓人不服的，不是作戰不好。,人工定稿,导入警告: kana_residue
+30,0x224,dialogue,narrative,ｺﾉゲームｿﾉﾓﾉが理不尽ﾅﾉだ｡,25,是這個遊戲本身太不合理。,人工定稿,
+31,0x240,dialogue,narrative,ｿｳ思ｯﾃ割ﾘ切ﾙｺﾄだﾅ｣,18,這麼想然後看開點｣,人工定稿,导入警告: kana_residue
+32,0x254,system,system,1039,4,,未翻,
+33,0x259,dialogue,narrative,e.s｢ｳｲｯｽ｣,9,e.s｢好｣,人工定稿,导入警告: kana_residue
+34,0x263,dialogue,narrative,sロム2_KW_樫沢ﾉ作戦_香菜,24,sROM2_KW_樫澤之作戰_香菜,人工定稿,
+35,0x27c,system,system,0284,4,,未翻,
+36,0x281,dialogue,narrative,e.s｢ｱﾉ作戦ﾈｪ｡,13,e.s｢那作戰嘛,人工定稿,"P7 校对修正: 原文无｣(引号至38收), 去误加"
+37,0x28f,dialogue,narrative,濠mｶﾆｱﾉｵｯｻﾝﾊ死ﾝじｬｯﾀｹど,23,確實，那大叔是死了,人工定稿,
+38,0x2a8,dialogue,narrative,作戦ｿﾉﾓﾉﾊ全ｸ意味がﾅｲワケじｬﾅｲﾜﾖﾈ｣,33,但作戰本身也不是全無意義呀｣,人工定稿,"P7 校对修正: わよね 求确认禁""對哦""(v1.4); 无问号按共感用""呀"""
+39,0x2cc,system,system,1792,4,,未翻,
+40,0x2d1,dialogue,narrative,e.s｢ｱｱ､少ﾅｸﾄﾓ死亡ｼﾃｼﾏｳ人数ﾊ,27,e.s｢對，至少會死亡的人數,人工定稿,导入警告: kana_residue
+41,0x2f0,dialogue,narrative,抑ｴﾗﾚﾃｲﾙ｡,9,被壓低了,人工定稿,"P7 校对修正: 抑えられている 用于人数, ""被壓住""歧义"
+42,0x2fc,dialogue,narrative,時間稼ぎでｼｶﾅｲが……｣,21,只是爭取時間而已……｣,人工定稿,导入警告: kana_residue
+43,0x314,system,system,0285,4,,未翻,
+44,0x319,dialogue,narrative,e.s｢時間ｻｴ稼げﾀﾗ､色々でｷﾙﾜ｡,27,e.s｢只要爭取到時間，就能,人工定稿,导入警告: kana_residue
+45,0x338,dialogue,narrative,今ﾊﾄﾆｶｸ､被害者ｦ少ﾅｸｽﾙｺﾄｦ,24,做很多事，總之現在,人工定稿,
+46,0x354,dialogue,narrative,考ｴﾙべｷだﾄ思ｳﾉ｣,15,該減少受害者｣,人工定稿,导入警告: kana_residue
+47,0x364,system,system,0286,4,,未翻,
+48,0x369,dialogue,narrative,e.s｢ｿｳｲｳ意味でﾊ､私ﾊ賛成ﾖ｣,25,e.s｢就這點來説，我贊成｣,人工定稿,导入警告: kana_residue
+49,0x384,system,system,1793,4,,未翻,
+50,0x389,dialogue,narrative,e.s｢ﾅﾙﾎど｡承知ｼﾀ｣,17,e.s｢是這樣，明白｣,人工定稿,导入警告: kana_residue
+51,0x39c,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_昇,21,ROM2_KW_樫澤之作戰_昇,人工定稿,
+52,0x3b4,system,system,0281,4,,未翻,
+53,0x3b9,dialogue,narrative,e.s｢ｱｱ､ﾁｮｳどｿﾉｺﾄ聞ｺｳﾄ思ｯﾃﾀﾝだ｡,30,e.s｢哦，正好想問這件事。,人工定稿,P7 校对修正: 补回行首 アア 领会语气
+54,0x3d8,dialogue,narrative,浅川ｻﾝﾊどｳ思ｳ?｣,15,淺川覺得如何?｣,人工定稿,导入警告: kana_residue
+55,0x3e8,system,system,1794,4,,未翻,
+56,0x3ed,dialogue,narrative,e.s｢質問ｼﾀﾉﾊ私だｯﾀﾉだが……ﾏｧｲｲ｡,32,e.s｢明明是我先問的……算了,人工定稿,"P7 校对修正: 原文无｣(引号至58收), 去误加"
+57,0x410,dialogue,narrative,ｱﾉ作戦ﾆﾂｲﾃﾊ特ﾆ反対ｽﾙ理由ﾊﾅｲﾅ｡,29,對那作戰我沒有特別反對的理由,人工定稿,
+58,0x430,dialogue,narrative,皆がノリ気ﾅﾉでｱﾚば協力ﾊｼﾖｳ｣,27,大家有意的話我就配合｣,人工定稿,导入警告: kana_residue
+59,0x44c,system,system,1795,4,,未翻,
+60,0x451,dialogue,narrative,e.s｢ｼｶｼ……,11,e.s｢但……,人工定稿,导入警告: kana_residue
+61,0x45d,system,system,s,1,,未翻,
+62,0x460,dialogue,narrative,ｻｯｷﾄﾊ状況が変ﾜｯﾃｲﾙｺﾄﾆ,21,状況已經跟剛才不同,人工定稿,
+63,0x478,dialogue,narrative,気がﾂｶﾅｲｶ?｣,11,沒發現?｣,人工定稿,导入警告: kana_residue
+64,0x484,system,system,0282,4,,未翻,
+65,0x489,dialogue,narrative,e.s｢ｿｳだﾅ……｡,14,e.s｢是呀……,人工定稿,导入警告: kana_residue
+66,0x498,dialogue,narrative,人が一人死ﾝで､ﾐﾝﾅ疑心暗鬼だ｡,28,死了一個人，大家疑神疑鬼,人工定稿,
+67,0x4b8,dialogue,narrative,Xﾉｺﾄﾓ気ﾆﾅﾙｼ……｣,16,也掛心X的事……｣,人工定稿,导入警告: kana_residue
+68,0x4cc,system,system,1796,4,,未翻,
+69,0x4d1,dialogue,narrative,e.s｢ｿﾝﾅｺﾄｦ言ｯﾃｲﾙﾉでﾊﾅｲ｡,23,e.s｢不是要説那種事。,人工定稿,导入警告: kana_residue
+70,0x4ec,dialogue,narrative,ﾓｯﾄ致命的ﾅ問題がｱﾙだﾛｳ｣,23,有更致命的問題呀｣,人工定稿,"P7 校对修正: だろウ 无问号共感, 去生硬""不是""; 补断言语气"
+71,0x504,system,system,1797,4,,未翻,
+72,0x509,dialogue,narrative,e.s｢西野氏が､警官だｯﾀﾗどｳｽﾙ?｣,29,e.s｢如果西野是警官該怎麼做?｣,人工定稿,"P7 校对修正: どうする 误作""要怎樣""(语气不符), 改""該怎麼做"""
+73,0x528,system,system,0283,4,,未翻,
+74,0x52d,dialogue,narrative,e.s｢ｱｯ……｣,11,e.s｢呀……｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+75,0x539,system,system,s,1,,未翻,
+76,0x53c,system,system,0287,4,,未翻,
+77,0x541,dialogue,narrative,e.s｢……ｿﾉ可能性ﾆﾂｲﾃﾊ私ﾓ考ｴﾀｹど,31,e.s｢……那可能性我也想過,人工定稿,导入警告: kana_residue
+78,0x564,dialogue,narrative,無視ｽﾙｺﾄﾆｼﾀﾜ｡,13,但決定無視了,人工定稿,
+79,0x574,dialogue,narrative,確率が低ｽぎﾙﾓﾉ｣,15,概率太低嘛｣,人工定稿,"P7 校对修正: 用大陆词""概率""(style-notes 大陆习惯; 与 r2_t5_4_1_0 一致)"
+80,0x584,dialogue,narrative,｢ｿ､ｿｳﾅﾉｶ!?｣,11,｢是這樣!?｣,人工定稿,导入警告: kana_residue
+81,0x590,system,system,1798,4,,未翻,
+82,0x595,dialogue,narrative,e.s｢私ﾓ同感だ｣,14,e.s｢我也同感｣,人工定稿,导入警告: kana_residue
+83,0x5a4,system,system,1799,4,,未翻,
+84,0x5a9,dialogue,narrative,e.s｢ﾓｼ西野氏が警官ﾅﾗ､彼ﾉｺﾄだ｡,29,e.s｢如果西野是警官，以他,人工定稿,导入警告: kana_residue
+85,0x5c8,dialogue,narrative,自分自身ｦ指名ｼﾃガードｼﾃｲﾀだﾛｳ｣,30,的個性會指名自己保護｣,人工定稿,导入警告: kana_residue
+86,0x5e8,dialogue,narrative,｢ｱｧ……ｿﾚﾓｿｳｶ｣,14,｢説的也是｣,人工定稿,导入警告: kana_residue
+87,0x5f8,system,system,1800,4,,未翻,
+88,0x5fd,dialogue,narrative,e.s｢ﾓｯﾄﾓ……樫沢氏が説得ｼﾃｲﾀﾖｳだｶﾗ,34,e.s｢不過樫澤好像一直在説服,人工定稿,"P7 校对修正: 説得していた 为持续态, ""已説服""误作完成"
+89,0x620,dialogue,narrative,西野氏が我々ﾉ予想ﾖﾘﾓ物分ﾘﾉ良ｲ人間だｯﾀﾗ,38,西野，如果他是比想像更明理的人,人工定稿,
+90,0x648,dialogue,narrative,ｱﾙｲﾊ……｣,9,或者……｣,人工定稿,导入警告: kana_residue
+91,0x654,dialogue,narrative,｢ど､どｳﾅﾝだﾖ!?｣,15,｢到底怎樣!?｣,人工定稿,导入警告: kana_residue
+92,0x664,system,system,1801,4,,未翻,
+93,0x669,dialogue,narrative,e.s｢ｺﾚ以上ﾊ現時点でﾊ何ﾄﾓ言ｴﾅｲ｣,30,e.s｢現階段無法再多説｣,人工定稿,导入警告: kana_residue
+94,0x688,system,system,1802,4,,未翻,
+95,0x68d,dialogue,narrative,e.s｢だが私ﾊｺｳ考ｴﾙ｡,18,e.s｢但我這麼想。,人工定稿,导入警告: kana_residue
+96,0x6a0,dialogue,narrative,ｿﾝﾅ希薄ﾅ可能性ﾉ心配ｦｽﾙ暇がｱﾙﾅﾗ,30,有工夫擔心那種渺茫的可能,人工定稿,
+97,0x6c0,dialogue,narrative,裏切ﾘ者でﾓ特定ｼﾃ説得ｼﾀ方がマシだﾄ｣,34,性，不如找出叛徒説服｣,人工定稿,导入警告: kana_residue
+98,0x6e4,dialogue,narrative,｢裏切ﾘ者ｶ……｣,14,｢叛徒呀……｣,人工定稿,导入警告: kana_residue
+99,0x6f4,system,system,1803,4,,未翻,
+100,0x6f9,dialogue,narrative,e.s｢ﾓｯﾄﾓ､ｿｳ簡単ﾆﾊ見ﾂｶﾗﾅｲだﾛｳがﾅ｡,32,e.s｢不過也沒那麼容易找到,人工定稿,"P7 校对修正: 原文无｣(引号至102收), 去误加"
+101,0x71c,dialogue,narrative,今ﾉﾄｺﾛﾊ手がｶﾘﾓ少ﾅｲｼ……,23,目前線索也太少……,人工定稿,
+102,0x734,dialogue,narrative,彼ﾊ誰ﾆ恨ﾏﾚﾃｲﾃﾓｵｶｼｸﾅｶｯﾀｶﾗﾅ｣,26,他被誰恨也不奇怪｣,人工定稿,导入警告: kana_residue
+103,0x750,system,system,0288,4,,未翻,
+104,0x755,dialogue,narrative,e.s｢ﾂﾏﾘ､西野ｻﾝｦ殺ｼﾀﾉﾊ,21,e.s｢也就是説殺西野的,人工定稿,导入警告: kana_residue
+105,0x76c,dialogue,narrative,ウワサﾉXでﾊﾅｲｶﾓｼﾚﾅｲﾉｶ……｣,26,説不定不是傳聞的X……｣,人工定稿,导入警告: kana_residue
+106,0x788,system,system,1804,4,,未翻,
+107,0x78d,dialogue,narrative,e.s｢…………｣,13,e.s｢…………｣,人工定稿,导入警告: kana_residue
+108,0x79c,dialogue,narrative,ﾏｻｶ､ｺｺでXﾉ話が出ﾃｸﾙﾄﾊﾅ｡,23,想不到這裡會提到X。,人工定稿,
+109,0x7b4,dialogue,narrative,彼ﾆｼﾃﾊ珍ｼｸ核心ｦﾂｲﾃｸﾙﾉで,23,以他來説難得直指核心,人工定稿,
+110,0x7cc,dialogue,narrative,一瞬､焦ｯﾃｼﾏｯﾀ……｡,18,一瞬間有點慌……,人工定稿,
+111,0x7e0,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_圭介,23,ROM2_KW_樫澤之作戰_圭介,人工定稿,
+112,0x7f8,system,system,0147,4,,未翻,
+113,0x7fd,dialogue,narrative,e.s｢樫沢ｻﾝﾉ作戦でｽｶ｡僕ﾊ概ﾈ賛成でｽ｣,34,e.s｢樫澤的作戰?我大致贊成｣,人工定稿,导入警告: kana_residue
+114,0x820,system,system,0148,4,,未翻,
+115,0x825,dialogue,narrative,e.s｢既ﾆ一人犠牲者が出ﾃｼﾏｲﾏｼﾀｹど……,35,e.s｢雖然已經出現一名犧牲者……,人工定稿,"P7 校对修正: 字形回退 犠→犧, 与既有已定稿块一致(kw_vote 768/800, r2_t4_4_4_0 28 明注 次の犠牲者=下個犧牲者)"
+116,0x84c,dialogue,narrative,ｿﾚでﾓ､僕ﾊｺﾉ作戦ｦ続行ｼﾀｲﾄ思ｯﾃﾏｽ｣,31,但我還是想繼續這作戰｣,人工定稿,导入警告: kana_residue
+117,0x86c,system,system,1805,4,,未翻,
+118,0x871,dialogue,narrative,e.s｢ｶﾅﾘ決意ﾊ固ｲﾖｳだﾅ｣,21,e.s｢決心相當堅定｣,人工定稿,导入警告: kana_residue
+119,0x888,system,system,0149,4,,未翻,
+120,0x88d,dialogue,narrative,e.s｢ｿﾚﾊ､ｿｳでｽﾖ｡,15,e.s｢正是如此,人工定稿,导入警告: kana_residue
+121,0x8a0,dialogue,narrative,僕達ﾊ望ﾝでﾓﾅｲﾉﾆ,15,我們明明不希望,人工定稿,
+122,0x8b0,dialogue,narrative,ｺﾉ殺人ゲームﾆ巻ｷ込ﾏﾚﾀ｣,22,卻被捲進這殺人遊戲｣,人工定稿,导入警告: kana_residue
+123,0x8c8,system,system,0150,4,,未翻,
+124,0x8cd,dialogue,narrative,e.s｢でﾓ､誰ﾓ殺ｼﾀｸﾅﾝｶﾅｲﾝでｽ｣,26,e.s｢但是誰也不想殺人｣,人工定稿,导入警告: kana_residue
+125,0x8e8,system,system,0151,4,,未翻,
+126,0x8ed,dialogue,narrative,e.s｢じｬｱ､誰ﾆ投票ｽﾚばｲｲﾉｶ?,25,e.s｢那麼該投給誰?,人工定稿,"P7 校对修正: 原文无｣(引号至128收), 去误加"
+127,0x908,dialogue,narrative,ｿﾉ答ｴﾄｼﾃ警官ﾆ守ﾗﾚﾃﾙ人ﾄｲｳﾉﾊ,26,答案是投給被警官保護的人,人工定稿,
+128,0x924,dialogue,narrative,ｲｲアイディアでｽﾖ｣,17,是個好主意｣,人工定稿,导入警告: kana_residue
+129,0x938,system,system,1806,4,,未翻,
+130,0x93d,dialogue,narrative,e.s｢……完璧ﾄﾊｲｴﾅｲがﾅ｣,22,e.s｢……不能説是完美｣,人工定稿,导入警告: kana_residue
+131,0x954,system,system,0152,4,,未翻,
+132,0x959,dialogue,narrative,e.s｢ｿｳでｽｶ?,11,e.s｢是嘛?,人工定稿,"P7 校对修正: 原文无｣(引号至135收), 去误加"
+133,0x965,system,system,s,1,,未翻,
+134,0x968,dialogue,narrative,特ﾆ『シリアルキラー』ﾆ任命ｻﾚﾃｼﾏｯﾀ,33,尤其被任命為『連環殺手』的,人工定稿,
+135,0x98c,dialogue,narrative,人ﾆﾄｯﾃﾊﾄﾃﾓ気分が楽ﾅﾊずでｽ｣,26,人，心情會輕鬆很多｣,人工定稿,导入警告: kana_residue
+136,0x9a8,system,system,1807,4,,未翻,
+137,0x9ad,dialogue,narrative,e.s｢ｿﾚﾊｿｳだﾛｳﾅ｡,15,e.s｢那倒是,人工定稿,"P7 校对修正: 原文无｣(引号至139收), 去误加"
+138,0x9c0,dialogue,narrative,『シリアルキラー』ﾆ選ばﾚﾃｼﾏｯﾀ人ﾓ､,33,被選為『連環殺手』的人，也,人工定稿,
+139,0x9e4,dialogue,narrative,好ｷでﾔｯﾃｲﾙﾜｹでﾊﾅｲだﾛｳｶﾗﾅ｣,25,不是自願的嘛｣,人工定稿,导入警告: kana_residue
+140,0xa00,system,system,1040,4,,未翻,
+141,0xa05,dialogue,narrative,e.s｢ﾝｰ､確ｶﾆ､シリアルキラーｯﾃ､,29,e.s｢的確，連環殺手這個,人工定稿,导入警告: kana_residue
+142,0xa24,dialogue,narrative,ルール上どｳｼﾃﾓ､ｱﾀｼ達ﾄ敵対ｼﾃﾙｯﾃ,30,身份在規則上總跟我們敵對,人工定稿,
+143,0xa44,dialogue,narrative,イメージだｹど……悪ｲ奴ｯﾃﾜｹじｬﾅｲﾉｶ｣,34,的印象……但並非壞人嘛｣,人工定稿,导入警告: kana_residue
+144,0xa68,system,system,0153,4,,未翻,
+145,0xa6d,dialogue,narrative,e.s｢樫沢ｻﾝﾉ作戦ﾊ､ｿｺﾏで配慮ｻﾚﾃﾙ｡,31,e.s｢樫澤的作戰連這都考慮到,人工定稿,"P7 校对修正: 原文无｣(引号至147收), 去误加"
+146,0xa90,dialogue,narrative,裏切ﾙ人がｲﾙﾉﾊ残念だｹど､,23,有人背叛很遺憾，,人工定稿,
+147,0xaa8,dialogue,narrative,ｱﾉ作戦ﾊ続ｹﾙべｷだﾄ思ｲﾏｽﾖ｣,24,但我想那作戰該繼續｣,人工定稿,导入警告: kana_residue
+148,0xac4,system,system,1041,4,,未翻,
+149,0xac9,dialogue,narrative,e.s｢……でﾓｻｧ､警官が死ﾝだﾘ､ｲｷﾅﾘ裏切ｯﾃ,37,e.s｢……可是，要是警官死了，或,人工定稿,导入警告: kana_residue
+150,0xaf0,dialogue,narrative,別ﾉ人ｦ守ｯﾀﾘｼﾀﾗ､ｱｲﾂ死ﾝじｬｳｹど｣,29,突然改保護別人，樫澤會死｣,人工定稿,导入警告: kana_residue
+151,0xb10,system,system,0154,4,,未翻,
+152,0xb15,dialogue,narrative,e.s｢……ｿ､ｿﾚﾊ……ｿｳでｽｹど……｡,30,e.s｢……那、那倒是……,人工定稿,"P7 校对修正: 原文无｣(引号至153收), 去误加"
+153,0xb34,dialogue,narrative,ｿｺﾊ警官ｦ信じﾙｼｶ……｣,20,只能相信警官了……｣,人工定稿,导入警告: kana_residue
+154,0xb4c,system,system,1808,4,,未翻,
+155,0xb51,dialogue,narrative,e.s｢ｿｳだﾅ｡少ﾅｸﾄﾓｻｯｷﾊ,20,e.s｢是呀，至少剛才,人工定稿,导入警告: kana_residue
+156,0xb68,dialogue,narrative,ﾁｬﾝﾄ樫沢氏ｦ守ｯﾃｸﾚﾀﾖｳだｼ､,24,有好好保護樫澤，,人工定稿,
+157,0xb84,dialogue,narrative,信じﾙ他ﾆﾅｲだﾛｳ｣,15,也只能相信了｣,人工定稿,导入警告: kana_residue
+158,0xb94,system,system,0155,4,,未翻,
+159,0xb99,dialogue,narrative,e.s｢ﾊｲ｣,7,e.s｢是｣,人工定稿,导入警告: kana_residue
+160,0xba1,dialogue,narrative,e.sロム2_KW_樫沢ﾉ作戦_霞,24,e.sROM2_KW_樫澤之作戰_霞,人工定稿,
+161,0xbbc,dialogue,narrative,｢ｱﾉ……樫沢ｻﾝﾉ作戦ﾊ……｣,24,｢那個……樫澤的作戰……｣,人工定稿,导入警告: kana_residue
+162,0xbd8,system,system,1042,4,,未翻,
+163,0xbdd,dialogue,narrative,e.s｢当ﾃﾖｳｶ｡霞ﾁｬﾝﾊ､賛成でｼｮ!｣,28,e.s｢我猜小霞是贊成的!｣,人工定稿,导入警告: kana_residue
+164,0xbfc,dialogue,narrative,｢ｲｴ……どﾁﾗｶﾄｲｴば､反対……でｽ｣,30,｢不……真要説，是反對……｣,人工定稿,"P7 校对修正: どちらかと言えば 非""説起來"", 改""真要説"""
+165,0xc1c,system,system,1043,4,,未翻,
+166,0xc21,dialogue,narrative,e.s｢ｵﾛ､外ﾚﾀ｣,12,e.s｢猜錯了｣,人工定稿,导入警告: kana_residue
+167,0xc30,system,system,1809,4,,未翻,
+168,0xc35,dialogue,narrative,e.s｢……反対ﾅﾉｶ?｣,17,e.s｢……反對?｣,人工定稿,导入警告: kana_residue
+169,0xc48,dialogue,narrative,｢だｯﾃ……樫沢ｻﾝが……危険でｽｼ……｣,34,｢因為……樫澤會很危險……｣,人工定稿,导入警告: kana_residue
+170,0xc6c,system,system,1810,4,,未翻,
+171,0xc71,dialogue,narrative,e.s｢確ｶﾆｿｳだﾅ｡,14,e.s｢確實如此,人工定稿,"P7 校对修正: 確かにそうだ 补""如此""; 去误加｣(引号至173收)"
+172,0xc80,dialogue,narrative,だが､彼ﾉ作戦がﾅｹﾚば､,20,但沒有他的作戰，,人工定稿,
+173,0xc98,dialogue,narrative,被害者ﾊ増ｴﾙｶﾓｼﾚﾅｲぞ｣,20,受害者會增加哇｣,人工定稿,导入警告: kana_residue
+174,0xcb0,system,system,0156,4,,未翻,
+175,0xcb5,dialogue,narrative,e.s｢……ｿﾚﾊ……ﾜｶｯﾃﾏｽ｣,22,e.s｢……那……我明白｣,人工定稿,导入警告: kana_residue
+176,0xccc,system,system,0157,4,,未翻,
+177,0xcd1,dialogue,narrative,e.s｢ｿﾚﾆ､ｱﾉ作戦でﾅｹﾚば､,22,e.s｢而且不是那作戰的話,人工定稿,导入警告: kana_residue
+178,0xce8,dialogue,narrative,警官が誰ｦ守ﾚばｲｲｶﾜｶﾗﾅｸﾅﾙｯﾃ……,30,警官就不知該保護誰……,人工定稿,
+179,0xd08,dialogue,narrative,圭ｸﾝﾆﾓ言ﾜﾚﾏｼﾀ｣,14,圭也這麼説｣,人工定稿,导入警告: kana_residue
+180,0xd18,system,system,1811,4,,未翻,
+181,0xd1d,dialogue,narrative,e.s｢ｳﾑ､ｿｳだﾅ｡,13,e.s｢是呀,人工定稿,"P7 校对修正: 原文无｣(引号至183收), 去误加"
+182,0xd2c,dialogue,narrative,予ﾒ指名ｽﾙ対象が絞ﾗﾚﾃｲﾙ彼ﾉ作戦ﾅﾗ､,32,若他預先限定指名對象的作戰,人工定稿,
+183,0xd50,dialogue,narrative,犠牲者ﾊ出ﾀﾄｼﾃﾓ少ﾅｸﾃｽﾑ｣,22,就算有犧牲者也不多｣,人工定稿,P7 校对修正: 少なくて済む 改通顺表达; 犧牲者 字形与全库一致
+184,0xd68,system,system,0158,4,,未翻,
+185,0xd6d,dialogue,narrative,e.s｢……ﾊｲ｡,11,e.s｢……是,人工定稿,"P7 校对修正: 原文无｣(引号至187收), 去误加"
+186,0xd79,system,system,s,1,,未翻,
+187,0xd7c,dialogue,narrative,本当ﾊ……犠牲者ﾊ､ｲﾅｲ方が……ｲｲでｽ｣,34,其實……沒有犧牲者比較好｣,人工定稿,"P7 校对修正: いない方がいい 语序改顺, 去歧义; 犧牲者 字形与全库一致"
+188,0xda0,system,system,1812,4,,未翻,
+189,0xda5,dialogue,narrative,e.s｢ｿﾚﾊ皆同じだﾖ｡,17,e.s｢這大家都一樣,人工定稿,"P7 校对修正: 原文无｣(引号至190收), 去误加"
+190,0xdb8,dialogue,narrative,裏切ｯﾃｲﾙ一部ﾉ人ｦ除ｲﾃﾊﾅ｣,23,除了背叛的一小撮人｣,人工定稿,导入警告: kana_residue
+191,0xdd0,system,system,1044,4,,未翻,
+192,0xdd5,dialogue,narrative,e.s｢ｿﾚで､結局､ｱﾉ作戦ﾆﾊ協力ｼﾃｸﾚﾙﾉ?｣,34,e.s｢那麼最後會配合那作戰?｣,人工定稿,导入警告: kana_residue
+193,0xdf8,system,system,0159,4,,未翻,
+194,0xdfd,dialogue,narrative,e.s｢ｱ､ｿﾚﾊ……ﾓﾁﾛﾝ､私ﾓ､樫沢ｻﾝﾆ……｡,34,e.s｢呀，那……當然我也對樫,人工定稿,导入警告: kana_residue
+195,0xe20,dialogue,narrative,申ｼ訳ﾅｲﾅﾄﾊ､思ｳﾝでｽｹど……｣,26,澤感到很抱歉……｣,人工定稿,导入警告: kana_residue
+196,0xe3c,system,system,1813,4,,未翻,
+197,0xe41,dialogue,narrative,e.s｢ｲﾔ､ｿﾚで別ﾉ人ﾆ入ﾚﾙ方が,25,e.s｢不，這樣投給別人,人工定稿,导入警告: kana_residue
+198,0xe5c,dialogue,narrative,ｶｴｯﾃ申ｼ訳ﾅｲｺﾄﾆﾅﾙぞ｡,19,反而更對不起哇,人工定稿,"P7 校对修正: 原文无引号(引号自197开至199收), 去误加｣"
+199,0xe70,dialogue,narrative,だｶﾗ､ｿｳｼﾃｸﾚ｣,12,所以照做｣,人工定稿,导入警告: kana_residue
+200,0xe80,system,system,0160,4,,未翻,
+201,0xe85,dialogue,narrative,e.s｢ﾊｲ……｣,11,e.s｢是……｣,人工定稿,导入警告: kana_residue
+202,0xe91,system,system,s,1,,未翻,
+203,0xe94,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_ﾊﾙｶ,22,ROM2_KW_樫澤之作戰_遙,人工定稿,
+204,0xeac,system,system,0105,4,,未翻,
+205,0xeb1,dialogue,narrative,e.s｢……ｻｸｾﾝ?｣,14,e.s｢……作戰?｣,人工定稿,导入警告: kana_residue
+206,0xec0,system,system,1045,4,,未翻,
+207,0xec5,dialogue,narrative,e.s｢樫沢……ｱﾉメガネが､言ｯﾃﾀでｼｮ?｣,34,e.s｢樫澤……那眼鏡説過對不?｣,人工定稿,"P7 校对修正: でしょ? 求确认(带?)+补收尾 ｣, v1.4 用""對不?"""
+208,0xee8,system,system,0106,4,,未翻,
+209,0xeed,dialogue,narrative,e.s｢……ﾖｸﾜｶﾝﾅｲ｣,16,e.s｢……不明白｣,人工定稿,导入警告: kana_residue
+210,0xf00,system,system,1046,4,,未翻,
+211,0xf05,dialogue,narrative,e.s｢だﾖﾈｰ｡ｱｲﾂ難ｼｲ言ｲ方ばｯｶｽﾙｶﾗ,30,e.s｢對呀，那小子都説些難解的話,人工定稿,"P7 校对修正: 難しい言い方ばっか 去翻译腔""都説難解的"""
+212,0xf24,dialogue,narrative,ｵ子ｻﾏﾆﾊﾜｶﾝﾅｲﾖｰ｣,15,小少爺不明白｣,人工定稿,导入警告: kana_residue
+213,0xf34,system,system,0107,4,,未翻,
+214,0xf39,dialogue,narrative,e.s｢ﾜﾀｼ､ｵ子ｻﾏ……｣,18,e.s｢我小少爺……｣,人工定稿,导入警告: kana_residue
+215,0xf4c,system,system,0109,4,,未翻,
+216,0xf51,dialogue,narrative,e.s｢ﾁｮｯﾄ｡ﾊﾙｶが落ﾁ込ﾝだじｬﾅｲでｽｶ｣,32,e.s｢等等，遙都難過了不是?｣,人工定稿,导入警告: kana_residue
+217,0xf74,system,system,1047,4,,未翻,
+218,0xf79,dialogue,narrative,e.s｢だｯﾃ､ｵ子ｻﾏﾊｵ子ｻﾏじｬﾝ｣,25,e.s｢小少爺就是小少爺嘛｣,人工定稿,导入警告: kana_residue
+219,0xf94,system,system,1814,4,,未翻,
+220,0xf99,dialogue,narrative,e.s｢ｺﾗ､美紀ｸﾝ｡挑発ｽﾙﾅ｣,22,e.s｢欸，美紀，別挑釁｣,人工定稿,导入警告: kana_residue
+221,0xfb0,system,system,0110,4,,未翻,
+222,0xfb5,system,system,e.s1815,7,,未翻,
+223,0xfbd,dialogue,narrative,e.s｢ﾂﾑじｸﾝ､ｽﾏﾅｶｯﾀﾅ｡,19,e.s｢旋，抱歉了,人工定稿,导入警告: kana_residue
+224,0xfd4,dialogue,narrative,ﾓｼでｷﾚば､樫沢氏ﾉ作戦ﾆﾂｲﾃ,24,如果可能，關於樫澤的作戰,人工定稿,
+225,0xff0,dialogue,narrative,君ｶﾗ説明ｼﾃﾔｯﾃ欲ｼｲﾉだが｣,23,希望由旋來説明｣,人工定稿,导入警告: kana_residue
+226,0x1008,system,system,0111,4,,未翻,
+227,0x100d,dialogue,narrative,e.s｢……ﾓｳｼﾏｼﾀ｡,15,e.s｢……説過了,人工定稿,"P7 校对修正: 原文无｣(引号至228收), 去误加"
+228,0x1020,dialogue,narrative,ﾊﾙｶﾊ､ぼｸﾄ一緒ﾆｽﾙｿｳでｽ｣,22,遙説要跟我一起行動｣,人工定稿,导入警告: kana_residue
+229,0x1038,system,system,1816,4,,未翻,
+230,0x103d,dialogue,narrative,e.s｢ｿｳｶ……｣,12,e.s｢哦……｣,人工定稿,导入警告: kana_residue
+231,0x104c,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_ﾂﾑじ,23,ROM2_KW_樫澤之作戰_旋,人工定稿,
+232,0x1064,system,system,0112,4,,未翻,
+233,0x1069,dialogue,narrative,e.s｢作戦ｯﾃｲｳﾎどﾉ作戦でｽｶﾈ｣,26,e.s｢有到算作戰的程度?｣,人工定稿,导入警告: kana_residue
+234,0x1084,system,system,1817,4,,未翻,
+235,0x1089,dialogue,narrative,e.s｢ﾏｧｿｺﾊ気ﾆｼﾅｲでｸﾚ｡,20,e.s｢那點就別在意了,人工定稿,"P7 校对修正: 原文无｣(引号至236收), 去误加"
+236,0x10a0,dialogue,narrative,ｿﾚで､君ﾊどｳ考ｴﾃｲﾙ?｣,19,那麼旋怎麼想?｣,人工定稿,导入警告: kana_residue
+237,0x10b4,system,system,0113,4,,未翻,
+238,0x10b9,dialogue,narrative,e.s｢別ﾆｲｲﾝじｬﾅｲでｽｶ?,20,e.s｢隨便不就好了?,人工定稿,"P7 校对修正: 原文无｣(引号至239收), 去误加"
+239,0x10d0,dialogue,narrative,ｿﾚでﾅﾝﾄｶﾅﾙﾝでｼｮ｣,16,這樣總會有法子｣,人工定稿,导入警告: kana_residue
+240,0x10e4,system,system,1818,4,,未翻,
+241,0x10e9,dialogue,narrative,e.s｢……ﾅﾝﾄｶﾅﾙﾖｳﾆ努力ｼﾖｳ｣,25,e.s｢……努力去解決｣,人工定稿,导入警告: kana_residue
+242,0x1104,system,system,0114,4,,未翻,
+243,0x1109,dialogue,narrative,e.s｢……頼ﾘﾆｼﾃｲｲﾝでｽｶ｣,22,e.s｢……可以依靠?｣,人工定稿,导入警告: kana_residue
+244,0x1120,system,system,1048,4,,未翻,
+245,0x1125,dialogue,narrative,e.s｢ｱﾝﾀ､誰ﾆ向ｶｯﾃ言ｯﾃﾙﾉ｡,23,e.s｢在跟誰説話呀,人工定稿,导入警告: kana_residue
+246,0x1140,dialogue,narrative,ｺﾉ人ﾊﾈ｡楓ｵ姉ｻﾏﾅﾉﾖ!｣,19,這可是楓姐姐大人!｣,人工定稿,导入警告: kana_residue
+247,0x1154,system,system,0115,4,,未翻,
+248,0x1159,dialogue,narrative,e.s｢ｱｰ､ﾊｲﾊｲ｡ｽごｲでｽﾈ｡,21,e.s｢哦，好好，真厲害,人工定稿,"P7 校对修正: 原文无｣(引号至249收), 去误加"
+249,0x1170,dialogue,narrative,でﾊﾖﾛｼｸｵ願ｲｼﾏｽﾖ､楓ｵ姉ｻﾏ｣,24,那麼請多指教楓姐姐大人｣,人工定稿,导入警告: kana_residue
+250,0x118c,system,system,1819,4,,未翻,
+251,0x1191,dialogue,narrative,e.s｢皮肉でﾊﾅｸｵ願ｲﾄｼﾃ聞ｲﾃｵｲﾃﾔﾛｳ｡,31,e.s｢就當不是諷刺，而是請求,人工定稿,导入警告: kana_residue
+252,0x11b4,dialogue,narrative,ﾏｧｱﾏﾘ期待ｾず待ｯﾃｲﾃｸﾚﾅｲｶ｣,24,聽進去，別太期待等著｣,人工定稿,导入警告: kana_residue
+253,0x11d0,system,system,0116,4,,未翻,
+254,0x11d5,dialogue,narrative,e.s｢……ﾜｶﾘﾏｼﾀﾖ｣,16,e.s｢……明白了｣,人工定稿,导入警告: kana_residue
+255,0x11e8,dialogue,narrative,ｳﾑ､素直でﾊﾅｲが､ﾏｧﾖｼﾄｽﾙｶ｡,24,唔，雖不坦率但算了,人工定稿,
+256,0x1204,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_ジャック,27,ROM2_KW_樫澤之作戰_傑克,人工定稿,
+257,0x1220,system,system,0121,4,,未翻,
+258,0x1225,dialogue,narrative,e.s｢作戦?｣,10,e.s｢作戰?｣,人工定稿,导入警告: kana_residue
+259,0x1230,system,system,0122,4,,未翻,
+260,0x1235,dialogue,narrative,e.s｢知ﾗﾈｪﾖ｡,11,e.s｢不知道,人工定稿,"P7 校对修正: 原文无｣(引号至263收), 去误加"
+261,0x1241,system,system,s,1,,未翻,
+262,0x1244,dialogue,narrative,ﾔﾘﾀｲ奴が勝手ﾆﾔﾚばｲｲだﾛ｡,23,想幹的人自己去不就好了,人工定稿,
+263,0x125c,dialogue,narrative,オレﾆﾏで指図ｽﾝﾅﾖ｣,17,別連我都使喚｣,人工定稿,"P7 校对修正: 指図 误作""指揮"", 改""使喚"""
+264,0x1270,system,system,1049,4,,未翻,
+265,0x1275,dialogue,narrative,e.s｢ｱﾝﾀ､ｻｯｷ誰ﾆ投票ｼﾀﾉﾖ?｣,24,e.s｢剛才投給誰了?｣,人工定稿,导入警告: kana_residue
+266,0x1290,system,system,0123,4,,未翻,
+267,0x1295,dialogue,narrative,e.s｢ﾌﾋｬﾋｬﾋｬｯ｡,13,e.s｢桀桀桀,人工定稿,"P7 校对修正: 原文无｣(引号至268收), 去误加"
+268,0x12a4,dialogue,narrative,ｵ嬢ﾁｬﾝﾆﾊ関係ﾅｲだﾛｫ!｣,20,跟小妹妹沒關係對不!｣,人工定稿,P7 校对修正
+269,0x12bc,system,system,1820,4,,未翻,
+270,0x12c1,dialogue,narrative,e.s｢ﾏｻｶﾄﾊ思ｳが､西野氏ﾆ投票ｼﾀ……,32,e.s｢雖難以置信，投給西野……,人工定稿,导入警告: kana_residue
+271,0x12e4,dialogue,narrative,ﾅﾝﾃｺﾄﾊ……｣,11,怎麼會……｣,人工定稿,导入警告: kana_residue
+272,0x12f0,system,system,0124,4,,未翻,
+273,0x12f5,dialogue,narrative,e.s｢ｻｧﾅ! ｱﾝﾀﾗﾆ答ｴﾙ義務ﾅﾝざﾈｪぜ?｣,32,e.s｢誰知道!我沒義務回答咯?｣,人工定稿,"P7 校对修正: だぜ 应按 v1.4 表""咯""(非""哦"")"
+274,0x1318,system,system,1050,4,,未翻,
+275,0x131d,dialogue,narrative,e.s｢ｱｰｯ､マジ最低!,17,e.s｢太差勁了!,人工定稿,"P7 校对修正: マジ最低 非""最低級""(词义偏), 与 r2_t7_1_0_0 一致; 原文无｣(引号至277收)"
+276,0x1330,dialogue,narrative,ｱﾉルールｻｴﾅｹﾚば､,16,要不是有那規則，,人工定稿,
+277,0x1344,dialogue,narrative,今ｽぐKOｻｾﾃﾔﾝﾉﾆ!｣,16,我現在就KO!｣,人工定稿,导入警告: kana_residue
+278,0x1358,system,system,0125,4,,未翻,
+279,0x135d,dialogue,narrative,e.s相変ﾜﾗず､威勢がｲｲﾈｪ､,23,e.s還是一樣氣勢十足，,人工定稿,
+280,0x1378,dialogue,narrative,ｵ嬢ﾁｬﾝ!｣,8,小妹妹!｣,人工定稿,导入警告: kana_residue
+281,0x1381,system,system,s,1,,未翻,
+282,0x1384,system,system,1051,4,,未翻,
+283,0x1389,dialogue,narrative,e.s｢ｸｩｰｯ､ムカﾂｸｯ､ムカﾂｸｯ!｣,26,e.s｢可惡，氣死人!氣死人!｣,人工定稿,导入警告: kana_residue
+284,0x13a4,system,system,1821,4,,未翻,
+285,0x13a9,dialogue,narrative,e.s｢落ﾁ着ｹ､美紀ｸﾝ｣,18,e.s｢冷靜點，美紀｣,人工定稿,导入警告: kana_residue
+286,0x13bc,system,system,1822,4,,未翻,
+287,0x13c1,dialogue,narrative,e.s｢……ジャック氏｡,19,e.s｢……傑克。,人工定稿,"P7 校对修正: 原文句尾为。(引号至289收), 去误加｣"
+288,0x13d8,dialogue,narrative,私達ﾊ､犠牲者ｦ出ｼﾀｸﾅｲﾝだ｡,24,我們不想出現犧牲者。,人工定稿,P7 校对修正: 补句末。(原文有); 犧牲者 字形与全库一致
+289,0x13f4,dialogue,narrative,ｿﾉﾀﾒﾆﾊ､ｱﾅﾀﾆﾓ協力ｦｼﾃ欲ｼｲ｣,24,為此也希望傑克配合｣,人工定稿,导入警告: kana_residue
+290,0x1410,system,system,0126,4,,未翻,
+291,0x1415,dialogue,narrative,e.s｢協力ｩ?｣,11,e.s｢配合?｣,人工定稿,导入警告: kana_residue
+292,0x1421,system,system,s,1,,未翻,
+293,0x1424,system,system,1823,4,,未翻,
+294,0x1429,dialogue,narrative,e.s｢ｱｱ｣,7,e.s｢哦｣,人工定稿,导入警告: kana_residue
+295,0x1431,system,system,e.s0127,7,,未翻,
+296,0x1439,dialogue,narrative,e.s｢ﾌﾋｬﾋｬﾋｬ｡,12,e.s｢桀桀桀,人工定稿,"P7 校对修正: 原文无｣(引号至298收), 去误加"
+297,0x1448,dialogue,narrative,ｿﾝじｬ､姉ﾁｬﾝﾉ乳ｦ揉ﾏｾﾃｸﾚﾘｬｧ､,26,那讓我揉姐姐的胸，,人工定稿,
+298,0x1464,dialogue,narrative,考ｴﾃﾓｲｲぜｪ?｣,12,就可考慮咯?｣,人工定稿,"P7 校对修正: だぜ 按 v1.4 表""咯""(非""哦"")"
+299,0x1474,dialogue,narrative,両手ｦｲﾔﾗｼｸ動ｶｽジャック氏ﾆ､,26,傑克猥瑣地動著雙手，,人工定稿,
+300,0x1490,dialogue,narrative,ﾄｳﾄｳ美紀ｸﾝがブチキレﾀﾖｳだｯﾀ｡,28,美紀終於爆發了,人工定稿,
+301,0x14b0,dialogue,narrative,彼女ﾊ私ﾄジャック氏ﾉ間ﾆ割ﾘ込ﾑﾄ､,30,美紀插進我和傑克之間，,人工定稿,
+302,0x14d0,dialogue,narrative,彼ｦ指差ｽ｡,9,指著他。,人工定稿,
+303,0x14dc,system,system,1052,4,,未翻,
+304,0x14e1,dialogue,narrative,e.s｢楓ｵ姉ｻﾏﾆﾅﾝﾃｺﾄｦ!!,20,e.s｢竟對楓姐姐大人!!,人工定稿,P7 终轮统一: 双感叹号恢复
+305,0x14f8,dialogue,narrative,ﾓｳ許ｻﾅｲ!,8,絶不原諒,人工定稿,
+306,0x1501,system,system,s,1,,未翻,
+307,0x1504,dialogue,narrative,殺ｽ｡ｱﾝﾀ､今ｽぐ殺ｽ!｣,18,我要殺，現在就殺!｣,人工定稿,导入警告: kana_residue
+308,0x1518,system,system,1824,4,,未翻,
+309,0x151d,dialogue,narrative,e.s｢ｺﾗ､美紀ｸﾝ!,14,e.s｢欸，美紀!,人工定稿,P7 校对修正: 补逗号; 去误加｣(引号至311收)
+310,0x152c,dialogue,narrative,物騒ﾅｺﾄｦ言ｳﾝじｬﾅｲ!,18,別説那種危險的話!,人工定稿,"P7 校对修正: 原文无引号(引号自309开至311收), 去误加｣"
+311,0x1540,dialogue,narrative,軽口ﾆ踊ﾗｻﾚﾙﾅ｣,13,別被煽動｣,人工定稿,导入警告: kana_residue
+312,0x1550,system,system,0128,4,,未翻,
+313,0x1555,dialogue,narrative,e.s｢ﾋｬﾋｬﾋｬﾋｬｯ!,14,e.s｢桀桀桀桀!,人工定稿,"P7 校对修正: 原文无｣(引号至315收), 去误加"
+314,0x1564,dialogue,narrative,ﾔｯぱﾘ､ｵﾓｼﾚｪﾅｧ､,14,果然，真有意思,人工定稿,
+315,0x1574,dialogue,narrative,ｵ嬢ﾁｬﾝ達ﾊﾖｫ!｣,13,小妹妹們!｣,人工定稿,导入警告: kana_residue
+316,0x1584,system,system,0129,4,,未翻,
+317,0x1589,dialogue,narrative,e.s｢一ﾂ良ｲｺﾄｦ教ｴﾃﾔﾙぜ｣,22,e.s｢告訴一件好事咯｣,人工定稿,导入警告: kana_residue
+318,0x15a0,system,system,1825,4,,未翻,
+319,0x15a5,dialogue,narrative,e.s｢良ｲｺﾄ?｣,11,e.s｢好事?｣,人工定稿,导入警告: kana_residue
+320,0x15b1,system,system,s,1,,未翻,
+321,0x15b4,system,system,0130,4,,未翻,
+322,0x15b9,dialogue,narrative,e.s｢オレが殺ｼﾃﾔﾘﾃｪﾉﾊ､ｱﾉ女……,29,e.s｢我想殺的是那女人……,人工定稿,导入警告: kana_residue
+323,0x15d8,dialogue,narrative,皇木薫ｻ｣,8,皇木薰｣,人工定稿,导入警告: kana_residue
+324,0x15e1,system,system,s,1,,未翻,
+325,0x15e4,system,system,1826,4,,未翻,
+326,0x15e9,dialogue,narrative,e.s｢……薫ｻﾝ?｣,14,e.s｢……薰?｣,人工定稿,导入警告: kana_residue
+327,0x15f8,system,system,1053,4,,未翻,
+328,0x15fd,dialogue,narrative,e.s｢信じﾁｬだﾒｯｽﾖ､ｵ姉ｻﾏ｡,23,e.s｢不能信哦，姐姐大人,人工定稿,导入警告: kana_residue
+329,0x1618,dialogue,narrative,どｳｾ適当ﾅｺﾄ言ｯﾃﾙだｹｯｽｶﾗ｣,24,反正他只是在胡説｣,人工定稿,导入警告: kana_residue
+330,0x1634,dialogue,narrative,ｲﾔ､ﾀｼｶﾆ探偵タイムでﾊ,20,不，確實在偵探時間,人工定稿,
+331,0x164c,dialogue,narrative,薫ｻﾝﾉ名前が表示ｻﾚﾃｲﾀ｡,21,有顯示薰的名字,人工定稿,
+332,0x1664,dialogue,narrative,ｿﾚﾆｺﾚが嘘だﾄｼﾃﾓ､,16,就算這是假的，,人工定稿,
+333,0x1678,dialogue,narrative,ジャック氏ﾆメリットﾊﾅｲ｡,23,對傑克也沒好處,人工定稿,
+334,0x1690,dialogue,narrative,適当ﾅｺﾄｦ言ｯﾃｲﾙﾖｳﾆﾊ思ｴﾅｲ｡,24,不像是在胡説,人工定稿,
+335,0x16ac,system,system,0131,4,,未翻,
+336,0x16b1,dialogue,narrative,e.s｢信じﾃﾓ信じﾅｸﾃﾓ構ｲﾔｼﾈｪぜ?,28,e.s｢信不信都無所謂咯?,人工定稿,"P7 校对修正: だぜ 按 v1.4 表""咯""(非""哦""); 原文无｣(引号至337收)"
+337,0x16d0,dialogue,narrative,だがｱﾉ作戦ﾄﾔﾗﾆだｹﾊ乗ﾚﾈｪﾅｧ｣,26,但那個作戰我不配合｣,人工定稿,导入警告: kana_residue
+338,0x16ec,system,system,0132,4,,未翻,
+339,0x16f1,dialogue,narrative,e.s｢オレﾊﾀだｺﾉゲームで多ｸﾉ人間が殺ｻﾚﾘｬ,38,e.s｢我只要這遊戲多死人,人工定稿,导入警告: kana_residue
+340,0x1718,dialogue,narrative,満足ﾅﾝだｶﾗﾖｫ! 被害者ｦ減ﾗｽﾖｳﾅｺﾄﾊ,31,就滿足了!減少受害者的事,人工定稿,
+341,0x1738,dialogue,narrative,ｼﾀｸﾅｲぜ! ﾌﾋｬﾋｬﾋｬ!｣,18,我才不做!桀桀桀!｣,人工定稿,导入警告: kana_residue
+342,0x174c,system,system,1054,4,,未翻,
+343,0x1751,dialogue,narrative,e.s｢ｯ､最低!｣,12,e.s｢差勁!｣,人工定稿,"P7 校对修正: 最低 侮辱语, 直留""最低""不成词"
+344,0x1760,system,system,1827,4,,未翻,
+345,0x1765,dialogue,narrative,e.s｢仕方がﾅｲﾅ｡,14,e.s｢沒法子,人工定稿,导入警告: kana_residue
+346,0x1774,dialogue,narrative,ｺｳﾅｯﾀﾗジャック氏以外ﾆ,21,既然這樣除了傑克以外,人工定稿,
+347,0x178c,dialogue,narrative,協力ｼﾃﾓﾗｳｼｶﾅｲ｣,14,只能請人配合｣,人工定稿,导入警告: kana_residue
+348,0x179c,system,system,1055,4,,未翻,
+349,0x17a1,dialogue,narrative,e.s｢ｿｳｯｽﾈ｡ｺﾉルールﾊ多数決だｼ……,32,e.s｢是呀，這規則是多數決,人工定稿,导入警告: kana_residue
+350,0x17c4,dialogue,narrative,コイツ一人が別ﾉ人ﾆ投票ｼﾀｯﾃ……,30,就算這混蛋一個人投給別人……,人工定稿,P7 校对修正: 一人 漏译补回(单票不影响多数决)
+351,0x17e4,dialogue,narrative,他ﾉ人が樫沢ｦ指名ｼﾃﾘｬ問題ﾅｲｯｽﾖ!｣,31,其他人指名樫澤就沒問題!｣,人工定稿,导入警告: kana_residue
+352,0x1804,system,system,1828,4,,未翻,
+353,0x1809,dialogue,narrative,e.s｢ｱｱ｡裏切ﾘ者が他ﾆｲﾅｹﾚば､ﾅ｣,28,e.s｢是呀，如果沒其他叛徒｣,人工定稿,导入警告: kana_residue
+354,0x1828,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_薫,21,ROM2_KW_樫澤之作戰_薰,人工定稿,
+355,0x1840,system,system,0272,4,,未翻,
+356,0x1845,dialogue,narrative,e.s｢樫沢ｻﾝﾉ作戦でｽｶ?,20,e.s｢是樫澤的作戰?,人工定稿,导入警告: kana_residue
+357,0x185c,dialogue,narrative,ﾓﾁﾛﾝ私ﾊ賛成でｽ｣,15,當然我贊成｣,人工定稿,导入警告: kana_residue
+358,0x186c,system,system,1829,4,,未翻,
+359,0x1871,dialogue,narrative,e.s｢ｿﾚﾊ､ﾄﾃﾓ助ｶﾘﾏｽ｣,18,e.s｢真是幇大忙了｣,人工定稿,导入警告: kana_residue
+360,0x1884,system,system,0273,4,,未翻,
+361,0x1889,dialogue,narrative,e.s｢西野ｻﾝﾉｺﾄﾊ残念でｼﾀｹど……,29,e.s｢西野的事很遺憾……,人工定稿,导入警告: kana_residue
+362,0x18a8,dialogue,narrative,でﾓ､ｺﾉ作戦ｦ続ｹﾙ価値ﾊｱﾘﾏｽ｣,25,但這作戰仍有價値｣,人工定稿,导入警告: kana_residue
+363,0x18c4,system,system,0274,4,,未翻,
+364,0x18c9,dialogue,narrative,e.s｢ﾓｳ殺人ﾅﾝﾃ絶対ﾆ許ｻﾅｲ……,27,e.s｢絶不允許殺人……,人工定稿,导入警告: kana_residue
+365,0x18e8,dialogue,narrative,今度ｺｿ､誰ﾓ死ﾅｾﾏｾﾝ｣,18,這次不讓任何人死｣,人工定稿,导入警告: kana_residue
+366,0x18fc,system,system,1830,4,,未翻,
+367,0x1901,dialogue,narrative,e.s｢……ｿｳでｽﾈ｣,15,e.s｢……是這樣｣,人工定稿,导入警告: kana_residue
+368,0x1914,dialogue,narrative,熱ｸ語ｯﾃﾊｲﾙが……,16,説得很激動……,人工定稿,
+369,0x1928,dialogue,narrative,具体的ﾆ対策がｱﾙﾜｹでﾊﾅｻｿｳだﾅ｡,28,似乎沒什麼具體對策。,人工定稿,
+370,0x1948,dialogue,narrative,だが､ｺﾚが演技でﾅｲ限ﾘ､,21,但只要不是演戲，,人工定稿,
+371,0x1960,dialogue,narrative,彼女ﾊ変ﾅ感情ﾆ流ｻﾚﾃ人ｦ殺ｼﾀﾘﾊ,27,他不會被奇怪感情驅使,人工定稿,
+372,0x197c,dialogue,narrative,ｼﾅｻｿｳだﾅ｡,9,去殺人。,人工定稿,
+373,0x1988,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_樫沢,23,ROM2_KW_樫澤之作戰_樫澤,人工定稿,
+374,0x19a0,system,system,0257,4,,未翻,
+375,0x19a5,dialogue,narrative,e.s｢ｱﾉ作戦でｽｶ?,15,e.s｢那個作戰?,人工定稿,导入警告: kana_residue
+376,0x19b5,dialogue,narrative,沢,2,澤,人工定稿,
+377,0x19b8,dialogue,narrative,ﾓﾁﾛﾝ続行ｻｾﾃｲﾀだｷﾏｽ｣,19,當然請讓我繼續｣,人工定稿,导入警告: kana_residue
+378,0x19cc,system,system,1056,4,,未翻,
+379,0x19d1,dialogue,narrative,e.s｢ｻｯｷ失敗ｼﾀﾉﾆ?｣,17,e.s｢不是剛失敗?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+380,0x19e4,system,system,0258,4,,未翻,
+381,0x19e9,dialogue,narrative,e.s｢……僕ﾊ失敗ｼﾀﾄﾊ思ｯﾃｲﾏｾﾝ｣,28,e.s｢……我不認為失敗了｣,人工定稿,导入警告: kana_residue
+382,0x1a08,system,system,1057,4,,未翻,
+383,0x1a0d,dialogue,narrative,e.s｢でﾓだｯﾃ､西野ｻﾝﾊ……｣,24,e.s｢可是西野他……｣,人工定稿,导入警告: kana_residue
+384,0x1a28,system,system,1831,4,,未翻,
+385,0x1a2d,dialogue,narrative,e.s｢止ﾒﾅｲｶ､美紀ｸﾝ｣,18,e.s｢別説了，美紀｣,人工定稿,导入警告: kana_residue
+386,0x1a40,system,system,0259,4,,未翻,
+387,0x1a45,dialogue,narrative,e.s｢確ｶﾆ西野氏ﾆﾊｵ気ﾉ毒でｼﾀが……,32,e.s｢確實西野很可憐……,人工定稿,导入警告: kana_residue
+388,0x1a68,dialogue,narrative,僕ﾉ提案ｼﾀ仕掛ｹｿﾉﾓﾉﾊ効果ｦ発揮ｼﾏｼﾀ｣,33,我提出的機關發揮了效果｣,人工定稿,导入警告: kana_residue
+389,0x1a8c,system,system,0260,4,,未翻,
+390,0x1a91,dialogue,narrative,e.s｢ﾓｯﾄﾓ､犠牲者が出ﾀ時点で,26,e.s｢不過有犧牲者出現,人工定稿,"P7 校对修正: 字形回退 犠→犧, 与既有已定稿块一致"
+391,0x1aac,dialogue,narrative,成功ｼﾀﾄ言ｲ切ﾚﾅｲﾉﾓ確ｶでｽが……｣,30,也不能斷言成功……｣,人工定稿,导入警告: kana_residue
+392,0x1acc,system,system,1832,4,,未翻,
+393,0x1ad1,dialogue,narrative,e.s｢ｼｶｼ､ﾐﾝﾅがバラバラﾆ投票ｼﾃｼﾏｳﾖﾘﾊ,34,e.s｢與其大家亂投票,人工定稿,导入警告: kana_residue
+394,0x1af4,dialogue,narrative,予ﾒ指名ｽﾙ相手ｦ一人ﾆ絞ｯﾃｲﾀ方がマシだ｣,36,不如先鎖定一人指名｣,人工定稿,导入警告: kana_residue
+395,0x1b1c,system,system,1833,4,,未翻,
+396,0x1b21,dialogue,narrative,e.s｢ｿﾚﾄﾓ美紀ｸﾝﾊ､ﾀﾏﾀﾏ指名ｼﾀ人が,30,e.s｢還是美紀覺得偶然,人工定稿,导入警告: kana_residue
+397,0x1b40,dialogue,narrative,自分ﾉ票ﾉｾｲで死ﾝでｼﾏｯﾃﾓ,22,指名的人因票而死,人工定稿,
+398,0x1b58,dialogue,narrative,良ｲﾄｲｳﾉｶ?｣,10,也無所謂?｣,人工定稿,导入警告: kana_residue
+399,0x1b64,system,system,1058,4,,未翻,
+400,0x1b69,dialogue,narrative,e.s｢ｲｲﾜｹﾅｲじｬﾅｲｯｽｶ!｣,20,e.s｢怎麼可能好!｣,人工定稿,导入警告: kana_residue
+401,0x1b80,system,system,1834,4,,未翻,
+402,0x1b85,dialogue,narrative,e.s｢ｳﾑ｡だｶﾗ続行ﾅﾉだﾖ｡,21,e.s｢是。所以要繼續。,人工定稿,导入警告: kana_residue
+403,0x1b9c,dialogue,narrative,ｼｶｼ､樫沢氏自身ﾊ平気ﾅﾉｶ?｣,24,但樫澤自己沒關係?｣,人工定稿,导入警告: kana_residue
+404,0x1bb8,system,system,0261,4,,未翻,
+405,0x1bbd,dialogue,narrative,e.s｢正直リスクがﾅｲ訳でﾊｱﾘﾏｾﾝﾖ｡,30,e.s｢説實話也有風險哦。,人工定稿,导入警告: kana_residue
+406,0x1bdc,dialogue,narrative,警官だｯﾃ次ﾓ僕ﾆ投票ｼﾃｸﾚﾙﾄﾊ,25,警官下次也未必投我,人工定稿,
+407,0x1bf8,dialogue,narrative,限ﾘﾏｾﾝｶﾗﾈ｣,10,也難説呀｣,人工定稿,"P7 校对修正: とは限りませんからね 与406""未必""重复, 改含糊收尾"
+408,0x1c04,system,system,1059,4,,未翻,
+409,0x1c09,dialogue,narrative,e.s｢だｯﾀﾗ､ﾅﾝでｱﾝﾀﾊｺﾝﾅ危険ﾅ作戦ｦ,31,e.s｢那為何還要繼續,人工定稿,导入警告: kana_residue
+410,0x1c2c,dialogue,narrative,続ｹﾖｳﾄｼﾃﾝﾉﾖ｣,12,這危險作戰?｣,人工定稿,导入警告: kana_residue
+411,0x1c3c,system,system,0262,4,,未翻,
+412,0x1c41,dialogue,narrative,e.s｢ｵﾔ､心配ｼﾃｸﾚﾃｲﾙﾉでｽｶ?,24,e.s｢哦，在擔心我?,人工定稿,导入警告: kana_residue
+413,0x1c5c,dialogue,narrative,ｺﾉ作戦ｦ言ｲ出ｼﾀﾉﾊ僕でｽｶﾗﾈ｡,25,這作戰是我提出的。,人工定稿,
+414,0x1c78,dialogue,narrative,危険だｶﾗｯﾃ､他ﾉ人ﾆ任ｾﾙﾅﾝﾃ出来ﾏｾﾝ｣,32,不能因危險就交給人｣,人工定稿,导入警告: kana_residue
+415,0x1c9c,system,system,1060,4,,未翻,
+416,0x1ca1,dialogue,narrative,e.s｢心配ﾅﾝｶ……!,16,e.s｢才不擔心!,人工定稿,导入警告: kana_residue
+417,0x1cb4,dialogue,narrative,で､でﾓ｡ﾁｮｯﾄﾊ根性ｱﾙじｬﾅｲ｣,24,但、但是。有點骨氣嘛｣,人工定稿,导入警告: kana_residue
+418,0x1cd0,system,system,0263,4,,未翻,
+419,0x1cd5,dialogue,narrative,e.s｢ｿﾚﾊ褒ﾒﾃ下ｻｯﾃﾙﾉでｽｶ?｣,24,e.s｢那是在誇我?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+420,0x1cf0,system,system,1835,4,,未翻,
+421,0x1cf5,dialogue,narrative,e.s｢彼女ﾉ精一杯ﾉ褒ﾒ言葉だﾖ｡,27,e.s｢那是美紀最大的誇獎。,人工定稿,导入警告: kana_residue
+422,0x1d14,dialogue,narrative,男ｦ褒ﾒﾙﾅﾝﾃ珍ｼｲｶﾗ､喜ﾝでｵｸﾄｲｲ｣,28,誇男人罕見，收下就好｣,人工定稿,导入警告: kana_residue
+423,0x1d34,system,system,0264,4,,未翻,
+424,0x1d39,dialogue,narrative,e.s｢ｿｳでｽｶ｡ｱﾘがﾄｳござｲﾏｽ｡,25,e.s｢這樣哦。謝謝。,人工定稿,导入警告: kana_residue
+425,0x1d54,dialogue,narrative,作戦ﾆﾓ協力ｼﾃｲﾀだｹﾙﾝでｽﾈ｣,24,作戰也肯配合呀｣,人工定稿,"P7 校对修正: 協力していただける 方向反了(非""請讓我協助""); 協力统一""配合"""
+426,0x1d70,system,system,1061,4,,未翻,
+427,0x1d75,dialogue,narrative,e.s｢ｲ､言ｯﾃｵｸｹど､ｵ姉ｻﾏﾆ言ﾜﾚﾀｶﾗ,29,e.s｢先説好，是姐姐大人,人工定稿,导入警告: kana_residue
+428,0x1d94,dialogue,narrative,協力ｼﾃﾔﾙだｹだｶﾝﾈ!,17,才幇這個忙的哦!,人工定稿,
+429,0x1da8,dialogue,narrative,調子ﾆ乗ﾙﾝじｬﾅｲﾜﾖ!｣,18,別得意忘形了!｣,人工定稿,导入警告: kana_residue
+430,0x1dbc,system,system,1836,4,,未翻,
+431,0x1dc1,dialogue,narrative,e.s｢ﾌﾑ｡美紀ｸﾝﾊツンデレだｯﾀﾉｶ｣,29,e.s｢唔。美紀是傲嬌?｣,人工定稿,P7 校对修正: フム→唔(与 kw_lover137 一致); 补收尾 ｣
+432,0x1de0,system,system,1062,4,,未翻,
+433,0x1de5,dialogue,narrative,e.s｢ﾁ､違ｲﾏｽ!,12,e.s｢才不是!,人工定稿,导入警告: kana_residue
+434,0x1df4,dialogue,narrative,ｱﾀｼがデレﾙﾉﾊｵ姉ｻﾏだｹ!,21,我只對姐姐大人撒嬌!,人工定稿,
+435,0x1e0c,dialogue,narrative,ｺｲﾂﾆﾊツンツンｼｶｼﾃﾅｲﾓﾝ!｣,23,對這東西冷冰冰嘛!｣,人工定稿,导入警告: kana_residue
+436,0x1e24,system,system,0265,4,,未翻,
+437,0x1e29,dialogue,narrative,e.s｢……ﾏ､ご協力ｲﾀだｹﾙﾅﾗ何でﾓｲｲでｽﾖ｡,36,e.s｢……只要肯幇都好。,人工定稿,导入警告: kana_residue
+438,0x1e50,dialogue,narrative,ﾖﾛｼｸｵ願ｲｼﾏｽ｣,12,請多關照｣,人工定稿,导入警告: kana_residue
+439,0x1e60,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_唯柚,23,ROM2_KW_樫澤之作戰_唯柚,人工定稿,
+440,0x1e78,system,system,0199,4,,未翻,
+441,0x1e7d,dialogue,narrative,e.s｢……樫沢ｻﾝﾉ作戦?｣,21,e.s｢……樫澤的作戰?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+442,0x1e94,system,system,1837,4,,未翻,
+443,0x1e99,dialogue,narrative,e.s｢ｱｱ｡ｻｯｷﾐﾝﾅで樫沢氏ﾆ投票ｼﾀ､ｱﾚだ｡,34,e.s｢哦，就是剛才大家投票樫澤那個。,人工定稿,P7 校对修正: アア 领会语气+みんなで 漏译补回
+444,0x1ebc,dialogue,narrative,次ﾓ同じ作戦で行ｷﾀｲﾄｺﾛﾅﾉだが……｣,32,下次也想用同樣作戰……｣,人工定稿,导入警告: kana_residue
+445,0x1ee0,system,system,0200,4,,未翻,
+446,0x1ee5,dialogue,narrative,e.s｢ｱｰ､ｱﾚでｽｶ｡,14,e.s｢是那個哦。,人工定稿,导入警告: kana_residue
+447,0x1ef4,dialogue,narrative,ｳﾝ､ｲｲでｽﾖｰ｡昇ｻﾝﾆﾓ言ﾜﾚﾀｼ｣,24,好哦。昇也這麼説｣,人工定稿,导入警告: kana_residue
+448,0x1f10,system,system,1838,4,,未翻,
+449,0x1f15,dialogue,narrative,e.s｢何故､ｿｺで森崎氏が?｣,23,e.s｢為何提到森崎?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+450,0x1f30,system,system,0201,4,,未翻,
+451,0x1f35,dialogue,narrative,e.s｢ｴｰ､だｯﾃﾈｰ｡,14,e.s｢欸，因為。,人工定稿,导入警告: kana_residue
+452,0x1f44,dialogue,narrative,ｴﾍﾍ､昇ｻﾝ､ｽごｸ優ｼｲﾝだﾓﾝ｡,23,呵呵，昇超温柔嘛。,人工定稿,
+453,0x1f5c,dialogue,narrative,ﾕﾕﾆｵ花ｸﾚﾀｼ｣,11,還送唯柚花｣,人工定稿,导入警告: kana_residue
+454,0x1f68,system,system,1063,4,,未翻,
+455,0x1f6d,dialogue,narrative,e.s｢ｱｰ､ｿﾉ花､ｱｲﾂがｸﾚﾀﾝだ｡,24,e.s｢是，花是那小子送的。,人工定稿,"P7 校对修正: アイツ 作""那夥""不成词, 与211同译""那小子"""
+456,0x1f88,dialogue,narrative,ｹｯｺｳﾔﾙじｬﾝ｣,11,挺有一套嘛｣,人工定稿,导入警告: kana_residue
+457,0x1f94,dialogue,narrative,ｵｿﾗｸ本人ﾊｿﾝﾅ意識ﾅどﾅｲﾉだﾛｳﾅ……｡,32,大概本人沒那意思……。,人工定稿,
+458,0x1fb8,system,system,1064,4,,未翻,
+459,0x1fbd,dialogue,narrative,e.s｢森崎ﾒ｡香菜ｻﾝﾓｲﾙｸｾﾆ､,23,e.s｢森崎這東西。有香菜,人工定稿,导入警告: kana_residue
+460,0x1fd8,dialogue,narrative,唯柚ﾁｬﾝﾆﾏで手ｦ出ｽﾄﾊｯ!｣,22,卻還對唯柚出手!｣,人工定稿,导入警告: kana_residue
+461,0x1ff0,system,system,0202,4,,未翻,
+462,0x1ff5,dialogue,narrative,e.s｢ｷｬｰｯ､手ｦ出ｼﾀﾅﾝﾃ恥ずｶｼｲﾖｰｯ!,30,e.s｢呀!説出手好害羞!,人工定稿,导入警告: kana_residue
+463,0x2014,dialogue,narrative,ﾕﾕﾄ昇ｻﾝ､ﾏだｿﾝﾅ関係じｬﾅｲでｽﾖｫ!｣,30,唯柚和昇還沒那關係!｣,人工定稿,导入警告: kana_residue
+464,0x2034,dialogue,narrative,ﾄｲｳｶ､ｺﾉ流ﾚでﾖｸ香菜ｸﾝﾉｺﾄｦ,24,話説，這種情況還把香菜,人工定稿,
+465,0x2050,dialogue,narrative,話題ﾆ出ｾﾙﾅ､美紀ｸﾝﾊ｡,19,拿來講，美紀。,人工定稿,
+466,0x2064,dialogue,narrative,唯柚ｸﾝﾓ完全ﾆスルーだｼ……｡,26,唯柚也完全無視……。,人工定稿,
+467,0x2080,dialogue,narrative,ﾏｧﾄﾆｶｸ､唯柚ｸﾝﾊ,14,反正，唯柚,人工定稿,
+468,0x2090,dialogue,narrative,森崎氏ﾉ気が変ﾜﾗﾅｲ限ﾘ､,21,只要森崎不變心，,人工定稿,
+469,0x20a8,dialogue,narrative,協力ｼﾃｸﾚｿｳでﾊｱﾙﾅ｡,17,應該會協助。,人工定稿,
+470,0x20bc,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_紅春,23,ROM2_KW_樫澤之作戰_紅春,人工定稿,
+471,0x20d4,system,system,0241,4,,未翻,
+472,0x20d9,dialogue,narrative,e.s｢樫沢ｻﾝﾉ作戦でｽｶｧ?｣,22,e.s｢樫澤的作戰?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+473,0x20f0,system,system,1839,4,,未翻,
+474,0x20f5,dialogue,narrative,e.s｢ｱｱ｡紅春ｸﾝﾊどｳ思ｯﾃｲﾙ?｣,25,e.s｢是。紅春怎麼想?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+475,0x2110,system,system,0242,4,,未翻,
+476,0x2115,dialogue,narrative,e.s｢ｿｳでｽﾈｪ……,15,e.s｢這樣哦……,人工定稿,导入警告: kana_residue
+477,0x2128,dialogue,narrative,ﾅﾝだｶ……仕方ﾅｲﾉｶﾅｧ､ｯﾃ思ｲﾏｽ｣,28,總覺得……或許也只能這樣｣,人工定稿,P7 校对修正: のかなぁ 推测语气补回(原译陈述化)
+478,0x2148,system,system,1065,4,,未翻,
+479,0x214d,dialogue,narrative,e.s｢ｿﾚｯﾃ､賛成でﾊﾅｲｯﾃｺﾄ?｣,24,e.s｢這不是贊成?｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+480,0x2168,system,system,0243,4,,未翻,
+481,0x216d,dialogue,narrative,e.s｢……だｯﾃ､西野ｻﾝ､ｱﾝﾅｺﾄﾆ……｡,31,e.s｢……可是西野那樣……,人工定稿,导入警告: kana_residue
+482,0x2190,dialogue,narrative,でﾓ､樫沢ｻﾝﾉ言ｳ通ﾘﾆｼﾃﾅｶｯﾀﾗ,25,但不照樫澤説的做,人工定稿,
+483,0x21ac,dialogue,narrative,他ﾉ人ﾓ……｣,11,他人也……｣,人工定稿,导入警告: kana_residue
+484,0x21b8,system,system,0244,4,,未翻,
+485,0x21bd,dialogue,narrative,e.s｢ﾓｳ､ｺﾝﾅﾉ……私､耐ｴﾗﾚﾏｾﾝ……｣,31,e.s｢我受不了這種……｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+486,0x21e0,system,system,1840,4,,未翻,
+487,0x21e5,dialogue,narrative,e.s｢ｳﾑ……辛ｲだﾛｳが､今ﾊ他ﾆﾔﾘﾖｳﾓﾅｲ｡,34,e.s｢唔……想必難受，但別無他法。,人工定稿,"P7 校对修正: ウム→唔; だろう 推量补""想必""; 原文无｣(引号至488收)"
+488,0x2208,dialogue,narrative,協力ｼﾃﾓﾗｴﾅｲだﾛｳｶ｣,17,能請配合?｣,人工定稿,"P7 校对修正: 協力 统一""配合"""
+489,0x221c,system,system,0245,4,,未翻,
+490,0x2221,dialogue,narrative,e.s｢ﾊｲ……ｿﾚﾊ､ｼﾏｽ……｣,22,e.s｢好……我會做……｣,人工定稿,P7 校对修正: 补收尾 ｣(原文有)
+491,0x2238,dialogue,narrative,ロム2_KW_樫沢ﾉ作戦_西野,23,ROM2_KW_樫澤之作戰_西野,人工定稿,

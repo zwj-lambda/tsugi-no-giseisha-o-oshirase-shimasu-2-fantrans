@@ -1,0 +1,59 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_koh.tob,25,,未翻,
+2,0x1c,system,system,check_koh.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_紅春,9,調査_紅春,人工定稿,
+4,0x38,dialogue,label,調査_紅春_未調査,16,調査_紅春_未調査,人工定稿,
+5,0x4c,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,
+6,0x68,dialogue,narrative,ｿﾉ中ｶﾗ､『早倉紅春』ﾉ文字ｦ選ぶ｡,30,從中選擇『早倉紅春』的文字。,人工定稿,
+7,0x88,system,system,1156,4,,未翻,
+8,0x8d,dialogue,narrative,_ko｢……ｿｳｲｴば､彼女ﾆﾂｲﾃﾊ,24,_ko｢……説起來，關於紅春,人工定稿,P7 校对修正
+9,0xa8,dialogue,narrative,私ﾊ何ﾓ知ﾗﾅｲﾅ……｣,17,我毫不知情……｣,人工定稿,导入警告: kana_residue
+10,0xbc,dialogue,narrative,美紀ｸﾝが言ｳﾖｳﾆ､紅春ｸﾝﾊ､,23,如美紀所言，紅春，,人工定稿,
+11,0xd4,dialogue,narrative,少ｼ天然でﾖｸ転ぶｿｳで､,20,據説有點天然常跌倒，,人工定稿,
+12,0xec,dialogue,narrative,男ﾅﾗ守ｯﾃｱげﾀｲタイプﾗｼｲが……｡,29,似乎是男生想保護的類型……。,人工定稿,
+13,0x10c,dialogue,narrative,ｿﾚ以外ﾉｺﾄﾊﾎﾄﾝど知ﾗﾅｲ｡,21,其他幾乎都不知道。,人工定稿,
+14,0x124,dialogue,narrative,香菜ｸﾝﾄ森崎氏ﾔ､,15,像香菜和森崎、,人工定稿,P7 校对修正
+15,0x134,dialogue,narrative,ﾂﾑじｸﾝﾄﾊﾙｶｸﾝﾉﾖｳﾆ,16,還有旋和遙那樣，,人工定稿,P7 校对修正
+16,0x148,dialogue,narrative,ﾖｸ知ﾙ者がｲﾅｲｶﾗだﾛｳ｡,19,大概是因為沒熟人。,人工定稿,P7 校对修正
+17,0x15c,dialogue,narrative,だｶﾗ私達ﾊ彼女ﾉｺﾄｦ,17,所以我們一直只把,人工定稿,P7 校对修正
+18,0x170,dialogue,narrative,ﾀだ優ｼｸﾃ泣ｷ虫ﾅ現役看護師ﾄｼﾃｼｶ,29,紅春當作温柔又愛哭的現職護士,人工定稿,P7 校对修正
+19,0x190,dialogue,narrative,見ﾃｲﾅｶｯﾀが……｡,15,來看待……,人工定稿,P7 校对修正
+20,0x1a0,system,system,1157,4,,未翻,
+21,0x1a5,dialogue,narrative,_ko｢ｺﾚで紅春ｸﾝが『シリアルキラー』ﾅﾗ､,37,_ko｢這樣一來，紅春若是『連環殺手』，,人工定稿,P7 校对修正
+22,0x1cc,dialogue,narrative,私達ﾊﾏﾝﾏﾄ彼女ﾉ演技ﾆ,19,我們就等於被那女孩,人工定稿,
+23,0x1e0,dialogue,narrative,騙ｻﾚﾃｲﾀｺﾄﾆﾅﾙﾅ｣,14,的演技騙了｣,人工定稿,导入警告: kana_residue
+24,0x1f0,dialogue,narrative,ｿｳ考ｴﾅがﾗ『早倉紅春』ﾉ名前ｦ押ｽ｡,31,邊那樣想邊按下『早倉紅春』。,人工定稿,
+25,0x210,dialogue,narrative,『早倉紅春でｲｲでｽｶ?』ﾉメッセージが続ｷ､,38,接著出現『早倉紅春是否正確?』的信息，,人工定稿,P7 校对修正
+26,0x238,dialogue,narrative,『確認』ｦ押ｽﾄ､画面ﾆﾊ『調査結果』ﾄｲｳ,35,按下『確認』，畫面出現『調査結果』,人工定稿,
+27,0x25c,dialogue,narrative,文字が浮ｶび出ﾀ｡,15,字樣浮現出來。,人工定稿,
+28,0x26c,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,
+29,0x275,dialogue,narrative,.st結果が､表示ｻﾚﾙ｡,18,.st結果顯示出來。,人工定稿,
+30,0x288,dialogue,narrative,『早倉紅春ﾊ』,13,『早倉紅春』,人工定稿,
+31,0x298,dialogue,narrative,『シリアルキラーでｽ』,21,『是連環殺手』,人工定稿,
+32,0x2b0,system,system,1158,4,,未翻,
+33,0x2b5,dialogue,narrative,_ko｢……!!｣,11,_ko｢……!!｣,人工定稿,导入警告: kana_residue
+34,0x2c1,dialogue,narrative,.stﾀｼｶﾆ､ｿﾉ可能性ｦ考ｴﾃﾉ調査だ｡,29,.st確實，是顧及可能性的調査。,人工定稿,
+35,0x2e0,dialogue,narrative,ｼｶｼ､ｿﾚでﾓ当ﾀﾘﾄﾅﾙﾄ……｡,22,然而，那樣也算猜中……,人工定稿,
+36,0x2f8,dialogue,narrative,見ﾂｶｯﾃﾖｶｯﾀﾄｲｳﾖﾘ､,16,與其説慶幸找到，,人工定稿,
+37,0x30c,dialogue,narrative,見ﾂｹﾃｼﾏｯﾀﾄｲｳ気持ﾁが強ｲ｡,23,還是找到了的感覺更強。,人工定稿,
+38,0x324,system,system,1159,4,,未翻,
+39,0x329,dialogue,narrative,_ko｢彼女が……｣,15,_ko｢那女孩……｣,人工定稿,导入警告: kana_residue
+40,0x33c,dialogue,narrative,ﾊﾙｶｸﾝがシリアルキラーでﾅｲｺﾄが,29,遙不是連環殺手一事,人工定稿,
+41,0x35c,dialogue,narrative,確定ｼﾀｶﾗ､ﾂﾑじｸﾝがXﾄｲｳ説ﾓ,24,既然確定，旋是X的説法也,人工定稿,P7 校对修正
+42,0x378,dialogue,narrative,立ﾁ消ｴﾀ｡,8,消失了。,人工定稿,
+43,0x381,dialogue,narrative,.st霞ｸﾝﾓXﾄﾊ考ｴﾗﾚﾅｲ｡,19,.st霞也不可能是X。,人工定稿,
+44,0x398,dialogue,narrative,ﾄｲｳｺﾄﾊ､最後ﾉ1人……｡,20,這麼説，最後1人……,人工定稿,
+45,0x3b0,dialogue,narrative,彼女ｺｿが……｡,13,紅春才是……,人工定稿,P7 校对修正
+46,0x3c0,system,system,1160,4,,未翻,
+47,0x3c5,dialogue,narrative,_ko｢ﾅﾝﾄｲｳｺﾄだ……,17,_ko｢怎麼會這樣…,人工定稿,导入警告: kana_residue
+48,0x3d8,dialogue,narrative,ﾂﾏﾘ､人が死ﾇ度ﾆ悲ｼﾐﾆｸﾚﾃｲﾀ態度ﾊ､,30,就是説，毎次有人死就悲痛欲絶，,人工定稿,P7 校对修正
+49,0x3f8,dialogue,narrative,全部フェイクだｯﾀﾄｲｳｺﾄｶ｣,23,全都是假的?｣,人工定稿,P7 校对修正
+50,0x410,dialogue,narrative,穏ﾔｶで可憐ﾅｱﾉ顔ﾉ下ﾆ､,20,那温和可憐的臉之下，,人工定稿,P7 校对修正
+51,0x428,dialogue,narrative,残忍で凶悪ﾅXﾉ素顔が隠ｻﾚﾃｲﾙ｡,27,隱藏著殘忍凶惡的X真面目。,人工定稿,
+52,0x444,dialogue,narrative,怒ﾘﾉｱﾏﾘ､自ずﾄ体が震ｴﾀ｡,22,氣得身體不禁顫抖。,人工定稿,
+53,0x45c,system,system,1161,4,,未翻,
+54,0x461,dialogue,narrative,_ko｢ｼｶｼ､ｺﾚでﾔｯﾄ……辿ﾘ着ｲﾀ｣,27,_ko｢然而，總算……到達了｣,人工定稿,导入警告: kana_residue
+55,0x480,dialogue,narrative,ｱﾄﾊ……,7,接著…,人工定稿,
+56,0x488,dialogue,narrative,どｳﾆｶｼﾃ『X』ｦ追ｲﾂﾒ､ｺﾉゲームｶﾗ脱出,33,設法追逼『X』，從這遊戲逃出,人工定稿,
+57,0x4ac,dialogue,narrative,ｽﾙ方法ｦ考ｴﾅｸﾃﾊ……｡,19,得思考逃出方法……,人工定稿,P7 校对修正
+58,0x4c0,dialogue,narrative,勝負ﾊ､ｺｺｶﾗだ……｡,17,勝負從此開始……,人工定稿,P7 校对修正

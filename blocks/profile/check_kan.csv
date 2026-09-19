@@ -1,0 +1,34 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_kan.tob,25,,未翻,
+2,0x1c,system,system,check_kan.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_香菜,9,調査_香菜,人工定稿,
+4,0x38,dialogue,label,調査_香菜_判定,14,調査_香菜_判定,人工定稿,
+5,0x48,dialogue,label,調査_香菜_未調査,16,調査_香菜_未調査,人工定稿,
+6,0x5c,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,P7 校对修正
+7,0x78,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『青樹香菜』ﾉ名前ｦ押ｽ｡,31,我從中按下『青樹香菜』的名字。,人工定稿,P7 校对修正
+8,0x98,dialogue,narrative,『青樹香菜でｲｲでｽｶ?』ﾉメッセージ｡,33,出現『青樹香菜是否正確?』信息。,人工定稿,P7 词形统一: 訊息→信息(大陆用语)
+9,0xbc,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按下『確認』，,人工定稿,
+10,0xcc,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現出『調査結果』這幾個字。,人工定稿,
+11,0xf4,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,P7 校对修正
+12,0xfd,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,P7 校对修正
+13,0x10a,dialogue,narrative,st……｡,7,st……,人工定稿,P7 校对修正
+14,0x112,dialogue,narrative,ka『青樹香菜ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,37,ka『青樹香菜不是連環殺手』,人工定稿,
+15,0x138,system,system,2054,4,,未翻,
+16,0x13d,dialogue,narrative,_ka｢ﾏｧ､ｿｳだﾛｳﾅ｣,15,_ka｢嘛，果然呀｣,人工定稿,P7 校对修正
+17,0x150,dialogue,narrative,納得ﾉ結果ﾆ安心ｽﾙ｡,17,這結果讓我安心。,人工定稿,
+18,0x164,dialogue,narrative,だが同時ﾆ焦ﾘｦ覚ｴﾙ｡,18,但同時也感到焦慮。,人工定稿,
+19,0x178,dialogue,narrative,シリアルキラーｦ見ﾂｹﾙ機会ｦ,25,找出連環殺手的機會,人工定稿,
+20,0x194,dialogue,narrative,逃ｼﾃｼﾏｯﾀｶﾓｼﾚﾅｲ｡,15,或許錯過了。,人工定稿,
+21,0x1a4,dialogue,narrative,だが彼女が信頼でｷﾙﾄﾜｶｯﾀｺﾄﾊ,26,但知道能信任香菜這件事,人工定稿,P7 校对修正
+22,0x1c0,dialogue,narrative,ｿﾚﾊｿﾚで大ｷﾅステップﾅﾊずだ｡,26,那本身就是很大的進歩。,人工定稿,
+23,0x1dc,dialogue,narrative,どｳｾ後戻ﾘﾊでｷﾅｲ｡,16,反正無法回頭。,人工定稿,
+24,0x1f0,dialogue,narrative,ｿｳ信じﾃ､次ﾆ進ﾑﾄｼﾖｳ｡,19,就相信著繼續前進。,人工定稿,
+25,0x204,dialogue,narrative,調査_香菜_調査済,16,調査_香菜_調査濟,人工定稿,
+26,0x218,system,system,2055,4,,未翻,
+27,0x21d,dialogue,narrative,_ka｢ﾖｼ､前ﾆ調査ｼﾀ時ｶﾗ変ﾜｯﾃﾅｲﾅ｣,29,_ka｢好，和上次調査時一樣沒變｣,人工定稿,导入警告: kana_residue
+28,0x23c,dialogue,narrative,ｺﾚﾊ間違ｯﾃ二回調べﾃｼﾏｯﾀﾉでﾊﾅｸﾃ､,30,這並非因為弄錯而調査兩次，,人工定稿,P7 校对修正
+29,0x25c,dialogue,narrative,彼女がチートｼﾃシリアルキラーﾆﾅｯﾃﾅｲｶ,35,擔心香菜是不是作弊成了連環殺手,人工定稿,P7 校对修正
+30,0x280,dialogue,narrative,心配ｼﾀだｹﾅﾝだｶﾗﾈ!,17,只是因為擔心嘛!,人工定稿,
+31,0x294,dialogue,narrative,……ツンデレｯぽｸ言ｯﾃﾐﾀﾓﾉﾉ､,26,……雖試著像傲嬌般説了，,人工定稿,
+32,0x2b0,dialogue,narrative,余計ﾅ心配だｯﾀﾖｳだ｡,18,似乎是我多慮了。,人工定稿,
+33,0x2c4,dialogue,narrative,貴重ﾅ調査ﾉ機会ｦ無駄ﾆｼﾃｼﾏｯﾀ……｡,31,浪費了寶貴的調査機會……。,人工定稿,P7 校对修正

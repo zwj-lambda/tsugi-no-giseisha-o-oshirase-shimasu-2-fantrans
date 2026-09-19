@@ -1,0 +1,35 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_tsu.tob,25,,未翻,
+2,0x1c,system,system,check_tsu.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_ﾂﾑじ,9,調査_旋,人工定稿,
+4,0x38,dialogue,label,調査_ﾂﾑじ_判定,14,調査_旋_判定,人工定稿,
+5,0x48,dialogue,label,調査_ﾂﾑじ_未調査,16,調査_旋_未調査,人工定稿,
+6,0x5c,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,
+7,0x78,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『柏木ﾂﾑじ』ﾉ名前ｦ押ｽ｡,31,我從中按下『柏木旋』的名字。,人工定稿,
+8,0x98,dialogue,narrative,『柏木ﾂﾑじでｲｲでｽｶ?』ﾉメッセージ｡,33,出現『柏木旋是否正確?』信息。,人工定稿,P7 词形统一: 訊息→信息(大陆用语)
+9,0xbc,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按『確認』後，,人工定稿,
+10,0xcc,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現『調査結果』的文字。,人工定稿,
+11,0xf4,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,
+12,0xfd,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,
+13,0x10a,dialogue,narrative,st……｡,7,st……,人工定稿,
+14,0x112,dialogue,narrative,ts『柏木ﾂﾑじﾊシリアルキラーでｽ』,32,ts『柏木旋是連環殺手』,人工定稿,
+15,0x134,system,system,2017,4,,未翻,
+16,0x139,dialogue,narrative,_ts｢ﾅｯ……!?｣,13,_ts｢欸……!?｣,人工定稿,P7 校对修正
+17,0x147,dialogue,narrative,t思ﾜず絶句ｽﾙ｡,13,t不禁唖然。,人工定稿,
+18,0x158,dialogue,narrative,ランダムﾆ決ﾒﾗﾚﾀ役職ﾄﾊｲｴ……,27,雖説身份是隨機決定的……,人工定稿,
+19,0x174,dialogue,narrative,本当ﾆ彼がシリアルキラーだｯﾀﾄﾊ｡,30,真沒想到他真的是連環殺手。,人工定稿,P7 校对修正
+20,0x194,dialogue,narrative,調査ﾊ進展ｼﾀ｡,12,調査有進展。,人工定稿,
+21,0x1a4,dialogue,narrative,ｿﾉ喜びがｱﾙ反面……｡,19,但在喜悅背後……。,人工定稿,P7 校对修正
+22,0x1b8,dialogue,narrative,ｺﾉ事実ﾆどｳ対処ｽﾙべｷｶ……｡,25,該如何應對這事實……。,人工定稿,
+23,0x1d4,dialogue,narrative,知ﾘﾀｸﾅｶｯﾀ事実ﾆ,14,不想知道的事實,人工定稿,
+24,0x1e4,dialogue,narrative,思考が少ｼばｶﾘ停止ｼﾃｼﾏｯﾃｲﾀ……｡,30,思考幾乎停止住了……。,人工定稿,
+25,0x204,dialogue,narrative,調査_ﾂﾑじ_調査済,16,調査_旋_調査濟,人工定稿,
+26,0x218,system,system,2018,4,,未翻,
+27,0x21d,dialogue,narrative,_ts｢……ｼﾏｯﾀ｡,13,_ts｢……糟了,人工定稿,导入警告: kana_residue
+28,0x22b,dialogue,narrative,tｺﾚ､私､知ｯﾃﾙ｣,13,t這，我知道｣,人工定稿,导入警告: kana_residue
+29,0x23a,dialogue,narrative,ﾀ｡ｳｯｶﾘ､ｽでﾆ調べﾀ人ｦ調べﾃｼﾏｯﾀ｡,29,了。不小心査了已査過的人。,人工定稿,
+30,0x258,dialogue,narrative,ｲ､ｲﾔ｡,5,不不,人工定稿,
+31,0x25e,dialogue,narrative,ts間違ｲﾅｲｶ確認ｼﾀﾉだﾄ考ｴﾖｳ｡,26,ts就當作是確認有沒有弄錯。,人工定稿,
+32,0x27c,dialogue,narrative,特ﾆシリアルキラーでｱﾙｺﾄｦ確認ｽﾙﾉﾊ,32,尤其是確認是否為連環殺手，,人工定稿,
+33,0x2a0,dialogue,narrative,重要だｶﾗﾅ……｡,14,這很重要……。,人工定稿,
+34,0x2b0,dialogue,narrative,ｿｳ前向ｷﾆ考ｴﾙｺﾄﾆｼﾀ｡,18,決定那樣正面思考。,人工定稿,

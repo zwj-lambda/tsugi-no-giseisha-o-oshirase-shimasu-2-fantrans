@@ -1,0 +1,108 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_debIWAI.tob,27,,未翻,
+2,0x1c,system,system,sts_debIWAI.sts,15,,未翻,
+3,0x2c,system,system,deb_iwai_start,14,,未翻,
+4,0x3c,dialogue,narrative,岩井デバッグスタート,20,岩井調試開始,人工定稿,
+5,0x54,dialogue,narrative,テストメニュー1,15,測試菜單1,人工定稿,
+6,0x64,dialogue,narrative,テストメニュー2,15,測試菜單2,人工定稿,
+7,0x74,dialogue,narrative,テストメニュー3,15,測試菜單3,人工定稿,
+8,0x84,dialogue,narrative,テストメニュー4,15,測試菜單4,人工定稿,
+9,0x94,dialogue,command,アサートテスト,14,,未翻,
+10,0xa4,dialogue,command,エラーテスト,12,,未翻,
+11,0xb1,system,system,ts,2,,未翻,
+12,0xb4,dialogue,command,フリーテスト,12,,未翻,
+13,0xc1,system,system,ts,2,,未翻,
+14,0xc4,dialogue,label,KWテスト,8,KW測試,人工定稿,
+15,0xcd,dialogue,narrative,AI.<assert>式が偽  (f_dummy == 1),33,AI.<assert>式為偽  (f_dummy == 1),人工定稿,
+16,0xf0,dialogue,narrative,"""エラーテスト""",14,"""錯誤測試""",人工定稿,
+17,0x100,dialogue,narrative,探偵テスト,10,偵探測試,人工定稿,
+18,0x10b,dialogue,narrative,.二重解放,9,.雙重解放,人工定稿,
+19,0x115,dialogue,narrative,AI.未実装,9,AI.未實裝,人工定稿,
+20,0x11f,dialogue,narrative,Iテスト,7,I測試,人工定稿,
+21,0x127,dialogue,narrative,I西野ｦ調査,10,I調査西野,人工定稿,
+22,0x132,dialogue,narrative,I.薫ｦ調査,9,I.調査薰,人工定稿,
+23,0x13c,dialogue,narrative,樫沢ｦ調査,9,調査樫澤,人工定稿,
+24,0x146,dialogue,narrative,I.ﾂﾑじｦ調査,11,I.調査旋,人工定稿,
+25,0x152,dialogue,narrative,I.<switch_err> ﾆ分岐ｼﾃｷﾀ,24,I.<switch_err> 分支到了,人工定稿,"P7 校对修正: 补回 ﾆ(に) 的方向义, 同 sts_debZONO 定稿"
+26,0x16c,dialogue,narrative,続ｹﾙ,4,繼續,人工定稿,"P7 校对修正: 続ける=繼續(全库定稿词形), 原译 接著 漂移"
+27,0x171,dialogue,narrative,ebIﾔﾒﾙ,6,ebI停,人工定稿,P7 人工补译
+28,0x178,dialogue,narrative,フリー移動場所テスト,20,自由移動場所測試,人工定稿,
+29,0x190,dialogue,narrative,CT_ゲーム,9,CT_遊戲,人工定稿,
+30,0x19a,dialogue,narrative,I.CT_場所,9,I.CT_場所,人工定稿,
+31,0x1a4,dialogue,narrative,CT_人物,7,CT_人物,人工定稿,
+32,0x1ac,dialogue,narrative,CT_話題,7,CT_話題,人工定稿,
+33,0x1b4,dialogue,narrative,CT_ｿﾉ他,7,CT_其他,人工定稿,
+34,0x1bc,dialogue,command,フェードアウト,14,,未翻,
+35,0x1cc,dialogue,command,ゲームテスト,12,,未翻,
+36,0x1d9,system,system,ts,2,,未翻,
+37,0x1dc,dialogue,label,KW取得テスト,12,KW取得測試,人工定稿,
+38,0x1e9,system,system,ts,2,,未翻,
+39,0x1ec,dialogue,narrative,ﾊじﾏﾙﾖ～,8,開始咯～,人工定稿,
+40,0x1f5,dialogue,narrative,AI.市民,7,AI.市民,人工定稿,
+41,0x1fd,dialogue,narrative,ebI警官,7,ebI警官,人工定稿,
+42,0x205,dialogue,narrative,ebI探偵,7,ebI偵探,人工定稿,
+43,0x20d,dialogue,narrative,ebIシリアル吉良,15,ebI連環殺手吉良,人工定稿,
+44,0x21d,system,system,ts,2,,未翻,
+45,0x220,dialogue,narrative,腕輪,4,手環,人工定稿,
+46,0x225,system,system,ebIX,4,,未翻,
+47,0x22a,dialogue,narrative,s_投票,6,s_投票,人工定稿,
+48,0x231,dialogue,narrative,ebI指名,7,ebI指名,人工定稿,
+49,0x239,dialogue,narrative,ebI処刑,7,ebI處刑,人工定稿,
+50,0x241,dialogue,narrative,ebI日記,7,ebI日記,人工定稿,
+51,0x249,dialogue,narrative,ebI解析結果,11,ebI解析結果,人工定稿,
+52,0x255,dialogue,narrative,AI.ｵﾜﾘ,6,AI.終,人工定稿,P7 人工补译
+53,0x25c,dialogue,narrative,場所テスト,10,場所測試,人工定稿,
+54,0x267,dialogue,narrative,.指名部屋,9,.指名房間,人工定稿,
+55,0x271,dialogue,narrative,AI.廊下,7,AI.走廊,人工定稿,
+56,0x279,dialogue,narrative,ebIオフィス,11,ebI事務室,人工定稿,
+57,0x285,dialogue,narrative,AI.書庫,7,AI.書庫,人工定稿,
+58,0x28d,dialogue,narrative,ebI会議室,9,ebI會議室,人工定稿,
+59,0x297,dialogue,narrative,I給湯室,7,I茶水間,人工定稿,
+60,0x29f,dialogue,narrative,Iマシンルーム,13,I機房,人工定稿,
+61,0x2ad,system,system,ts,2,,未翻,
+62,0x2b0,dialogue,narrative,人物テスト,10,人物測試,人工定稿,
+63,0x2bb,dialogue,narrative,.話題テスト,11,.話題測試,人工定稿,
+64,0x2c7,dialogue,narrative,.バイト,7,.打工,人工定稿,
+65,0x2cf,dialogue,narrative,I西野ﾉ死,8,I西野死,人工定稿,P7 人工补译
+66,0x2d8,dialogue,narrative,学校,4,學校,人工定稿,
+67,0x2dd,dialogue,narrative,ebI国会議員,11,ebI國會議員,人工定稿,
+68,0x2e9,dialogue,narrative,AI.警察官,9,AI.警察官,人工定稿,
+69,0x2f3,dialogue,narrative,I部活,5,I社團,人工定稿,
+70,0x2f9,dialogue,narrative,ebI殺人鬼,9,ebI殺人鬼,人工定稿,
+71,0x303,dialogue,narrative,I歌,3,I歌,人工定稿,
+72,0x307,dialogue,narrative,_料理,5,_料理,人工定稿,
+73,0x30d,dialogue,narrative,ebI兄妹,7,ebI兄妹,人工定稿,
+74,0x315,dialogue,narrative,ebI誕生日,9,ebI生日,人工定稿,
+75,0x31f,dialogue,narrative,I薬物,5,I毒品,人工定稿,
+76,0x325,dialogue,narrative,ebI正義,7,ebI正義,人工定稿,
+77,0x32d,dialogue,narrative,ebI悪,5,ebI惡,人工定稿,
+78,0x333,dialogue,narrative,_ヒーロー,9,_英雄,人工定稿,
+79,0x33d,dialogue,narrative,AI.ﾊｼご,7,AI.梯子,人工定稿,
+80,0x345,dialogue,narrative,ebI天然,7,ebI天然,人工定稿,
+81,0x34d,dialogue,narrative,ebI恋人,7,ebI戀人,人工定稿,"P7 校对修正: 恋人=戀人(全库统一), 原译 情人"
+82,0x355,dialogue,narrative,ebI家族,7,ebI家族,人工定稿,
+83,0x35d,dialogue,narrative,ebI悩ﾐ,6,ebI惱,人工定稿,P7 人工补译
+84,0x364,dialogue,narrative,趣味,4,興趣,人工定稿,
+85,0x369,dialogue,narrative,ebI年齢,7,ebI年齡,人工定稿,P7 校对修正: 年紀->年齡(日文新字体 齢->齡)
+86,0x371,dialogue,narrative,ebIアニメート,13,ebI動畫,人工定稿,"P7 校对修正: アニメート=動畫(同 kw_gun/sts_debZONO), 原译 動画 为日文形"
+87,0x37f,dialogue,narrative,.×子供,7,.×小孩,人工定稿,
+88,0x387,dialogue,narrative,I○子どﾓ,8,I○小孩,人工定稿,
+89,0x390,dialogue,narrative,ｿﾚﾊ秘密でｽ｡,11,那是秘密｡,人工定稿,机翻警告: kana_residue
+90,0x39c,dialogue,narrative,嘘だ!!,6,騙人!!,人工定稿,
+91,0x3a3,dialogue,narrative,Iｿﾉ他テスト,11,I其他測試,人工定稿,
+92,0x3af,dialogue,narrative,.樫沢作戦でｲｸ,13,.採用樫澤作戰,人工定稿,"P7 校对修正: 作戦で行く=採用…作戰, 原译 出撃 语义漂移"
+93,0x3bd,system,system,ts,2,,未翻,
+94,0x3c0,dialogue,narrative,他ﾉ人ﾉ印象,10,他人的印象,人工定稿,
+95,0x3cb,dialogue,narrative,.スポーツ,9,.運動,人工定稿,
+96,0x3d5,dialogue,narrative,AI.発破,7,AI.爆破,人工定稿,
+97,0x3dd,dialogue,narrative,ebI花型ﾉ飴,10,ebI花型糖,人工定稿,"P7 校对修正: 补回 花型(花形) 修饰, 原译 花糖 丢修饰"
+98,0x3e8,dialogue,narrative,怪ｼｲ行動,8,可疑行動,人工定稿,
+99,0x3f1,dialogue,narrative,AI.容疑者,9,AI.嫌疑人,人工定稿,
+100,0x3fb,dialogue,narrative,I次ﾉ投票,8,I次投票,人工定稿,P7 人工补译
+101,0x404,dialogue,narrative,ﾝ､チミ､ﾏだ未実装じｬﾅｲｶ｡,23,唔，小子，還未實裝呀。,人工定稿,"P7 校对修正: ﾝ->唔, チミ->小子, じゃないか 按 v1.4 卡不用 哦; 同 sts_debZONO 同句"
+102,0x41c,dialogue,narrative,早ｸｼﾀﾏｴ,7,動作快,人工定稿,
+103,0x424,dialogue,narrative,｢ｶﾜｲｲ女ﾉ子だﾄ思ｯﾀ?,18,｢以為是可愛的女孩?,人工定稿,"P7 校对修正: 补回 だと思った(以為), 去掉原文没有的收尾 ｣"
+104,0x438,dialogue,narrative,ざﾝﾈﾝ! 紅春ﾁｬﾝでｼﾀ!｣,20,可惜! 是紅春!｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: kana_residue
+105,0x450,dialogue,narrative,｢どｳ?｣,6,｢如何｣,人工定稿,P7 人工补译
+106,0x457,dialogue,narrative,I｢ざﾝﾈﾝ! ﾜﾀｼﾉぼｳｹﾝﾊ,19,I｢可惜! 我的冒險,人工定稿,"P7 校对修正: 去掉 は 硬译的「是」, 与下行连读"
+107,0x46c,dialogue,narrative,ｺｺでｵﾜｯﾃｼﾏｯﾀ!｣,14,在此結束了!｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: kana_residue

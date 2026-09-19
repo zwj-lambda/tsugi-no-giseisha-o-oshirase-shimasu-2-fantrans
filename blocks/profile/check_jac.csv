@@ -1,0 +1,24 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_jac.tob,25,,未翻,
+2,0x1c,system,system,check_jac.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_ジャック,13,調査_傑克,人工定稿,
+4,0x3c,dialogue,label,調査_ジャック_未調査,20,調査_傑克_未調査,人工定稿,
+5,0x54,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,P7 终轮统一: 共享句对齐(畫面中映出的參加者姓名。)
+6,0x70,dialogue,narrative,ｿﾉ中ｶﾗジャック氏ﾉﾓﾉﾄ思ﾜﾚﾙ,25,其中被認為是傑克先生的,人工定稿,
+7,0x8c,dialogue,narrative,『今宮一郎』ﾉ名前ｦ押ｽ｡,22,按『今宮一郎』的名字。,人工定稿,P7 终轮统一: 共享句形(按…的名字)
+8,0xa4,dialogue,narrative,『今宮一郎でｲｲでｽｶ?』ﾉメッセージ｡,33,『今宮一郎是否正確?』的信息。,人工定稿,P7 校对修正: 訊息→信息(大陆用词); 确认句口径同 check_koh
+9,0xc8,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按下『確認』，,人工定稿,
+10,0xd8,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現出『調査結果』這幾個字。,人工定稿,
+11,0x100,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,P7 终轮统一: 共享句形(然後……)
+12,0x109,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,P7 终轮统一: 共享句形(.st…………)
+13,0x116,dialogue,narrative,st……｡,7,st……,人工定稿,P7 终轮统一: 共享句形(st……)
+14,0x11e,dialogue,narrative,ja『今宮一郎ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,37,ja『今宮一郎不是連環殺手』,人工定稿,
+15,0x144,system,system,2036,4,,未翻,
+16,0x149,dialogue,narrative,_ja｢…………ﾌﾑ｣,15,_ja｢…………唔｣,人工定稿,导入警告: kana_residue
+17,0x15c,dialogue,narrative,ｿｳだｯﾀﾉｶﾄｲｳ驚ｷﾄ､,16,原來如此的驚訝，,人工定稿,P7 校对修正: 补回漏译的 そうだったのか(原译只剩「那種驚訝」)
+18,0x170,dialogue,narrative,ﾔﾊﾘｶﾄｲｳ諦ﾒが混ざｯﾀﾖｳﾅ気分｡,26,夾雜著『果然如此』的放棄。,人工定稿,"P7 校对修正: 諦め=放棄(全库口径), 釋然偏「寬慰」不符語感"
+19,0x18c,dialogue,narrative,ﾄｲｳｺﾄﾊﾔﾊﾘ､彼以外ﾆﾓｲﾙﾉだ｡,24,就是説，果然還有其他人。,人工定稿,P7 校对修正: 补回漏译的 やはり=果然(為槽寬將 也就是説壓成 就是説)
+20,0x1a8,dialogue,narrative,人ｦ殺ｽﾀﾒﾆ投票ｦｼﾃｲﾙﾓﾉが｡,23,有人為了殺人而投票。,人工定稿,
+21,0x1c0,dialogue,narrative,……ｲﾔ､ﾜｶｯﾃﾊｲﾀｺﾄだが……｡,25,……不，雖然早知道……。,人工定稿,P7 校对修正: 补回漏译的连接词 だが=雖然
+22,0x1dc,dialogue,narrative,事実ｦ目ﾉ当ﾀﾘﾆｽﾙﾄ､,17,親眼面對事實後，,人工定稿,
+23,0x1f0,dialogue,narrative,少ｼばｶﾘ辛ｲ気持ﾁﾆﾅｯﾀ｡,20,心裡有些難受。,人工定稿,

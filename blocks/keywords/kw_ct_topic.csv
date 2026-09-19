@@ -1,0 +1,8 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_ct_topic.tob,27,,未翻,
+2,0x1c,system,system,kw_ct_topic.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_カテゴリ_話題分岐,25,ROM2_KW_類別_話題分支,人工定稿,
+4,0x48,dialogue,label,ROM2_KW_話題,12,ROM2_KW_話題,人工定稿,
+5,0x55,system,system,ts,2,,未翻,
+6,0x58,dialogue,command,フェードアウト,14,,未翻,
+7,0x68,dialogue,label,KW_ダミー,9,KW_假資料,人工定稿,P7 终轮统一: ダミー→假資料

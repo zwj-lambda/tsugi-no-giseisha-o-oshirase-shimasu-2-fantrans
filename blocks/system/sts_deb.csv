@@ -1,0 +1,24 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_deb.tob,23,,未翻,
+2,0x18,system,system,sts_deb.sts,11,,未翻,
+3,0x24,system,system,sts_deb,7,,未翻,
+4,0x2c,dialogue,command,テスト,6,,未翻,
+5,0x33,dialogue,narrative,.ゾノデバッグ,13,.Zono調試,人工定稿,
+6,0x44,dialogue,narrative,岩井ｻﾝデバッグ,14,岩井調試,人工定稿,
+7,0x54,dialogue,narrative,シーン選択,10,場景選擇,人工定稿,"P7 校对修正: 選択=選擇(全库定稿词形), 原译 選取 漂移"
+8,0x60,dialogue,narrative,次ページ,8,下一頁,人工定稿,
+9,0x69,system,system,ts,2,,未翻,
+10,0x6c,dialogue,narrative,田口ｻﾝデバッグ,14,田口調試,人工定稿,
+11,0x7c,dialogue,narrative,SCR用デバ,9,SCR用調試,人工定稿,
+12,0x86,system,system,s,1,,未翻,
+13,0x88,dialogue,narrative,BU一覧,6,BU列表,人工定稿,
+14,0x8f,dialogue,narrative,.ﾅﾝﾓﾅｰｰｰｲ,9,.空空如也,人工定稿,
+15,0x99,system,system,ts,2,,未翻,
+16,0x9c,dialogue,narrative,仮でｽﾖ5,7,暫定哦5,人工定稿,
+17,0xa4,dialogue,narrative,ﾏだﾅｲ5,6,還沒5,人工定稿,"P7 校对修正: ﾏだ(還)补回, 没->沒"
+18,0xab,dialogue,narrative,.仮でｽﾖ6,8,.暫定哦6,人工定稿,
+19,0xb4,dialogue,narrative,ﾏだﾅｲ6,6,還沒6,人工定稿,"P7 校对修正: ﾏだ(還)补回, 没->沒"
+20,0xbb,dialogue,narrative,.仮でｽﾖ7,8,.暫定哦7,人工定稿,
+21,0xc4,dialogue,narrative,ﾏだﾅｲ7,6,還沒7,人工定稿,"P7 校对修正: ﾏだ(還)补回, 没->沒"
+22,0xcb,dialogue,narrative,.仮でｽﾖ8,8,.暫定哦8,人工定稿,
+23,0xd4,dialogue,narrative,ﾏだﾅｲ8,6,還沒8,人工定稿,"P7 校对修正: ﾏだ(還)补回, 没->沒"

@@ -1,0 +1,105 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_greet.tob,24,,未翻,
+2,0x1c,system,system,kw_greet.sts,12,,未翻,
+3,0x2c,dialogue,label,KW挨拶_昇_開始,14,KW問候_昇_開始,人工定稿,
+4,0x3c,dialogue,label,KW挨拶_昇_終了,14,KW問候_昇_結束,人工定稿,
+5,0x4c,dialogue,label,KW挨拶_香菜_開始,16,KW問候_香菜_開始,人工定稿,
+6,0x60,dialogue,label,KW挨拶_香菜_終了,16,KW問候_香菜_結束,人工定稿,
+7,0x74,dialogue,label,KW挨拶_圭介_開始,16,KW問候_圭介_開始,人工定稿,
+8,0x88,dialogue,label,KW挨拶_圭介_終了,16,KW問候_圭介_結束,人工定稿,
+9,0x9c,dialogue,label,KW挨拶_霞_開始,14,KW問候_霞_開始,人工定稿,
+10,0xab,dialogue,narrative,ｹKW挨拶_霞_終了,15,ｹKW問候_霞_結束,人工定稿,导入警告: kana_residue
+11,0xbc,dialogue,label,KW挨拶_美紀_開始,16,KW問候_美紀_開始,人工定稿,
+12,0xd0,dialogue,label,KW挨拶_美紀_終了,16,KW問候_美紀_結束,人工定稿,
+13,0xe4,dialogue,label,KW挨拶_ﾊﾙｶ_開始,15,KW問候_遙_開始,人工定稿,
+14,0xf4,dialogue,label,KW挨拶_ﾊﾙｶ_終了,15,KW問候_遙_結束,人工定稿,
+15,0x104,dialogue,label,KW挨拶_ﾂﾑじ_開始,16,KW問候_旋_開始,人工定稿,
+16,0x118,dialogue,label,KW挨拶_ﾂﾑじ_終了,16,KW問候_旋_結束,人工定稿,
+17,0x12c,dialogue,label,KW挨拶_ジャック_開始,20,KW問候_傑克_開始,人工定稿,
+18,0x144,dialogue,label,KW挨拶_ジャック_終了,20,KW問候_傑克_結束,人工定稿,
+19,0x15c,dialogue,label,KW挨拶_薫_開始,14,KW問候_薰_開始,人工定稿,
+20,0x16b,dialogue,narrative,_KW挨拶_薫_終了,15,_KW問候_薰_結束,人工定稿,
+21,0x17c,dialogue,label,KW挨拶_樫沢_開始,16,KW問候_樫澤_開始,人工定稿,
+22,0x190,dialogue,label,KW挨拶_樫沢_終了,16,KW問候_樫澤_結束,人工定稿,
+23,0x1a4,dialogue,label,KW挨拶_唯柚_開始,16,KW問候_唯柚_開始,人工定稿,
+24,0x1b8,dialogue,label,KW挨拶_唯柚_終了,16,KW問候_唯柚_結束,人工定稿,
+25,0x1cc,dialogue,label,KW挨拶_紅春_開始,16,KW問候_紅春_開始,人工定稿,
+26,0x1e0,dialogue,label,KW挨拶_紅春_終了,16,KW問候_紅春_結束,人工定稿,
+27,0x1f4,dialogue,label,KW挨拶_西野_開始,16,KW問候_西野_開始,人工定稿,
+28,0x208,dialogue,label,KW挨拶_西野_終了,16,KW問候_西野_結束,人工定稿,
+29,0x21c,dialogue,narrative,汎用挨拶_昇_開始,16,通用問候_昇_開始,人工定稿,
+30,0x230,system,system,0293,4,,未翻,
+31,0x235,dialogue,narrative,eet｢ﾅﾆｶ?｣,9,eet｢何?｣,人工定稿,导入警告: kana_residue
+32,0x23f,dialogue,narrative,t汎用挨拶_昇_終了,17,t通用問候_昇_結束,人工定稿,
+33,0x254,system,system,0294,4,,未翻,
+34,0x259,dialogue,narrative,eet｢他ﾆ何ｶｱﾘﾏｽｶ?｣,17,eet｢還有別的事?｣,人工定稿,导入警告: kana_residue
+35,0x26c,dialogue,narrative,汎用挨拶_香菜_開始,18,通用問候_香菜_開始,人工定稿,
+36,0x280,system,system,0291,4,,未翻,
+37,0x285,dialogue,narrative,eet｢ﾅﾆﾅﾆ?｣,10,eet｢什麼?｣,人工定稿,导入警告: kana_residue
+38,0x290,dialogue,narrative,汎用挨拶_香菜_終了,18,通用問候_香菜_結束,人工定稿,
+39,0x2a4,system,system,0292,4,,未翻,
+40,0x2a9,dialogue,narrative,eet｢ｿﾚだｹ?｣,11,eet｢就這?｣,人工定稿,"P7 校对修正: ソレだケ 的 だけ(仅此)丢失, 「這樣?」义漂; 库内同一原文 kw_propose seq160 已定译「就這?」"
+41,0x2b5,dialogue,narrative,sts汎用挨拶_圭介_開始,21,sts通用問候_圭介_開始,人工定稿,
+42,0x2cc,system,system,0159,4,,未翻,
+43,0x2d1,dialogue,narrative,eet｢どｳｼﾀﾝでｽｶ?｣,16,eet｢怎麼了?｣,人工定稿,导入警告: kana_residue
+44,0x2e4,dialogue,narrative,汎用挨拶_圭介_終了,18,通用問候_圭介_結束,人工定稿,
+45,0x2f8,system,system,0160,4,,未翻,
+46,0x2fd,dialogue,narrative,eet汎用挨拶_霞_開始,19,eet通用問候_霞_開始,人工定稿,
+47,0x314,system,system,0167,4,,未翻,
+48,0x319,dialogue,narrative,eet｢ｱ……ｴﾄ､何ｶ……?｣,21,eet｢唔……那個什麼?｣,人工定稿,导入警告: kana_residue
+49,0x330,dialogue,narrative,汎用挨拶_霞_終了,16,通用問候_霞_結束,人工定稿,
+50,0x344,system,system,0168,4,,未翻,
+51,0x349,dialogue,narrative,eet｢ﾏだ……ｵ話､ｱﾘﾏｽｶ?｣,22,eet｢還有……話要説?｣,人工定稿,导入警告: kana_residue
+52,0x360,dialogue,narrative,汎用挨拶_美紀_開始,18,通用問候_美紀_開始,人工定稿,
+53,0x374,system,system,1068,4,,未翻,
+54,0x379,dialogue,narrative,eet｢ﾅﾝｽｶ?｣,10,eet｢什麼?｣,人工定稿,导入警告: kana_residue
+55,0x384,dialogue,narrative,汎用挨拶_美紀_終了,18,通用問候_美紀_結束,人工定稿,
+56,0x398,system,system,1069,4,,未翻,
+57,0x39d,dialogue,narrative,eet｢他ﾆ何ｶｱﾙｯｽ?｣,16,eet｢有其他事?｣,人工定稿,导入警告: kana_residue
+58,0x3b0,dialogue,narrative,汎用挨拶_ﾊﾙｶ_開始,17,通用問候_遙_開始,人工定稿,
+59,0x3c4,system,system,0109,4,,未翻,
+60,0x3c9,dialogue,narrative,eet｢ﾅﾆ?｣,8,eet｢何?｣,人工定稿,导入警告: kana_residue
+61,0x3d2,dialogue,narrative,et汎用挨拶_ﾊﾙｶ_終了,19,et通用問候_遙_結束,人工定稿,
+62,0x3e8,system,system,0110,4,,未翻,
+63,0x3ed,dialogue,narrative,eet｢ﾓｳｵﾜﾘ?｣,11,eet｢完了?｣,人工定稿,导入警告: kana_residue
+64,0x3f9,dialogue,narrative,sts汎用挨拶_ﾂﾑじ_開始,21,sts通用問候_旋_開始,人工定稿,
+65,0x410,system,system,0120,4,,未翻,
+66,0x415,dialogue,narrative,eet｢何ｶ用でｽｶ?｣,15,eet｢有什麼事?｣,人工定稿,"P7 校对修正: 「有何事」为书面文言残留; 同一原文 何カ用でスカ 在 r2_t3_3_0_0 seq190 定译「有什麼事?」, 同块 seq96 亦同"
+67,0x428,dialogue,narrative,汎用挨拶_ﾂﾑじ_終了,18,通用問候_旋_結束,人工定稿,
+68,0x43c,system,system,0121,4,,未翻,
+69,0x441,dialogue,narrative,eet｢ﾏだ話ｽﾝでｽｶ｣,16,eet｢還有要説的?｣,人工定稿,导入警告: kana_residue
+70,0x454,dialogue,narrative,汎用挨拶_樫沢_開始,18,通用問候_樫澤_開始,人工定稿,
+71,0x468,system,system,0270,4,,未翻,
+72,0x46d,dialogue,narrative,eet｢何ｶ?｣,9,eet｢何?｣,人工定稿,导入警告: kana_residue
+73,0x477,dialogue,narrative,t汎用挨拶_樫沢_終了,19,t通用問候_樫澤_結束,人工定稿,
+74,0x48c,system,system,0271,4,,未翻,
+75,0x491,dialogue,narrative,eet｢ﾏだ何ｶ｣,11,eet｢還有事｣,人工定稿,导入警告: kana_residue
+76,0x49d,dialogue,narrative,sts汎用挨拶_ジャック_開始,25,sts通用問候_傑克_開始,人工定稿,
+77,0x4b8,system,system,0136,4,,未翻,
+78,0x4bd,dialogue,narrative,eet｢ﾝ? 何ｶ用ｶ?｣,15,eet｢唔? 有事?｣,人工定稿,导入警告: kana_residue
+79,0x4cd,system,system,n,1,,未翻,
+80,0x4d0,dialogue,narrative,汎用挨拶_ジャック_終了,22,通用問候_傑克_結束,人工定稿,
+81,0x4e8,system,system,0137,4,,未翻,
+82,0x4ed,dialogue,narrative,eet｢ﾏだﾅﾝｶｱﾝﾉｶ?｣,16,eet｢還有什麼事?｣,人工定稿,导入警告: kana_residue
+83,0x500,dialogue,narrative,汎用挨拶_薫_開始,16,通用問候_薰_開始,人工定稿,
+84,0x514,system,system,0280,4,,未翻,
+85,0x519,dialogue,narrative,eet｢どｳｶｼﾏｼﾀｶ?｣,15,eet｢怎麼了?｣,人工定稿,导入警告: kana_residue
+86,0x52c,dialogue,narrative,汎用挨拶_薫_終了,16,通用問候_薰_結束,人工定稿,
+87,0x540,system,system,0281,4,,未翻,
+88,0x545,dialogue,narrative,eet汎用挨拶_唯柚_開始,21,eet通用問候_唯柚_開始,人工定稿,
+89,0x55c,system,system,0205,4,,未翻,
+90,0x561,dialogue,narrative,eet｢ｵ話? ｲｲﾖ｣,13,eet｢聊? 好呀｣,人工定稿,导入警告: kana_residue
+91,0x56f,dialogue,narrative,s汎用挨拶_唯柚_終了,19,s通用問候_唯柚_結束,人工定稿,
+92,0x584,system,system,0206,4,,未翻,
+93,0x589,dialogue,narrative,eet｢ﾏだｵ話ｼｽﾙﾉｶﾅ?｣,18,eet｢還要再聊?｣,人工定稿,导入警告: kana_residue
+94,0x59c,dialogue,narrative,汎用挨拶_紅春_開始,18,通用問候_紅春_開始,人工定稿,
+95,0x5b0,system,system,0248,4,,未翻,
+96,0x5b5,dialogue,narrative,eet｢何ｶご用でｽｶ?｣,17,eet｢有什麼事?｣,人工定稿,导入警告: kana_residue
+97,0x5c8,dialogue,narrative,汎用挨拶_紅春_終了,18,通用問候_紅春_結束,人工定稿,
+98,0x5dc,system,system,0249,4,,未翻,
+99,0x5e1,dialogue,narrative,eet汎用挨拶_西野_開始,21,eet通用問候_西野_開始,人工定稿,
+100,0x5f8,system,system,0077,4,,未翻,
+101,0x5fd,dialogue,narrative,eet｢ﾝ､ﾅﾝだチミ｡何ｶ用ｶﾈ?｣,24,eet｢唔，什麼事。有事?｣,人工定稿,"P7 校对修正: 「なんだチミ」被合成疑问成语「什麼東西」, 称谓丢失; 改 なんだ→什麼事(先例 r2_t1_3_0_0 seq414) + 何か用かね→有事?(同块 seq78/104); 标点随原文 ｡+?"
+102,0x618,dialogue,narrative,汎用挨拶_西野_終了,18,通用問候_西野_結束,人工定稿,
+103,0x62c,system,system,0078,4,,未翻,
+104,0x631,dialogue,narrative,eet｢ﾏだ何ｶ用ｶﾈ?｣,16,eet｢還有事?｣,人工定稿,导入警告: kana_residue

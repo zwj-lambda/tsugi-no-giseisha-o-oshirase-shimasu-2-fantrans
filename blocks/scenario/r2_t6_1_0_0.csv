@@ -1,0 +1,287 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/r2_t6_1_0_0.tob,27,,未翻,
+2,0x1c,system,system,r2_t6_1_0_0.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_ターン6,12,ROM2_回合6,人工定稿,
+4,0x3c,dialogue,narrative,ロム2_ターン6,13,ROM2_回合6,人工定稿,
+5,0x4a,system,system,s,1,,未翻,
+6,0x4c,dialogue,command,フェードアウト,14,,未翻,
+7,0x5c,dialogue,narrative,ロム2_霞自殺未遂,16,ROM2_霞自殺未遂,人工定稿,
+8,0x70,dialogue,narrative,一度ﾆ二人ﾓﾉ人間が処刑ｻﾚﾃｲｸ光景ｦ,31,一次便有兩人被處刑的景象,人工定稿,
+9,0x90,dialogue,narrative,目ﾉ当ﾀﾘﾆｽﾙ｡,11,親眼目睹。,人工定稿,
+10,0x9c,dialogue,narrative,誰ﾓが､現実感ｦ失ｯﾃｲﾀ｡,20,衆人失去現實感。,人工定稿,
+11,0xb4,dialogue,narrative,今回ﾊショックﾉｱﾏﾘ,17,這次的打撃太大，,人工定稿,P7 校对修正
+12,0xc8,dialogue,narrative,誰ﾓ休憩所ﾆ移動ｼﾖｳﾄｽﾗｼﾅｶｯﾀ｡,26,甚至無人試圖前往休息處。,人工定稿,P7 校对修正
+13,0xe4,system,system,0157,4,,未翻,
+14,0xe9,dialogue,narrative,_1_｢ｸｿ……ｸｿ……ｯ……｣,22,_1_｢可惡……可惡……｣,人工定稿,P7 校对修正
+15,0x100,dialogue,narrative,最愛ﾉ人ｦ失ｯﾀ森崎氏ﾊ､悲ｼﾐﾆ暮ﾚ､,29,失去最愛之人，森崎悲痛不已，,人工定稿,P7 校对修正
+16,0x120,dialogue,narrative,酷ｸ憔悴ｼｷｯﾃｲﾀ｡,14,極度憔悴。,人工定稿,
+17,0x130,dialogue,narrative,薫ｻﾝﾓ目ｦ真ｯ赤ﾆｻｾ､ぐｽぐｽﾄ,24,薰也哭紅了眼，抽抽搭搭地,人工定稿,
+18,0x14c,dialogue,narrative,鼻ｦｽｽｯﾃｲﾙ｡,10,吸著鼻子。,人工定稿,
+19,0x157,dialogue,narrative,.紅春ｸﾝﾓ､ﾂﾑじｸﾝﾓﾊﾙｶｸﾝﾓ｡,23,.紅春、旋、遙也一樣。,人工定稿,P7 校对修正
+20,0x170,dialogue,narrative,……ｽｯｶﾘﾄ言葉ｦ失ｯﾃｼﾏｯﾃｲﾀ｡,25,……全都説不出話來。,人工定稿,
+21,0x18c,system,system,0757,4,,未翻,
+22,0x191,dialogue,narrative,_1_｢ｵ姉ｻﾏ……｣,14,_1_｢姐姐大人｣,人工定稿,P7 校对修正
+23,0x1a0,system,system,1036,4,,未翻,
+24,0x1a5,dialogue,narrative,_1_｢……美紀ｸﾝ｡行ｸぞ｣,21,_1_｢……美紀，走咯。｣,人工定稿,P7 校对修正
+25,0x1bc,system,system,0758,4,,未翻,
+26,0x1c1,dialogue,narrative,_1_｢ﾄｲｳｺﾄﾊ､ﾓｼｶｼﾃ……｣,21,_1_｢也就是説莫非……｣,人工定稿,P7 校对修正
+27,0x1d8,system,system,1037,4,,未翻,
+28,0x1dd,dialogue,narrative,_1_｢ｱｱ｡急ｲで話ｦ聞ｶﾈばﾅﾙﾏｲ｣,26,_1_｢哦。得盡快問話。｣,人工定稿,
+29,0x1f8,dialogue,narrative,シリアルキラー……三上霞ﾆ｡,26,連環殺手……向三上霞。,人工定稿,
+30,0x214,dialogue,narrative,外ﾉ景色が見ｴﾙﾎど､,17,能見外面景色，,人工定稿,
+31,0x228,dialogue,narrative,壁ﾉ破損が激ｼｲオフィス跡｡,24,破損嚴重的事務所舊址。,人工定稿,
+32,0x244,dialogue,narrative,ｿﾉ天井ｶﾗ……｡,13,天花板……。,人工定稿,
+33,0x252,system,system,s,1,,未翻,
+34,0x254,system,system,1038,4,,未翻,
+35,0x259,dialogue,narrative,_1_｢霞ｸﾝ!!｣,11,_1_｢霞!!｣,人工定稿,
+36,0x265,system,system,_0.0759,7,,未翻,
+37,0x26d,dialogue,narrative,_1_｢何ﾔｯﾃﾝﾉﾖ!｣,14,_1_｢幹嘛!｣,人工定稿,
+38,0x27c,dialogue,narrative,美紀ｸﾝﾊ急ｲで駆ｹ寄ﾙﾄ､,20,美紀急忙奔上前，,人工定稿,
+39,0x294,dialogue,narrative,机ﾉ上ﾆ登ﾘ､霞ｸﾝｦ吊ﾙｼﾃｲﾙ,22,爬上寫字臺，把吊著霞的,人工定稿,P7 校对修正
+40,0x2ac,dialogue,narrative,ロープｦ引ｷﾁぎﾙ｡,15,繩索拉斷。,人工定稿,
+41,0x2bc,system,system,1039,4,,未翻,
+42,0x2c1,dialogue,narrative,_1_｢ｵｯﾄ｣,8,_1_｢哦｣,人工定稿,P7 校对修正
+43,0x2ca,dialogue,narrative,1_私ﾊ下で､落ﾁﾙ霞ｸﾝｦ抱ｷ留ﾒﾀ｡,27,1_我在下方接住墜落的霞。,人工定稿,
+44,0x2e8,dialogue,narrative,ｽｶｻず､首ﾆ巻ｶﾚﾀロープｦ緩ﾒﾙ｡,26,立刻鬆開纏在頸上的繩索。,人工定稿,
+45,0x304,system,system,0065,4,,未翻,
+46,0x309,dialogue,narrative,_1_｢ｳｯ……げﾎｯ､げﾎｯ……｣,24,_1_｢嗚……咳呵咳呵……｣,人工定稿,P7 校对修正
+47,0x324,system,system,0760,4,,未翻,
+48,0x329,dialogue,narrative,_1_｢ｱﾝﾀ､何ｼﾖｳﾄｼﾃﾀﾉﾖ!!｣,22,_1_｢霞，想幹嘛呀!!｣,人工定稿,P7 终轮统一: 双感叹号恢复
+49,0x340,system,system,0066,4,,未翻,
+50,0x345,dialogue,narrative,_1_｢ｹﾎｯ……ﾊｧ､ｼ､死ﾅｾﾃ下ｻｲ!!,27,_1_｢咳呵……哈，讓我去死!!,人工定稿,P7 终轮统一: 双感叹号恢复
+51,0x364,dialogue,narrative,私ﾉｾｲで､圭ｸﾝが!｣,16,都怪我害了圭!｣,人工定稿,
+52,0x378,system,system,0761,4,,未翻,
+53,0x37d,dialogue,narrative,_1_｢だﾒｯ｡死ﾇﾄｶ言ｳﾅ!｣,20,_1_｢不准説死!｣,人工定稿,
+54,0x394,dialogue,narrative,美紀ｸﾝﾊ必死ﾆ霞ｸﾝｦ崖ｯぷﾁｶﾗ,25,美紀死命把霞從崖邊,人工定稿,
+55,0x3b0,dialogue,narrative,部屋ﾉ中央ﾏで引ｷ寄ｾﾀ｡,20,拉到房間中央。,人工定稿,
+56,0x3c8,dialogue,narrative,霞ｸﾝﾊ力ﾅｸｿﾉ場ﾆｳずｸﾏﾙﾄ､,22,霞無力地蹲坐在原地，,人工定稿,
+57,0x3e0,dialogue,narrative,泣ｷじｬｸﾙ｡,9,抽泣。,人工定稿,
+58,0x3ea,system,system,0.0067,6,,未翻,
+59,0x3f1,dialogue,narrative,_1_｢ｵﾈがｲ……死ﾅｾﾃ……死ﾅｾﾃｪ……｣,33,_1_｢求求……讓我死……讓我死……｣,人工定稿,P7 校对修正
+60,0x414,system,system,1040,4,,未翻,
+61,0x419,dialogue,narrative,_1_｢坂橋氏がｿﾚｦ望ﾝでｲﾙﾄﾊ思ｴﾝが?｣,32,_1_｢坂橋先生應該不會希望那樣?｣,人工定稿,P7 校对修正
+62,0x43c,system,system,0068,4,,未翻,
+63,0x441,dialogue,narrative,_1_｢ｳｩ……でﾓ……ﾜﾀｼﾉｾｲで……｣,30,_1_｢嗚……可是……都怪我……｣,人工定稿,P7 校对修正
+64,0x460,system,system,1041,4,,未翻,
+65,0x465,dialogue,narrative,_1_｢君ﾉｾｲだﾄｲｳ理由ｦ聞ｷﾀｲ｣,25,_1_｢我想聽為何是自己的錯｣,人工定稿,P7 校对修正
+66,0x480,system,system,0069,4,,未翻,
+67,0x485,dialogue,narrative,_1_｢ｿﾚﾊ……ｱﾉ……｣,18,_1_｢那是……那個｣,人工定稿,终轮省略号统一: 单…→…… x1
+68,0x498,dialogue,narrative,ﾓじﾓじﾄ､口ｦﾂぐﾑ｡,16,難為情地閉上嘴。,人工定稿,P7 校对修正
+69,0x4ac,dialogue,narrative,ﾅﾗばｺﾁﾗｶﾗ単刀直入ﾆ聞ｺｳ｡,23,那我就單刀直入地問了。,人工定稿,
+70,0x4c4,system,system,1042,4,,未翻,
+71,0x4c9,dialogue,narrative,_1_｢……君ﾊ『シリアルキラー』ﾅﾉｶ?｣,34,_1_｢……霞是『連環殺手』?｣,人工定稿,P7 校对修正
+72,0x4ec,system,system,0070,4,,未翻,
+73,0x4f1,dialogue,narrative,_1_｢……ｱﾉ……ﾊｲ｣,17,_1_｢……那個…是｣,人工定稿,终轮省略号统一: 单…→…… x1; 余 1 处受槽宽
+74,0x504,dialogue,narrative,私ﾉ問ｲｶｹﾆ､霞ｸﾝﾊ素直ﾆ答ｴﾙ｡,25,霞坦率回答我的提問。,人工定稿,
+75,0x520,system,system,1043,4,,未翻,
+76,0x525,dialogue,narrative,_1_｢ｿﾚでﾊ､君ﾉｾｲで坂橋氏が死ﾝだﾄ言ｳﾉﾊ､,37,_1_｢那麼，説坂橋先生之死是自己的錯，,人工定稿,机翻警告: quote_unbalanced
+77,0x54c,dialogue,narrative,彼ｦ指名ｼﾃ殺ｼﾀﾄｲｳｺﾄｶ?｣,21,就是指名殺了他?｣,人工定稿,P7 校对修正
+78,0x564,system,system,0071,4,,未翻,
+79,0x569,dialogue,narrative,_1_｢ﾁ､違ｲﾏｽ!,12,_1_｢不、不是,人工定稿,P7 校对修正
+80,0x576,dialogue,narrative,0.ｻｯｷﾉターンﾊ､私達二人ﾄﾓ､,25,0.上一回合，我們兩人都，,人工定稿,P7 校对修正
+81,0x590,dialogue,narrative,私ｦ指名ｼﾃ……｣,14,指名了我……｣,人工定稿,机翻警告: quote_unbalanced
+82,0x5a0,system,system,1044,4,,未翻,
+83,0x5a5,dialogue,narrative,_1_｢ﾑ､どｳｲｳｺﾄだ?｣,17,_1_｢哦，怎講?｣,人工定稿,P7 校对修正
+84,0x5b8,system,system,0072,4,,未翻,
+85,0x5bd,dialogue,narrative,_1_｢実ﾊ……圭ｸﾝが『警官』だｯﾀﾝでｽ｡,34,_1_｢其實……圭是『警官』。,人工定稿,P7 校对修正
+86,0x5e0,dialogue,narrative,ｿﾚで私､誰ﾓ殺ｼﾀｸﾅｲｶﾗ､,20,所以我誰都不想殺，,人工定稿,
+87,0x5f8,dialogue,narrative,ずｯﾄ彼ﾄ一緒ﾉ人ｦ指名ｼﾃ……｣,26,一直指名和他一起的人……｣,人工定稿,机翻警告: quote_unbalanced
+88,0x614,dialogue,narrative,ﾅﾙﾎど､樫沢氏ﾉ作戦ｦ忠実ﾆ行ｲ続ｹﾃｲﾀ,32,原來如此，一直忠實執行樫澤作戰。,人工定稿,
+89,0x638,dialogue,narrative,ﾄｲｳﾜｹｶ……｡,11,是這樣呀。,人工定稿,
+90,0x644,system,system,1045,4,,未翻,
+91,0x649,dialogue,narrative,_1_｢でﾊ君ﾉ指名でﾊ,17,_1_｢那霞的指名，,人工定稿,P7 校对修正
+92,0x65c,dialogue,narrative,今ﾏで誰ﾓ死ﾝでｲﾅｲﾉだﾅ?｣,22,至今沒有任何人死過?｣,人工定稿,P7 校对修正
+93,0x674,system,system,0073,4,,未翻,
+94,0x679,dialogue,narrative,_1_｢ﾊｲ……｣,11,_1_｢是的｣,人工定稿,
+95,0x685,dialogue,narrative,_0.震ｴﾙ声で答ｴﾙ霞ｸﾝﾆ､私ﾊ確信ｼﾀ｡,31,_0.霞發抖地回答，讓我確信了。,人工定稿,P7 校对修正
+96,0x6a8,dialogue,narrative,彼女ﾊ『X』でﾊﾅｲ｡,16,霞不是『X』。,人工定稿,
+97,0x6bc,dialogue,narrative,本当ﾆ誰ｶｦ殺ｿｳﾄ企ﾑ人間ﾅﾗ､,24,若是真的企圖殺人的人，,人工定稿,P7 校对修正
+98,0x6d8,dialogue,narrative,『警官』ﾄ協力ｼｱｯﾀﾘﾊｼﾅｲ｡,23,不會與『警官』合作。,人工定稿,
+99,0x6f0,dialogue,narrative,第一､自殺ｼﾖｳﾄｼﾃﾀ者が,20,第一，想自殺的人，,人工定稿,P7 校对修正
+100,0x708,dialogue,narrative,今更嘘ﾊﾂｶﾅｲだﾛｳ｡,16,如今不會騙人。,人工定稿,
+101,0x71c,system,system,1046,4,,未翻,
+102,0x721,dialogue,narrative,_1_｢……だが､ﾏｻｶ坂橋氏が『警官』だｯﾀﾄﾊﾅ｣,40,_1_｢……不過，真沒料到坂橋是『警官』｣,人工定稿,P7 校对修正
+103,0x74c,dialogue,narrative,『警官』ｦ失ｯﾀｺﾄﾊ､ダメージが大ｷｲ｡,32,失去『警官』的打撃很大。,人工定稿,
+104,0x770,system,system,0762,4,,未翻,
+105,0x775,dialogue,narrative,_1_｢でﾓ､『シリアルキラー』が,28,_1_｢不過，『連環殺手』,人工定稿,P7 校对修正
+106,0x794,dialogue,narrative,一人ﾜｶｯﾀじｬﾅｲｯｽｶ｣,17,已經査明一人嘛｣,人工定稿,P7 校对修正
+107,0x7a8,system,system,1047,4,,未翻,
+108,0x7ad,dialogue,narrative,_1_｢ｱｱ｡ｼｶｼ『シリアルキラー』ﾊ三人だ｡,36,_1_｢哦。但『連環殺手』有三人。,人工定稿,P7 校对修正
+109,0x7d4,dialogue,narrative,ｱﾄ一人探ｼ出ｻﾅｸﾃﾊﾅﾗﾅｲがﾅ｣,24,還得再找出一個來呀｣,人工定稿,P7 校对修正
+110,0x7f0,system,system,0074,4,,未翻,
+111,0x7f5,dialogue,narrative,_1_｢ｱﾉｫ……ｱﾄ一人ｯﾃｺﾄﾊ……,26,_1_｢那個……還有一人是……,人工定稿,P7 校对修正
+112,0x810,dialogue,narrative,ﾓｳ一人､ﾜｶｯﾃﾙﾝでｽｶ?,18,已經知道還有一人?,人工定稿,P7 校对修正
+113,0x824,dialogue,narrative,誰ﾅﾝでｽｶ?｣,10,是誰?｣,人工定稿,P7 校对修正
+114,0x82f,dialogue,narrative,.霞ｸﾝﾊ顔ｦ上げﾃ私ﾆ問ｲｶｹﾙ｡,24,.霞抬起臉向我發問。,人工定稿,
+115,0x848,dialogue,narrative,……彼女ﾆ知ﾗｾﾃﾓ問題ﾊﾅｲだﾛｳ｡,27,……告訴霞也無妨。,人工定稿,
+116,0x864,system,system,1048,4,,未翻,
+117,0x869,dialogue,narrative,_1_｢……ﾂﾑじｸﾝだﾖ｣,18,_1_｢……是旋哦｣,人工定稿,
+118,0x87c,system,system,0075,4,,未翻,
+119,0x881,dialogue,narrative,_1_｢ｴｯ……ﾂﾑじｸﾝ……?｣,22,_1_｢欸……旋……?｣,人工定稿,P7 校对修正
+120,0x898,system,system,0763,4,,未翻,
+121,0x89d,dialogue,narrative,_1_｢ｱｲﾂ､ﾔｯぱﾘ『X』ﾅﾝだﾖ!,24,_1_｢那東西果然是『X』!,人工定稿,P7 校对修正
+122,0x8b8,dialogue,narrative,子どﾓだｶﾗｯﾃ甘ｸ見ﾀﾗ､痛ｲ目見ﾙｯｽ!!｣,32,別因小孩就小看，會吃苦頭!!｣,人工定稿,
+123,0x8dc,system,system,0764,4,,未翻,
+124,0x8e1,dialogue,narrative,_1_｢ﾃﾕｳｶ､ﾊﾙｶﾁｬﾝﾓ怪ｼｲｯｽﾖ!｣,25,_1_｢話説小遙也可疑哦!｣,人工定稿,P7 校对修正
+125,0x8fc,system,system,1049,4,,未翻,
+126,0x901,dialogue,narrative,_1_｢ﾌﾑ｡,7,_1_｢哦,人工定稿,P7 校对修正
+127,0x909,dialogue,narrative,_1_ﾓｼ､ﾊﾙｶｸﾝがシリアルキラーだｯﾀﾅﾗ､,34,_1_假如，遙是連環殺手的話，,人工定稿,
+128,0x92c,dialogue,narrative,二人ﾄﾓがXﾄ思ｯﾃ良ｲだﾛｳが……｣,28,可以認為兩人都是X了……｣,人工定稿,P7 校对修正
+129,0x94c,system,system,0076,4,,未翻,
+130,0x951,dialogue,narrative,_1_｢『X』……｣,14,_1_｢『X』……｣,人工定稿,终轮省略号统一: 单…→…… x1
+131,0x960,system,system,0765,4,,未翻,
+132,0x965,dialogue,narrative,_1_｢ｲﾔ､待ｯﾃｸだｻｲｯｽﾖ!,20,_1_｢不，請等一下!,人工定稿,P7 校对修正
+133,0x97c,dialogue,narrative,『X』が二人ｯﾃ､,14,『X』有兩人，,人工定稿,
+134,0x98c,dialogue,narrative,ｿ､ｿﾝﾅｺﾄ､ｱﾘ得ﾙﾝｽｶ?｣,18,這、這種事可能?｣,人工定稿,P7 校对修正
+135,0x9a0,system,system,1050,4,,未翻,
+136,0x9a5,dialogue,narrative,_1_｢Xﾄﾊｿﾓｿﾓ人物名でﾊﾅｸ､,23,_1_｢X本來就不是人名，,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+137,0x9c0,dialogue,narrative,ｺﾉゲームﾉ中で故意ﾆ悪意ｱﾙ行動ｦﾄﾙ者ﾉ,34,而是在遊戲中故意惡意行動之人的,人工定稿,
+138,0x9e4,dialogue,narrative,呼び方ﾅﾉだﾖ｣,12,稱呼哦｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+139,0x9f1,system,system,ts,2,,未翻,
+140,0x9f4,system,system,0766,4,,未翻,
+141,0x9f9,dialogue,narrative,_1_｢ｴｰﾄ､ﾂﾏﾘ『悪ｲ奴』ｯﾃ言ｯﾃﾙﾉﾄ,29,_1_｢也就是説和『惡人』説的,人工定稿,P7 校对修正
+142,0xa18,dialogue,narrative,同じｯﾃｺﾄｯｽｶ｣,12,一個意思?｣,人工定稿,
+143,0xa25,system,system,ts,2,,未翻,
+144,0xa28,system,system,1051,4,,未翻,
+145,0xa2d,dialogue,narrative,_1_｢ﾏｧｿﾝﾅﾄｺﾛだ｣,15,_1_｢差不多那樣｣,人工定稿,P7 校对修正
+146,0xa3d,system,system,ts,2,,未翻,
+147,0xa40,dialogue,narrative,ﾊﾙｶｸﾝｦ調べﾙﾅﾗ､次ﾉターンｶ……｡,29,要査遙，得等下一回合……。,人工定稿,P7 校对修正
+148,0xa60,dialogue,narrative,ｼｶｼ……｡,8,不過……,人工定稿,终轮省略号统一: 单…→…… x1
+149,0xa69,system,system,_0.1052,7,,未翻,
+150,0xa71,dialogue,narrative,_1_｢ｿﾉ前ﾆ､美紀ｸﾝ｡,17,_1_｢在那之前美紀,人工定稿,P7 校对修正
+151,0xa84,dialogue,narrative,『X』ﾆﾂｲﾃ他ﾉﾐﾝﾅﾉ反応ｦ見ﾖｳ｡,26,先觀察大家對『X』的反應。,人工定稿,
+152,0xaa0,dialogue,narrative,ｿﾚで何ｶﾜｶﾙｶﾓｼﾚﾅｲ｣,17,或能査出東西。｣,人工定稿,
+153,0xab4,system,system,0767,4,,未翻,
+154,0xab9,dialogue,narrative,_1_｢ｳｲｯｽ｣,9,_1_｢好｣,人工定稿,
+155,0xac3,system,system,_1053,5,,未翻,
+156,0xac9,dialogue,narrative,_1_｢ｿﾚｶﾗ霞ｸﾝ｡,13,_1_｢還有霞，,人工定稿,P7 校对修正
+157,0xad7,dialogue,narrative,.君ﾊ一人ﾆｼﾃｵｸﾄ危ﾅｲ｡,19,.霞一人待著危險。,人工定稿,
+158,0xaec,dialogue,narrative,ﾂｲﾃｷﾃﾓﾗｵｳ｣,10,跟來。｣,人工定稿,
+159,0xaf7,system,system,.0077,5,,未翻,
+160,0xafd,dialogue,narrative,_1_｢……ﾊｲ……ごﾒﾝﾅｻｲ｣,22,_1_｢……好的，對不起｣,人工定稿,P7 校对修正
+161,0xb14,dialogue,narrative,彼女ﾊ素直だｯﾀ｡,14,霞很坦率。,人工定稿,
+162,0xb24,dialogue,narrative,ロム2_唯柚撲殺未遂,18,ROM2_唯柚撲殺未遂,人工定稿,
+163,0xb38,dialogue,narrative,ﾏだ皆が集ﾏｯﾃｲﾙホールﾆ霞ｸﾝｦ連ﾚﾃ行ｷ,33,我帶著霞前往大家還聚集著的大廳。,人工定稿,
+164,0xb5c,dialogue,narrative,薫ｻﾝﾆ事情ｦ話ｼﾃ､保護ｼﾃﾓﾗｳｺﾄﾆｼﾀ｡,30,向薰説明事情經過，請薰保護霞。,人工定稿,
+165,0xb7c,dialogue,narrative,ﾓﾁﾛﾝシリアルキラーﾄｲｳｺﾄﾊ隠ｼﾃだ｡,31,當然隱瞞了霞是連環殺手這件事。,人工定稿,
+166,0xb9c,system,system,0135,4,,未翻,
+167,0xba1,dialogue,narrative,_1_｢ﾜｶﾘﾏｼﾀ｡任ｾﾃｸだｻｲ｡,21,_1_｢好。交給我。,人工定稿,P7 校对修正
+168,0xbb8,dialogue,narrative,三上ｻﾝ､ﾓｳ変ﾅｺﾄ考ｴﾀﾘｼﾀﾗ,22,三上，再亂想奇怪的事,人工定稿,P7 校对修正
+169,0xbd0,dialogue,narrative,ダメでｽﾖ?｣,10,不行哦?｣,人工定稿,P7 校对修正
+170,0xbdb,system,system,.0078,5,,未翻,
+171,0xbe1,dialogue,narrative,_1_｢ごﾒﾝﾅｻｲ……｣,16,_1_｢對不起……｣,人工定稿,P7 校对修正
+172,0xbf2,system,system,s,1,,未翻,
+173,0xbf4,system,system,1054,4,,未翻,
+174,0xbf9,dialogue,narrative,_1_｢ｻﾃ､ｿﾚじｬｱ……｣,18,_1_｢那，那麼……｣,人工定稿,P7 校对修正
+175,0xc0c,dialogue,narrative,辺ﾘｦ見回ｽ｡,10,環視四周。,人工定稿,
+176,0xc17,dialogue,narrative,.皆､塞ぎｺﾝでｲﾃ､,15,.大家都悶著，,人工定稿,
+177,0xc28,dialogue,narrative,ﾏﾄﾓﾆ話がでｷﾙｶどｳｶ……｡,22,能不能好好説上話……。,人工定稿,
+178,0xc40,dialogue,narrative,どﾁﾗﾆｾﾖ､話ｼｶｹﾅｲﾜｹﾆﾊ,19,總之不主動搭話,人工定稿,P7 校对修正
+179,0xc54,dialogue,narrative,ｲｶﾅｲが……｡,11,不行呀…。,人工定稿,
+180,0xc60,dialogue,narrative,ｿｳｼﾃ考ｴﾃｲﾙﾄ､,12,正這麼想著，,人工定稿,
+181,0xc6d,system,system,ts,2,,未翻,
+182,0xc70,dialogue,narrative,唯柚ｸﾝがﾌﾗﾌﾗﾄ立ﾁ上がﾘ､,22,唯柚搖搖晃晃地站起來，,人工定稿,
+183,0xc88,dialogue,narrative,森崎氏ﾆ近づｲﾀ｡,14,走近了森崎。,人工定稿,
+184,0xc98,system,system,0092,4,,未翻,
+185,0xc9d,dialogue,narrative,_1_｢ﾉ､昇ｻﾝ……｣,15,_1_｢那、昇……｣,人工定稿,P7 校对修正
+186,0xcad,system,system,ts,2,,未翻,
+187,0xcb0,dialogue,narrative,疲ﾚｷｯﾀ顔で何度ﾓ溜息ｦﾂｸ森崎氏ﾆ､,30,對著疲憊不堪、不停嘆氣的森崎,人工定稿,
+188,0xcd0,dialogue,narrative,唯柚ｸﾝがﾀﾒﾗｲがﾁﾆ近寄ﾙ｡,22,唯柚猶豫著走近。,人工定稿,
+189,0xce8,system,system,0093,4,,未翻,
+190,0xced,dialogue,narrative,_1_｢ｱﾉﾈ……ﾕﾕ……昇ｻﾝﾆ話が……｣,31,_1_｢那個……唯柚…有話對昇説…｣,人工定稿,终轮省略号统一: 单…→…… x1; 余 2 处受槽宽
+191,0xd10,system,system,0158,4,,未翻,
+192,0xd15,dialogue,narrative,_1_｢ごﾒﾝ､唯柚ﾁｬﾝ……今ﾊ､一人ﾆｼﾃﾎｼｲ｣,35,_1_｢抱歉，小唯柚……現在想獨自待著｣,人工定稿,P7 校对修正
+193,0xd3c,system,system,0094,4,,未翻,
+194,0xd41,dialogue,narrative,_1_｢ﾁ､ﾁがｳﾉ……,15,_1_｢不、不是…,人工定稿,P7 校对修正
+195,0xd51,system,system,ts,2,,未翻,
+196,0xd54,dialogue,narrative,ﾕﾕ､香菜ｻﾝﾆ投票ｼﾀﾉ……｣,22,唯柚、投票給香菜……｣,人工定稿,P7 校对修正
+197,0xd6c,system,system,0159,4,,未翻,
+198,0xd71,dialogue,narrative,_1_｢……ｴ?｣,11,_1_｢哦?｣,人工定稿,P7 校对修正
+199,0xd7d,system,system,_0.0095,7,,未翻,
+200,0xd85,dialogue,narrative,_1_｢ご……ごﾒﾝﾅｻｲｯ……,22,_1_｢對……對不起……,人工定稿,P7 校对修正
+201,0xd9c,dialogue,narrative,香菜ｻﾝﾆ殺ｻﾚﾁｬｳﾄ思ｯﾃ……,23,以為會被香菜殺掉……,人工定稿,P7 校对修正
+202,0xdb4,dialogue,narrative,怖ｸﾅｯﾃ……だｶﾗ……!｣,20,太怕……所以……!｣,人工定稿,P7 校对修正
+203,0xdcc,system,system,0160,4,,未翻,
+204,0xdd1,dialogue,narrative,_1_｢……ｵ前が､香菜ｦ……殺ｼﾀﾉｶ!?｣,32,_1_｢……這混蛋把香菜……殺了!?｣,人工定稿,P7 校对修正
+205,0xdf4,dialogue,narrative,森崎氏ﾊ唯柚ｸﾝﾉ言葉ﾆ一瞬ﾆｼﾃ逆上ｼ､,32,森崎聽到唯柚的話，瞬間暴怒。,人工定稿,
+206,0xe18,dialogue,narrative,ぶﾝ､ﾄ拳ｦ振ﾘ上げﾙ｡,17,猛地揮起拳頭。,人工定稿,
+207,0xe2c,system,system,0161,4,,未翻,
+208,0xe31,dialogue,narrative,_1_｢香菜ｦ返ｾ……ｺﾉ､人殺ｼ!｣,26,_1_｢還香菜……這殺人犯!｣,人工定稿,P7 校对修正
+209,0xe4c,system,system,0096,4,,未翻,
+210,0xe51,dialogue,narrative,_1_｢ｷｯ､ｷｬｱｱｯ……｣,17,_1_｢呀、呀呀……｣,人工定稿,P7 校对修正
+211,0xe64,system,system,1055,4,,未翻,
+212,0xe69,dialogue,narrative,_1_｢ﾏずｲｯ!｣,11,_1_｢糟了!｣,人工定稿,P7 校对修正
+213,0xe75,dialogue,narrative,_0.私ﾊ慌ﾃﾃ二人ﾉ間ﾆ駆ｹ寄ﾙが､,27,_0.我急忙衝到兩人之間，,人工定稿,P7 校对修正
+214,0xe94,dialogue,narrative,ｺｺｶﾗじｬ間ﾆ合ﾜﾅ――,18,從這來不及了――,人工定稿,
+215,0xea8,system,system,0768,4,,未翻,
+216,0xead,dialogue,narrative,_1_｢待ｯﾃﾖ､森崎!｣,16,_1_｢森崎等等!｣,人工定稿,P7 校对修正
+217,0xebe,system,system,s,1,,未翻,
+218,0xec0,dialogue,narrative,寸でﾉﾄｺﾛで美紀ｸﾝが背後ｶﾗ,24,千鈞一髮之際，美紀從背後,人工定稿,
+219,0xedc,dialogue,narrative,抱ｷﾂｸﾖｳﾆ森崎氏ｦ押ｻｴ込ﾑ｡,23,像抱住一樣把森崎按住。,人工定稿,
+220,0xef4,system,system,0162,4,,未翻,
+221,0xef9,dialogue,narrative,_1_｢離ｾ､笹木ｯ｡離ｼﾃｸﾚｪ!｣,23,_1_｢笹木，放開我!｣,人工定稿,P7 校对修正
+222,0xf14,system,system,0769,4,,未翻,
+223,0xf19,dialogue,narrative,_1_｢ダメだﾖ､ｱﾝﾀ｡,16,_1_｢不行哦，森崎,人工定稿,P7 校对修正
+224,0xf2a,system,system,s,1,,未翻,
+225,0xf2c,dialogue,narrative,ｱﾀｼが離ｼﾀﾗ､唯柚ﾁｬﾝｦ殴ﾙでｼｮ!｣,28,我一放開，小唯柚會被打哦!｣,人工定稿,P7 校对修正
+226,0xf4c,system,system,0163,4,,未翻,
+227,0xf51,dialogue,narrative,_1_｢だｯﾃ､ｺｲﾂﾊ､香菜ｦ……｣,24,_1_｢可這東西把香菜……｣,人工定稿,P7 校对修正
+228,0xf6c,dialogue,narrative,森崎氏ﾊ今ﾆﾓ美紀ｸﾝﾉ腕ｦ振ﾘ切ｯﾃ､,29,森崎眼看就要揮開美紀手臂，,人工定稿,
+229,0xf8c,dialogue,narrative,唯柚ｸﾝﾆ襲ｲｶｶﾘｿｳだ｡,18,向唯柚撲過去。,人工定稿,
+230,0xfa0,dialogue,narrative,私ﾊ唯柚ｸﾝﾄ森崎氏ﾉ間ﾆ割ﾘ込ﾑﾄ､,28,我插到唯柚和森崎之間，,人工定稿,
+231,0xfc0,dialogue,narrative,ｷﾂｸ森崎氏ｦ睨ﾝだ｡,16,怒目看著森崎。,人工定稿,
+232,0xfd4,system,system,1056,4,,未翻,
+233,0xfd9,dialogue,narrative,_1_｢殴ｯﾀﾗ死ﾇぞ!｣,16,_1_｢敢打就死!｣,人工定稿,P7 校对修正
+234,0xfea,system,system,s,1,,未翻,
+235,0xfec,system,system,0164,4,,未翻,
+236,0xff1,dialogue,narrative,_1_｢ｿﾝﾅｺﾄﾊﾜｶｯﾃﾙ!,16,_1_｢我知道!,人工定稿,P7 校对修正
+237,0x1002,system,system,s,1,,未翻,
+238,0x1004,dialogue,narrative,だｹど気が済ﾏﾅｲﾝだ｡,18,但我咽不下這口氣。,人工定稿,
+239,0x1018,dialogue,narrative,浅川ｻﾝ､頼ﾑｶﾗｿｺｦ退ｲﾃｸﾚ｣,22,淺川，求求了，快退開｣,人工定稿,机翻警告: quote_unbalanced
+240,0x1030,system,system,1057,4,,未翻,
+241,0x1035,dialogue,narrative,_1_｢馬鹿ｶ､君ﾊ｡,14,_1_｢笨蛋。,人工定稿,P7 校对修正
+242,0x1044,dialogue,narrative,死ﾇﾅﾗ香菜ｸﾝﾉ仇ｦ取ｯﾃｶﾗﾆｼﾛ!!｣,27,要死先替香菜報仇再説!!｣,人工定稿,
+243,0x1060,dialogue,narrative,私ﾉ言葉ﾆ､森崎氏ﾊﾊｯﾄ目ｦ見開ｲﾀ｡,29,聽到我的話，森崎猛張大眼睛。,人工定稿,
+244,0x1080,dialogue,narrative,ｿﾉ隙ｦ見ﾃ美紀ｸﾝﾊ､,16,美紀趁這空隙，,人工定稿,
+245,0x1094,dialogue,narrative,強ｸ握ﾗﾚﾀ森崎氏ﾉ拳ｦﾕｯｸﾘﾄ下ﾆ降ﾛｽ｡,31,慢慢把森崎緊握的拳頭放了下來。,人工定稿,
+246,0x10b4,system,system,0770,4,,未翻,
+247,0x10b9,dialogue,narrative,_1_｢ｱﾀｼだｯﾃﾈｪ､ｱﾝﾀﾉ気持ﾁﾜｶﾙﾖ!,28,_1_｢我也明白這心情哦!,人工定稿,P7 校对修正
+248,0x10d8,dialogue,narrative,樫沢が死ﾝだ時､悔ｼｶｯﾀﾓﾝ｡,23,樫澤死時我好不甘心嘛。,人工定稿,P7 校对修正
+249,0x10f0,dialogue,narrative,でﾓ……暴力振ﾙｯﾃ､処刑だﾅﾝﾃ止ﾒﾃﾖ!｣,33,但……別用暴力，別提處刑!｣,人工定稿,P7 校对修正
+250,0x1114,dialogue,narrative,激ｼｸ叫ぶ美紀ｸﾝﾉ瞳ﾊ薄ﾗﾄ潤ﾝでｲﾀ｡,30,激動喊叫的美紀，眼睛微微濕潤。,人工定稿,
+251,0x1134,system,system,0165,4,,未翻,
+252,0x1139,dialogue,narrative,_1_｢ｻ､笹木……｣,15,_1_｢笹、笹木…｣,人工定稿,P7 校对修正
+253,0x1149,system,system,ts,2,,未翻,
+254,0x114c,system,system,1058,4,,未翻,
+255,0x1151,dialogue,narrative,_1_｢美紀ｸﾝﾉ言ｳ通ﾘだ｡,20,_1_｢美紀説得對。,人工定稿,P7 校对修正
+256,0x1168,dialogue,narrative,香菜ｸﾝﾉﾀﾒﾆﾓ､君ﾊ君で出来ﾙｺﾄｦｼﾛ｣,30,為了香菜，用自己的方式做事。｣,人工定稿,
+257,0x1188,system,system,0166,4,,未翻,
+258,0x118d,dialogue,narrative,_1_｢ご……ごﾒﾝ｣,15,_1_｢對、對不起｣,人工定稿,P7 校对修正
+259,0x119d,system,system,ts,2,,未翻,
+260,0x11a0,dialogue,narrative,森崎氏ﾊ少ｼ落ﾁ着ｲﾀﾉｶ､低ｸ呟ｲﾀ｡,28,森崎稍微冷靜下來，低聲自語。,人工定稿,P7 校对修正
+261,0x11c0,dialogue,narrative,ｿｼﾃ､怯ｴﾃｲﾙ唯柚ｸﾝｦ,17,然後難為情看向,人工定稿,P7 校对修正
+262,0x11d4,dialogue,narrative,気ﾏずｿｳﾆ見ﾂﾒﾙ｡,14,發抖的唯柚。,人工定稿,P7 校对修正
+263,0x11e4,system,system,0167,4,,未翻,
+264,0x11e9,dialogue,narrative,_1_｢唯柚ﾁｬﾝ……怖ｲ思ｲｦｻｾﾃ……ごﾒﾝ｣,34,_1_｢小唯柚……嚇到唯柚了……抱歉｣,人工定稿,P7 校对修正
+265,0x120c,system,system,0097,4,,未翻,
+266,0x1211,dialogue,narrative,_1_｢ｳｯ､ﾋｯｸ……ぐｽｯ､ぐｽ……｣,27,_1_｢嗚……咳……抽抽搭搭…｣,人工定稿,终轮省略号统一: 单…→…… x2; 余 1 处受槽宽
+267,0x1230,dialogue,narrative,唯柚ｸﾝﾊ相当ショックだｯﾀﾉｶ､,26,唯柚似乎受到很大打撃，,人工定稿,
+268,0x124c,dialogue,narrative,大粒ﾉ涙ｦ零ｼﾅがﾗ､ホールｦ出ﾃ行ｯﾀ｡,31,流著大顆眼涙走出了大廳。,人工定稿,
+269,0x126c,system,system,0136,4,,未翻,
+270,0x1271,dialogue,narrative,_1_｢……ﾐﾅｻﾝ｡私達ﾓｺｺｦ出ﾏｼｮｳ｡,28,_1_｢……各位，我們也離開這。,人工定稿,P7 校对修正
+271,0x1290,dialogue,narrative,ｺｺﾆｲﾀﾗ……頭がｵｶｼｸﾅﾘｿｳでｽｶﾗ｣,28,再待這……腦子會不正常。｣,人工定稿,P7 校对修正
+272,0x12b0,dialogue,narrative,薫ｻﾝﾉ号令ﾆ､全員､無言で従ｳ｡,26,聽薰號令，大家默默跟著。,人工定稿,
+273,0x12cc,system,system,0098,4,,未翻,
+274,0x12d1,dialogue,narrative,_1_｢ｳｩ……ぐｽ……｣,18,_1_｢嗚……抽泣…｣,人工定稿,终轮省略号统一: 单…→…… x1; 余 1 处受槽宽
+275,0x12e4,dialogue,narrative,休憩所ﾆﾊ唯柚ｸﾝがｲﾃ､べｿｦｶｲﾃｲﾀ｡,29,在休息處，唯柚正在哭鼻子。,人工定稿,P7 校对修正
+276,0x1304,dialogue,narrative,｢唯柚ｻﾝ……｣,12,｢唯柚……｣,人工定稿,
+277,0x1311,system,system,ts,2,,未翻,
+278,0x1314,dialogue,narrative,紅春ｸﾝが彼女ｦﾅだﾒﾆ行ｸ｡,22,紅春過去安慰唯柚。,人工定稿,
+279,0x132c,dialogue,narrative,ｿﾉ他ﾊ､皆､ずｯﾄ黙ｯﾀﾏﾏだ｡,22,其他人始終一言不發。,人工定稿,
+280,0x1344,dialogue,narrative,酷ｲ状況だ｡,10,真糟呀。,人工定稿,
+281,0x134f,dialogue,narrative,.ｼｶｼ､ホールﾆｲﾀ時ﾖﾘﾊ,19,.不過，比在大廳時，,人工定稿,
+282,0x1364,dialogue,narrative,幾分ｶ話がでｷｿｳﾅ雰囲気でﾊｱﾙ｡,27,多少有了些能説上話的氛圍。,人工定稿,
+283,0x1380,dialogue,narrative,皆ﾆXﾆﾂｲﾃ聞ｸ……,15,向衆人問X……,人工定稿,P7 校对修正
+284,0x1390,dialogue,narrative,単刀直入でﾊｱﾙが､,16,雖然單刀直入，,人工定稿,
+285,0x13a4,dialogue,narrative,今ﾊﾏｻﾆｿﾚが必要だﾄ思ｳ｡,21,但現在正需要這麼做。,人工定稿,
+286,0x13bc,dialogue,narrative,私ﾊ美紀ｸﾝﾆ声ｦｶｹ､聞ｷ込ﾐ調査ｦ開始ｼﾀ｡,34,我向美紀搭話，開始打聽消息。,人工定稿,P7 校对修正

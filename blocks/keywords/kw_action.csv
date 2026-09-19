@@ -1,0 +1,138 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_action.tob,25,,未翻,
+2,0x1c,system,system,kw_action.sts,13,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_単独行動,16,ROM2_KW_單獨行動,人工定稿,
+4,0x40,dialogue,label,ROM2_KW会話_単独行動,20,ROM2_KW會話_單獨行動,人工定稿,
+5,0x58,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x70,dialogue,command,フェードアウト,14,,未翻,
+7,0x80,dialogue,narrative,ロム2_KW_単独行動_昇,20,ROM2_KW_單獨行動_昇,人工定稿,
+8,0x98,system,system,0225,4,,未翻,
+9,0x9d,dialogue,narrative,tio｢単独行動? ﾅ､ﾅﾝﾉｺﾄだ?｣,25,tio｢單獨行動?什麼意思?｣,人工定稿,"P7 校对修正: なんのこと=什么事/什么意思(下句即解释含义), 非'怎麼回事'"
+10,0xb8,system,system,1470,4,,未翻,
+11,0xbd,dialogue,narrative,tio｢知ﾗﾅｲﾉｶ?,12,tio｢不知道?,人工定稿,导入警告: kana_residue
+12,0xca,dialogue,narrative,st1人でウロチョロｽﾙ事だ｣,24,st1人就是到處亂晃｣,人工定稿,"P7 校对修正: 原文1人で=一个人(1 为正文数字, 与 r2_t1_4_1_0 '1人背叛' 同口径); 原译把 1 当标记又重译'一个人'"
+13,0xe4,system,system,0226,4,,未翻,
+14,0xe9,dialogue,narrative,tio｢……ﾝﾅｺﾀﾜｶｯﾃﾙﾖ｣,19,tio｢……那事我知道｣,人工定稿,导入警告: kana_residue
+15,0x100,dialogue,narrative,どｳﾓｳﾛﾀｴﾃｲﾙﾅ｡,13,似乎很慌張。,人工定稿,
+16,0x110,dialogue,narrative,ロム2_KW_単独行動_香菜,22,ROM2_KW_單獨行動_香菜,人工定稿,
+17,0x128,system,system,0240,4,,未翻,
+18,0x12d,dialogue,narrative,tio｢単独行動禁止ｯﾃ､不便ﾖﾈ～!,28,tio｢禁止單獨行動，真不便～!,人工定稿,导入警告: kana_residue
+19,0x14c,dialogue,narrative,トイレﾆﾏで昇がﾂｲﾃｸﾙﾅﾝﾃ信じﾗﾚﾅｲ!｣,32,昇連上廁所都跟來，真不敢相信!｣,人工定稿,"P7 校对修正: 语序改'昇連…都跟來', 原译'連上廁所昇都跟來'把主语插入连字结构"
+20,0x170,system,system,1471,4,,未翻,
+21,0x175,dialogue,narrative,tio｢ｵﾔ? 香菜ｸﾝが1人で動ｲﾃｲﾀﾄｲｳ,30,tio｢哦? 我聽説香菜獨自行動,人工定稿,导入警告: kana_residue
+22,0x194,dialogue,narrative,話ｦ聞ｲﾀﾉだが､トイレﾆﾊﾂｲﾃｷﾃ,26,的傳聞，但上廁所也,人工定稿,"P7 校对修正: 与21行连读成'…獨自行動的傳聞, 但上廁所也…', 去重复的'聽説'"
+23,0x1b0,dialogue,narrative,ﾓﾗｯﾃｲﾀﾉｶ?｣,10,讓人陪著?｣,人工定稿,P7 校对修正: ついてきてもらっていた=让人陪着; 原译'讓他跟了'丢被动受益语义
+24,0x1bb,system,system,t0241,5,,未翻,
+25,0x1c1,dialogue,narrative,tio｢ｴ? 何ﾉ事? トイレﾆだｯﾃ,25,tio｢欸?什麼意思?連廁所也,人工定稿,"P7 校对修正: 何のこと=什么意思; トイレにだって=连厕所也(だって=连), 非'厕所什么的'"
+26,0x1dc,dialogue,narrative,ｲﾔｲﾔﾂｲﾃｺｻｾﾃﾙﾉﾆ,14,都是我硬拉著他,人工定稿,"P7 校对修正: いやいや=嫌々(不情愿地), 被误读为'不不'; ついてこさせてる=我让他跟着"
+27,0x1ec,dialogue,narrative,1人で動ｲﾃﾙﾊずﾅｲﾜﾖ｣,18,1人不可能亂晃｣,人工定稿,P7 校对修正: 1人(正文数字)不可能乱晃=1人で動いてるはずない; 原译'1才不會…'把1当成了主语
+28,0x200,system,system,1472,4,,未翻,
+29,0x205,dialogue,narrative,tio｢ﾎ～､ｿｳﾅﾉｶ｣,14,tio｢哦～這樣｣,人工定稿,导入警告: kana_residue
+30,0x214,system,system,0242,4,,未翻,
+31,0x219,dialogue,narrative,tio｢ｴｴ｣,7,tio｢對｣,人工定稿,导入警告: kana_residue
+32,0x221,dialogue,narrative,tio芝居ﾅﾉｶ､本心ﾅﾉｶ,18,tio是演戲還是真心,人工定稿,
+33,0x234,dialogue,narrative,彼女ﾉ場合ﾜｶﾘﾆｸｲﾅ……｡,21,香菜真難捉摸……。,人工定稿,"P7 校对修正: 彼女指本段主角香菜(青樹香菜), 原译'唯柚'为指人错误"
+34,0x24c,dialogue,narrative,ロム2_KW_単独行動_圭介,22,ROM2_KW_單獨行動_圭介,人工定稿,
+35,0x264,system,system,0108,4,,未翻,
+36,0x269,dialogue,narrative,tio｢単独行動でｽｶ?｣,18,tio｢是單獨行動?｣,人工定稿,导入警告: kana_residue
+37,0x27c,system,system,0109,4,,未翻,
+38,0x281,dialogue,narrative,tio｢僕ﾉ場合ﾊ霞がｲﾏｽｶﾗ,21,tio｢我的話，因為有霞,人工定稿,导入警告: kana_residue
+39,0x298,dialogue,narrative,霞ｦ置ｲﾃどｺｶﾆｲｯﾀﾘﾊ,17,抛下霞去別處,人工定稿,P7 校对修正: 置いて=抛下(原译'放下'用于人不成词; 丟/扔 不可编码)
+40,0x2ac,dialogue,narrative,ｼﾅｲでｽﾖ｣,8,不會的｣,人工定稿,导入警告: kana_residue
+41,0x2b5,system,system,.st1473,7,,未翻,
+42,0x2bd,dialogue,narrative,tio｢ﾎ～随分ﾄ仲ﾉｲｲｺﾄだﾅ,22,tio｢哦～，關係還真好,人工定稿,导入警告: kana_residue
+43,0x2d4,dialogue,narrative,霞ﾉ側ｦ片時ﾓ離ﾚﾏｾﾝ!,18,片刻也不離霞身邊!,人工定稿,P7 校对修正: 补回 片時も=片刻也(原译'絕不'丢'哪怕一刻')
+44,0x2e8,dialogue,narrative,ﾄｲｯﾀ所ｶ｣,8,就這樣｣,人工定稿,导入警告: kana_residue
+45,0x2f1,system,system,.st0110,7,,未翻,
+46,0x2f9,dialogue,narrative,tio｢ｿ､ｿﾝﾅﾝじｬﾅｲでｽﾖ｣,20,tio｢才、才不是那樣｣,人工定稿,导入警告: kana_residue
+47,0x310,dialogue,narrative,ｿﾝﾅﾆ照ﾚﾙﾅ｡,10,別害羞。,人工定稿,
+48,0x31b,dialogue,narrative,tﾓｯﾄｶﾗｶｲﾀｸﾅｯﾃｼﾏｳじｬﾅｲｶ｡,23,t豈不是更想捉弄人了。,人工定稿,"P7 校对修正: 补捉弄对象'人'; じゃないか 保持反诘语气, 未套'對哦'"
+49,0x334,dialogue,narrative,ロム2_KW_単独行動_霞,20,ROM2_KW_單獨行動_霞,人工定稿,
+50,0x34c,system,system,0098,4,,未翻,
+51,0x351,dialogue,narrative,tio｢ｺﾝﾅ場所で1人ﾅﾝﾃ……,23,tio｢這種地方一個人……,人工定稿,导入警告: kana_residue
+52,0x36c,dialogue,narrative,怖ｸﾃ考ｴﾗﾚﾏｾﾝ｣,13,怕得不敢想｣,人工定稿,导入警告: kana_residue
+53,0x37c,system,system,1474,4,,未翻,
+54,0x381,dialogue,narrative,tio｢トイレﾊどｳｽﾙ?｣,18,tio｢廁所怎麼解決?｣,人工定稿,"P7 校对修正: どうする=怎么办; '如何是好'为翻译腔(办 不可编码, 用'怎么解决')"
+55,0x394,system,system,0099,4,,未翻,
+56,0x399,dialogue,narrative,tio｢……ｲｷﾏｾﾝ｣,14,tio｢……不去｣,人工定稿,导入警告: kana_residue
+57,0x3a8,system,system,1475,4,,未翻,
+58,0x3ad,dialogue,narrative,tio｢ｿｳﾊｲｯﾃﾓ生理現象だ,21,tio｢雖如此，生理現象,人工定稿,"P7 校对修正: 补分句逗号, 原译'話雖如此生理現象'两句无标点连排"
+59,0x3c4,dialogue,narrative,仕方が無ｲ場合ﾊｱﾙだﾛｳ?｣,22,也有不得已的時候?｣,人工定稿,导入警告: kana_residue
+60,0x3dc,system,system,0100,4,,未翻,
+61,0x3e1,dialogue,narrative,tio｢……我慢ｼﾏｽ｣,16,tio｢……我會忍｣,人工定稿,导入警告: kana_residue
+62,0x3f4,system,system,1476,4,,未翻,
+63,0x3f9,dialogue,narrative,tio｢坂橋氏ﾆﾊﾂｲﾃｷﾃﾓﾗｲ辛ｲﾖｳだﾅ｣,29,tio｢讓坂橋陪著去好像很為難｣,人工定稿,P7 校对修正: ついてきてもらい辛い=难以开口让人陪着去; '很辛苦'未表达为难
+64,0x418,system,system,1477,4,,未翻,
+65,0x41d,dialogue,narrative,tio｢君ｻｴﾖｹﾚば,13,tio｢若不介意,人工定稿,P7 校对修正: 君さえよければ=若不介意; 原译'只要願意'偏成对方有意愿
+66,0x42b,dialogue,narrative,tトイレﾆ付ｷ合ｳぐﾗｲﾊ構ﾜﾅｲぞ,26,t陪著上廁所這點小事沒關係,人工定稿,"P7 校对修正: ぐらい=这点小事, 去'这点程度'的机翻腔(同字节)"
+67,0x448,dialogue,narrative,ｲｷﾀｸﾅｯﾀﾗ言ｯﾃｸﾚ｣,15,想去就説一聲｣,人工定稿,导入警告: kana_residue
+68,0x458,system,system,0101,4,,未翻,
+69,0x45d,dialogue,narrative,tio｢……ｱﾘがﾄｳござｲﾏｽ｣,22,tio｢……非常感謝｣,人工定稿,导入警告: kana_residue
+70,0x474,dialogue,narrative,ロム2_KW_単独行動_美紀,22,ROM2_KW_單獨行動_美紀,人工定稿,
+71,0x48c,system,system,0955,4,,未翻,
+72,0x491,dialogue,narrative,tio｢ｵ姉ｻﾏ……ｿﾝﾅ……,20,tio｢姐姐大人，那……,人工定稿,"P7 校对修正: 补回 そんな(那…), 原译整句丢失该词"
+73,0x4a8,dialogue,narrative,ｱﾀｼ､ｵ姉ｻﾏﾉｲﾅｲ人生ﾅﾝﾃ,20,姐姐大人不在的人生,人工定稿,P7 校对修正: お姉さまのいない人生=姐姐大人不在的人生; 原译'我沒有姐姐大人的人生'把定语读成主谓
+74,0x4c0,dialogue,narrative,考ｴﾗﾚﾏｾﾝ!!｣,11,無法想像!!｣,人工定稿,导入警告: kana_residue
+75,0x4cc,system,system,1478,4,,未翻,
+76,0x4d1,dialogue,narrative,tio｢ｲﾔ､,7,tio｢不,人工定稿,导入警告: kana_residue
+77,0x4d9,dialogue,narrative,tioｿﾝﾅ壮大ﾅ話ｦｼﾃｲﾙﾜｹでﾊﾅｲ｣,26,tio又不是在説宏大的事｣,人工定稿,导入警告: kana_residue
+78,0x4f4,system,system,0956,4,,未翻,
+79,0x4f9,dialogue,narrative,tio｢違ｳﾝでｽｶ?,13,tio｢不對?,人工定稿,导入警告: kana_residue
+80,0x507,dialogue,narrative,tじｬｱ､一生側ﾆ置ｲﾃｸﾚﾙﾝでｽﾈ!!｣,28,t那，就是一輩子留在身邊了!!｣,人工定稿,"P7 校对修正: んですね=确认'就是…了', 原译缺确认语气"
+81,0x524,dialogue,narrative,だﾒだｺﾚﾊ……｡,13,這不行……。,人工定稿,
+82,0x534,dialogue,narrative,ロム2_KW_単独行動_ﾊﾙｶ,21,ROM2_KW_單獨行動_遙,人工定稿,
+83,0x54c,system,system,0068,4,,未翻,
+84,0x551,dialogue,narrative,tio｢単独行動??｣,15,tio｢單獨行動??｣,人工定稿,导入警告: kana_residue
+85,0x564,system,system,1479,4,,未翻,
+86,0x569,dialogue,narrative,tio｢ｱｱ､ﾂﾏﾘ､1人で,16,tio｢哦，就是説,人工定稿,"P7 校对修正: 补回 ああ(哦), 与87行重排以承载'1人で'"
+87,0x57c,dialogue,narrative,どｺｶﾆ行ｯﾀﾘﾊｼﾃｲﾅｲｶ?｣,19,沒有獨自去別處?｣,人工定稿,"P7 校对修正: 承86行, 1人で=独自; 原译'沒有到別處去'丢'一个人'"
+88,0x590,system,system,0069,4,,未翻,
+89,0x595,dialogue,narrative,tio｢ｳｳﾝ｡ずｯﾄｵ兄ﾁｬﾝﾄ一緒｣,24,tio｢沒有。都和哥哥一起｣,人工定稿,导入警告: kana_residue
+90,0x5b0,dialogue,narrative,ｿﾚﾓｿｳだﾛｳﾅ……｡,15,那倒是……。,人工定稿,
+91,0x5c0,dialogue,narrative,ロム2_KW_単独行動_ﾂﾑじ,22,ROM2_KW_單獨行動_旋,人工定稿,
+92,0x5d8,system,system,0075,4,,未翻,
+93,0x5dd,dialogue,narrative,tio｢単独行動?,13,tio｢單獨行動?,人工定稿,导入警告: kana_residue
+94,0x5eb,dialogue,narrative,tぼｸﾊずｯﾄﾊﾙｶﾄ一緒だﾖ｣,21,t我一直和遙在一起哦｣,人工定稿,导入警告: kana_residue
+95,0x604,dialogue,narrative,ロム2_KW_単独行動_ジャック,26,ROM2_KW_單獨行動_傑克,人工定稿,
+96,0x620,dialogue,narrative,ロム2_KW_単独行動_薫,20,ROM2_KW_單獨行動_薰,人工定稿,
+97,0x635,dialogue,narrative,ャb｢ずｯﾄ誰ｶﾄ一緒ﾆﾊｲﾏｼﾀﾖ｣,24,ャb｢一直和某人在一起哦｣,人工定稿,导入警告: kana_residue
+98,0x650,system,system,1480,4,,未翻,
+99,0x655,dialogue,narrative,tio｢ｿﾚﾊ証明でｷﾙﾉｶ?｣,19,tio｢那能證明?｣,人工定稿,导入警告: kana_residue
+100,0x66c,dialogue,narrative,｢ｿｳ言ﾜﾚﾙﾄ,9,｢這麼一説,人工定稿,导入警告: kana_residue
+101,0x676,dialogue,narrative,st私ﾊ皆ｻﾝﾄ違ｯﾃｺｺﾆ,17,st我和大家不同，,人工定稿,
+102,0x688,dialogue,narrative,知ﾘ合ｲﾊｲﾏｾﾝｼ……｣,17,沒有認識的人……｣,人工定稿,导入警告: kana_residue
+103,0x69c,system,system,0227,4,,未翻,
+104,0x6a1,dialogue,narrative,tio｢ｳ……監禁ｻﾚﾃﾓ私だｹ独ﾘ身……,31,tio｢嗚……被關也只有我落單……,人工定稿,"P7 校对修正: 私だけ独り身=只有我落单(原译丢独り身, 只剩'也只有我')"
+105,0x6c4,dialogue,narrative,ｺﾚﾊ何? どｳｲｳｺﾄ?,15,什麼?怎麼回事?,人工定稿,"P7 校对修正: 原文两问句(これは何?+どういうこと?), 原译并为一句"
+106,0x6d4,dialogue,narrative,ﾐﾝﾅどｳｼﾃペアがｲﾙﾝでｽｶ??｣,24,為什麼大家都有伴??｣,人工定稿,导入警告: kana_residue
+107,0x6f0,system,system,1481,4,,未翻,
+108,0x6f5,dialogue,narrative,tio｢ｿ､ｿﾝﾅ事ｦ言ﾜﾚﾃﾓ……｣,23,tio｢就、就算這麼説……｣,人工定稿,导入警告: kana_residue
+109,0x710,system,system,0228,4,,未翻,
+110,0x715,dialogue,narrative,tio｢ｺﾝﾅ所でﾏｻｶ合コンﾉ後ﾄ,24,tio｢在這種地方竟要體會,人工定稿,"P7 校对修正: 与111行重排为'竟要體會…', 原译'竟像聯誼後'断句不成句"
+111,0x730,dialogue,narrative,同じ気分ｦ味ﾜﾜｻﾚﾙﾅﾝﾃ……｣,24,和聯誼後相同的心情……｣,人工定稿,"P7 校对修正: 承110行, 合コンの後と同じ気分=和联谊后相同的心情"
+112,0x74c,dialogue,narrative,ﾓｳ､ｿｯﾄｼﾃｵｺｳ……｡,16,算了，別管了……,人工定稿,
+113,0x760,dialogue,narrative,ロム2_KW_単独行動_樫沢,22,ROM2_KW_單獨行動_樫澤,人工定稿,机翻警告: kana_residue
+114,0x778,system,system,0224,4,,未翻,
+115,0x77d,dialogue,narrative,tio｢ﾓﾁﾛﾝずｯﾄ誰ｶﾄ一緒ﾆｲﾏｼﾀﾖ,26,tio｢當然一直和某人在一起哦,人工定稿,导入警告: kana_residue
+116,0x798,dialogue,narrative,自分で言ｲ出ｼﾀﾉだｶﾗ当然でｽ｣,26,因為是自己提出的，當然｣,人工定稿,导入警告: kana_residue
+117,0x7b4,dialogue,narrative,確ｶﾆ､1人でｲﾙﾖｳﾅ所ﾊﾐｶｹﾅｲｼ,24,的確沒看過獨處的場面,人工定稿,P7 校对修正: 所=场面(原译'的樣子'把处所读成外观; 同字节)
+118,0x7d0,dialogue,narrative,ｱﾏﾘ居場所ﾓ動ｲﾃﾊｲﾅｲﾖｳだｼﾅ｡,25,而且好像也很少換地方。,人工定稿,
+119,0x7ec,dialogue,narrative,信じﾃﾓｲｲだﾛｳ｡,13,可以相信了。,人工定稿,
+120,0x7fc,dialogue,narrative,ロム2_KW_単独行動_唯柚,22,ROM2_KW_單獨行動_唯柚,人工定稿,机翻警告: kana_residue
+121,0x814,system,system,0153,4,,未翻,
+122,0x819,dialogue,narrative,tio｢ﾕﾕﾊﾈ､昇ｻﾝﾄ一緒ﾆｲﾙ時が楽ｼｲﾅ｣,31,tio｢唯柚呀，和昇在一起時很開心｣,人工定稿,"P7 校对修正: ユユはね=唯柚呀(第三人称自称保留, ね 转语气); 原译丢'是/ね'"
+123,0x83c,system,system,1482,4,,未翻,
+124,0x841,dialogue,narrative,tio｢ｿﾚでﾊずｯﾄ森崎氏ﾄ一緒ﾆｲﾙﾉｶ??｣,32,tio｢那就要一直和森崎在一起??｣,人工定稿,导入警告: kana_residue
+125,0x864,system,system,0154,4,,未翻,
+126,0x869,dialogue,narrative,tio｢ｷｬｯ｡昇ｻﾝﾄずｯﾄ一緒ﾅﾝﾃ……,28,tio｢哇!一直和昇在一起……,人工定稿,导入警告: kana_residue
+127,0x888,dialogue,narrative,ｳﾌﾌﾌﾌ｣,6,呵呵｣,人工定稿,导入警告: kana_residue
+128,0x88f,dialogue,narrative,o独ﾘﾉ世界ﾆ入ｯﾃｼﾏｯﾀ……｡,23,o陷入了自己的世界……。,人工定稿,"P7 校对修正: 独りの世界=自己的世界(汉语固定搭配, 同字节)"
+129,0x8a8,dialogue,narrative,ﾄﾘｱｴず置ｲﾃｵｸｶ｡,14,總之先放著。,人工定稿,
+130,0x8b8,dialogue,narrative,ロム2_KW_単独行動_紅春,22,ROM2_KW_單獨行動_紅春,人工定稿,机翻警告: kana_residue
+131,0x8d0,system,system,0202,4,,未翻,
+132,0x8d5,dialogue,narrative,tio｢単独行動でｽｶ?,17,tio｢是單獨行動?,人工定稿,机翻警告: quote_unbalanced; 导入警告: kana_residue
+133,0x8e8,dialogue,narrative,ｿﾝﾅ怖ｲ事ﾄﾃﾓでｷﾏｾﾝ……｣,22,那麼可怕，做不來……｣,人工定稿,"P7 校对修正: 补回 そんな(那麼), とてもできません=做不来"
+134,0x900,system,system,0203,4,,未翻,
+135,0x905,dialogue,narrative,tio｢楓ｻﾝ､私ｦ一人ﾆｼﾅｲでｸだｻｲﾈ｣,29,tio｢楓，請不要讓我一個人｣,人工定稿,导入警告: kana_residue
+136,0x924,dialogue,narrative,ｿﾝﾅｽがﾙﾖｳﾅ目で見ﾗﾚﾃﾓﾅ……｡,26,被哀求的眼神看也沒用……。,人工定稿,
+137,0x940,dialogue,narrative,ロム2_KW_単独行動_西野,22,ROM2_KW_單獨行動_西野,人工定稿,机翻警告: kana_residue

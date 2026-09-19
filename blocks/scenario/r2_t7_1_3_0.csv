@@ -1,0 +1,241 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/r2_t7_1_3_0.tob,27,,未翻,
+2,0x1c,system,system,r2_t7_1_3_0.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_ターン7_紅春ﾄﾉ対決,23,ROM2_回合7_與紅春的對決,人工定稿,
+4,0x44,dialogue,narrative,ロム2_ターン7_紅春ﾄﾉ対決,24,ROM2_回合7_與紅春的對決,人工定稿,
+5,0x60,dialogue,narrative,何ｶ､聞ｷ出ｽ方法ﾊﾅｲｶﾄ,19,有無問出情報的方法,人工定稿,
+6,0x74,dialogue,narrative,思考ｦ張ﾘ巡ﾗｾﾃｲﾙﾄ､,17,"正苦苦思索時,",人工定稿,
+7,0x88,dialogue,narrative,Xﾊ携帯ｦ取ﾘ出ｼﾀ｡,15,X取出了手機。,人工定稿,
+8,0x98,system,system,0152,4,,未翻,
+9,0x9d,dialogue,narrative,_1_｢ｱﾗ｡ｿﾛｿﾛ投票ﾉ時間でｽﾈ｡,25,"_1_｢哦,投票時間快到了。｣",人工定稿,P7 校对修正: 補『あら』(哦)与『そろそろ』(快); ですね 保持陈述
+10,0xb8,dialogue,narrative,楓ｻﾝﾄﾓ､ｺﾚでｵ別ﾚでｽﾈ｡ｻﾖｳﾅﾗ｣,26,｢和楓小姐也永別了。再見｣,人工定稿,P7 校对修正: 補『とも』的『也』
+11,0xd4,system,system,0889,4,,未翻,
+12,0xd9,dialogue,narrative,_1_｢ﾏ､待ﾁﾅﾖ!｣,13,_1_｢等等!｣,人工定稿,
+13,0xe7,dialogue,narrative,.咄嗟ﾆXﾉ前ｦ立ﾁ塞ぐ美紀ｸﾝ｡,25,.美紀立刻堵在X面前。,人工定稿,
+14,0x104,dialogue,narrative,オフィス跡ﾊ机が多ｸ狭ｲﾀﾒ､美紀ｸﾝﾉ横ｦ通ﾘ,37,"事務室舊址書案多狹窄,想從美紀身側通過",人工定稿,"P7 校对修正: 机(桌)误读为机器, 全库已校对块作 書案"
+15,0x12c,dialogue,narrative,抜ｹﾙｺﾄﾊでｷﾅｲ｡,13,根本過不去。,人工定稿,
+16,0x13a,system,system,s,1,,未翻,
+17,0x13c,system,system,0153,4,,未翻,
+18,0x141,dialogue,narrative,_1_｢退ｲﾃｸﾚﾅｲﾉでｼﾀﾗ……｣,23,_1_｢不肯走開的話……｣,人工定稿,
+19,0x15c,dialogue,narrative,彼女ﾊﾜざﾄﾗｼｸ肩ｦｽｸﾒﾙﾄ､,21,"他故意誇張地縮了縮肩,",人工定稿,
+20,0x174,dialogue,narrative,机ﾉ上ﾆﾖじ登ｯﾃ歩ｲﾃ行ｯﾀ｡,22,爬上書案走了過去。,人工定稿,P7 校对修正: 机面→書案(桌面)
+21,0x18c,system,system,0890,4,,未翻,
+22,0x191,dialogue,narrative,_1_｢ｱｰｯ､ﾁｮｯﾄ! ｺﾗｯ!,18,"_1_｢哇,等等!欸!｣",人工定稿,"P7 校对修正: 补『こらっ』(欸, 全库惯例)"
+23,0x1a4,dialogue,narrative,反則でｼｮｿﾚﾊｰ!｣,14,犯規呀――!｣,人工定稿,
+24,0x1b4,system,system,1287,4,,未翻,
+25,0x1b9,dialogue,narrative,_1_｢待ﾃ美紀ｸﾝ｡,14,"_1_｢等等,美紀!",人工定稿,P7 校对修正: 漏译呼称『美紀クン』
+26,0x1c8,dialogue,narrative,足ｦ掴ﾝで転びでﾓｼﾀﾗ､,19,"抓住脚絆倒的話,",人工定稿,
+27,0x1dc,dialogue,narrative,暴力ﾆﾅﾙぞ｣,10,算暴力哇｣,人工定稿,
+28,0x1e7,system,system,.0891,5,,未翻,
+29,0x1ed,dialogue,narrative,_1_｢でﾓ……｣,12,_1_｢但……｣,人工定稿,P7 校对修正: 补连接词『でも』
+30,0x1fa,system,system,0.1288,6,,未翻,
+31,0x201,dialogue,narrative,_1_｢ｿﾚﾖﾘ､私達ﾓ急ぐべｷでﾊﾅｲｶ?｣,29,"_1_｢話説,我們也該快點,對不?｣",人工定稿,P7 校对修正: 补『それより』; べきではないか 按 v1.4 用『對不?』
+32,0x220,system,system,0892,4,,未翻,
+33,0x225,dialogue,narrative,_1_｢ｴｯ……ｱｯ……｣,17,_1_｢欸……哦……｣,人工定稿,"P7 校对修正: 补『あっ』(哦, 顿悟)"
+34,0x238,dialogue,narrative,目配ｾｦｽﾚば､美紀ｸﾝﾊハッﾄｼﾀ顔ﾆﾅﾘ､,31,"使個眼色,美紀君恍然大悟,",人工定稿,P7 校对修正: 目配せ 是『使眼色』非『眼神交會』
+35,0x258,dialogue,narrative,ｿｼﾃ､走ﾘ出ｽ｡,11,衝了出去。,人工定稿,
+36,0x264,system,system,0154,4,,未翻,
+37,0x269,dialogue,narrative,_1_｢ｿﾝﾅﾆ急がﾅｸﾃﾓ……｣,21,_1_｢別急成這樣……｣,人工定稿,
+38,0x280,dialogue,narrative,彼女ﾓ､ﾊｯﾄ気付ｸ｡,15,他也猛然察覺。,人工定稿,
+39,0x290,system,system,0155,4,,未翻,
+40,0x295,dialogue,narrative,_1_｢……ｿﾚﾄﾓ､ﾏｻｶ……何ｶ仕掛ｹｦ!?｣,32,_1_｢……還是……做了手脚!?｣,人工定稿,
+41,0x2b8,system,system,0893,4,,未翻,
+42,0x2bd,dialogue,narrative,_1_｢ﾁｯ｡気付ｶﾚﾀｯｽﾈ｣,18,"_1_｢切,被察覺了呀｣",人工定稿,P7 校对修正: 补『〜っすね』的随意语尾
+43,0x2d0,system,system,1289,4,,未翻,
+44,0x2d5,dialogue,narrative,_1_｢構ﾜﾅｲ｡急ｲで走ﾚ!｣,20,"_1_｢算了,快走!｣",人工定稿,
+45,0x2ec,system,system,0156,4,,未翻,
+46,0x2f1,dialogue,narrative,_1_｢待ﾁﾅｻｲ!｣,12,_1_｢等一下!｣,人工定稿,"P7 校对修正: 待ちなさい 命令语气, 补『!』"
+47,0x2fe,dialogue,narrative,0.彼女ﾊ後ﾛｶﾗ私達ｦ追ｯﾃ来ﾀ｡,25,0.他從身後向我們追來。,人工定稿,P7 校对修正: 漏译『私達を』
+48,0x318,dialogue,narrative,オフィス跡ｦ出ﾙﾄ､,16,走出事務室舊址，,人工定稿,
+49,0x32c,dialogue,narrative,ｽぐﾉﾄｺﾛで薫ｻﾝﾄﾊﾙｶｸﾝが姿ｦ見ｾﾙ｡,29,就在附近，薰和遙現身了。,人工定稿,
+50,0x34c,dialogue,narrative,思ﾜずぶﾂｶﾘｿｳﾆﾅﾙﾉｦ､何ﾄｶ避ｹﾀ｡,27,"差點撞上去,幸好避開了。",人工定稿,
+51,0x368,system,system,0046,4,,未翻,
+52,0x36d,dialogue,narrative,_1_｢ｷｬｯ!?｣,10,_1_｢哇!?｣,人工定稿,P7 校对修正: 补原文『!?』
+53,0x378,system,system,1290,4,,未翻,
+54,0x37d,dialogue,narrative,_1_｢二人ﾄﾓ､ｺｺﾆｲﾙﾄｲｳｺﾄﾊ……｣,27,"_1_｢二位都在這裡,説明……｣",人工定稿,"P7 校对修正: ということは=説明……, 非条件『的話』"
+55,0x39c,system,system,0179,4,,未翻,
+56,0x3a1,dialogue,narrative,_1_｢ﾊｲ､電源入ﾘﾏｼﾀ!｣,19,"_1_｢好,通電了!｣",人工定稿,
+57,0x3b8,system,system,0894,4,,未翻,
+58,0x3bd,dialogue,narrative,_1_｢ﾖｼ､行ｸぞ!!｣,15,"_1_｢好,走咯!!｣",人工定稿,P7 校对修正: よし、行くぞ 与兄弟块统一为『走咯』
+59,0x3cd,system,system,ts,2,,未翻,
+60,0x3d0,dialogue,narrative,半ば駆ｹ込ﾑﾖｳﾆｼﾃホールﾆ入ﾙﾄ､,27,幾乎是衝進大廳，,人工定稿,
+61,0x3ec,dialogue,narrative,私ﾊ予ﾒ決ﾒﾃｵｲﾀ自分ﾉ部屋ﾍﾄ入ｯﾀ｡,29,我走進自己事先定好的房間。,人工定稿,
+62,0x40c,dialogue,narrative,急ｲで腕輪ｦ接続ｼﾃドアｦロックｽﾙ｡,30,急忙接上手環，把門鎖定。,人工定稿,
+63,0x42c,system,system,1291,4,,未翻,
+64,0x431,dialogue,narrative,_1_｢ｺﾚでｲｲ｡他ﾉﾐﾝﾅﾊ?｣,20,_1_｢行了。其他人?｣,人工定稿,
+65,0x448,dialogue,narrative,視線ｦ入口ﾆ向ｹﾚば､,17,"把視線投向入口,",人工定稿,
+66,0x45c,dialogue,narrative,ﾊﾙｶｸﾝが転ﾝでｼﾏｯﾀﾖｳだ｡,21,遙好像絆倒了。,人工定稿,
+67,0x474,system,system,0047,4,,未翻,
+68,0x479,dialogue,narrative,_1_｢ｷｬｯ!｣,9,_1_｢哇!｣,人工定稿,P7 校对修正: 补原文『!』
+69,0x483,system,system,_0895,5,,未翻,
+70,0x489,dialogue,narrative,_1_｢ｼ､ｼｯｶﾘ､ﾊﾙｶﾁｬﾝ!｣,19,"_1_｢振作點,小遙!｣",人工定稿,
+71,0x4a0,dialogue,narrative,ﾊﾙｶｸﾝｦ起ｺｽ美紀ｸﾝ｡,17,美紀扶起遙。,人工定稿,
+72,0x4b4,dialogue,narrative,ｿｼﾃ､ｿﾚｦ追ｲ越ｽﾖｳﾆ｡,17,然後超了過去。,人工定稿,
+73,0x4c8,dialogue,narrative,Xが､近ｸﾉ投票部屋ﾆ入ｯﾀ｡,22,X進了附近的投票室。,人工定稿,P7 校对修正: 投票部屋→投票室(全库统一)
+74,0x4e0,system,system,1292,4,,未翻,
+75,0x4e5,dialogue,narrative,_1_｢ｱｿｺﾊ……｣,13,_1_｢那裏……｣,人工定稿,P7 人工补译
+76,0x4f3,dialogue,narrative,.思ﾜず､ニヤリﾄｽﾙ｡,17,.我不禁怪笑起來。,人工定稿,
+77,0x508,system,system,0157,4,,未翻,
+78,0x50d,dialogue,narrative,_1_｢ﾅ……壊ﾚﾃﾙ!?｣,17,_1_｢什麼…壞了!?｣,人工定稿,P7 校对修正: 漏译『ナ……』
+79,0x520,system,system,0896,4,,未翻,
+80,0x525,dialogue,narrative,_1_｢ﾊﾙｶﾁｬﾝ､ｺｯﾁ!｣,16,_1_｢來這邊!｣,人工定稿,
+81,0x536,system,system,s,1,,未翻,
+82,0x538,dialogue,narrative,美紀ｸﾝﾊﾊﾙｶｸﾝｦ抱ｷ上げﾙﾄ､,23,美紀抱起遙，,人工定稿,
+83,0x550,dialogue,narrative,彼女用ﾉ部屋ﾆﾊﾙｶｸﾝｦ入ﾚﾀ｡,23,把他放進女性房間。,人工定稿,
+84,0x568,dialogue,narrative,ｿﾉ間ﾆﾓ､Xﾊ､次々ﾆ投票部屋ﾆ入ｯﾃﾊ､,30,"這期間,X也接連進投票室,",人工定稿,P7 校对修正: 投票部屋→投票室
+85,0x588,dialogue,narrative,舌打ﾁｦｼﾃｲﾙ｡,11,嘖著舌頭。,人工定稿,"P7 校对修正: 舌打ち=嘖(全库惯例), 『彈著舌頭』不成立"
+86,0x594,dialogue,narrative,だが､次ﾆ向ｹﾀ視線ﾉ先ﾆﾊ……｡,26,但接下來視線前方卻是……。,人工定稿,
+87,0x5b0,system,system,0158,4,,未翻,
+88,0x5b5,dialogue,narrative,_1_｢ｱ……ｱｿｺ､壊ﾚﾃﾅｲﾜ!!｣,23,"_1_｢哦,那裡沒壞呀!!｣",人工定稿,P7 校对修正: 补『あ……』发现时的感叹
+89,0x5d0,dialogue,narrative,彼女ﾊ､美紀ｸﾝが入ﾙべｷ部屋ｦ見ﾂｹﾙﾄ､,32,他發現了美紀該進的房間，,人工定稿,
+90,0x5f4,dialogue,narrative,一目散ﾆ走ｯﾀ｡,12,便拔腿飛奔。,人工定稿,
+91,0x601,system,system,ts,2,,未翻,
+92,0x604,system,system,1293,4,,未翻,
+93,0x609,dialogue,narrative,_1_｢美紀ｸﾝ､ﾏずｲぞ! 早ｸ走ﾚ!｣,27,"_1_｢美紀君,不妙哇!快走!｣",人工定稿,P7 校对修正: 〜ぞ→哇(风格指南 v1.4)
+94,0x628,system,system,0897,4,,未翻,
+95,0x62d,dialogue,narrative,_1_｢ｸｯ!!｣,9,_1_｢嗚!!｣,人工定稿,P7 校对修正: 补原文『!!』
+96,0x637,dialogue,narrative,_美紀ｸﾝﾊ､,9,_美紀他，,人工定稿,
+97,0x641,dialogue,narrative,_0.ﾊﾙｶｸﾝﾉ部屋ﾉドアｦロックｻｾﾃｶﾗ,30,_0.在把遙房間的門鎖定之後,人工定稿,
+98,0x660,dialogue,narrative,急ｲで自分ﾉ投票部屋ﾆ走ﾙ｡,23,急忙奔向自己投票室。,人工定稿,P7 校对修正: 投票部屋→投票室
+99,0x678,dialogue,narrative,ｼｶｼ､Xﾉ方が少ｼばｶﾘ早ｲ……,24,"但是,X只快了那麼一點……",人工定稿,
+100,0x694,dialogue,narrative,ｺﾉﾏﾏでﾊ……｡,12,這樣下去……,人工定稿,
+101,0x6a1,system,system,ts,2,,未翻,
+102,0x6a4,system,system,0159,4,,未翻,
+103,0x6a9,dialogue,narrative,_1_｢ﾌﾌﾝ､私ﾉ方が早ｶｯﾀﾜﾈ!｣,24,_1_｢呵呵，是我更快呀!｣,人工定稿,"P7 校对修正: わね→呀(全库惯例, 原『哦』漂移)"
+104,0x6c4,system,system,0898,4,,未翻,
+105,0x6c9,dialogue,narrative,_1_｢ｸｯｿｫｫｫｫｯ!｣,14,_1_｢可惡呀呀!｣,人工定稿,P7 校对修正: 补『ォォォォ』的拉长
+106,0x6d8,system,system,0160,4,,未翻,
+107,0x6dd,dialogue,narrative,_1_｢ｻﾖﾅﾗ､美紀ｻﾝ｣,16,_1_｢再見美紀｣,人工定稿,
+108,0x6ee,system,system,s,1,,未翻,
+109,0x6f0,system,system,1294,4,,未翻,
+110,0x6f5,dialogue,narrative,_1_｢ｺ､ｺﾚﾏでｶ……｣,17,_1_｢這就完了……｣,人工定稿,"P7 校对修正: これまでか=『這就完了』, 原『到頭了』不成立"
+111,0x708,system,system,0180,4,,未翻,
+112,0x70d,system,system,_1_0899,7,,未翻,
+113,0x715,dialogue,narrative,_1_｢薫ｻﾝ!｣,10,_1_｢薰!｣,人工定稿,
+114,0x720,dialogue,narrative,Xﾉ前ﾆ立ﾁﾊだｶﾙ,13,堵在X面前,人工定稿,
+115,0x72e,system,system,s,1,,未翻,
+116,0x730,system,system,0181,4,,未翻,
+117,0x735,dialogue,narrative,_1_｢ｺｺﾊ通ｼﾏｾﾝﾖ!｣,16,_1_｢休想過去｣,人工定稿,
+118,0x746,system,system,s,1,,未翻,
+119,0x748,system,system,0161,4,,未翻,
+120,0x74d,dialogue,narrative,_1_｢ｸｿｯ､邪魔だｯ!｣,17,"_1_｢可惡,走開!｣",人工定稿,
+121,0x760,dialogue,narrative,押ｼﾉｹﾙﾄ暴力判定ｦ受ｹﾃｼﾏｳﾀﾒ､,26,一旦推開，就會被判為暴力，,人工定稿,
+122,0x77c,dialogue,narrative,Xﾊ簡単ﾆﾊ通ﾙｺﾄﾊ出来ﾅｲ｡,21,X無法輕易通過。,人工定稿,
+123,0x794,dialogue,narrative,ｿﾉ間ﾆﾓ､美紀ｸﾝﾊ､自分ﾉ部屋ﾆ飛び込ﾝだ｡,35,就在此時，美紀衝進了自己的房間。,人工定稿,
+124,0x7b8,system,system,0900,4,,未翻,
+125,0x7bd,dialogue,narrative,_1_｢ﾊｧﾊｧ……ｱﾘがﾄｳ､薫ｻﾝ!｣,25,_1_｢哈……哈……謝謝薰｣,人工定稿,
+126,0x7d8,system,system,0162,4,,未翻,
+127,0x7dd,dialogue,narrative,_1_｢ｸｿｯ､他ﾆ使ｴﾙ部屋ﾊ……ｱｿｺｶｧ!｣,31,"_1_｢可惡,其他能用的……那裡!｣",人工定稿,P7 校对修正: 漏译『使える』
+128,0x800,dialogue,narrative,Xﾊ邪悪ﾅ顔ﾂｷで叫ぶﾄ､,19,"X表情邪惡地叫道,",人工定稿,
+129,0x814,dialogue,narrative,薫ｻﾝが入ﾙべｷ部屋ﾆ向ｶｯﾃ､,23,朝著薰該進的房間，,人工定稿,
+130,0x82c,dialogue,narrative,一目散ﾆ走ﾘ出ｼﾀ｡,15,一溜煙衝出去。,人工定稿,
+131,0x83c,system,system,0182,4,,未翻,
+132,0x841,dialogue,narrative,_1_｢待ﾁﾅｻ……ｧｱ!?｣,18,_1_｢等……哇!?｣,人工定稿,P7 校对修正: 补原文『!?』
+133,0x854,dialogue,narrative,薫ｻﾝﾓ駆ｹ出ｽが､足がﾓﾂﾚﾃ転ぶ｡,27,"薰小姐也衝出去,卻絆倒。",人工定稿,P7 词形统一: 却→卻(繁体正字)
+134,0x870,dialogue,narrative,ﾓｳ絶望的だ……｡,15,已經絶望了……,人工定稿,
+135,0x880,dialogue,narrative,Xﾆ､部屋ﾆ入ﾗﾚﾙ｡,14,X先進了房間。,人工定稿,
+136,0x890,system,system,0163,4,,未翻,
+137,0x895,dialogue,narrative,_1_｢ｱｰｯ､ﾊｯﾊｯﾊｯ! ｲｲ気味ィ!!｣,27,_1_｢哈哈哈!活該!!｣,人工定稿,"P7 校对修正: いい気味=活該(幸灾乐祸), 非『痛快』"
+138,0x8b4,dialogue,narrative,彼女ﾊ､転ﾝでｼﾏｯﾀ薫ｻﾝｦ嘲笑ｲﾅがﾗ､,30,他一邊嘲笑倒在地上的薰，,人工定稿,
+139,0x8d4,dialogue,narrative,堂々ﾄ部屋ﾆ入ﾙ｡,14,堂堂走進房間。,人工定稿,
+140,0x8e4,dialogue,narrative,ｿｼﾃ慣ﾚﾀ手ﾂｷで投票マシンﾆ腕輪ｦ,29,然後用熟練的手法把手環,人工定稿,
+141,0x904,dialogue,narrative,接続ｼﾖｳﾄ手ｦ伸ばｼﾀ｡,18,伸手準備接上機器。,人工定稿,P7 校对修正: 补『マシン』(投票机)
+142,0x918,dialogue,narrative,ダメだ､ﾓｳ……｡,14,已經不行……。,人工定稿,
+143,0x928,dialogue,narrative,失敗だｯﾀ……私ﾉ作戦ﾊ……｡,25,失敗了……我的作戰……,人工定稿,
+144,0x944,dialogue,narrative,ホール内ﾆ銃声が轟ｸ｡,19,大廳裡槍聲轟鳴。,人工定稿,
+145,0x958,system,system,0164,4,,未翻,
+146,0x95d,dialogue,narrative,_1_｢ッ!? ﾅ､ﾅﾆ!?｣,16,_1_｢欸!?什麼!?｣,人工定稿,P7 校对修正: 漏译『ナ、ナニ』
+147,0x96e,system,system,s,1,,未翻,
+148,0x970,system,system,0183,4,,未翻,
+149,0x975,dialogue,narrative,_1_｢ﾊｧ……ﾊｧﾊｧ……｣,19,_1_｢哈……哈……｣,人工定稿,
+150,0x98c,system,system,1295,4,,未翻,
+151,0x991,dialogue,narrative,_1_｢薫ｻﾝ!?｣,11,_1_｢薰!?｣,人工定稿,
+152,0x99d,dialogue,narrative,_0.転ﾝだ体勢ﾉﾏﾏ､銃ｦ構ｴﾙ薫ｻﾝ｡,28,_0.保持倒下姿勢舉槍的薰。,人工定稿,
+153,0x9bc,dialogue,narrative,Xｦ撃ﾁ殺ｼﾀﾉだﾛｳｶ……｡,20,莫非已經撃斃X了……,人工定稿,
+154,0x9d4,dialogue,narrative,ﾀｼｶﾆ､ｺﾉﾏﾏ投票ｻﾚﾙﾖﾘﾊ……,23,"的確,比起這樣被投票……",人工定稿,P7 校对修正: 补『このまま』
+155,0x9ec,dialogue,narrative,でﾓ､ｿﾝﾅｺﾄｼﾀﾗ……｡,17,可是，那樣做……,人工定稿,
+156,0xa00,dialogue,narrative,ｼｶﾓ……｡,8,而且……,人工定稿,
+157,0xa09,system,system,_0.0165,7,,未翻,
+158,0xa11,dialogue,narrative,_1_｢ﾌﾝ｡捨ﾃ身ﾉ攻撃でｽｶ……,25,_1_｢嗤。捨身的攻撃呀……｣,人工定稿,P7 校对修正: ですか 的讥诮语气补『呀』
+159,0xa2c,dialogue,narrative,でﾓ､残念でｽﾈ｡,13,但真可惜呀。,人工定稿,P7 校对修正: 残念ですね 共感→呀(v1.4)
+160,0xa3a,system,system,s,1,,未翻,
+161,0xa3c,dialogue,narrative,私ﾆﾊ当ﾀﾘﾏｾﾝでｼﾀﾖｰ｣,18,沒打中我哦――｣,人工定稿,机翻警告: quote_unbalanced
+162,0xa50,dialogue,narrative,薫ｻﾝﾉ決死ﾉ一撃ﾓ……｡,20,薰決死的一撃也……,人工定稿,
+163,0xa68,dialogue,narrative,Xﾆﾊ､届ｶﾅｶｯﾀﾄｲｳﾉｶ……｡,21,難道沒能撃中X……,人工定稿,
+164,0xa80,dialogue,narrative,Xﾊ余裕ﾉｱﾙ顔で､ﾂｲﾆ｡,18,X一臉從容，終於。,人工定稿,
+165,0xa94,dialogue,narrative,腕輪ｦ､マシンﾆ接続ｼﾃｼﾏｯﾀ｡,24,把手環接上了機器。,人工定稿,
+166,0xab0,system,system,0166,4,,未翻,
+167,0xab5,dialogue,narrative,_1_｢ﾌﾌ｡外ｼﾃ残念でｼﾀﾈｰ｡,22,_1_｢呵呵。可惜打偏了呀,人工定稿,P7 校对修正: 补『残念』; でしたね 共感→呀
+168,0xacc,dialogue,narrative,ﾓｳ少ｼ練習ｼﾃｵｸべｷだｯﾀﾝじｬ,24,真該再多加練習才對,人工定稿,机翻警告: quote_unbalanced
+169,0xae8,dialogue,narrative,ﾅｲでｽｶ?｣,8,對不?｣,人工定稿,P7 校对修正: じゃないですか 统一作『對不?』
+170,0xaf1,system,system,_0.0184,7,,未翻,
+171,0xaf9,dialogue,narrative,_1_｢外ﾚ……?｣,13,_1_｢沒中?｣,人工定稿,
+172,0xb07,system,system,.0185,5,,未翻,
+173,0xb0d,dialogue,narrative,_1_｢ｲｲｴ……当ﾀﾘﾏｼﾀﾖ｣,20,_1_｢不……中了哦｣,人工定稿,
+174,0xb24,system,system,0167,4,,未翻,
+175,0xb29,dialogue,narrative,_1_｢ｴｯ?｣,8,_1_｢欸?｣,人工定稿,P7 校对修正: 补原文引号
+176,0xb32,system,system,1_1296,6,,未翻,
+177,0xb39,dialogue,narrative,_1_｢ﾑ､どｳﾅｯﾃｲﾙ?｣,16,"_1_｢唔,怎樣了?｣",人工定稿,P7 校对修正: 漏译『ム』
+178,0xb4a,system,system,s,1,,未翻,
+179,0xb4c,dialogue,narrative,Xﾊﾄｯｸﾆ腕輪ｦ接続ｼﾀﾄｲｳﾉﾆ｡,23,X明明已經接上了手環。,人工定稿,
+180,0xb64,dialogue,narrative,扉が､閉じﾅｲ｡,12,門卻關不上。,人工定稿,P7 词形统一: 却→卻(繁体正字)
+181,0xb71,system,system,ts,2,,未翻,
+182,0xb74,system,system,0168,4,,未翻,
+183,0xb79,dialogue,narrative,_1_｢ﾏ､ﾏｻｶ……!｣,15,_1_｢難、難道!｣,人工定稿,P7 人工补译
+184,0xb89,system,system,ts,2,,未翻,
+185,0xb8c,dialogue,narrative,Xが部屋ﾉ中ｦ振ﾘ返ﾘ､驚愕ｼﾀ｡,25,"X在房間中回頭,驚愕。",人工定稿,
+186,0xba8,system,system,0169,4,,未翻,
+187,0xbad,dialogue,narrative,_1_｢ｺ､壊ﾚﾃﾙ……!?,17,_1_｢這、壞了!?｣,人工定稿,P7 校对修正: 漏译『コ』+补『?』
+188,0xbc0,dialogue,narrative,ｿﾝﾅ､バカﾅ……!,14,太荒唐了……!,人工定稿,
+189,0xbd0,dialogue,narrative,バカﾅｧｧｧｧｧｧｧｧｯ!!!｣,18,不可能呀呀!!!｣,人工定稿,"P7 校对修正: バカな 是难以置信的感叹, 非骂称『蠢材』"
+190,0xbe4,system,system,0186,4,,未翻,
+191,0xbe9,dialogue,narrative,_1_｢私ﾊ､生ｷﾙﾀﾒﾆﾂﾑじｸﾝｦ殺ｼﾃｼﾏｯﾀ｡,31,_1_｢我為了活下去，殺死了旋。,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+192,0xc0c,dialogue,narrative,ｺｺで命がｹでｱﾅﾀｦ止ﾒﾅｸﾃﾊ､,23,"現在若不冒死阻止的話,",人工定稿,
+193,0xc24,dialogue,narrative,ﾂﾑじｸﾝﾆ申ｼ訳が立ﾀﾅｲ!｣,21,就太對不起旋了!｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+194,0xc3c,system,system,0187,4,,未翻,
+195,0xc41,dialogue,narrative,_1_｢今ﾏで重ﾈﾃｷﾀ罪!,18,_1_｢至今累積罪業!,人工定稿,P7 校对修正
+196,0xc54,dialogue,narrative,ｿﾉ罰ｦ!,6,懲罰!,人工定稿,
+197,0xc5b,dialogue,narrative,_ｱﾅﾀﾆﾓ受ｹﾃﾓﾗｳ!｣,15,_同樣得承受!｣,人工定稿,
+198,0xc6c,dialogue,narrative,投票前ﾉアラームが鳴ﾘ始ﾒﾀ｡,25,投票前的鬧鈴開始響了。,人工定稿,
+199,0xc88,system,system,0170,4,,未翻,
+200,0xc8d,dialogue,narrative,_1_｢ｸｿｯ､ｸｿｯ､どｺｶ無ｲﾉ!?｣,23,_1_｢可惡、可惡，無處?!｣,人工定稿,P7 人工补译
+201,0xca8,dialogue,narrative,Xﾊ必死ﾆ色ﾝﾅ部屋ｦﾏﾜｯﾃ､,21,X不顧一切奔遍各房間，,人工定稿,
+202,0xcc0,dialogue,narrative,使ｴﾙ端末ｦ探ｼﾀ｡,14,尋找可用終端。,人工定稿,
+203,0xcd0,dialogue,narrative,だが……｡,9,然而……,人工定稿,
+204,0xcda,dialogue,narrative,0.全ﾃﾏﾜｯﾃﾓ､彼女ﾊどｺﾆﾓ接続でｷﾅｶｯﾀ｡,33,"0.就算全找遍了,他也連不上。",人工定稿,
+205,0xcfc,dialogue,narrative,ｿｼﾃﾔがﾃ､投票時間がﾔｯﾃｸﾙ｡,24,而投票時間終於來臨。,人工定稿,
+206,0xd18,system,system,1297,4,,未翻,
+207,0xd1d,dialogue,narrative,_1_｢……薫ｻﾝｯ……｣,18,_1_｢……薰……｣,人工定稿,
+208,0xd30,system,system,0188,4,,未翻,
+209,0xd35,dialogue,narrative,_1_｢浅川ｻﾝ……私､役ﾆ立ﾃﾏｼﾀｶ?｣,29,_1_｢淺川……我有派上用場?｣,人工定稿,
+210,0xd54,system,system,0901,4,,未翻,
+211,0xd59,dialogue,narrative,_1_｢薫ｻﾝ､何言ｯﾃﾝﾉ!,18,"_1_｢薰,別胡説!｣",人工定稿,
+212,0xd6c,dialogue,narrative,薫ｻﾝﾉｵｶげで……｣,16,多虧薰小姐……｣,人工定稿,
+213,0xd80,system,system,0189,4,,未翻,
+214,0xd85,dialogue,narrative,_1_｢ｿﾚﾅﾗ……ﾖｶ､ｯﾀ……｣,22,_1_｢那……太好了……｣,人工定稿,P7 人工补译
+215,0xd9c,system,system,0048,4,,未翻,
+216,0xda1,dialogue,narrative,_1_｢ｶｵﾙ……ｻﾝ｣,14,_1_｢薰……｣,人工定稿,
+217,0xdb0,system,system,0902,4,,未翻,
+218,0xdb5,dialogue,narrative,_1_｢薫ｻﾝ!! ｳｩ……ｳｱｱｧｧｧｧｧｯ……!｣,32,_1_｢薰! 嗚……嗚哇呀呀!!｣,人工定稿,
+219,0xdd8,dialogue,narrative,投票時間ﾆ間ﾆ合ﾜﾅｶｯﾀ薫ｻﾝﾊ……｡,29,沒能來得及投票的薰小姐……。,人工定稿,
+220,0xdf8,dialogue,narrative,ｿﾉﾏﾏ腕輪ﾆ仕込ﾏﾚﾀ毒ﾆﾖｯﾃ……｡,27,就這樣被手環裡暗藏的毒……,人工定稿,
+221,0xe14,dialogue,narrative,苦ｼﾐﾅがﾗ｡,9,備受折磨,人工定稿,
+222,0xe1e,dialogue,narrative,0.でﾓ､安ﾗｶﾅ笑顔で……｡,22,0.卻帶著安詳笑容……。,人工定稿,P7 词形统一: 却→卻(繁体正字)
+223,0xe38,dialogue,narrative,眠ﾘﾆ､ﾂｲﾀ｡,9,沈睡了。,人工定稿,
+224,0xe42,dialogue,narrative,0.ロム2_ターン7_紅春ﾄﾉ対決_薫死亡後,35,0.ROM2_回合7_與紅春的對決_薰死亡後,人工定稿,
+225,0xe68,dialogue,narrative,ｿｼﾃ｡,4,然後,人工定稿,
+226,0xe6d,dialogue,narrative,_1_ﾓｳ一人……｡,14,_1_又一人……,人工定稿,
+227,0xe7c,system,system,0171,4,,未翻,
+228,0xe81,dialogue,narrative,_1_｢ｸｿｯ……! ｸｿｯ､ｸｿｫｯ!,22,_1_｢可惡……可惡!｣,人工定稿,
+229,0xe98,dialogue,narrative,ﾁｸｼｮｫｫｫｫｫｫｫｫｯ!!!｣,17,可惡呀呀!!!｣,人工定稿,
+230,0xeac,dialogue,narrative,悪魔ﾉﾖｳﾅ断末魔が響ｸ｡,20,如惡魔般的慘叫響起。,人工定稿,
+231,0xec4,dialogue,narrative,全ﾃﾉ根源でﾓｱｯﾀ､Xが……｡,23,同時也是一切根源的X……,人工定稿,
+232,0xedc,dialogue,narrative,崩ﾚ落ﾁﾃｲｯﾀ｡,11,倒了下去。,人工定稿,"P7 校对修正: 崩れ落ちる=倒下, 『崩潰』是心理义"
+233,0xee8,dialogue,narrative,ロム2_ターン7_紅春ﾄﾉ対決_紅春死亡後,35,ROM2_回合7_與紅春對決_紅春死亡後,人工定稿,
+234,0xf0c,system,system,1298,4,,未翻,
+235,0xf11,dialogue,narrative,_1_｢……ｺﾚで､シリアルキラーﾊ……全滅だ……｣,43,_1_｢……這樣，連環殺手就……全滅了……｣,人工定稿,导入警告: kana_residue
+236,0xf40,system,system,0903,4,,未翻,
+237,0xf45,dialogue,narrative,_1_｢ｵ､ｵ姉ｻﾏ……画面ｯ……!｣,26,_1_｢姐、姐姐大人……畫面!｣,人工定稿,导入警告: kana_residue
+238,0xf60,dialogue,narrative,投票画面ﾊｲﾂﾉ間ﾆｶキャンセルｻﾚ､,29,投票畫面不知何時被取消了，,人工定稿,
+239,0xf80,dialogue,narrative,ｿﾉ代ﾜﾘﾆ､ｺｳ文字が刻ﾏﾚﾃｲﾀ｡,24,取而代之刻著這樣一行字。,人工定稿,
+240,0xf9c,dialogue,narrative,『YOU WIN!』ﾄ｡,14,『YOU WIN!』。,人工定稿,

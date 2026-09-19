@@ -1,0 +1,234 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/r2_t7_9_9_9.tob,27,,未翻,
+2,0x1c,system,system,r2_t7_9_9_9.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_エピローグ_ノーマル,24,ROM2_尾聲_普通,人工定稿,
+4,0x48,dialogue,label,ROM2_エピローグ_トゥルー,24,ROM2_尾聲_真實,人工定稿,
+5,0x64,dialogue,command,フェードアウト,14,,未翻,
+6,0x74,dialogue,narrative,ロム2_エピローグ_通常,21,ROM2_尾聲_通常,人工定稿,
+7,0x8c,dialogue,narrative,殺人ゲームﾊ､市民側ﾉ勝利ﾄｼﾃ幕ｦ閉じﾀ｡,35,殺人遊戲以市民方的勝利落下了帷幕。,人工定稿,
+8,0xb0,dialogue,narrative,ｱﾉビルｶﾗ脱出ｼ､日常ﾆ戻ｯﾃ驚ｲﾀﾉﾊ､,30,從那棟大樓逃出後，令我驚訝的是,人工定稿,
+9,0xd0,dialogue,narrative,全ﾃがﾅｶｯﾀｺﾄﾆﾅｯﾃｲﾙｺﾄだｯﾀ｡,24,一切都被當作未發生過。,人工定稿,P7 校对修正
+10,0xec,dialogue,narrative,Xﾉ犠牲ﾄﾅｯﾀ10人ﾊ､表向ｷ､,22,X犧牲者10人，表面上,人工定稿,
+11,0x104,dialogue,narrative,事故ﾄｼﾃ処理ｻﾚﾃｲﾙ｡,17,被當作事故處理了,人工定稿,
+12,0x118,dialogue,narrative,私達ｦ生ｶｽﾀﾒﾆ犠牲ﾆﾅｯﾀ薫ｻﾝﾉ亡骸ﾊ､,31,為讓我們活命而犧牲的薰的遺骸，,人工定稿,
+13,0x138,dialogue,narrative,手厚ｸ葬ﾙべｸ連ﾚ帰ｯﾀﾉだが､,24,為了厚葬而帶回，可是，,人工定稿,P7 校对修正
+14,0x154,dialogue,narrative,ｲﾂﾉ間ﾆｶｿﾉ事実ｽﾗ揉ﾐ消ｻﾚﾃｲﾀ｡,26,不知不覺間連事實都被抹消了,人工定稿,
+15,0x170,dialogue,narrative,受ｹ渡ｼﾀ警官が偽物だｯﾀﾉｶ……,27,接手的警察莫非是冒牌貨……,人工定稿,
+16,0x18c,dialogue,narrative,ｱﾙｲﾊ､警察ｽﾗﾓ動ｶｾﾙﾖｳﾅ組織ﾅﾉｶ｡,28,或者是連警察都能動用的組織。,人工定稿,P7 校对修正
+17,0x1ac,dialogue,narrative,ﾊﾙｶｸﾝﾄﾊ､ｱﾚ以来会ｯﾃｲﾅｲ｡,22,那之後就沒再見過遙。,人工定稿,P7 校对修正
+18,0x1c4,dialogue,narrative,彼女がどｳﾅｯﾀｶﾜｶﾗﾅｲが､,21,不知遙後來如何，但，,人工定稿,P7 校对修正
+19,0x1dc,dialogue,narrative,どｺｶで元気ﾆ暮ﾗｼﾃｲﾙﾄ信じﾀｲ｡,26,想相信遙在某處過得很好,人工定稿,P7 校对修正
+20,0x1f8,dialogue,narrative,ｱﾝﾅｺﾄがｱｯﾃﾓ……｡,16,就算有那種事……,人工定稿,
+21,0x20c,dialogue,narrative,……世界ﾊ｡,10,……世界，,人工定稿,
+22,0x217,dialogue,narrative,.何事ﾓﾅｸ回ｯﾃｲﾙ｡,15,.若無其事地運轉,人工定稿,
+23,0x228,dialogue,narrative,ｿﾚｶﾗ､数日後｡,12,然後，數日後,人工定稿,
+24,0x235,system,system,ts,2,,未翻,
+25,0x238,dialogue,narrative,私ﾉ元ﾆ1通ﾉ手紙が届ｲﾀ｡,21,有一封信寄到我這裡。,人工定稿,
+26,0x250,dialogue,narrative,差出人ﾊ､書ｶﾚﾃｲﾅｲ｡,17,沒寫寄件人是誰。,人工定稿,P7 校对修正
+27,0x264,dialogue,narrative,ｿﾚどｺﾛｶ消印ﾓﾅｶｯﾀ｡,17,更別説郵戳了。,人工定稿,P7 校对修正
+28,0x278,dialogue,narrative,不気味ﾆﾓﾎどがｱﾙ｡,16,也太令人發毛了。,人工定稿,P7 校对修正
+29,0x28c,dialogue,narrative,封ｦ切ｯﾃ､中身ｦ確認ｽﾙﾄ､,21,打開信封，確認内容,人工定稿,
+30,0x2a4,dialogue,narrative,一枚ﾉ紙が入ｯﾃｲﾀ｡,16,裡面裝著一張紙。,人工定稿,
+31,0x2b8,dialogue,narrative,ｿﾚﾊ､『X』ﾄｼﾃ試験ｦｳｹﾅｲｶ､,23,要不要作為『X』受測，,人工定稿,
+32,0x2d0,dialogue,narrative,ﾄｲｳ勧誘だｯﾀ｡,12,這樣的邀請。,人工定稿,
+33,0x2dd,system,system,ts,2,,未翻,
+34,0x2e0,dialogue,narrative,どｳﾓ私ﾉプレイングが認ﾒﾗﾚﾀﾗｼｲ｡,29,看來我的表現似乎得到了認可。,人工定稿,
+35,0x300,dialogue,narrative,思ﾜず､身体が熱ｸﾅﾙ｡,18,我不由得渾身發熱。,人工定稿,
+36,0x314,dialogue,narrative,ｵｿﾗｸﾊ､ﾄﾝでﾓﾅｲ報酬が得ﾗﾚﾙﾉだﾛｳ｡,30,想必能得到難以想像的報酬。,人工定稿,
+37,0x334,dialogue,narrative,命ｦｶｹﾙﾆ相応ｼｲﾎどﾉ何ｶが,22,與賭上性命相稱之物,人工定稿,
+38,0x34c,dialogue,narrative,待ｯﾃｲﾙﾉだﾛｳ｡,12,正等待著。,人工定稿,
+39,0x359,system,system,ts,2,,未翻,
+40,0x35c,dialogue,narrative,だｶﾗ､私ﾊ……｡,13,所以，我……,人工定稿,
+41,0x36a,system,system,s,1,,未翻,
+42,0x36c,dialogue,narrative,成功ｼﾀ暁ﾆどｳﾅﾙｶｦ確認ｽﾙ前ﾆ､,26,在確認成功後會如何之前，,人工定稿,
+43,0x388,dialogue,narrative,手紙ｦ破ﾘ捨ﾃﾃﾔｯﾀ｡,16,我把信撕成碎片了,人工定稿,
+44,0x39c,dialogue,narrative,紅春ｸﾝﾔｿﾚﾏでﾉ『X』ﾓ､,20,紅春及之前的『X』也,人工定稿,P7 校对修正
+45,0x3b4,dialogue,narrative,成功報酬ｦ知ｯﾃ狂ﾜｻﾚﾀﾆ違ｲﾅｲ｡,26,一定是知道成功報酬後發狂了,人工定稿,
+46,0x3d0,dialogue,narrative,何ｦ求ﾒﾗﾚ､何ｦ得ﾗﾚﾙﾉｶﾊ知ﾗﾅｲが､,28,不知會被要求什麼、得到什麼，,人工定稿,
+47,0x3f0,dialogue,narrative,知ﾗﾅｹﾚば何ﾓ起ｺﾗずﾆ済ﾑ｡,22,不知道就什麼都不會發生,人工定稿,
+48,0x408,dialogue,narrative,ﾓｳ､知ﾙ苦ｼﾐﾊｺﾘごﾘだ｡,19,不想再知曉痛苦了,人工定稿,P7 校对修正
+49,0x41c,dialogue,narrative,何ﾓ知ﾗﾅｲで､能天気ﾆ生ｷﾃｲｷﾀｲ｡,27,什麼都不知，想無憂無慮活著,人工定稿,P7 校对修正
+50,0x438,system,system,0914,4,,未翻,
+51,0x43d,dialogue,narrative,_9_｢楓ｵ姉ｻﾏｯ!｣,14,_9_｢姐姐大人!｣,人工定稿,P7 校对修正
+52,0x44c,dialogue,narrative,手紙ｦ散々ﾄ破ﾘ捨ﾃﾃｲﾙﾄ､,21,我把信撕得亂七八糟時,人工定稿,
+53,0x464,dialogue,narrative,背後ｶﾗ美紀ｸﾝがﾔｯﾃｸﾙ｡,20,美紀從背後走了過來。,人工定稿,
+54,0x47c,system,system,1321,4,,未翻,
+55,0x481,dialogue,narrative,_9_｢美紀ｸﾝｶ｣,12,_9_｢美紀｣,人工定稿,
+56,0x48e,system,system,9.0915,6,,未翻,
+57,0x495,dialogue,narrative,_9_｢ﾁｰｯｽ｡ｵ姉ｻﾏﾉ美紀ｸﾝ参上ｯｽ!,28,_9_｢姐姐大人的美紀前來報到!,人工定稿,P7 校对修正
+58,0x4b4,dialogue,narrative,……ｯﾃ､何破ｯﾃﾀﾝでｽｶ?,20,……話説在撕什麼呀?,人工定稿,
+59,0x4cc,dialogue,narrative,ﾏﾀ､ラブレター?｣,15,又是情書?｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+60,0x4dc,system,system,1322,4,,未翻,
+61,0x4e1,dialogue,narrative,_9_｢ﾏｧ､ｿﾝﾅﾖｳﾅﾓﾉだ｣,18,_9_｢嘛，就那樣｣,人工定稿,
+62,0x4f4,dialogue,narrative,細ｶｸ破ｯﾀ手紙ｦゴミ箱ﾆ捨ﾃﾙﾄ､,26,把撕碎的信放進廢紙簍後，,人工定稿,P7 校对修正
+63,0x510,dialogue,narrative,ｿﾉゴミ箱ｦ美紀ｸﾝﾊ恨ﾐがﾏｼｲ目で見ﾂﾒﾀ｡,34,美紀用怨恨的眼神注視廢紙簍。,人工定稿,P7 校对修正
+64,0x534,system,system,0916,4,,未翻,
+65,0x539,dialogue,narrative,_9_｢差出人ﾊ誰ｯｽｶ!? ﾄｯﾁﾒﾃﾔﾙｯｽ!｣,30,_9_｢寄件人是誰!?我來收拾!｣,人工定稿,
+66,0x558,system,system,1323,4,,未翻,
+67,0x55d,dialogue,narrative,_9_｢別ﾆ君がﾄｯﾁﾒﾙｺﾄﾓﾅｲだﾛｳ?｣,27,_9_｢也用不著誰去收拾。｣,人工定稿,
+68,0x57c,system,system,0917,4,,未翻,
+69,0x581,dialogue,narrative,_9_｢ｵ姉ｻﾏﾆ手ｦ出ｽﾔﾂﾊ､ﾄｯﾁﾒﾙｯｽ!｣,29,_9_｢敢動姐姐大人就收拾!｣,人工定稿,
+70,0x5a0,system,system,1324,4,,未翻,
+71,0x5a5,dialogue,narrative,_9_｢ｵｲｵｲ､私ﾉ気持ﾁﾊ無視ｶ｣,24,_9_｢欸，無視我心情?｣,人工定稿,
+72,0x5c0,system,system,0918,4,,未翻,
+73,0x5c5,dialogue,narrative,_9_｢ｵ姉ｻﾏﾉ気持ﾁﾊ､ｱﾀｼﾆ一直線ｯｽ!｣,31,_9_｢姐姐大人的心意筆直朝向我!｣,人工定稿,P7 校对修正
+74,0x5e8,system,system,1325,4,,未翻,
+75,0x5ed,dialogue,narrative,_9_｢ｿﾚﾅﾗば､綺麗ﾅ放物線ｦ描ｲﾃ,27,_9_｢那麼，畫出漂亮的抛物線,人工定稿,
+76,0x60c,dialogue,narrative,君ｦ避ｹﾙﾄｼﾖｳ｣,12,避開美紀咯｣,人工定稿,机翻警告: quote_unbalanced
+77,0x619,system,system,ts,2,,未翻,
+78,0x61c,system,system,0919,4,,未翻,
+79,0x621,dialogue,narrative,_9_｢ｳﾋｬｰ! 酷ｲｯｽ!,16,_9_｢嗚哇! 太過分,人工定稿,P7 校对修正
+80,0x632,system,system,s,1,,未翻,
+81,0x634,dialogue,narrative,ｱﾀｼﾉ気持ﾁﾊｲﾂでﾓ､ｵ姉ｻﾏ一筋ﾅﾉﾆ!｣,30,明明我的感情一直只向姐姐大人!｣,人工定稿,P7 校对修正
+82,0x654,system,system,1326,4,,未翻,
+83,0x659,dialogue,narrative,_9_｢ｿﾝﾅｺﾄばｯｶﾘ言ｯﾃﾅｲで､,23,_9_｢別淨説那種話，,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+84,0x674,dialogue,narrative,男でﾓ作ｯﾀﾗどｳだ?｣,17,找個男人如何?｣,人工定稿,
+85,0x688,system,system,1327,4,,未翻,
+86,0x68d,dialogue,narrative,_9_｢君ﾄﾃラブレターﾉﾋﾄﾂﾓ,23,_9_｢連美紀也該收過,人工定稿,P7 校对修正
+87,0x6a8,dialogue,narrative,貰ﾜﾅｲﾜｹでﾊﾅｶﾛｳ?｣,16,一兩封情書?｣,人工定稿,P7 校对修正
+88,0x6bc,system,system,0920,4,,未翻,
+89,0x6c1,dialogue,narrative,_9_｢……ﾋﾄﾂﾓ貰ﾜﾅｲｯｽｹど?｣,24,_9_｢……不過都沒收到?｣,人工定稿,
+90,0x6dc,system,system,1328,4,,未翻,
+91,0x6e1,dialogue,narrative,_9_｢ｿ､ｿﾚﾊ悪ｶｯﾀ……｣,19,_9_｢是我不好……｣,人工定稿,
+92,0x6f8,system,system,0921,4,,未翻,
+93,0x6fd,dialogue,narrative,_9_｢ｱ､でﾓ! 果ﾀｼ状ﾅﾗ今日ﾓｷﾀｯｽﾖ!｣,31,_9_｢哦，不過!挑戰書今天也來了!｣,人工定稿,P7 校对修正
+94,0x720,system,system,1329,4,,未翻,
+95,0x725,dialogue,narrative,_9_｢ｿｳｶ､ｿﾚﾊｵﾒでﾄｳ｣,18,_9_｢是嘛，恭喜｣,人工定稿,
+96,0x738,dialogue,narrative,……ｿﾝﾅバカﾅﾔﾘ取ﾘｦｼﾅがﾗ､,24,……就這樣荒唐地拌著嘴，,人工定稿,P7 校对修正
+97,0x754,dialogue,narrative,日常ｦ過ごｽ｡,11,如常過活。,人工定稿,P7 校对修正
+98,0x760,dialogue,narrative,実ﾉ所ﾏだカウンセリングｦ,23,其實我現在仍在接受,人工定稿,P7 校对修正
+99,0x778,dialogue,narrative,受ｹ続ｹﾃｲﾙ状況だが……｡,22,心理諮詢，不過……,人工定稿,P7 校对修正
+100,0x790,dialogue,narrative,病院ﾉ治療ﾅﾝｶﾖﾘ､,15,比起醫院治療，,人工定稿,
+101,0x7a0,dialogue,narrative,美紀ｸﾝﾄﾉバカﾅﾔﾘ取ﾘﾉ方が,23,和美紀這樣荒唐地拌嘴，,人工定稿,P7 校对修正
+102,0x7b8,dialogue,narrative,ﾖｯぽど癒ｻﾚﾙ｡,12,更能治癒我。,人工定稿,P7 校对修正
+103,0x7c5,system,system,ts,2,,未翻,
+104,0x7c8,dialogue,narrative,ｺﾉ私が､他人ｦ受ｹ入ﾚﾙﾅﾝﾃ珍ｼｲﾅ､,28,這樣的我竟能接納他人，真稀奇,人工定稿,
+105,0x7e8,dialogue,narrative,ﾄ考ｴﾅがﾗ……｡,13,這樣想著……,人工定稿,P7 校对修正
+106,0x7f6,system,system,s,1,,未翻,
+107,0x7f8,system,system,1330,4,,未翻,
+108,0x7fd,dialogue,narrative,_9_｢美紀ｸﾝ｡今度､どｺｶ旅行でﾓ行ｶﾅｲｶ｣,34,_9_｢美紀。下次，要不要去旅行?｣,人工定稿,
+109,0x820,dialogue,narrative,ﾌﾄ､ｿﾝﾅｺﾄｦ口走ｯﾃｼﾏｯﾀ｡,20,我不經意説出了那種話,人工定稿,
+110,0x838,system,system,0922,4,,未翻,
+111,0x83d,dialogue,narrative,_9_｢ﾍｯ!?｣,9,_9_｢欸!?｣,人工定稿,P7 校对修正
+112,0x847,dialogue,narrative,_突然ﾉ提案ﾆ美紀ｸﾝﾊ､一瞬､目が点ﾆﾅｯﾀ｡,35,_突如其來的提議讓美紀一瞬間呆住。,人工定稿,
+113,0x86c,system,system,1331,4,,未翻,
+114,0x871,dialogue,narrative,_9_｢ﾉﾝびﾘﾄ出来ﾙﾄｺﾛｻ｡,20,_9_｢能歇息的地方咯,人工定稿,
+115,0x888,dialogue,narrative,ｿｳだﾅ､ｺﾉﾏﾏ授業ｦサボｯﾃ,21,對呀，就這樣不上課,人工定稿,
+116,0x8a0,dialogue,narrative,行ｸﾉﾊどｳだ?｣,12,去，如何?｣,人工定稿,
+117,0x8ad,system,system,ts,2,,未翻,
+118,0x8b0,system,system,0923,4,,未翻,
+119,0x8b5,dialogue,narrative,_9_｢ｳﾋｬｰ!,9,_9_｢嗚哇!,人工定稿,P7 人工补译
+120,0x8bf,dialogue,narrative,_ｵ姉ｻﾏｶﾗ誘ｯﾃｲﾀだｹﾙﾅﾝﾃ!,22,_姐姐大人竟然邀我!,人工定稿,
+121,0x8d8,dialogue,narrative,ハネムーンｯｽ!｣,14,蜜月旅行!｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+122,0x8e8,dialogue,narrative,騒ぐ美紀ｸﾝｦ眺ﾒﾅがﾗ､,19,看著鬧騰的美紀，,人工定稿,
+123,0x8fc,dialogue,narrative,ﾔｯぱﾘ早計だｯﾀｶﾅ､ﾅﾝﾃ思ｳ｡,23,我想果然還是太倉促了,人工定稿,
+124,0x914,dialogue,narrative,……ｱﾉゲームﾊ……｡,18,……那個遊戲……,人工定稿,
+125,0x928,dialogue,narrative,ﾏﾀどｺｶで繰ﾘ返ｻﾚﾃｲﾙﾉだﾛｳｶ｡,25,是不是又會在某處重演。,人工定稿,
+126,0x944,dialogue,narrative,例ｴｿｳだﾄｼﾃﾓ……｡,16,即使真是如此……,人工定稿,
+127,0x958,dialogue,narrative,ｿﾝﾅｺﾄ､ﾓﾊﾔ私達ﾉ知ｯﾀｺﾄでﾊﾅｲ｡,26,那種事，已經不關我們的事了,人工定稿,P7 校对修正
+128,0x974,dialogue,narrative,ﾓｳ知ﾙ必要ﾓﾅｲ｡,13,沒必要知道了,人工定稿,
+129,0x982,system,system,s,1,,未翻,
+130,0x984,dialogue,narrative,調べﾙ必要ﾓﾅｲ｡,13,沒必要調査了,人工定稿,
+131,0x992,system,system,s,1,,未翻,
+132,0x994,dialogue,narrative,私達ﾊｺﾉ騒がｼｸﾓバカバカｼｲ日常ﾆ､,30,我們回到這喧鬧又荒唐的日常，,人工定稿,P7 校对修正
+133,0x9b4,dialogue,narrative,帰ｯﾃｷﾀﾉだｶﾗ｡,12,畢竟回來了。,人工定稿,P7 校对修正
+134,0x9c1,system,system,ts,2,,未翻,
+135,0x9c4,dialogue,narrative,ロム2_エピローグ_真,19,ROM2_尾聲_真,人工定稿,P7 校对修正
+136,0x9d8,dialogue,narrative,ｱﾚｶﾗ､半年ﾉ月日が流ﾚﾀ｡,21,從那之後，過了半年。,人工定稿,
+137,0x9f0,dialogue,narrative,ｿﾚﾊ短ｲﾖｳで長ｲ半年だｯﾀ｡,22,那是短暫又漫長的半年。,人工定稿,
+138,0xa08,dialogue,narrative,ﾏずﾊカウンセリングｦ受ｹﾙｺﾄﾄﾅｯﾀ｡,30,首先，我們接受了心理諮詢。,人工定稿,P7 校对修正
+139,0xa28,dialogue,narrative,ﾊﾙｶｸﾝが一番心ﾉ傷が深ｸ､,22,遙的内心創傷最深，,人工定稿,
+140,0xa40,dialogue,narrative,半年経ｯﾀ今ﾓ療養中ﾗｼｲが……,26,過了半年，似乎仍在療養……,人工定稿,
+141,0xa5c,dialogue,narrative,徐々ﾆ回復ﾆﾊ向ｶｯﾃｲﾙﾗｼｲ｡,22,不過似乎正在慢慢恢復。,人工定稿,
+142,0xa74,dialogue,narrative,ｱﾉゲームﾉｺﾄﾊ世間的ﾆﾊ,20,那場遊戲的事，對外,人工定稿,P7 校对修正
+143,0xa8c,dialogue,narrative,ﾅｶｯﾀｺﾄﾆﾅｯﾃｲﾀ｡,13,當作未發生。,人工定稿,
+144,0xa9a,system,system,s,1,,未翻,
+145,0xa9c,dialogue,narrative,亡ｸﾅｯﾀ者達ﾊ､皆､事故でｱｯﾀﾘ,25,死去的人們，全都以事故、,人工定稿,
+146,0xab8,dialogue,narrative,行方不明でｱｯﾀﾘﾄｲｯﾀ形で,22,或是下落不明之類的形式,人工定稿,
+147,0xad0,dialogue,narrative,死因ｦ隠蔽ｻﾚﾃｲﾙ｡,15,死因遭到掩蓋。,人工定稿,
+148,0xae0,dialogue,narrative,冗談じｬﾅｲ……｡,14,這不是玩笑……,人工定稿,
+149,0xaf0,dialogue,narrative,ﾅｶｯﾀｺﾄﾆﾄｲｯﾃﾓ､,13,當作未發生，,人工定稿,
+150,0xafe,system,system,s,1,,未翻,
+151,0xb00,dialogue,narrative,ｷｯﾄ､ﾏﾀどｺｶで,12,肯定又在某處,人工定稿,
+152,0xb0d,system,system,ts,2,,未翻,
+153,0xb10,dialogue,narrative,ｱﾉゲームﾊ繰ﾘ返ｻﾚﾃｲﾙ｡,20,那遊戲正被反覆重演。,人工定稿,P7 校对修正
+154,0xb28,dialogue,narrative,Xﾊ､試験だﾄ言ｯﾃｲﾀ｡,17,X説那是考試。,人工定稿,
+155,0xb3c,dialogue,narrative,ﾅﾗば､ｲﾙﾊずﾅﾉだ｡,15,那就一定會有。,人工定稿,
+156,0xb4c,dialogue,narrative,他ﾉ受験者が｡,12,其他的考生。,人工定稿,
+157,0xb59,system,system,ts,2,,未翻,
+158,0xb5c,dialogue,narrative,……だが｡,9,……但。,人工定稿,
+159,0xb66,dialogue,narrative,9.私ﾉﾖｳﾅ一般市民が事件ｦ追ｵｳﾄｼﾃﾓ,31,9.像我這樣的普通市民就算追査，,人工定稿,P7 校对修正
+160,0xb88,dialogue,narrative,相手ﾉ隠蔽工作が完璧ｽぎﾃ,23,對方的掩蓋工作太過完美,人工定稿,
+161,0xba0,dialogue,narrative,手がｶﾘﾉﾋﾄﾂﾓ掴ﾒﾅｲﾏﾏ三ヶ月が過ぎﾀ｡,32,線索都抓不到，就這樣過了三個月。,人工定稿,
+162,0xbc4,dialogue,narrative,ｿﾚﾏで綿密ﾆ連絡ｦ取ﾘ合ｯﾃ,22,在那之前一直密切聯絡、,人工定稿,
+163,0xbdc,dialogue,narrative,調査ｦ進ﾒﾃｲﾀ薫ｻﾝﾄﾊ､,18,持續進行調査的薰，,人工定稿,
+164,0xbf0,dialogue,narrative,一ヶ月ｦ過ぎﾀ頃ｶﾗ連絡がﾂｶﾅｸﾅｯﾃｲﾀ｡,32,但過了一個月左右，就失去了聯絡。,人工定稿,
+165,0xc14,dialogue,narrative,私ﾊ不安ﾆｶﾗﾚﾃｲﾀ｡,15,我感到了不安。,人工定稿,
+166,0xc24,dialogue,narrative,ﾓｼｶｽﾙﾄ私達が事件ｦ追ｯﾃｲﾙｺﾄが悟ﾗﾚ,31,或許我們追査案件的事被察覺了，,人工定稿,
+167,0xc44,dialogue,narrative,消ｻﾚﾀﾉでﾊﾅｲｶﾄ……｡,18,才會遭到滅口……。,人工定稿,
+168,0xc58,dialogue,narrative,だﾄｽﾚば､次ﾊ私だ｡,16,那麼下個就是我。,人工定稿,
+169,0xc6c,dialogue,narrative,美紀ｸﾝﾆﾊ､,9,美紀嘛，,人工定稿,
+170,0xc76,dialogue,narrative,9.ｻｯｻﾄ足ｦ洗ｯﾃﾓﾗｳべｷｶ……｡,25,9.是不是該叫他收手……。,人工定稿,
+171,0xc90,dialogue,narrative,ｿﾝﾅｺﾄｦ真剣ﾆ検討ｼﾊじﾒﾀ時｡,24,就在我認真考慮這些事時。,人工定稿,
+172,0xcac,dialogue,narrative,私ﾉ携帯が震ｴﾀﾉだｯﾀ｡,19,我的手機震動了。,人工定稿,
+173,0xcc0,dialogue,narrative,『着信:皇木薫』,15,『皇木薰來電』,人工定稿,
+174,0xcd0,system,system,1332,4,,未翻,
+175,0xcd5,dialogue,narrative,_9_｢……薫ｻﾝｶ｡どｳｼﾀﾝでｽ｡,24,_9_｢……薰。怎麼了。,人工定稿,P7 校对修正
+176,0xcf0,dialogue,narrative,ずｯﾄ連絡が取ﾚﾅｸﾃ心配ｼﾃｲﾀﾉでｽﾖ｣,30,一直聯絡不上，我很掛心哦。｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+177,0xd10,system,system,0198,4,,未翻,
+178,0xd15,dialogue,narrative,_9_｢ごﾒﾝﾅｻｲ､浅川ｻﾝ｡,19,_9_｢抱歉，淺川。,人工定稿,P7 校对修正
+179,0xd2c,dialogue,narrative,ｴｯﾄ､ｱﾝﾏﾘ長話ﾊでｷﾅｲﾝでｽ｡,23,那個，我不太方便長談。,人工定稿,
+180,0xd44,dialogue,narrative,ﾄﾘｱｴず署ﾏで来ﾃﾓﾗｴﾏｾﾝｶ?｣,23,總之，能不能來警署?｣,人工定稿,P7 校对修正
+181,0xd5c,dialogue,narrative,ｿｳﾔｯﾃ呼び出ｻﾚﾀﾉが､三ヶ月前｡,27,我是在三個月前被叫去的。,人工定稿,
+182,0xd78,dialogue,narrative,ｿﾚｶﾗ三ヶ月――｡,15,三個月後――。,人工定稿,
+183,0xd88,system,system,0199,4,,未翻,
+184,0xd8d,dialogue,narrative,_9_｢浅川ｻﾝ､どｳｶｼﾏｼﾀｶ?｣,22,_9_｢淺川，怎麼了?｣,人工定稿,P7 校对修正
+185,0xda4,system,system,1333,4,,未翻,
+186,0xda9,dialogue,narrative,_9_｢……ﾝ､ｲﾔ､ｽﾏﾅｲ｡,18,_9_｢……不，抱歉。,人工定稿,P7 校对修正
+187,0xdbc,dialogue,narrative,ｺﾚﾏでﾉｺﾄｦ思ｲ出ｼﾃｲﾃﾅ｣,20,我在回想這些事。｣,人工定稿,P7 校对修正
+188,0xdd4,system,system,0200,4,,未翻,
+189,0xdd9,dialogue,narrative,_9_｢ｼｯｶﾘｼﾃｸだｻｲﾖ｡,17,_9_｢要振作哦。｣,人工定稿,
+190,0xdec,dialogue,narrative,ロンドンﾏで来ﾃ､失敗ﾅﾝﾃでｷﾅｲﾝでｽｶﾗ｣,34,都來到倫敦了，不可能會失敗｣,人工定稿,P7 校对修正
+191,0xe10,system,system,1334,4,,未翻,
+192,0xe15,dialogue,narrative,_9_｢ｱｱ｡今度ｺｿ尻尾ｦ掴ﾝでﾔﾙ｡,26,_9_｢哦，定要抓到把柄。,人工定稿,P7 校对修正
+193,0xe30,dialogue,narrative,ICPOﾉ名ﾆ懸ｹﾃ｣,13,以ICPO之名｣,人工定稿,P7 校对修正
+194,0xe3e,system,system,s,1,,未翻,
+195,0xe40,dialogue,narrative,ｿｳ､私ﾊ三ヶ月前……,18,我在三個月前……,人工定稿,
+196,0xe54,dialogue,narrative,薫ｻﾝﾉ推薦でICPOﾆ入ｯﾀ｡,21,薰推薦我進ICPO。,人工定稿,
+197,0xe6c,dialogue,narrative,ﾓﾁﾛﾝ正式ﾅ捜査員でﾊﾅｲ｡,21,我不是正式的搜査員。,人工定稿,
+198,0xe84,dialogue,narrative,だが､ずｯﾄｱﾉゲームﾉ秘密ｦ追ｯﾃｲﾀチームﾉ,36,但是，作為追査那遊戲秘密的小組一員，,人工定稿,
+199,0xeac,dialogue,narrative,一員ﾄｼﾃ特別ﾆ迎ｴ入ﾚﾗﾚﾀ｡,22,我受到了特別的接納。,人工定稿,
+200,0xec4,dialogue,narrative,薫ｻﾝﾄ連絡が取ﾚﾅｶｯﾀﾉﾊ,20,之所以聯絡不上薰，,人工定稿,
+201,0xedc,dialogue,narrative,彼女ﾊｲﾁ早ｸｺｺﾆ参加ｻｾﾗﾚ,21,薰最早被安排參加，,人工定稿,P7 校对修正
+202,0xef4,dialogue,narrative,念ﾉﾀﾒ監視ｻﾚﾃｲﾀｶﾗﾗｼｲ｡,20,似乎是因為受到監視。,人工定稿,P7 校对修正
+203,0xf0c,system,system,0924,4,,未翻,
+204,0xf11,dialogue,narrative,_9_｢……ｵ姉ｻﾏ｣,14,_9_｢姐姐大人｣,人工定稿,P7 校对修正
+205,0xf20,system,system,1335,4,,未翻,
+206,0xf25,dialogue,narrative,_9_｢美紀ｸﾝ､準備ﾊｲｲｶ?｣,21,_9_｢美紀，準備好了?｣,人工定稿,P7 校对修正
+207,0xf3c,system,system,0925,4,,未翻,
+208,0xf41,dialogue,narrative,_9_｢ｲﾂでﾓオッケーｯｽ｣,20,_9_｢隨時都 OK！｣,人工定稿,
+209,0xf58,dialogue,narrative,彼女ﾓﾏﾀ､化ｹ物ﾉﾖｳﾅ体力ｦ認ﾒﾗﾚ,27,美紀也因怪物般體力受認可，,人工定稿,P7 校对修正
+210,0xf74,dialogue,narrative,私ﾉ推薦ﾓｱｯﾃ､捜査チームﾆ加ｴﾃ貰ｯﾃｲﾙ｡,34,加上有我的推薦，得以加入搜査小組。,人工定稿,
+211,0xf98,dialogue,narrative,実際､ｺｺﾏでﾓ何度ｶ彼女ﾉ力ﾆ,24,説真的，至今也已好幾次,人工定稿,
+212,0xfb4,dialogue,narrative,助ｹﾃ貰ｳｺﾄがｱｯﾀ｡,15,受過他的幇助。,人工定稿,
+213,0xfc4,system,system,1336,4,,未翻,
+214,0xfc9,dialogue,narrative,_9_｢……ｻﾃ､時間だﾅ｣,19,_9_｢……時間到。｣,人工定稿,
+215,0xfe0,system,system,0201,4,,未翻,
+216,0xfe5,dialogue,narrative,_9_｢ｴｴ｡行ｷﾏｽﾖ｣,14,_9_｢出發咯｣,人工定稿,
+217,0xff4,system,system,0926,4,,未翻,
+218,0xff9,dialogue,narrative,_9_｢ﾖｰｼ｡ｲｯﾁｮﾔﾘﾏｽｶ!｣,19,_9_｢好，要上了！｣,人工定稿,
+219,0x1010,dialogue,narrative,ロンドンﾆ潜伏ｽﾙ裏組織｡,22,在倫敦藏身的幕後組織。,人工定稿,
+220,0x1028,dialogue,narrative,ｿｺﾆ過去ﾉXがｲﾙﾄｲｳ情報ｦ受ｹ,24,收到過去X在那裡的情報，,人工定稿,
+221,0x1044,dialogue,narrative,私達ﾊ突撃ﾉ準備ｦｼﾃｲﾀ｡,20,我們正在準備突撃。,人工定稿,
+222,0x105c,dialogue,narrative,ｲﾂｶ､必ず､辿ﾘ着ｲﾃﾐｾﾙ｡,20,總有一天必會追査到。,人工定稿,P7 校对修正
+223,0x1074,dialogue,narrative,ｱﾉ理不尽ﾅ夜ﾉ､真相ﾆ｡,19,不講理之夜的真相。,人工定稿,
+224,0x1088,dialogue,narrative,ｺｺﾊ､終ﾜﾘﾍﾉスタート地点｡,23,此地是通往終結的起點。,人工定稿,
+225,0x10a0,dialogue,narrative,命ｦ落ﾄｼﾀﾐﾝﾅ……｡,16,喪命的大家……,人工定稿,
+226,0x10b4,dialogue,narrative,森崎氏､香菜ｸﾝ､唯柚ｸﾝ､坂橋氏､霞ｸﾝ､,33,森崎、香菜、唯柚、坂橋、霞、,人工定稿,
+227,0x10d8,dialogue,narrative,西野氏､ジャック氏､ﾂﾑじｸﾝ……｡,29,西野、傑克、旋……。,人工定稿,
+228,0x10f8,dialogue,narrative,ｿｼﾃ樫沢氏……Xｦ入ﾚﾃﾔｯﾃﾓｲｲ｡,26,還有樫澤……把X算上也行。,人工定稿,
+229,0x1114,dialogue,narrative,彼ﾗﾆ報ｲﾙﾀﾒﾆﾓ｡,13,為他們復仇。,人工定稿,
+230,0x1122,system,system,s,1,,未翻,
+231,0x1124,dialogue,narrative,ｱﾉゲームｦ､絶対ﾆ止ﾒﾃﾐｾﾙ……｡,27,那場遊戲我一定要阻止……,人工定稿,
+232,0x1140,dialogue,narrative,真相ﾆ辿ﾘ着ｲﾃﾐｾﾙ｡,16,我會追査到真相。,人工定稿,
+233,0x1154,dialogue,narrative,ｿﾚが『探偵』ﾆ与ｴﾗﾚﾀ使命ﾅﾉだｶﾗ｡,30,因為那就是賦予『偵探』的使命。,人工定稿,

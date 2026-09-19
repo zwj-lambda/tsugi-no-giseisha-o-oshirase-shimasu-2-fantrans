@@ -1,0 +1,275 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_ring.tob,23,,未翻,
+2,0x18,system,system,kw_ring.sts,11,,未翻,
+3,0x24,dialogue,label,ROM2_KW_腕輪,12,ROM2_KW_手環,人工定稿,
+4,0x34,dialogue,label,ROM2_KW会話_腕輪,16,ROM2_KW會話_腕輪,人工定稿,
+5,0x48,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x60,dialogue,command,フェードアウト,14,,未翻,
+7,0x70,dialogue,narrative,ロム2_KW_腕輪_美紀,18,ROM2_KW_腕輪_美紀,人工定稿,
+8,0x84,system,system,1072,4,,未翻,
+9,0x89,dialogue,narrative,ng.｢ｺﾉ腕輪､ｵ姉ｻﾏﾄｵ揃ｲﾅﾉﾊｲｲｯｽｹど｡,32,ng.｢這手環和姐姐大人成對是挺好，,人工定稿,"P7: けど(可是)漏译, 句末改逗号承接下一行"
+10,0xac,dialogue,narrative,何ﾃｲｳｶ､超ダサｲｯｽﾖ｣,18,怎麼説，超土的哦｣,人工定稿,导入警告: kana_residue
+11,0xc0,system,system,1892,4,,未翻,
+12,0xc5,dialogue,narrative,ng.｢ﾏｱ､ｵ洒落ﾄﾊ言ｲがﾀｲﾅ｣,23,ng.｢嘛，實在談不上時髦｣,人工定稿,导入警告: kana_residue
+13,0xe0,system,system,1073,4,,未翻,
+14,0xe5,dialogue,narrative,ng.｢ｱﾄ､妙ﾆ重ｸﾅｲｯｽｶ?｣,20,ng.｢而且，莫名地重?｣,人工定稿,导入警告: kana_residue
+15,0xfc,system,system,1893,4,,未翻,
+16,0x101,dialogue,narrative,ng.｢美紀ｸﾝﾓｿｳ思ｳｶ? 実ﾊ私ﾓﾅﾝだ｡,30,ng.｢美紀也這麼想? 其實我也是。,人工定稿,P7: 実は(其實)漏译
+17,0x120,dialogue,narrative,ｺﾉ腕輪､サイズﾆ比べﾃ質量がｱﾙﾅ｣,29,這手環，相對尺寸蠻沈的｣,人工定稿,导入警告: kana_residue
+18,0x140,system,system,1074,4,,未翻,
+19,0x145,dialogue,narrative,ng.｢ダサｲ上､重ｲｯﾃ最悪じｬﾅｲｽｶ?｣,30,ng.｢又土又重，豈不是糟透了?｣,人工定稿,"P7: じゃないか 求确认句尾, 改中文反问句式"
+20,0x164,system,system,1894,4,,未翻,
+21,0x169,dialogue,narrative,ng.｢ﾀだ単ﾆ重ｲだｹでﾊﾅｲ気がｽﾙが……｣,34,ng.｢總覺得不只是單純的重……｣,人工定稿,导入警告: kana_residue
+22,0x18c,system,system,1075,4,,未翻,
+23,0x191,dialogue,narrative,ng.｢ｿｳｯｽｶﾈ?,11,ng.｢是嘛?,人工定稿,导入警告: kana_residue
+24,0x19d,system,system,ts,2,,未翻,
+25,0x1a0,dialogue,narrative,どﾉﾐﾁ悪趣味ﾅデザインﾅｺﾄﾆﾊ,25,反正這設計就是惡趣味，,人工定稿,"P7: どのみち=反正(原译'怎麼看'误译), 逗号承接下行"
+26,0x1bc,dialogue,narrative,変ﾜﾘﾅｲｯｽﾖ!｣,11,不會變哦!｣,人工定稿,P7: 変わりない 承接上行补出指代
+27,0x1c8,dialogue,narrative,ロム2_KW_腕輪_昇,16,ROM2_KW_腕輪_昇,人工定稿,
+28,0x1dc,system,system,0298,4,,未翻,
+29,0x1e1,dialogue,narrative,ng.｢ﾐﾝﾅ同じ腕輪ｦ着ｹﾃﾙﾝだﾖﾅ｣,27,ng.｢大家都戴著一樣的手環｣,人工定稿,导入警告: kana_residue
+30,0x200,system,system,1895,4,,未翻,
+31,0x205,dialogue,narrative,ng.｢ｱｱ｡全員､色ﾓ形ﾓ全ﾃ同じﾓﾉｦ,28,ng.｢哦。毎人顏色形状都一樣,人工定稿,导入警告: kana_residue
+32,0x224,dialogue,narrative,身ﾆ着ｹﾃｲﾙﾖｳだﾅ｣,15,戴在身上的樣子｣,人工定稿,导入警告: kana_residue
+33,0x234,system,system,0299,4,,未翻,
+34,0x239,dialogue,narrative,ng.｢ｺﾉ形ﾄ色ﾆ何ｶ意味でﾓｱﾙﾉｶﾅ……｣,32,ng.｢這形状顏色有何含義……｣,人工定稿,导入警告: kana_residue
+35,0x25c,dialogue,narrative,ﾅﾙﾎど､ｿｺﾆ注目ｽﾙｶ｡,17,哦，注意到那了。,人工定稿,"P7: なるほど+注目するか, 原译句尾'哦'语域不当"
+36,0x270,system,system,1896,4,,未翻,
+37,0x275,dialogue,narrative,ng.｢デザインﾉ統一ﾊ､,19,ng.｢設計的統一，,人工定稿,导入警告: kana_residue
+38,0x28c,dialogue,narrative,ｿﾚぞﾚﾉ仕様が同じでｱﾙｺﾄｦ示ｽ｣,27,表示毎個的規格都相同｣,人工定稿,导入警告: kana_residue
+39,0x2a8,system,system,1897,4,,未翻,
+40,0x2ad,dialogue,narrative,ng.｢ﾓｼｺｲﾂﾆ何ｶｼﾗ仕掛ｹがｱﾙﾅﾗ,26,ng.｢如果其中有某種機關的話,人工定稿,导入警告: kana_residue
+41,0x2c8,dialogue,narrative,全ﾃ同じｶ､,9,全一樣，,人工定稿,
+42,0x2d2,system,system,s,1,,未翻,
+43,0x2d4,dialogue,narrative,ｱﾙｲﾊ全ﾃ同じだﾄ思ｲ込ﾏｾﾀｲｶ……｣,29,或是想讓人以為全一樣……｣,人工定稿,导入警告: kana_residue
+44,0x2f4,system,system,0300,4,,未翻,
+45,0x2f9,dialogue,narrative,ng.｢何ﾆｼﾃﾓ不気味ｯﾃｺﾄｶ｣,22,ng.｢總之就是很詭異咯｣,人工定稿,导入警告: kana_residue
+46,0x310,system,system,1898,4,,未翻,
+47,0x315,dialogue,narrative,ng.｢……ﾏｧｿｳだﾅ｣,16,ng.｢……是哦｣,人工定稿,导入警告: kana_residue
+48,0x328,dialogue,narrative,ｿｺで思考停止ｽﾙﾉｶ｡,17,在那裡停止思考?,人工定稿,P7: するのか 反诘语气丢失
+49,0x33c,dialogue,narrative,不安ﾅ奴だﾅ……｡,15,真膽小……。,人工定稿,
+50,0x34c,dialogue,narrative,ロム2_KW_腕輪_香菜,18,ROM2_KW_腕輪_香菜,人工定稿,
+51,0x360,system,system,0297,4,,未翻,
+52,0x365,dialogue,narrative,ng.｢ｺﾉ腕輪､ｽごｲﾜ｣,17,ng.｢這手環好厲害｣,人工定稿,导入警告: kana_residue
+53,0x378,system,system,1899,4,,未翻,
+54,0x37d,dialogue,narrative,ng.｢ｿｳﾅﾉｶ?｣,11,ng.｢這樣?｣,人工定稿,导入警告: kana_residue
+55,0x389,system,system,ts,2,,未翻,
+56,0x38c,dialogue,narrative,｢腕ﾆぴｯﾀﾘフィットｼﾃ伸びﾀﾘｼﾅｲﾉﾆ,30,｢明明緊貼手腕不會伸長,人工定稿,导入警告: kana_residue
+57,0x3ac,dialogue,narrative,腕ｦ動ｶｽﾉﾆ何ﾉ不自由ﾓﾅｲﾓﾉ｣,24,活動手腕卻毫無不便｣,人工定稿,导入警告: kana_residue
+58,0x3c8,dialogue,narrative,｢どﾝﾅ素材が使ﾜﾚﾃﾙﾉｶｼﾗ｡,22,｢到底用了什麼素材。,人工定稿,导入警告: kana_residue
+59,0x3e0,dialogue,narrative,ｱｱ､研究設備が……,17,哦，研究設備……,人工定稿,"P7: ああ 为惋惜长叹, 非惊讶'哇'"
+60,0x3f4,dialogue,narrative,ｲﾔｾﾒﾃ､パソコンがｱﾚばﾅｰ｣,23,不，至少有台電腦就好｣,人工定稿,导入警告: kana_residue
+61,0x40c,system,system,1900,4,,未翻,
+62,0x411,dialogue,narrative,ng.｢ｿｳｲｴば科学がどｳﾄｶ聞ｲﾀが､,28,ng.｢話説只聽到科學什麼的，,人工定稿,导入警告: kana_residue
+63,0x430,dialogue,narrative,君ﾊどｺｶﾉ研究員ﾅﾉｶ?｣,19,是某處的研究員?｣,人工定稿,P7 校对修正
+64,0x444,dialogue,narrative,｢ｳｳﾝ､大学でﾁｮｯﾄ研究ｦ手伝ｯﾃﾙだｹ｡,31,｢不，只是在大學幇忙做研究。,人工定稿,P7: ううん 否定漏译
+65,0x464,dialogue,narrative,ﾏｧ論文が学会で注目ｻﾚﾀﾘﾊｼﾀｹどﾈｰ｣,31,嘛，論文倒是在學會引起過關注呀｣,人工定稿,"P7: '受過注目'不成词, 改引起過關注; けど→倒是"
+66,0x484,dialogue,narrative,ｿｼﾃｺﾉ顔でｱﾙ｡,12,看這表情。,人工定稿,
+67,0x494,dialogue,narrative,ﾅﾝﾄｲｳドヤ顔｡,12,一臉得意。,人工定稿,P7: ドヤ顔 去名词化翻译腔
+68,0x4a4,system,system,0301,4,,未翻,
+69,0x4a9,dialogue,narrative,ng.｢科学者ﾉﾊｼｸﾚﾄｼﾃﾊ､,20,ng.｢作為一介科學家，,人工定稿,"P7: はしくれ=一介, 原译'門徒'误"
+70,0x4c0,dialogue,narrative,是非､ｺﾉ腕輪ｦ研究ｼﾀｲﾄｺﾛだﾜ｣,26,真想好好研究這手環呀｣,人工定稿,导入警告: kana_residue
+71,0x4dc,dialogue,narrative,どｳﾔﾗｿﾉ方面ﾆ関ｼﾃﾊ,17,看來在這方面,人工定稿,
+72,0x4f0,dialogue,narrative,本当ﾆ信頼ｼﾃﾓ良ｻｿｳだﾅ｡,21,是可以放心信賴的。,人工定稿,
+73,0x508,dialogue,narrative,ロム2_KW_腕輪_圭介,18,ROM2_KW_腕輪_圭介,人工定稿,
+74,0x51c,system,system,0165,4,,未翻,
+75,0x521,dialogue,narrative,ng.｢ﾀだﾉ腕輪でﾊﾅｻｿｳでｽﾖﾈ｡,25,ng.｢似乎不是普通的手環。,人工定稿,导入警告: kana_residue
+76,0x53c,dialogue,narrative,ｽごｸ気味が悪ｲでｽﾖ……｣,22,讓人很毛骨悚然……｣,人工定稿,导入警告: kana_residue
+77,0x554,system,system,1901,4,,未翻,
+78,0x559,dialogue,narrative,ng.｢……ｿｳだﾅ｡だが､無理ﾆ外ｿｳﾄﾊｼﾅｲ方が,37,ng.｢……是哦。但硬把它拆下來,人工定稿,"P7: 分句重排, 消除'最好…比較好'重复"
+79,0x580,dialogue,narrative,ｲｲｶﾓｼﾚﾅｲ｣,9,可能不好｣,人工定稿,P7: かもしれない 承接上行
+80,0x58a,system,system,s,1,,未翻,
+81,0x58c,system,system,0166,4,,未翻,
+82,0x591,dialogue,narrative,ng.｢……ﾜｶｯﾃﾏｽﾖ｡,16,ng.｢……我明白。,人工定稿,导入警告: kana_residue
+83,0x5a4,dialogue,narrative,漫画ﾄｶでﾊ､ｺｳｲｳﾉ爆発ｼﾏｽﾓﾝﾈ｣,26,漫畫裡這種東西都會爆炸嘛｣,人工定稿,导入警告: kana_residue
+84,0x5c0,system,system,1902,4,,未翻,
+85,0x5c5,dialogue,narrative,ng.｢ｱｱ……｣,11,ng.｢唔……｣,人工定稿,导入警告: kana_residue
+86,0x5d1,system,system,ts,2,,未翻,
+87,0x5d4,dialogue,narrative,心配ｼﾅｸﾄﾓ､漫画ﾄｶが好ｷﾅ彼ﾉ方が,29,不用擔心，喜歡漫畫的他,人工定稿,
+88,0x5f4,dialogue,narrative,ｿｳｲｯﾀセオリーｦ心得ﾃｲﾙｶﾓｼﾚﾝﾅ……｡,32,或許更明白這些套路……。,人工定稿,
+89,0x618,dialogue,narrative,ロム2_KW_腕輪_霞,16,ROM2_KW_腕輪_霞,人工定稿,
+90,0x62c,system,system,0171,4,,未翻,
+91,0x631,dialogue,narrative,ng.｢……ﾅﾝだｶ､嫌でｽ｡,20,ng.｢……莫名討厭。,人工定稿,导入警告: kana_residue
+92,0x648,dialogue,narrative,ﾄﾃﾓ不気味で……｣,16,非常詭異……｣,人工定稿,导入警告: kana_residue
+93,0x65c,system,system,0172,4,,未翻,
+94,0x661,dialogue,narrative,ng.｢ｿﾚﾆ……ｱﾉメールﾓ､,21,ng.｢而且……那郵件也,人工定稿,导入警告: kana_residue
+95,0x678,dialogue,narrative,気ﾆﾅﾘﾏｽｼ……｣,13,讓人在意……｣,人工定稿,导入警告: kana_residue
+96,0x688,system,system,1903,4,,未翻,
+97,0x68d,dialogue,narrative,ng.｢少ﾅｸﾄﾓ無関係ﾄﾊ思ｴﾅｲ｡,24,ng.｢至少不能説毫無關係。,人工定稿,导入警告: kana_residue
+98,0x6a8,dialogue,narrative,怖ｲｶﾓｼﾚﾅｲが､,12,或許可怕，,人工定稿,
+99,0x6b8,dialogue,narrative,ｿﾚﾅﾘﾆ心ﾉ準備ｦｼﾃｵｲﾀ方が良ｲぞ｣,28,但最好先做好心理準備哇｣,人工定稿,导入警告: kana_residue
+100,0x6d8,system,system,0173,4,,未翻,
+101,0x6dd,dialogue,narrative,ng.｢……ｳｩ……｣,15,ng.｢……嗚……｣,人工定稿,导入警告: kana_residue
+102,0x6f0,dialogue,narrative,泣ｷｿｳﾅ顔ﾆﾅｯﾃｲﾙが､仕方ｱﾙﾏｲ｡,26,都快哭出來了，不過也難怪。,人工定稿,P7: 泣きそうな顔になっている 去翻译腔
+103,0x70c,dialogue,narrative,多少構ｴｻｾﾃｵｶﾅｲﾄ､ｲざﾄｲｳ時ﾆ,25,不先有點防備，關鍵時刻,人工定稿,
+104,0x728,dialogue,narrative,パニックｦ起ｺｼｶﾈﾅｲｶﾗﾅ……｡,25,會慌了手脚……。,人工定稿,
+105,0x744,dialogue,narrative,ロム2_KW_腕輪_ﾊﾙｶ,17,ROM2_KW_腕輪_遙,人工定稿,
+106,0x758,system,system,0114,4,,未翻,
+107,0x75d,dialogue,narrative,ng.｢……ｺﾚ､ﾔだ｡外ｼﾀｲ｣,21,ng.｢……討厭。想摘掉｣,人工定稿,导入警告: kana_residue
+108,0x774,system,system,1904,4,,未翻,
+109,0x779,dialogue,narrative,ng.｢ｿｳだﾅ｡,10,ng.｢是哦。,人工定稿,导入警告: kana_residue
+110,0x784,dialogue,narrative,今､我々ﾓｿﾉ方法がﾅｲｶ考ｴﾃｲﾙ｡,26,我們也在想有沒有法子。,人工定稿,
+111,0x7a0,dialogue,narrative,だｶﾗﾓｳ少ｼ我慢ｼﾃｸﾚ｣,18,所以再忍耐一下｣,人工定稿,导入警告: kana_residue
+112,0x7b4,system,system,0115,4,,未翻,
+113,0x7b9,dialogue,narrative,ng.｢……ｳﾝ｡ﾜｶｯﾀ｡がﾏﾝｽﾙ｣,23,ng.｢……唔，明白，我忍｣,人工定稿,导入警告: kana_residue
+114,0x7d4,system,system,1905,4,,未翻,
+115,0x7d9,dialogue,narrative,ng.｢ｿﾚﾊｿｳﾄ……,14,ng.｢話説……,人工定稿,导入警告: kana_residue
+116,0x7e8,dialogue,narrative,ｿﾉ腕輪､ｷﾂｶｯﾀﾘ､,14,那手環緊不緊，,人工定稿,
+117,0x7f8,dialogue,narrative,逆ﾆ緩ｶｯﾀﾘｼﾅｲｶ?｣,15,還是反而變鬆?｣,人工定稿,导入警告: kana_residue
+118,0x808,system,system,0116,4,,未翻,
+119,0x80d,dialogue,narrative,ng.｢……ｳｳﾝ｡ピッタリ｣,21,ng.｢……不，剛剛好｣,人工定稿,P7: ううん 否定漏译
+120,0x824,system,system,1906,4,,未翻,
+121,0x829,dialogue,narrative,ng.｢ｿｳｶ｡サイズ調整ﾊ完璧ﾅﾉだﾅ｣,29,ng.｢這樣呀。尺寸調整得真完美｣,人工定稿,P7: そうか 独立成句不自然
+122,0x848,dialogue,narrative,ロム2_KW_腕輪_ﾂﾑじ,18,ROM2_KW_腕輪_旋,人工定稿,
+123,0x85c,system,system,0125,4,,未翻,
+124,0x861,dialogue,narrative,ng.｢ｺﾉ腕輪､ｽごｸ嫌だ｣,20,ng.｢這手環超討厭｣,人工定稿,导入警告: kana_residue
+125,0x878,system,system,0126,4,,未翻,
+126,0x87d,dialogue,narrative,ng.｢ﾅﾉﾆ外ｿｳﾄｼﾃﾓ全然外ﾚﾅｲｼ……｣,30,ng.｢可是怎麼摘都摘不下來……｣,人工定稿,导入警告: kana_residue
+127,0x89c,system,system,1907,4,,未翻,
+128,0x8a1,dialogue,narrative,ng.｢ｱｱ｡ｱﾉ美紀ｸﾝでｽﾗ外ｾﾅｶｯﾀｶﾗﾅ｡,30,ng.｢哦。連美紀都摘不下來。,人工定稿,导入警告: kana_residue
+129,0x8c0,dialogue,narrative,外ｽﾆﾊ何ﾗｶﾉ条件ｶ,15,摘下來應該需要,人工定稿,
+130,0x8d0,dialogue,narrative,コツﾐﾀｲﾅﾉがｱﾙﾝだﾛｳﾅ｣,20,某種條件或竅門之類｣,人工定稿,导入警告: kana_residue
+131,0x8e8,system,system,0127,4,,未翻,
+132,0x8ed,dialogue,narrative,ng.｢……女だｶﾗじｬﾅｲ?｣,21,ng.｢……因為是女人?｣,人工定稿,导入警告: kana_residue
+133,0x904,system,system,1908,4,,未翻,
+134,0x909,dialogue,narrative,ng.｢ﾌﾑ｡君ﾊ美紀ｸﾝﾉ怪力ｦ,22,ng.｢唔。看來小看了美紀,人工定稿,P7: ようだな 误译为'咯'
+135,0x920,dialogue,narrative,甘ｸ見ﾃｲﾙﾖｳだﾅ｣,14,的怪力｣,人工定稿,P7: 承接上行
+136,0x930,system,system,1909,4,,未翻,
+137,0x935,dialogue,narrative,ng.｢美紀ｸﾝ｣,11,ng.｢美紀｣,人工定稿,导入警告: kana_residue
+138,0x941,system,system,ts,2,,未翻,
+139,0x944,system,system,1076,4,,未翻,
+140,0x949,dialogue,narrative,ng.｢ｳｲｯｽ｣,9,ng.｢來了｣,人工定稿,导入警告: kana_residue
+141,0x953,dialogue,narrative,.美紀ｸﾝﾊ隅ｯｺﾆ落ﾁﾃｲﾀ石ｦ,22,.美紀把落在角落的石頭,人工定稿,
+142,0x96c,dialogue,narrative,拾ｲ上げﾙﾄ……｡,14,拾了起來……。,人工定稿,
+143,0x97c,system,system,1077,4,,未翻,
+144,0x981,dialogue,narrative,ng.｢ﾌﾝｯ!｣,9,ng.｢唔!｣,人工定稿,导入警告: kana_residue
+145,0x98b,dialogue,narrative,.思ｲｯｷﾘ握ﾘ潰ｼ､粉々ﾆ粉砕ｼﾀ｡,26,.用力一把捏碎，碾得粉碎。,人工定稿,
+146,0x9a8,system,system,0128,4,,未翻,
+147,0x9ad,dialogue,narrative,ng.｢ｽ､ｽげｪ……｣,15,ng.｢好厲害……｣,人工定稿,导入警告: kana_residue
+148,0x9c0,system,system,1078,4,,未翻,
+149,0x9c5,dialogue,narrative,ng.｢どｳだ､見直ｼﾀｶ｣,18,ng.｢怎樣，改觀了?｣,人工定稿,导入警告: kana_residue
+150,0x9d8,system,system,0129,4,,未翻,
+151,0x9dd,dialogue,narrative,ng.｢化ｹ物だ……｣,16,ng.｢是怪物……｣,人工定稿,导入警告: kana_residue
+152,0x9f0,system,system,1079,4,,未翻,
+153,0x9f5,dialogue,narrative,ng.｢ｳﾋｬｰ! 酷ｲ言ﾜﾚﾖｳｯｽ!｣,23,ng.｢嗚呀――!太過分了!｣,人工定稿,导入警告: kana_residue
+154,0xa10,system,system,1910,4,,未翻,
+155,0xa15,dialogue,narrative,ng.｢ｳﾑ｡,7,ng.｢唔,人工定稿,导入警告: kana_residue
+156,0xa1d,dialogue,narrative,ng.ｱﾝﾅ化ｹ物でﾓ力ずｸで外ｾﾅｶｯﾀﾉだ｡,32,ng.那種怪物靠蠻力都摘不下來。,人工定稿,
+157,0xa40,dialogue,narrative,普通ﾉ方法でﾊ無理ﾄﾜｶｯﾀﾛ?｣,24,普通方法行不通，明白了?｣,人工定稿,P7: わかったろ 补'了'更顺
+158,0xa5c,system,system,0130,4,,未翻,
+159,0xa61,dialogue,narrative,ng.｢……ｿｳだﾈ｡,14,ng.｢……是哦。,人工定稿,导入警告: kana_residue
+160,0xa70,dialogue,narrative,ｱﾝﾅ化ｹ物でﾓ無理ﾅﾗ､無理ｶﾓ｣,25,那怪物都不行，就沒轍了｣,人工定稿,导入警告: kana_residue
+161,0xa8c,system,system,1080,4,,未翻,
+162,0xa91,dialogue,narrative,ng.｢ﾎ､褒ﾒﾃﾙﾝｽﾖﾈ!?,17,ng.｢這、這是誇獎,人工定稿,P7: 原译前后两行割裂
+163,0xaa4,dialogue,narrative,二人ﾄﾓ褒ﾒﾃﾙﾝｽﾖﾈ!?｣,18,兩位都誇我對不!?｣,人工定稿,"P7: 二人とも=对方两人, 非'我們倆'; っすよね→對不"
+164,0xab8,dialogue,narrative,ロム2_KW_腕輪_ジャック,22,ROM2_KW_腕輪_傑克,人工定稿,
+165,0xad0,system,system,0138,4,,未翻,
+166,0xad5,dialogue,narrative,ng.｢フン｡腕輪ｶ｡,15,ng.｢切。手環。,人工定稿,导入警告: kana_residue
+167,0xae5,system,system,N,1,,未翻,
+168,0xae8,dialogue,narrative,ｱﾉゲームﾄﾔﾗﾊ大歓迎だｹどﾖ､,25,那遊戲我舉雙手歡迎，,人工定稿,
+169,0xb04,dialogue,narrative,ｺｲﾂだｹﾊ不愉快だぜ｣,18,唯獨這東西氣人咯｣,人工定稿,导入警告: kana_residue
+170,0xb18,system,system,1911,4,,未翻,
+171,0xb1d,dialogue,narrative,ng.｢……ﾎｳ｡ｿﾚﾊ､意外だﾅ｡,23,ng.｢……哦。這挺意外。,人工定稿,导入警告: kana_residue
+172,0xb38,dialogue,narrative,ジャック氏ﾊｱﾏﾘ気ﾆｼﾅｲﾉｶﾄ思ｯﾀが……｣,34,本以為傑克先生不太在意……｣,人工定稿,导入警告: kana_residue
+173,0xb5c,system,system,0139,4,,未翻,
+174,0xb61,dialogue,narrative,ng.｢ｳざｯﾃｪﾝだﾖ｡,15,ng.｢煩死了哦。,人工定稿,导入警告: kana_residue
+175,0xb74,dialogue,narrative,ｿﾚﾆ､ｺﾉ腕ﾉ違和感が,17,加上手腕的違和感,人工定稿,
+176,0xb88,dialogue,narrative,逮捕ｻﾚﾁﾏｯﾀ時ﾉｺﾄｦ思ｲ出ｼﾃｶﾅﾜﾈｪ｣,29,老是想起被逮捕的時候｣,人工定稿,"P7: してかなわねぇ=止不住, 原译'讓人'施动错误"
+177,0xba8,system,system,1912,4,,未翻,
+178,0xbad,dialogue,narrative,ng.｢……ｱｱ､ﾅﾙﾎど｡手錠ｶ｣,23,ng.｢……原來如此，手鐐｣,人工定稿,P7 校对修正
+179,0xbc8,system,system,0140,4,,未翻,
+180,0xbcd,dialogue,narrative,ng.｢ﾌﾋｬﾋｬ､ｿｳｿｳ｡,15,ng.｢桀桀，沒錯,人工定稿,导入警告: kana_residue
+181,0xbe0,dialogue,narrative,ｹどﾖｫ､だﾄｼﾀﾗｱﾉ制服ﾉ姉ﾁｬﾝが,26,不過話説回來，那制服姐姐,人工定稿,
+182,0xbfc,dialogue,narrative,ｺﾚ着ｹﾃﾙｯﾃﾉﾊｲｲ気味だﾖﾅｧ!｣,24,戴著這個，真是活該呀!｣,人工定稿,导入警告: kana_residue
+183,0xc18,system,system,1913,4,,未翻,
+184,0xc1d,dialogue,narrative,ng.｢……彼女ﾊ手錠だﾄﾊ思ｯﾃｲﾅｲだﾛｳがﾅ｣,36,"ng.｢……那位姐姐大概不覺得這是手鐐,",人工定稿,P7 校对修正
+185,0xc44,dialogue,narrative,ロム2_KW_腕輪_薫,16,ROM2_KW_腕輪_薰,人工定稿,
+186,0xc58,system,system,0290,4,,未翻,
+187,0xc5d,dialogue,narrative,ng.｢ｺﾚﾊ重要ﾅ証拠品でｽ｡,22,ng.｢這是重要的證物。,人工定稿,导入警告: kana_residue
+188,0xc74,dialogue,narrative,持ﾁ帰ｯﾃ色々調べﾅｹﾚば……｣,25,得帶回去好好調査才行……｣,人工定稿,导入警告: kana_residue
+189,0xc90,system,system,1914,4,,未翻,
+190,0xc95,dialogue,narrative,ng.｢ｱﾉメールﾉ内容ﾆ関連ｼﾃﾙﾄ思ｳﾉでｽが,35,ng.｢我認為和那封郵件的内容有關,人工定稿,导入警告: kana_residue
+191,0xcbc,dialogue,narrative,警察でﾊ何ｶ掴ﾝでｲﾅｲﾉでｽｶ｣,24,警方有沒有掌握什麼線索?｣,人工定稿,导入警告: kana_residue
+192,0xcd8,system,system,0291,4,,未翻,
+193,0xcdd,dialogue,narrative,ng.｢どｳでｼｮｳ｡担当でﾊﾅｲﾉで……｡,30,ng.｢不好説。不歸我管……。,人工定稿,导入警告: kana_residue
+194,0xcfc,dialogue,narrative,捜査機密ﾊ漏洩が怖ｲﾉで､署内でﾓ関係者以外ﾆﾊ,41,偵査機密怕洩露，署内對非相關人員的,人工定稿,
+195,0xd28,dialogue,narrative,情報ﾊ伝ｴﾗﾚﾅｲﾝでｽﾖ｣,18,信息是不能透露的｣,人工定稿,P7: 伝えられない=不能透露
+196,0xd3c,system,system,0292,4,,未翻,
+197,0xd41,dialogue,narrative,ng.｢だｶﾗ実際ﾊﾜｶﾘﾏｾﾝｹど､,23,ng.｢其實我也不清楚，,人工定稿,P7: 実際→其實 更自然
+198,0xd5c,dialogue,narrative,少ﾅｸﾄﾓ私ﾊ､見ﾀｺﾄﾓ聞ｲﾀｺﾄﾓﾅｲでｽ｣,29,至少我是沒見過也沒聽説過｣,人工定稿,导入警告: kana_residue
+199,0xd7c,system,system,1915,4,,未翻,
+200,0xd81,dialogue,narrative,ng.｢ｿｳでｽｶ……｣,15,ng.｢這樣呀……｣,人工定稿,导入警告: kana_residue
+201,0xd94,dialogue,narrative,ｱﾉ日記ﾉ内容が事実ﾅﾗ､大量殺人だ｡,31,那本日記若屬實，就是大量殺人。,人工定稿,
+202,0xdb4,dialogue,narrative,警察が捜査ｼﾃｲﾙ可能性ﾊ,21,警方正在偵査的可能性,人工定稿,
+203,0xdcc,dialogue,narrative,高ｲﾄ思ｯﾀが､ｿｳｲｳｺﾄﾅﾗ仕方ﾅｲｶ｡,27,很高，但這樣也沒法子。,人工定稿,
+204,0xde8,dialogue,narrative,ロム2_KW_腕輪_樫沢,18,ROM2_KW_腕輪_樫澤,人工定稿,
+205,0xdfc,system,system,0276,4,,未翻,
+206,0xe01,dialogue,narrative,ng.｢ｺﾉ腕輪ﾊどｳﾔﾗﾄﾃﾓ重要ﾅ物ﾉﾖｳでｽ｣,33,ng.｢這手環似乎是非常重要的東西｣,人工定稿,P7: どうやら 误译为'無論如何'
+207,0xe24,system,system,1916,4,,未翻,
+208,0xe29,dialogue,narrative,ng.｢ﾎｳ｡何ｶﾜｶｯﾀﾉｶ?｣,18,ng.｢哦。査到什麼?｣,人工定稿,P7: 何かわかったのか 补出宾语
+209,0xe3c,system,system,0277,4,,未翻,
+210,0xe41,dialogue,narrative,ng.｢詳ｼｸﾊﾜｶﾘﾏｾﾝが､,18,ng.｢詳情不清楚，,人工定稿,导入警告: kana_residue
+211,0xe54,dialogue,narrative,ｱﾉ大ｷﾅ箱……｣,13,那大箱子……｣,人工定稿,导入警告: kana_residue
+212,0xe64,system,system,0278,4,,未翻,
+213,0xe69,dialogue,narrative,ng.｢ｱﾉ中ﾆｱﾙATMﾉﾖｳﾅ機械ﾆ,23,ng.｢裡面那台ATM般的機械,人工定稿,P7: 里→裡 繁体字形
+214,0xe84,dialogue,narrative,どｳﾓｺﾉ腕輪ｦ接続ｽﾙﾖｳﾆ,20,好像會連接這手環,人工定稿,
+215,0xe9c,dialogue,narrative,ﾅｯﾃｲﾙﾖｳでｽ｣,11,的樣子｣,人工定稿,导入警告: kana_residue
+216,0xea8,system,system,1917,4,,未翻,
+217,0xead,dialogue,narrative,ng.｢ﾌﾑ……ｿﾓｿﾓｱﾉ機械ﾊどｳｲｳﾓﾉだ?｣,32,ng.｢唔……那機械到底是做什麼的?｣,人工定稿,导入警告: kana_residue
+218,0xed0,system,system,0279,4,,未翻,
+219,0xed5,dialogue,narrative,ng.｢ｵｿﾗｸﾊ､投票ｦ集計ｽﾙﾀﾒﾉ機械でｼｮｳ｡,34,ng.｢恐怕是用來統計票數的機械。,人工定稿,导入警告: kana_residue
+220,0xef8,dialogue,narrative,人数分ｱﾘﾏｽｶﾗ｣,13,因為一人一台｣,人工定稿,P7: から 因果连接漏译
+221,0xf08,system,system,1918,4,,未翻,
+222,0xf0d,dialogue,narrative,ng.｢……ｲﾖｲﾖ現実味ｦ帯びﾃｷﾀﾅ……｣,32,ng.｢……總算有現實感了……｣,人工定稿,导入警告: kana_residue
+223,0xf30,dialogue,narrative,ロム2_KW_腕輪_唯柚,18,ROM2_KW_腕輪_唯柚,人工定稿,
+224,0xf44,system,system,0210,4,,未翻,
+225,0xf49,dialogue,narrative,ng.｢ﾕﾕ､ｺﾚｱﾝﾏﾘ好ｷじｬﾅｲﾖｰ｣,24,ng.｢唯柚不太喜歡這個哦｣,人工定稿,导入警告: kana_residue
+226,0xf64,system,system,1919,4,,未翻,
+227,0xf69,dialogue,narrative,ng.｢ｱｱ｡起ｷﾀﾗ着ｹﾗﾚﾃｲﾀﾅﾝﾃ,23,ng.｢一覺醒來就被戴上了,人工定稿,导入警告: kana_residue
+228,0xf84,dialogue,narrative,不気味だﾓﾉﾅ｣,12,真是詭異嘛｣,人工定稿,P7: だものな→嘛
+229,0xf94,system,system,0211,4,,未翻,
+230,0xf99,dialogue,narrative,ng.｢ｿﾚﾓだｹど……,16,ng.｢不止這樣……,人工定稿,导入警告: kana_residue
+231,0xfac,dialogue,narrative,ﾕﾕﾊﾈ､ﾓｯﾄ可愛ｲﾉがｲｲﾉ!,20,唯柚想要更可愛的呀!,人工定稿,
+232,0xfc4,dialogue,narrative,ｵ花ﾄｶ描ｶﾚﾃﾙﾉﾅｲﾉｶﾅｧ｣,19,有沒有畫著花的呀｣,人工定稿,导入警告: kana_residue
+233,0xfd8,system,system,1920,4,,未翻,
+234,0xfdd,dialogue,narrative,ng.｢……ｿｳｲｳ柄だｯﾀﾗ,19,ng.｢……畫了花的話,人工定稿,导入警告: kana_residue
+235,0xff4,dialogue,narrative,着ｹﾗﾚﾃﾃﾓ構ﾜﾅｲﾉｶ……｣,20,戴著也無妨……｣,人工定稿,导入警告: kana_residue
+236,0x100c,system,system,0212,4,,未翻,
+237,0x1011,dialogue,narrative,ng.｢ｳﾝ｡ﾕﾕ､ｵ花大好ｷだﾓﾝ｣,23,ng.｢唔。唯柚最喜歡花嘛｣,人工定稿,导入警告: kana_residue
+238,0x102c,dialogue,narrative,ｿｳｲｳ問題でﾊﾅｲﾉだがﾅ……｡,24,這不是重點……。,人工定稿,
+239,0x1048,dialogue,narrative,ロム2_KW_腕輪_紅春,18,ROM2_KW_腕輪_紅春,人工定稿,
+240,0x105c,system,system,0253,4,,未翻,
+241,0x1061,dialogue,narrative,ng.｢アクセサリーｯﾃ､,19,ng.｢説到飾品嘛，,人工定稿,导入警告: kana_residue
+242,0x1078,dialogue,narrative,仕事中ﾊ外ｻﾅｷｬｲｹﾅｲﾝでｽﾖ｡,23,上班時必須摘下哦。,人工定稿,
+243,0x1090,dialogue,narrative,衛生上ﾖｸﾅｲｶﾗｯﾃ｣,15,説是影響衛生｣,人工定稿,导入警告: kana_residue
+244,0x10a0,system,system,0254,4,,未翻,
+245,0x10a5,dialogue,narrative,ng.｢ｺﾚ､ｵ仕事ﾏでﾆ外ｾﾏｽｶﾈｪ｣,25,ng.｢這個，上班前能摘掉?｣,人工定稿,"P7: 外せますか 可能形, '會摘掉'误"
+246,0x10c0,system,system,1921,4,,未翻,
+247,0x10c5,dialogue,narrative,ng.｢ｿﾓｿﾓｵ仕事ﾏでﾆ,17,ng.｢首先，上班前,人工定稿,P7: そもそもお仕事までに 漏译
+248,0x10d8,dialogue,narrative,帰ﾚﾙﾄｲｲがﾅ……｣,15,回去就好了……｣,人工定稿,"P7: 帰れるといいがな, 原译增译'活著'"
+249,0x10e8,dialogue,narrative,ロム2_KW_腕輪_西野,18,ROM2_KW_腕輪_西野,人工定稿,
+250,0x10fc,system,system,0079,4,,未翻,
+251,0x1101,dialogue,narrative,ng.｢ﾝ､ｺﾝﾅ安物ﾉ腕輪ｦ,19,ng.｢唔，這種便宜貨,人工定稿,导入警告: kana_residue
+252,0x1118,dialogue,narrative,身ﾆ着ｹﾅｷｬﾅﾗﾝﾄﾊ!,15,手環竟要戴身上!,人工定稿,
+253,0x1128,dialogue,narrative,全ｸｹｼｶﾗﾝｯ!｣,11,真不像話!｣,人工定稿,导入警告: kana_residue
+254,0x1134,system,system,1922,4,,未翻,
+255,0x1139,dialogue,narrative,ng.｢安物ｶどｳｶﾜｶﾙﾉでｽｶ?｣,23,ng.｢分得出便宜貨?｣,人工定稿,导入警告: kana_residue
+256,0x1154,system,system,0080,4,,未翻,
+257,0x1159,dialogue,narrative,ng.｢ﾝ､ｺﾚだｶﾗ素人ﾊ困ﾙｯ!,22,ng.｢唔，外行真麻煩!,人工定稿,导入警告: kana_residue
+258,0x1170,dialogue,narrative,今､私が身ﾆ付ｹﾃｲﾙ腕時計ﾄ比べﾀﾗ,29,和我手上戴的腕表一比,人工定稿,
+259,0x1190,dialogue,narrative,一目瞭然じｬﾅｲｶ!｣,16,一目瞭然了!｣,人工定稿,导入警告: kana_residue
+260,0x11a4,dialogue,narrative,ｿｳ言ｯﾃ腕時計ｦ見ｾﾃｸﾙが……,25,説著就亮出腕表，可是,人工定稿,
+261,0x11c0,dialogue,narrative,無駄ﾆ金ピカで､センスが悪ｲ｡,26,金光閃閃，俗不可耐。,人工定稿,
+262,0x11dc,dialogue,narrative,ブランドﾓ偽物じｬﾅｲｶ｡,20,牌子八成也是假的。,人工定稿,
+263,0x11f4,system,system,0081,4,,未翻,
+264,0x11f9,dialogue,narrative,ng.｢どｳだ? ｲｲだﾛｳ｡,18,ng.｢如何?很不錯。,人工定稿,导入警告: kana_residue
+265,0x120c,dialogue,narrative,……ﾏｧ､チミ達庶民ﾆﾊ,19,……對平民來説,人工定稿,
+266,0x1220,dialogue,narrative,一生手ﾉ届ｶﾅｲ高級品だがﾈ｣,24,一輩子買不起的高級品咯｣,人工定稿,导入警告: kana_residue
+267,0x123c,system,system,1081,4,,未翻,
+268,0x1241,dialogue,narrative,ng.｢ｵ姉ｻﾏ､ｱﾚ本当ﾆｲｲﾓﾉﾅﾉ?,24,ng.｢姐姐大人，那真的好?,人工定稿,导入警告: kana_residue
+269,0x125c,dialogue,narrative,ｱﾀｼ微妙ﾅﾝだｹど……｣,19,總覺得怪……｣,人工定稿,导入警告: kana_residue
+270,0x1270,system,system,1923,4,,未翻,
+271,0x1275,dialogue,narrative,ng.｢……ﾏｧ､本人が気ﾆ入ｯﾃﾙﾅﾗ,27,ng.｢……嘛，只要本人喜歡,人工定稿,导入警告: kana_residue
+272,0x1294,dialogue,narrative,ｿﾚで良ｲじｬﾅｲｶ｣,14,那不就好了｣,人工定稿,导入警告: kana_residue
+273,0x12a4,system,system,1082,4,,未翻,
+274,0x12a9,dialogue,narrative,ng.｢ﾏ､ﾏｧ……ｿｳｯｽﾈ……｣,22,ng.｢是、是哦……｣,人工定稿,导入警告: kana_residue

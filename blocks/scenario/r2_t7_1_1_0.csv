@@ -1,0 +1,326 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/r2_t7_1_1_0.tob,27,,未翻,
+2,0x1c,system,system,r2_t7_1_1_0.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_ターン7_紅春ｦ呼び出ｽ,25,ROM2_回合7_呼叫紅春,人工定稿,P7 校对修正
+4,0x48,dialogue,label,ROM2_ノーマルエンディング,25,ROM2_普通結局,人工定稿,
+5,0x64,dialogue,command,フェードアウト,14,,未翻,
+6,0x74,dialogue,narrative,ロム2_紅春ｦ呼び出ｽ,18,ROM2_呼叫紅春,人工定稿,P7 校对修正
+7,0x88,dialogue,narrative,薫ｻﾝﾄﾊﾙｶｸﾝがホールﾉ方ﾍ去ｯﾀｱﾄ､,29,薰和遙往大廳的方向去了之後，,人工定稿,
+8,0xa8,dialogue,narrative,美紀ｸﾝﾊ再び私ﾉ方ｦ向ｲﾀ｡,22,美紀再次把視線投向我。,人工定稿,
+9,0xc0,system,system,0883,4,,未翻,
+10,0xc5,dialogue,narrative,_1_｢でﾓ､足止ﾒｯﾃどｳﾔﾙﾝｽｶ?｣,25,_1_｢要怎麼阻止呀?｣,人工定稿,P7 校对修正
+11,0xe0,system,system,1252,4,,未翻,
+12,0xe5,dialogue,narrative,_1_｢物理的ﾆ捕ﾏｴﾙﾜｹﾆﾊｲｶﾅｲｶﾗﾅ｡,28,_1_｢因為不能真的動手硬來。,人工定稿,机翻警告: quote_unbalanced
+13,0x104,dialogue,narrative,ﾅﾝﾄｶ彼女ﾉ気ｦ引ｸ｣,16,得設法吸引紅春｣,人工定稿,P7 校对修正
+14,0x118,system,system,0884,4,,未翻,
+15,0x11d,dialogue,narrative,_1_｢ﾝｰ､何ｦ言ｴば,15,_1_｢該説什麼好,人工定稿,
+16,0x12d,system,system,ts,2,,未翻,
+17,0x130,dialogue,narrative,食ｲﾂｲﾃｸﾚﾙｯｽｶﾈｪ……｣,19,會不會上鉤呀……｣,人工定稿,P7 校对修正
+18,0x144,system,system,1253,4,,未翻,
+19,0x149,dialogue,narrative,_1_｢気ｦ引ｸ話題ｶ……｣,20,_1_｢引人注意呀……｣,人工定稿,P7 校对修正
+20,0x160,dialogue,narrative,オフィス跡ﾉ方ｶﾗ足音が聞ｺｴﾙ｡,27,事務室遺跡那頭傳來足音。,人工定稿,
+21,0x17c,dialogue,narrative,ぎｮｯﾄｼﾃ振ﾘ返ﾚば､,16,嚇得回頭一看，,人工定稿,
+22,0x190,dialogue,narrative,紅春ｸﾝが笑顔で立ｯﾃｲﾀ｡,21,紅春笑著站在眼前。,人工定稿,
+23,0x1a8,system,system,0112,4,,未翻,
+24,0x1ad,dialogue,narrative,_1_｢楓ｻｰﾝ｡,10,_1_｢楓。,人工定稿,
+25,0x1b8,dialogue,narrative,どｳｼﾃ来ﾃｸﾚﾅｲﾝでｽｶｰ?,19,為什麼不過來呀?,人工定稿,P7 校对修正
+26,0x1cc,dialogue,narrative,ｵ話がｱﾙｯﾃ言ｯﾀﾉﾆｰ｣,17,明明説好要談的｣,人工定稿,
+27,0x1e0,system,system,1254,4,,未翻,
+28,0x1e5,dialogue,narrative,_1_｢……行ｯﾀぞ｡だが君ﾊｲﾅｶｯﾀでﾊﾅｲｶ｣,34,_1_｢……我去了。可是紅春不在呀。｣,人工定稿,P7 校对修正
+29,0x208,system,system,0113,4,,未翻,
+30,0x20d,dialogue,narrative,_1_｢ｱﾚｰ?,8,_1_｢欸,人工定稿,
+31,0x216,dialogue,narrative,1_ｱ､ｿｯｶｰ､ｵトイレ寄ｯﾃﾙ間ﾆ,24,1_哦，這樣哦，去廁所時,人工定稿,P7 校对修正
+32,0x230,dialogue,narrative,ｽﾚ違ｯﾀﾝでｽﾈ､ｷｯﾄ……｣,20,一定是錯開了呀……｣,人工定稿,
+33,0x248,dialogue,narrative,白々ｼｲ｡,7,好假。,人工定稿,P7 校对修正
+34,0x250,dialogue,narrative,どｳｾどｺｶで､爆発音がｽﾙﾉｦ,23,反正某處會傳來爆炸,人工定稿,
+35,0x268,dialogue,narrative,待ｯﾃｲﾀﾉだﾛｳ｡,12,大概在等着。,人工定稿,P7 复核修正
+36,0x275,system,system,ts,2,,未翻,
+37,0x278,system,system,1255,4,,未翻,
+38,0x27d,dialogue,narrative,_1_｢でﾊ今ｶﾗ行ｺｳｶ､給湯室で良ｲﾉだｯﾀﾅ?｣,36,_1_｢那現在就去，茶水間就行對不?｣,人工定稿,P7 校对修正
+39,0x2a4,dialogue,narrative,ﾜざﾄ給湯室ﾉ方ﾍ歩ｷ始ﾒﾙﾄ､,23,我故意朝茶水間走去，,人工定稿,
+40,0x2bc,dialogue,narrative,紅春ｸﾝﾊ慌ﾃﾀ様子で､私ﾉ前ﾆ出ﾀ｡,28,紅春慌慌張張地站到了我前面。,人工定稿,
+41,0x2dc,system,system,0114,4,,未翻,
+42,0x2e1,dialogue,narrative,_1_｢ｱｯ､ｴｰﾄ……ｱｿｺﾊﾁｮｯﾄ……ｿｳだ｡,31,_1_｢哦……那地方有點……對了。,人工定稿,
+43,0x304,dialogue,narrative,ﾔｯぱﾘオフィスﾉ方ﾆｼﾏｾﾝｶ?｣,24,還是去事務室那頭如何?｣,人工定稿,P7 校对修正
+44,0x320,system,system,1256,4,,未翻,
+45,0x325,dialogue,narrative,_1_｢……オフィス? ﾏｧ私ﾊどｺでﾓ構ﾜﾅｲが｣,37,_1_｢……事務室? 嘛，我都可以｣,人工定稿,P7 校对修正
+46,0x34c,dialogue,narrative,ｵｿﾗｸ紅春ｸﾝﾊ､給湯室ﾉ仕掛ｹがバレﾀﾄﾊ,33,想來紅春還沒注意到，茶水間的機關,人工定稿,
+47,0x370,dialogue,narrative,思ｯﾃｲﾅｲﾉだﾅ……｡,16,已經被看穿了……,人工定稿,
+48,0x384,dialogue,narrative,ｿﾚﾅﾗ好都合だ｡,13,那正合我意。,人工定稿,
+49,0x392,system,system,s,1,,未翻,
+50,0x394,dialogue,narrative,紅春ｸﾝﾆ促ｻﾚﾙﾏﾏ､オフィス跡ﾆ入ﾙ｡,30,紅春催促下，我走進事務室遺跡。,人工定稿,
+51,0x3b4,dialogue,narrative,彼女ﾊ､ずﾝずﾝﾄ奥ﾏで歩ｲﾃ行ｯﾀ｡,27,紅春大歩往深處走去。,人工定稿,P7 校对修正
+52,0x3d0,system,system,1257,4,,未翻,
+53,0x3d5,dialogue,narrative,_1_｢どｺﾏで行ｸﾂﾓﾘだ?｣,20,_1_｢打算走多遠?｣,人工定稿,P7 校对修正
+54,0x3ec,system,system,0115,4,,未翻,
+55,0x3f1,dialogue,narrative,_1_｢奥ﾉ方でｵ話ｼｼﾏｼｮｳ｣,21,_1_｢進去再談｣,人工定稿,
+56,0x408,dialogue,narrative,何ﾓ言ﾜず付ｲﾃｲｸﾄ､,16,我默默跟了上去，,人工定稿,
+57,0x41c,dialogue,narrative,美紀ｸﾝが｢ｱｯ｣ﾄ声ｦ上げﾀ｡,22,美紀｢哇｣地叫了出來。,人工定稿,
+58,0x434,system,system,0885,4,,未翻,
+59,0x439,dialogue,narrative,_1_｢待ｯﾃ､ｵ姉ｻﾏ｡ｱﾉｱﾀﾘｯﾃ……｣,27,_1_｢等等姐姐大人。那邊……｣,人工定稿,P7 校对修正
+60,0x458,system,system,0116,4,,未翻,
+61,0x45d,dialogue,narrative,_1_｢ﾌｪ? どｳｼﾀﾝでｽｶｰ?｣,21,_1_｢欸? 怎麼了?｣,人工定稿,P7 校对修正
+62,0x474,system,system,0886,4,,未翻,
+63,0x479,dialogue,narrative,_1_｢ｿｺ､穴空ｲﾃﾀﾄｺじｬﾅｲﾉ!?｣,25,_1_｢不就是那個破洞!?｣,人工定稿,P7 校对修正
+64,0x494,system,system,0117,4,,未翻,
+65,0x499,dialogue,narrative,_1_｢穴? ｿﾝﾅﾓﾉ､どｺﾆﾓ空ｲﾃﾏｾﾝﾖ?｣,29,_1_｢洞? 那種東西根本沒有呀?｣,人工定稿,P7 校对修正
+66,0x4b8,dialogue,narrative,書類ﾉﾖｳﾅﾓﾉが散ﾗばｯﾃｲﾃ,21,散落著像文件的東西，,人工定稿,
+67,0x4d0,dialogue,narrative,床が隠ﾚﾃｲﾙが……｡,17,把地板都蓋住……,人工定稿,
+68,0x4e4,dialogue,narrative,靴先でトントンﾄ様子ｦ見ﾙ｡,24,用脚尖輕點地板試探情況。,人工定稿,
+69,0x500,system,system,1258,4,,未翻,
+70,0x505,dialogue,narrative,_1_｢ﾌﾑ｡ｲｲ響ｷだ｡ｺﾚﾊ……べニヤ板ｶ?,32,_1_｢哦，回音不錯。是膠合板?｣,人工定稿,P7 校对修正
+71,0x528,dialogue,narrative,二人で乗ｯﾃｲﾀﾗ､重ｻﾆ耐ｴｷﾚず､,26,兩人一起站上去就承受不住，,人工定稿,
+72,0x544,dialogue,narrative,板が割ﾚﾃ……穴ﾆ落ﾁﾙﾄｺﾛだﾅ｣,26,板子裂開……就掉進洞裏咯｣,人工定稿,
+73,0x560,system,system,0118,4,,未翻,
+74,0x565,dialogue,narrative,_1_｢ｱﾚ､ｿｳﾅﾝでｽｶｧ?,17,_1_｢欸，是這樣?｣,人工定稿,P7 校对修正
+75,0x578,dialogue,narrative,怖ｲ､私､落ﾁﾙﾄｺだｯﾀﾝでｽﾈ……｣,27,好可怕，我差點掉下去……｣,人工定稿,
+76,0x594,dialogue,narrative,紅春ｸﾝﾊ､ぶﾙぶﾙﾄ震ｴﾃﾐｾﾙ｡,23,紅春誇張地抖著身子。,人工定稿,P7 校对修正
+77,0x5ac,dialogue,narrative,ｿﾉ白々ｼｲ様子ﾆ､私ﾊ鋭ｲ視線ｦ突ｷﾂｹﾀ｡,32,那副刻意的演技，我投以鋭利目光。,人工定稿,
+78,0x5d0,system,system,1259,4,,未翻,
+79,0x5d5,dialogue,narrative,_1_｢……ｲｲ加減､正体ｦ見ｾﾀﾗどｳだ､X｣,33,_1_｢……該露出真面目了，X｣,人工定稿,
+80,0x5f8,system,system,0119,4,,未翻,
+81,0x5fd,dialogue,narrative,_1_｢Xｯﾃ? 私……ﾅﾝﾉｺﾄだｶ……｣,28,_1_｢X?我不明白什麼意思｣,人工定稿,P7 校对修正
+82,0x61c,system,system,1260,4,,未翻,
+83,0x621,dialogue,narrative,_1_｢演技ﾊﾓｳｲｲ｡私ﾊ『探偵』だ｡,28,_1_｢別演了。我是『偵探』。,人工定稿,
+84,0x640,dialogue,narrative,君がシリアルキラーでXﾄｲｳ確証ﾊ得ﾃｲﾙ｣,35,我已取得紅春就是連環殺手X的確證｣,人工定稿,P7 校对修正
+85,0x664,dialogue,narrative,ｿｳ宣告ｽﾙﾄ紅春ｸﾝﾊ泣ｸﾉｦﾔﾒ｡,24,我一宣告，紅春止住眼涙。,人工定稿,
+86,0x680,dialogue,narrative,代ﾜﾘﾆ不気味ﾅﾎど口角ｦﾂﾘ上げﾃ笑ｯﾀ｡,32,取而代之，紅春嘴角詭異上揚而笑。,人工定稿,P7 校对修正
+87,0x6a4,system,system,0120,4,,未翻,
+88,0x6a9,dialogue,narrative,_1_｢……ｲﾂｶﾗ､気づｲﾃﾀﾝでｽｶ?｣,27,_1_｢……何時開始知道的?｣,人工定稿,P7 校对修正
+89,0x6c8,dialogue,narrative,豹変ｽﾙ彼女｡,11,態度突變。,人工定稿,
+90,0x6d4,dialogue,narrative,ｺﾚが紅春ｸﾝﾉ……,15,這是紅春的……,人工定稿,
+91,0x6e4,dialogue,narrative,ｲﾔ､Xﾉ､本当ﾉ姿ｶ……｡,19,不，X的真面目……,人工定稿,
+92,0x6f8,system,system,1261,4,,未翻,
+93,0x6fd,dialogue,narrative,_1_｢薄々怪ｼｲﾄﾊ思ｯﾃｲﾀがﾅ｡,24,_1_｢我先前也感到可疑。,人工定稿,
+94,0x718,dialogue,narrative,断定ｼﾀﾉﾊ､ｻｯｷﾉ投票でだ｣,22,確定是在剛才的投票中｣,人工定稿,
+95,0x730,system,system,0121,4,,未翻,
+96,0x735,dialogue,narrative,_1_｢……ｿﾚで? 私が『X』だﾄﾜｶｯﾃ､,31,_1_｢……所以? 知道我是『X』，,人工定稿,P7 校对修正
+97,0x758,dialogue,narrative,楓ｻﾝﾊ､どｳｽﾙﾂﾓﾘでｽｶ?｣,20,楓打算怎麼做?｣,人工定稿,P7 校对修正
+98,0x770,system,system,1262,4,,未翻,
+99,0x775,dialogue,narrative,_1_｢ｿｳだﾅ……ﾏず､自ﾗｦXﾄ名乗ﾙ､,29,_1_｢是哦……首先，為何叫X，,人工定稿,机翻警告: quote_unbalanced
+100,0x794,dialogue,narrative,ｿﾉ意味ｶﾗ教ｴﾃﾓﾗｵｳｶ｣,18,就先從含義講起｣,人工定稿,
+101,0x7a8,dialogue,narrative,少ｼでﾓ時間稼ぎｦｽﾙﾀﾒﾆ､私ﾊ問ｲｶｹﾙ｡,31,為爭取一點時間，我開口問道。,人工定稿,
+102,0x7c8,system,system,0122,4,,未翻,
+103,0x7cd,dialogue,narrative,_1_｢……ﾜｧ意外｡,15,_1_｢哇，意外。,人工定稿,
+104,0x7dd,system,system,ts,2,,未翻,
+105,0x7e0,dialogue,narrative,殴ﾗﾚﾙﾉｶﾄ思ｯﾃドキドキｼﾃﾏｼﾀ｣,26,我還以為要被打，心跳加速｣,人工定稿,
+106,0x7fc,system,system,0123,4,,未翻,
+107,0x801,dialogue,narrative,_1_｢ﾌﾌ､でﾓｿｳでｽﾖﾈ｡,18,_1_｢呵呵，不過也對,人工定稿,P7 校对修正
+108,0x814,dialogue,narrative,ｿﾝﾅｺﾄｼﾀﾗ反則ﾆﾅﾘﾏｽﾓﾉﾈ｡,21,那樣就變成犯規了呀。,人工定稿,
+109,0x82c,dialogue,narrative,何ﾓでｷﾅｲでｽﾖﾈ｡ﾌﾌﾌ｣,18,什麼都不行呀呵呵｣,人工定稿,P7 校对修正
+110,0x840,system,system,1263,4,,未翻,
+111,0x845,dialogue,narrative,_1_｢反則ｼﾅｸﾃﾓ殺ｽ方法がｱｯﾀﾄ見ｴﾙが?｣,34,_1_｢就算不犯規，也有殺人手段?｣,人工定稿,P7 校对修正
+112,0x868,dialogue,narrative,バンッﾄ音ｦ立ﾃﾃ､ベニヤ板ﾆカカトｦ落ﾄｽ｡,36,我猛地一脚踏上膠合板，發出巨響。,人工定稿,P7 校对修正
+113,0x890,dialogue,narrative,板ﾊ真ｯ二ﾂﾆ割ﾚﾃ､,15,板子裂成兩半，,人工定稿,
+114,0x8a0,dialogue,narrative,ｿﾉﾏﾏ穴ﾍﾄ落ﾁﾃｲｯﾀ｡,16,就那樣掉進洞中。,人工定稿,
+115,0x8b4,system,system,0124,4,,未翻,
+116,0x8b9,dialogue,narrative,_1_｢引ｯｶｶｯﾃｸﾚﾏｾﾝでｼﾀｹどﾈ｣,25,_1_｢可惜沒能上鉤呀｣,人工定稿,P7 校对修正
+117,0x8d4,system,system,1264,4,,未翻,
+118,0x8d9,dialogue,narrative,_1_｢残念ﾅがﾗ､私ﾓ命が惜ｼｲﾉでﾅ｣,29,_1_｢很遺憾，我也惜命得很哦｣,人工定稿,
+119,0x8f8,system,system,0125,4,,未翻,
+120,0x8fd,dialogue,narrative,_1_｢……ｿﾚで?,13,_1_｢所以?｣,人工定稿,P7 校对修正
+121,0x90b,dialogue,narrative,.楓ｻﾝ達ﾊ､何ｶ手ｦ用意ｼﾃﾙﾝでｽｶ?｣,29,.楓一行人有沒有準備什麼手段?｣,人工定稿,P7 校对修正
+122,0x92c,system,system,1265,4,,未翻,
+123,0x931,dialogue,narrative,_1_｢君ﾎど用意周到でﾊﾅｲｻ｡,24,_1_｢不像紅春那麼周全呀。,人工定稿,P7 校对修正
+124,0x94c,dialogue,narrative,ﾑｼﾛ､どｳｼﾃｿｺﾏで,14,反倒説，想知道,人工定稿,P7 校对修正
+125,0x95c,dialogue,narrative,準備でｷﾃｲﾀﾉｶが知ﾘﾀｲﾈ｣,21,是怎麼準備到這地歩的｣,人工定稿,P7 校对修正
+126,0x974,dialogue,narrative,ベニヤ板ﾅど､どｺﾆｱｯﾀﾉｶ｡,22,膠合板究竟從何而來。,人工定稿,
+127,0x98c,dialogue,narrative,ﾀﾏﾀﾏｺｺﾆ連ﾚﾃｺﾗﾚﾀ者ﾆﾊ,19,被拉到這地方的人，,人工定稿,
+128,0x9a0,dialogue,narrative,到底無理ﾅ行動ﾆ思ｴﾙ｡,19,像是做不出的舉動。,人工定稿,P7 校对修正
+129,0x9b4,dialogue,narrative,何ｶ繋がﾘがｱﾙﾊずだ､運営者ﾄ｡,26,一定和運營者有關聯。,人工定稿,P7 校对修正
+130,0x9d0,system,system,0126,4,,未翻,
+131,0x9d5,dialogue,narrative,_1_｢ｱﾗ､ﾔだ｡,11,_1_｢討厭。,人工定稿,
+132,0x9e1,dialogue,narrative,_0.私ﾊ､ﾀだ勝ﾂﾀﾒﾆ,16,_0.我只為了獲勝,人工定稿,P7 校对修正
+133,0x9f2,system,system,s,1,,未翻,
+134,0x9f4,dialogue,narrative,精一杯頑張ｯﾃﾙだｹでｽﾖｰ｣,22,只是盡全力哦――｣,人工定稿,P7 校对修正
+135,0xa0c,system,system,1266,4,,未翻,
+136,0xa11,dialogue,narrative,_1_｢勝ﾂﾀﾒ……ｶ｡,15,_1_｢獲勝……呀,人工定稿,P7 校对修正
+137,0xa21,system,system,ts,2,,未翻,
+138,0xa24,dialogue,narrative,生ｷ延びﾙﾀﾒでﾊﾅｲﾉだﾅ｣,20,並不是為了活命呀｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+139,0xa3c,system,system,0127,4,,未翻,
+140,0xa41,dialogue,narrative,_1_｢意味ﾊ同じでｼｮｳ?｣,20,_1_｢都一個意思?｣,人工定稿,P7 校对修正
+141,0xa58,system,system,1267,4,,未翻,
+142,0xa5d,dialogue,narrative,_1_｢果ﾀｼﾃどｳだﾛｳﾅ?,18,_1_｢真是這樣呀?,人工定稿,P7 校对修正
+143,0xa70,dialogue,narrative,ｿﾚﾓ含ﾒﾃ色々ﾄ聞ｶｾﾃﾓﾗｵｳｶ｣,23,那就連這一起問明白｣,人工定稿,
+144,0xa88,system,system,0128,4,,未翻,
+145,0xa8d,dialogue,narrative,_1_｢……ﾏｧ良ｲでｼｮｳ｡,19,_1_｢……嘛，也好。,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+146,0xaa4,dialogue,narrative,冥土ﾉ土産ﾆ教ｴﾃｱげﾏｽ｣,20,就當冥土紀念品告知｣,人工定稿,P7 校对修正
+147,0xabc,system,system,0129,4,,未翻,
+148,0xac1,dialogue,narrative,_1_｢ﾅｰﾝﾃ｡,9,_1_｢説笑,人工定稿,
+149,0xacb,dialogue,narrative,_ｺﾚ､悪役ﾉ死亡フラグでｽﾖﾈ｡,25,_這可是反派的死亡flag呀。,人工定稿,P7 校对修正
+150,0xae8,dialogue,narrative,だｶﾗ教ｴﾏｾﾝ｣,11,不告訴咯｣,人工定稿,
+151,0xaf4,system,system,1268,4,,未翻,
+152,0xaf9,dialogue,narrative,_1_｢ﾏ､待ﾃ｡,10,_1_｢等等,人工定稿,
+153,0xb04,dialogue,narrative,ﾋﾄﾂだｹでｲｲ､質問ﾆ答ｴﾃｸﾚ｣,23,一個就行，回答我問題｣,人工定稿,机翻警告: quote_unbalanced
+154,0xb1c,system,system,0130,4,,未翻,
+155,0xb21,dialogue,narrative,_1_｢ﾊｧ､ｼﾂｺｲ方でｽﾈｪ｡,19,_1_｢哈，真纏人呀。,人工定稿,
+156,0xb38,dialogue,narrative,じｬｱ､聞ｲﾃｱげﾏｽｶﾗﾊﾔｸ言ｯﾃｸだｻｲ｣,29,行，那快點講出來唄｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced
+157,0xb58,dialogue,narrative,ﾖｼ､ﾅﾝﾄｶﾂﾅｲだぞ｡,15,好，接上話了。,人工定稿,
+158,0xb68,dialogue,narrative,ｼｶｼ……何ｦ聞ｸべｷだ?,19,可是……該問什麼?,人工定稿,P7 校对修正
+159,0xb7c,dialogue,narrative,ロム2_紅春ｦ呼び出ｽ_ノーマル,27,ROM2_呼叫紅春_普通,人工定稿,
+160,0xb98,dialogue,narrative,ロム2_紅春ｦ呼び出ｽ_ｽｯｶﾗｶﾝ,25,ROM2_呼叫紅春_空空如也,人工定稿,
+161,0xbb2,binary,system,�,-1,,未翻,
+162,0xbb4,dialogue,narrative,…………｡,9,……｡,人工定稿,
+163,0xbbe,dialogue,narrative,0.ｸｯ､話題が何ﾓ思ｲﾂｶﾅｲ!,22,0.可惡，想不到話題!,人工定稿,P7 校对修正
+164,0xbd8,dialogue,narrative,紅春ｸﾝﾆ聞ｸべｷｺﾄﾊ全ﾃ聞ｲﾃｼﾏｯﾃｲﾙｼ,30,該問紅春的事情全都已經問完了，,人工定稿,
+165,0xbf8,dialogue,narrative,新ﾀﾆ聞ｷ出ｻﾅｹﾚばﾅﾗﾅｲｺﾄﾓ､,23,新的事情也必須問出來，,人工定稿,
+166,0xc10,dialogue,narrative,ﾀｸｻﾝｱﾙﾊずﾅﾉﾆﾏﾄﾏﾗﾅｲ｡,19,明明很多，理不清。,人工定稿,
+167,0xc24,dialogue,narrative,ｼｶｼ､何ｶ……何ｶ言ﾜﾅｹﾚば｡,23,可是，必須説些話……,人工定稿,
+168,0xc3c,dialogue,narrative,何でﾓｲｲ､Xﾉ……運営者ﾉ情報ｦ,26,都行，X的……運營者情報,人工定稿,
+169,0xc58,dialogue,narrative,聞ｷ出ｻﾅｹﾚば……!,16,必須問出來……!,人工定稿,P7 校对修正
+170,0xc6c,dialogue,narrative,ロム2_紅春ｦ呼び出ｽ_ハズレ,25,ROM2_呼叫紅春_落空,人工定稿,
+171,0xc88,system,system,0131,4,,未翻,
+172,0xc8d,dialogue,narrative,_1_｢ﾌｩﾝ｡ｿﾚが､どｳｼﾃﾓ聞ｷﾀｲｺﾄでｽｶ｣,31,_1_｢哦。那就是無論如何都想問?｣,人工定稿,P7 校对修正
+173,0xcb0,system,system,1269,4,,未翻,
+174,0xcb5,dialogue,narrative,_1_｢ｱｱ､ｿｳだ｡,12,_1_｢對。,人工定稿,机翻警告: quote_unbalanced
+175,0xcc2,dialogue,narrative,0.答ｴﾃﾓﾗｵｳｶ｣,12,0.回答我。｣,人工定稿,P7 校对修正
+176,0xccf,system,system,.0132,5,,未翻,
+177,0xcd5,dialogue,narrative,_1_｢ｲﾔでｽﾖ｡,11,_1_｢拒絶哦,人工定稿,
+178,0xce1,dialogue,narrative,_0.だｯﾃ言ｯﾀでｼｮｳ､聞ｲﾃｱげﾙｯﾃ｡,28,_0.不是説了，會聽的嘛。,人工定稿,
+179,0xd00,dialogue,narrative,質問ｦ聞ｸだｹで､答ｴﾙﾅﾝﾃ言ｯﾃﾏｾﾝ｣,29,只是聽問題，沒説要回答。｣,人工定稿,P7 校对修正
+180,0xd20,system,system,1270,4,,未翻,
+181,0xd25,dialogue,narrative,_1_｢ﾅﾆ……?｣,12,_1_｢何?｣,人工定稿,P7 校对修正
+182,0xd32,system,system,0.0887,6,,未翻,
+183,0xd39,dialogue,narrative,_1_｢ﾑｷｨｰ! ｲｲじｬﾝｿﾉぐﾗｲ､,23,_1_｢哇! 這點程度沒關係,人工定稿,P7 校对修正
+184,0xd54,dialogue,narrative,ｱﾝﾀが困ﾙﾜｹでﾓﾅｲでｼｮ!?｣,22,又不是會令人為難!?｣,人工定稿,P7 校对修正
+185,0xd6c,system,system,0133,4,,未翻,
+186,0xd71,dialogue,narrative,_1_｢でﾓｱﾅﾀ達ﾊ私ｦ困ﾗｾﾀｲﾝでｼｮｳ?,29,_1_｢可是各位就想使我為難?｣,人工定稿,P7 校对修正
+187,0xd90,dialogue,narrative,ﾅﾗ何ｶ困ﾙｶﾓｼﾚﾅｲじｬﾅｲでｽｶ｣,24,那各位説不定會有麻煩呀｣,人工定稿,P7 校对修正
+188,0xdac,system,system,0134,4,,未翻,
+189,0xdb1,dialogue,narrative,_1_｢ｿﾚﾆ､別ﾆ答ｴﾀｸﾅﾙﾖｳﾅ質問でﾓ,28,_1_｢而且，也不是我不想答的,人工定稿,P7 校对修正
+190,0xdd0,dialogue,narrative,ｱﾘﾏｾﾝでｼﾀｼﾈ｣,12,問題哦｣,人工定稿,机翻警告: quote_unbalanced
+191,0xddd,system,system,ts,2,,未翻,
+192,0xde0,dialogue,narrative,……ｸｿ｡,7,…可惡,人工定稿,
+193,0xde8,dialogue,narrative,今ﾉ質問でﾊ､彼女ﾉ気ｦ引ｸｺﾄﾊ,25,剛才的問題沒能引起興趣,人工定稿,P7 校对修正
+194,0xe04,dialogue,narrative,でｷﾅｶｯﾀｶ……｡,13,沒能成功……｡,人工定稿,P7 校对修正
+195,0xe12,system,system,s,1,,未翻,
+196,0xe14,dialogue,narrative,ｲﾔ､ｿﾓｿﾓ……,11,不，説起…,人工定稿,
+197,0xe20,dialogue,narrative,私ﾊ彼女ﾉ気ｦ引ｸﾖｳﾅ話題ｦ,22,我能引起他興趣的話題,人工定稿,
+198,0xe38,dialogue,narrative,本当ﾆ持ｯﾃｲﾀﾉだﾛｳｶ｡,18,真的擁有過……?,人工定稿,P7 校对修正
+199,0xe4c,dialogue,narrative,少ｼでﾓｲｲ､情報が欲ｼｲﾉだが……｡,29,一點也好，我想要情報……。,人工定稿,
+200,0xe6c,system,system,0135,4,,未翻,
+201,0xe71,dialogue,narrative,_1_｢……質問ﾊﾋﾄﾂでｼﾀﾖﾈ｡,23,_1_｢……問題只有一個?,人工定稿,P7 校对修正
+202,0xe8c,dialogue,narrative,ｻﾃ……｣,7,那……｣,人工定稿,终轮省略号统一: 单…→…… x1
+203,0xe94,dialogue,narrative,ロム2_紅春ｦ呼び出ｽ_トゥルー,27,ROM2_呼叫紅春_真實,人工定稿,
+204,0xeb0,dialogue,narrative,ｱﾙﾊずだ｡,8,一定有。,人工定稿,
+205,0xeb9,dialogue,narrative,_0.Xﾆ聞ｶﾅｹﾚばﾅﾗﾅｲｺﾄ｡,20,_0.須向X問清。,人工定稿,
+206,0xed0,dialogue,narrative,ｺﾉ理不尽ﾅゲームﾉ理由｡,21,不講理遊戲的理由。,人工定稿,
+207,0xee8,dialogue,narrative,目的｡試験ﾉ意味｡,15,目的。試驗意義,人工定稿,
+208,0xef8,dialogue,narrative,運営者が､Xが……,16,運營者、X……,人工定稿,
+209,0xf0c,dialogue,narrative,何ﾉ目的でｺﾝﾅゲームｦ行ｯﾃｲﾙﾉｶ｡,28,究竟有何目的要進行這種遊戲?,人工定稿,P7 校对修正
+210,0xf2c,dialogue,narrative,恋人ｦ奪ﾜﾚﾀ森崎氏ﾔ霞ｸﾝが､叫ﾝでｲﾀ｡,32,被奪走戀人的森崎先生和霞都在呼喊,人工定稿,
+211,0xf50,dialogue,narrative,どｳｼﾃｺﾝﾅ理不尽が行ﾜﾚﾙﾉｶﾄ｡,25,為何發生這般無理之事。,人工定稿,P7 校对修正
+212,0xf6c,dialogue,narrative,何ｶ意味がｱﾙﾊずﾅﾝだ｡,19,一定有何意義。,人工定稿,
+213,0xf80,dialogue,narrative,Xﾆﾄｯﾃ､ｿｺﾏでｽﾙ目的が……!,24,對X而言，做到這地歩……!,人工定稿,P7 校对修正
+214,0xf9c,dialogue,narrative,ｿﾚｦ必ず聞ｷ出ｼﾃﾔﾙ……!,21,我一定要問出來……!,人工定稿,P7 校对修正
+215,0xfb4,dialogue,narrative,ロム2_紅春ｦ呼び出ｽ_Xﾉ目的,25,ROM2_呼叫紅春_X的目的,人工定稿,
+216,0xfd0,system,system,1271,4,,未翻,
+217,0xfd5,dialogue,narrative,_1_｢聞ｶｾﾃﾓﾗｵｳｶ……,18,_1_｢讓我聽聽……,人工定稿,机翻警告: quote_unbalanced
+218,0xfe8,dialogue,narrative,X､ｵ前ﾉ……試験ﾄﾔﾗﾉ目的ｦ!｣,25,X，那所謂試驗的目的!｣,人工定稿,P7 校对修正
+219,0x1004,system,system,0136,4,,未翻,
+220,0x1009,dialogue,narrative,_1_｢ﾅｯ……?,11,_1_｢何……?,人工定稿,终轮省略号统一: 单…→…… x1
+221,0x1015,dialogue,narrative,_0.ど､どｳｼﾃ試験ﾅﾝﾃ……｣,23,_0.為、為何知道試驗…｣,人工定稿,P7 校对修正
+222,0x1030,system,system,1272,4,,未翻,
+223,0x1035,dialogue,narrative,_1_｢質問ｼﾃｲﾙﾉﾊｺｯﾁだ｣,20,_1_｢提問的是我｣,人工定稿,
+224,0x104c,system,system,0137,4,,未翻,
+225,0x1051,dialogue,narrative,_1_｢ｸｯ……どｺﾏで知ｯﾃﾔがﾙﾝだ｣,28,_1_｢可……到底知道多少｣,人工定稿,终轮省略号统一: 单…→…… x1
+226,0x1070,system,system,1273,4,,未翻,
+227,0x1075,dialogue,narrative,_1_｢質問ｼﾃｲﾙﾉﾊｺｯﾁだﾄ言ｯﾃｲﾙ｣,27,_1_｢我説了，提問的是我｣,人工定稿,
+228,0x1094,system,system,0138,4,,未翻,
+229,0x1099,dialogue,narrative,_1_｢ｳ､ｳﾙｻｲ｡,11,_1_｢煩死了,人工定稿,P7 校对修正
+230,0x10a5,dialogue,narrative,_0.上ｶﾗ目線ﾅﾝﾃ､ﾀｲｼﾀ度胸じｬﾅｲでｽｶ｡,33,_0.用高高在上的態度，膽子倒不小嘛,人工定稿,
+231,0x10c8,dialogue,narrative,質問ｦ聞ｲﾃｱげﾃﾙﾉﾊ私でｽﾖ?｣,24,聽提問的可是我呀?｣,人工定稿,P7 校对修正
+232,0x10e4,system,system,1274,4,,未翻,
+233,0x10e9,dialogue,narrative,_1_｢……だｶﾗ､何だ｡,18,_1_｢……那又如何,人工定稿,终轮省略号统一: 单…→…… x1
+234,0x10fc,dialogue,narrative,ｿﾉ質問ﾆ答ｴﾛﾄｲｳﾉｶ?｣,18,要我回答那問題?｣,人工定稿,P7 校对修正
+235,0x1110,system,system,0139,4,,未翻,
+236,0x1115,dialogue,narrative,_1_｢答ｴﾅｹﾚば私ﾓ答ｴﾏｾﾝ｣,22,_1_｢不答我也不答｣,人工定稿,
+237,0x112c,system,system,1275,4,,未翻,
+238,0x1131,dialogue,narrative,_1_｢ｲｲだﾛｳ｡,11,_1_｢行。,人工定稿,P7 校对修正
+239,0x113d,dialogue,narrative,_0.ｿｯﾁﾉ質問ﾊ二ﾂだｯﾀﾅ｡,21,_0.紅春的問題有兩個咯,人工定稿,P7 校对修正
+240,0x1154,dialogue,narrative,ﾅﾗば交互ﾆ答ｴﾙぞ｣,16,那就交替回答咯｣,人工定稿,
+241,0x1168,system,system,0140,4,,未翻,
+242,0x116d,dialogue,narrative,_1_｢……ﾜｶﾘﾏｼﾀ｡,15,_1_｢…我明白了,人工定稿,
+243,0x117d,system,system,ts,2,,未翻,
+244,0x1180,dialogue,narrative,応じﾏｼｮｳ｣,9,我奉陪｣,人工定稿,
+245,0x118a,system,system,0.1276,6,,未翻,
+246,0x1191,dialogue,narrative,_1_｢ﾏず､どｺﾏで知ｯﾃｲﾙﾉｶだが……｣,31,_1_｢首先，是知道多少……｣,人工定稿,P7 校对修正
+247,0x11b4,system,system,0141,4,,未翻,
+248,0x11b9,dialogue,narrative,_1_｢待ｯﾃｸだｻｲ｡,14,_1_｢等一下,人工定稿,
+249,0x11c8,dialogue,narrative,ﾏずﾊ､どｳｼﾃ知ｯﾃｲﾙﾉｶでｽ｣,22,首先，要問為何知道｣,人工定稿,
+250,0x11e0,system,system,1277,4,,未翻,
+251,0x11e5,dialogue,narrative,_1_｢……ﾔﾊﾘ､ｿｳｷﾀｶ｣,18,_1_｢……果然來這套,人工定稿,终轮省略号统一: 单…→…… x1
+252,0x11f8,dialogue,narrative,情報ソースがﾜｶﾚば､,18,如果知道情報來源，,人工定稿,
+253,0x120c,dialogue,narrative,自ずﾄどｺﾏで知ｯﾃｲﾙｶﾓ判断でｷﾙ｡,28,自然也能判斷出知道多少。,人工定稿,P7 校对修正
+254,0x122c,dialogue,narrative,ｿｳﾅﾚば彼女ﾄﾉ取引ﾊ無意味ﾆﾅﾙ｡,27,如此一來和紅春交易就無意義,人工定稿,
+255,0x1248,dialogue,narrative,ｵｿﾗｸﾊ何ﾓ教ｴﾃﾊｸﾚﾅｲだﾛｳ｡,22,恐怕任何事都不會告訴我,人工定稿,
+256,0x1260,system,system,1278,4,,未翻,
+257,0x1265,dialogue,narrative,_1_｢……ｿﾚﾊ｣,12,_1_｢那是｣,人工定稿,
+258,0x1272,system,system,0.0142,6,,未翻,
+259,0x1279,dialogue,narrative,_1_｢言ｯﾃｵｷﾏｽｹど､,16,_1_｢先説好，,人工定稿,机翻警告: quote_unbalanced
+260,0x128a,system,system,s,1,,未翻,
+261,0x128c,dialogue,narrative,嘘ﾂｲﾀﾗﾜｶﾘﾏｽｶﾗﾈ｡,15,説假話我知,人工定稿,
+262,0x129c,dialogue,narrative,私､ｿｳｲｳﾉ見抜ｹﾙﾝで｣,18,我看得出這種事｣,人工定稿,
+263,0x12b0,dialogue,narrative,ﾊｯﾀﾘだ｡,7,虚張聲,人工定稿,
+264,0x12b8,dialogue,narrative,間違ｲﾅｸ､ﾊｯﾀﾘ｡,13,無疑虚張聲,人工定稿,
+265,0x12c6,system,system,s,1,,未翻,
+266,0x12c8,dialogue,narrative,嘘ﾅど完璧ﾆ見抜ｹﾙﾜｹがﾅｲ｡,23,不可能完美看穿假話。,人工定稿,
+267,0x12e0,dialogue,narrative,だが､迂闊ﾆ嘘ﾊﾂｹﾅｲ｡,18,但不能亂説假話。,人工定稿,
+268,0x12f4,dialogue,narrative,ｿｳ警戒ｻｾﾀだｹで､彼女ﾉｿﾉ発言ﾊ,27,光如此警戒，紅春的話就,人工定稿,
+269,0x1310,dialogue,narrative,強ｲ効果ｦ発揮ｼﾃｲﾀ｡,17,發揮了很強效果,人工定稿,
+270,0x1324,system,system,0888,4,,未翻,
+271,0x1329,dialogue,narrative,_1_｢ｵ姉ｻﾏ……ｱﾀｼﾓ気ﾆﾅﾙｯｽ｡,25,_1_｢姐姐大人…我也好奇哦,人工定稿,
+272,0x1344,dialogue,narrative,ｲﾂﾉ間ﾆｿﾝﾅ極秘情報ｦ……?｣,24,何時掌握極機密情報……?｣,人工定稿,终轮省略号统一: 单…→…… x1
+273,0x1360,system,system,1279,4,,未翻,
+274,0x1365,dialogue,narrative,_1_｢ｲｲだﾛｳ｡背ﾆ腹ﾊ替ｴﾗﾚﾅｲ｣,25,_1_｢行。總不能因小失大｣,人工定稿,
+275,0x1380,system,system,1280,4,,未翻,
+276,0x1385,dialogue,narrative,_1_｢試験ﾄｲｳﾉﾊ､香菜ｸﾝﾉ解析結果だ｡,32,_1_｢所謂試驗，是香菜的解析結果,人工定稿,
+277,0x13a8,dialogue,narrative,彼女ﾊ腕輪ﾉ内部データｦ解析ｼﾃ,27,他解析了手環的内部資料，,人工定稿,
+278,0x13c4,dialogue,narrative,様々ﾅ情報ｦ手ﾆ入ﾚﾃｲﾀ｣,20,掌握了各種情報。｣,人工定稿,机翻警告: quote_unbalanced
+279,0x13dc,system,system,1281,4,,未翻,
+280,0x13e1,dialogue,narrative,_1_｢ｿｼﾃ､ｿﾉ中ﾆEXAMSYSTEMﾄｲｳ,26,_1_｢接着，裏面有EXAMSYSTEM,人工定稿,P7 复核修正
+281,0x13fc,dialogue,narrative,文字列が入ｯﾃｲﾀ｡,15,這串文字。,人工定稿,
+282,0x140c,dialogue,narrative,ﾀｼｶ直訳で試験装置だｯﾀﾅ｣,23,我記得就是試驗装置｣,人工定稿,
+283,0x1424,system,system,0143,4,,未翻,
+284,0x1429,dialogue,narrative,_1_｢……機械ﾉ試験ｯﾃｺﾄじｬﾅｲでｽｶ?｣,32,_1_｢……不就是機械的試驗?｣,人工定稿,终轮省略号统一: 单…→…… x1
+285,0x144c,system,system,1282,4,,未翻,
+286,0x1451,dialogue,narrative,_1_｢ﾓｳ遅ｲﾖ｡,11,_1_｢太遲了,人工定稿,
+287,0x145d,dialogue,narrative,_0.君ﾊｽでﾆ､Xﾉ試験ﾄｲｳ意味で通用ｽﾙﾄ,33,_0.早已用反應表明，X的試驗這個詞,人工定稿,
+288,0x1480,dialogue,narrative,反応で示ｼﾃｼﾏｯﾀ｣,15,是説得通的。｣,人工定稿,P7 校对修正
+289,0x1490,system,system,0144,4,,未翻,
+290,0x1495,dialogue,narrative,_1_｢ｸｯ……｣,11,_1_｢可……｣,人工定稿,终轮省略号统一: 单…→…… x1
+291,0x14a1,system,system,_0.1283,7,,未翻,
+292,0x14a9,dialogue,narrative,_1_｢ｿﾚでﾊ､聞ｶｾﾃ貰ｵｳｶ｡,21,_1_｢那，就讓我聽聽。,人工定稿,P7 校对修正
+293,0x14c0,dialogue,narrative,ｿﾉXﾉ試験ﾄﾔﾗﾆﾂｲﾃﾅ｣,17,關於X的試驗｣,人工定稿,
+294,0x14d4,system,system,0145,4,,未翻,
+295,0x14d9,dialogue,narrative,_1_｢ﾑｩｩ……ﾜｶﾘﾏｼﾀﾖ～｣,21,_1_｢好……知道哦～｣,人工定稿,
+296,0x14f0,system,system,0146,4,,未翻,
+297,0x14f5,dialogue,narrative,_1_｢……私ﾊ､ｺﾉゲームでｱﾙｺﾄｦ,27,_1_｢……我在這遊戲裏,人工定稿,终轮省略号统一: 单…→…… x1
+298,0x1514,dialogue,narrative,試ｻﾚﾃｲﾙﾝでｽ｣,12,被考驗著。｣,人工定稿,机翻警告: quote_unbalanced
+299,0x1521,system,system,ts,2,,未翻,
+300,0x1524,system,system,0147,4,,未翻,
+301,0x1529,dialogue,narrative,_1_｢ｺﾉゲームﾆ勝ﾃば､試験合格｡,28,_1_｢贏了遊戲就是試驗合格,人工定稿,
+302,0x1548,dialogue,narrative,負ｹﾀﾘ､何ﾗｶﾉ方法でゲームが,25,輸了，或者遊戲以某種方式,人工定稿,
+303,0x1564,dialogue,narrative,不成立ﾆﾅﾚば不合格｣,18,不成立就不合格｣,人工定稿,
+304,0x1578,system,system,0148,4,,未翻,
+305,0x157d,dialogue,narrative,_1_｢だｶﾗ私ﾊ､誰ﾓ死ﾅﾅｲ作戦ﾅﾝﾃ,27,_1_｢所以我對無人死亡的作戰,人工定稿,
+306,0x159c,dialogue,narrative,ｻｯｻﾄ崩ｼﾀｶｯﾀﾝでｽﾖ｣,17,想盡快破壞掉哦｣,人工定稿,P7 校对修正
+307,0x15b0,system,system,0149,4,,未翻,
+308,0x15b5,dialogue,narrative,_1_｢ｲｶﾆ怪ｼﾏﾚﾅｲﾖｳ,16,_1_｢如何不懷疑,人工定稿,
+309,0x15c6,system,system,s,1,,未翻,
+310,0x15c8,dialogue,narrative,ゲームｦ盛ﾘ上げﾙｶが,18,把遊戲炒熱，,人工定稿,
+311,0x15dc,dialogue,narrative,勝負所でｼﾀ｣,11,勝負關鍵｣,人工定稿,
+312,0x15e8,system,system,1284,4,,未翻,
+313,0x15ed,dialogue,narrative,_1_｢……ｺﾝﾅゲームで､,20,_1_｢……在這種遊戲裏,人工定稿,终轮省略号统一: 单…→…… x1
+314,0x1604,dialogue,narrative,一体何が試ｻﾚﾃｲﾙﾄｲｳﾉだ｣,22,到底在考驗什麼?｣,人工定稿,P7 校对修正
+315,0x161c,system,system,0150,4,,未翻,
+316,0x1621,dialogue,narrative,_1_｢ｿﾚﾊｺﾉ極限ﾉ環境下でﾉ,23,_1_｢那是在這極限環境下,人工定稿,
+317,0x163c,dialogue,narrative,臨機応変ﾅ……ｯﾄ､ｼｬべﾘｽぎﾏｼﾀﾈ｡,29,臨機應變的……説多了,人工定稿,P7 校对修正
+318,0x165c,dialogue,narrative,今ﾉﾊサービスでｽｹど､次ｶﾗﾊ答ｴﾏｾﾝﾖ｣,32,剛才算附贈，下次可不會答哦｣,人工定稿,
+319,0x1680,system,system,1285,4,,未翻,
+320,0x1685,dialogue,narrative,_1_｢……ｳﾑ｡仕方ｱﾙﾏｲ……｣,24,_1_｢……唔。只好如此…｣,人工定稿,终轮省略号统一: 单…→…… x1; 余 1 处受槽宽
+321,0x16a0,system,system,0151,4,,未翻,
+322,0x16a5,dialogue,narrative,_1_｢ｿﾚﾖﾘ､次ﾊｱﾅﾀﾉ番でｽ｡,22,_1_｢比起那個，輪到楓了,人工定稿,P7 校对修正
+323,0x16bc,dialogue,narrative,一体､どｺﾏで知ｯﾃｲﾙﾉでｽｶ｣,23,究竟，知道多少?｣,人工定稿,P7 校对修正
+324,0x16d4,system,system,1286,4,,未翻,
+325,0x16d9,dialogue,narrative,_1_｢どｺﾏで､ｶ……ｿｳだﾅ……｣,26,_1_｢知道多少……説得也是…,人工定稿,终轮省略号统一: 单…→…… x1; 余 1 处受槽宽

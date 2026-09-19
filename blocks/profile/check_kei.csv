@@ -1,0 +1,22 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_kei.tob,25,,未翻,
+2,0x1c,system,system,check_kei.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_圭介,9,調査_圭介,人工定稿,
+4,0x38,dialogue,label,調査_圭介_未調査,16,調査_圭介_未調査,人工定稿,
+5,0x4c,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,
+6,0x68,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『坂橋圭介』ﾉ名前ｦ押ｽ｡,31,我從中按下『坂橋圭介』的名字。,人工定稿,
+7,0x88,dialogue,narrative,『坂橋圭介でｲｲでｽｶ?』ﾉメッセージ｡,33,『坂橋圭介是否正確?』的信息。,人工定稿,P7 校对修正
+8,0xac,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按『確認』後，,人工定稿,
+9,0xbc,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現『調査結果』的文字。,人工定稿,
+10,0xe4,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,
+11,0xed,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,
+12,0xfa,dialogue,narrative,st……｡,7,st……,人工定稿,
+13,0x102,dialogue,narrative,ke『坂橋圭介ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,37,ke『坂橋圭介不是連環殺手』,人工定稿,
+14,0x128,system,system,2039,4,,未翻,
+15,0x12d,dialogue,narrative,_ke｢ｿｳﾅﾉｶ……｣,14,_ke｢原來如此｣,人工定稿,导入警告: kana_residue
+16,0x13c,dialogue,narrative,彼ﾉ言動ｶﾗ､少ｼばｶﾘ怪ｼｲﾄ思ｯﾃｲﾀﾉだが,33,從他的言行，總覺得有些可疑，但…,人工定稿,P7 校对修正
+17,0x160,dialogue,narrative,どｳﾔﾗ見当違ｲだｯﾀﾖｳだ｡,21,看來似乎是猜錯了。,人工定稿,
+18,0x178,dialogue,narrative,背中ﾆ嫌ﾅ汗ｦｶｸ｡,14,背後滲出冷汗。,人工定稿,
+19,0x188,dialogue,narrative,致命的ﾅハズレｦ引ｲﾀ感覚｡,23,抽到致命錯誤的感覺。,人工定稿,
+20,0x1a0,dialogue,narrative,ﾅﾗば本当ﾉシリアルキラーﾊ､,25,那麼，真正的連環殺手，,人工定稿,
+21,0x1bc,dialogue,narrative,一体誰ﾅﾉだ……｡,15,到底是誰……。,人工定稿,

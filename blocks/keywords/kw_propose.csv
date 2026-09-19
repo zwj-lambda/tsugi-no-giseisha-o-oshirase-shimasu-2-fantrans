@@ -1,0 +1,317 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_propose.tob,26,,未翻,
+2,0x1c,system,system,kw_propose.sts,14,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_プロポーズ,18,ROM2_KW_求婚,人工定稿,
+4,0x40,dialogue,label,ROM2_KW会話_プロポーズ,22,ROM2_KW會話_求婚,人工定稿,
+5,0x58,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x70,dialogue,command,フェードアウト,14,,未翻,
+7,0x80,dialogue,narrative,ロム2_KW_プロポーズ_美紀,24,ROM2_KW_求婚_美紀,人工定稿,
+8,0x9c,system,system,0937,4,,未翻,
+9,0xa1,dialogue,narrative,opo｢ｳﾋｬｰ!,9,opo｢嗚呀!,人工定稿,导入警告: kana_residue
+10,0xab,dialogue,narrative,oマジｯｽｶ!? ｵ姉ｻﾏ大好ｷｯｽ!,24,o真的!? 最喜歡姐姐大人!,人工定稿,
+11,0xc4,dialogue,narrative,愛ｼﾃﾙｯｽ!｣,9,好愛呀!｣,人工定稿,导入警告: kana_residue
+12,0xce,system,system,.s1391,6,,未翻,
+13,0xd5,dialogue,narrative,opo｢待ﾃ待ﾃ､暴走ｽﾙﾅ｡,19,opo｢等等，別暴走。,人工定稿,导入警告: kana_residue
+14,0xec,dialogue,narrative,私ﾊ別ﾆ……｣,11,我並沒……｣,人工定稿,导入警告: kana_residue
+15,0xf8,system,system,0938,4,,未翻,
+16,0xfd,dialogue,narrative,opo｢法的ﾆ認ﾒﾗﾚﾅｸﾃﾓ､,19,opo｢就算不合法，,人工定稿,导入警告: kana_residue
+17,0x114,dialogue,narrative,ｱﾀｼﾊずｯﾄｵ姉ｻﾏﾉ嫁ｯｽﾖ!｣,21,永遠是姐姐大人的妻!｣,人工定稿,导入警告: kana_residue
+18,0x12c,system,system,1392,4,,未翻,
+19,0x131,dialogue,narrative,opo｢ﾁ､ﾁｮｯﾄ､美紀ｸﾝ｡,18,opo｢等等，美紀。,人工定稿,导入警告: kana_residue
+20,0x144,dialogue,narrative,顔が近ｲぞ……｣,14,臉太近了……｣,人工定稿,导入警告: kana_residue
+21,0x154,system,system,0939,4,,未翻,
+22,0x159,dialogue,narrative,opo｢ﾝｰ……｣,11,opo｢唔……｣,人工定稿,导入警告: kana_residue
+23,0x165,system,system,e.s1393,7,,未翻,
+24,0x16d,dialogue,narrative,opo｢ﾔ､ﾔﾒﾅｲｶ､ｺﾗ｣,15,opo｢欸，住手｣,人工定稿,"P7: こら 误译修正(全库 こら→欸), 去骂称"
+25,0x17d,system,system,s,1,,未翻,
+26,0x180,system,system,0940,4,,未翻,
+27,0x185,dialogue,narrative,opo｢……ｺｳｼﾃ､ｱﾀｼﾄｵ姉ｻﾏﾊ結ばﾚ,28,opo｢……這樣我和姐姐大人結為,人工定稿,导入警告: kana_residue
+28,0x1a4,dialogue,narrative,末永ｸ幸ｾﾆ暮ﾗｼﾀﾉでｼﾀ｣,20,永遠幸福地生活了｣,人工定稿,导入警告: kana_residue
+29,0x1bc,system,system,Fin.,4,,未翻,
+30,0x1c1,system,system,opo1394,7,,未翻,
+31,0x1c9,dialogue,narrative,opo｢だが断ﾙ!｣,13,opo｢我拒絶!｣,人工定稿,导入警告: kana_residue
+32,0x1d7,system,system,s0941,5,,未翻,
+33,0x1dd,dialogue,narrative,opo｢ｴｰ……｣,11,opo｢欸……｣,人工定稿,导入警告: kana_residue
+34,0x1e9,system,system,e.s1395,7,,未翻,
+35,0x1f1,dialogue,narrative,opo｢ｺﾝﾅﾄｺﾛで終ﾜｯﾃﾀﾏﾙｶ｡,22,opo｢豈能在這地方結束。,人工定稿,导入警告: kana_residue
+36,0x208,dialogue,narrative,思ｲｯｷﾘバッドエンドだｯﾀでﾊﾅｲｶ｣,29,根本就是個壞結局不是?｣,人工定稿,P7: 〜ではないか 求確認出口(卡 v1.4)
+37,0x228,system,system,0942,4,,未翻,
+38,0x22d,dialogue,narrative,opo｢超ハッピーエンドｯｽﾖｰ!｣,26,opo｢超美滿結局哦!｣,人工定稿,导入警告: kana_residue
+39,0x248,system,system,1396,4,,未翻,
+40,0x24d,dialogue,narrative,opo｢ﾜｶｯﾀ｡ﾓｳﾜｶｯﾀｶﾗ､,18,opo｢知道。知道了，,人工定稿,导入警告: kana_residue
+41,0x260,dialogue,narrative,今ﾊﾄﾆｶｸXｦ探ｽ作業だ｡ｲｲﾅ?｣,24,現在總之先找X。知道?｣,人工定稿,导入警告: kana_residue
+42,0x27c,system,system,0943,4,,未翻,
+43,0x281,dialogue,narrative,opo｢ﾁｪ｡ｳｨｰｽ｣,12,opo｢切。好｣,人工定稿,导入警告: kana_residue
+44,0x28e,dialogue,narrative,.s彼女ﾆｺﾝﾅ話題ｦ出ｼﾀ私がバカだｯﾀ｡,32,.s跟美紀提這種話題的我真蠢。,人工定稿,P7: 第三人称女性用名字指代(指南 v1.2)
+45,0x2b0,dialogue,narrative,ロム2_KW_プロポーズ_昇,22,ROM2_KW_求婚_昇,人工定稿,
+46,0x2c8,system,system,0216,4,,未翻,
+47,0x2cd,dialogue,narrative,opo｢ｲ､ｲﾔ､悪ｲｹど俺､,18,opo｢不，抱歉，但我,人工定稿,"P7: 补回 けど 连接, 与下行衔接"
+48,0x2e0,dialogue,narrative,浅川ｻﾝﾊｿｳｲｳ風ﾆ見ﾚﾅｲｯﾃｲｳｶ……｣,29,沒法把淺川當成那種對象……｣,人工定稿,P7: そういう風に見れない 误译修正(原'不像那種人')
+49,0x300,system,system,1397,4,,未翻,
+50,0x305,dialogue,narrative,opo｢別ﾆ､プロポーズｼﾀﾂﾓﾘでﾊﾅｲが?｣,32,opo｢沒什麼，我不是求婚的意思?｣,人工定稿,P7: 〜したつもりではない 语义修正
+51,0x328,system,system,0217,4,,未翻,
+52,0x32d,dialogue,narrative,opo｢ｴｯ?,7,opo｢欸?,人工定稿,导入警告: kana_residue
+53,0x335,dialogue,narrative,opoｱ､ｿｳ? ｿｳだﾖﾅ､ﾊﾊﾊ｣,20,opo是? 對呀，哈哈哈｣,人工定稿,P7: そうだよね 承答位用「對呀」(卡 v1.4)
+54,0x34c,system,system,1398,4,,未翻,
+55,0x351,dialogue,narrative,opo｢プロポーズﾓｼﾃﾅｲﾉﾆフラﾚﾃｼﾏｯﾀ……｡,36,opo｢還沒求婚就被拒絶了……。,人工定稿,导入警告: kana_residue
+56,0x378,dialogue,narrative,乙女心が傷ﾂｲﾀでﾊﾅｲｶ……｡,24,少女心受傷了不是?……。,人工定稿,P7: 〜ではないか 求確認出口(卡 v1.4)
+57,0x394,dialogue,narrative,どｳ責任ｦ取ｯﾃｸﾚﾙﾉだ｣,19,要怎麼負責呀｣,人工定稿,导入警告: kana_residue
+58,0x3a8,system,system,0218,4,,未翻,
+59,0x3ad,dialogue,narrative,opo｢ｴｯ､ｾ､責任ｯﾃ……?｣,21,opo｢欸、責任……?｣,人工定稿,导入警告: kana_residue
+60,0x3c4,system,system,1399,4,,未翻,
+61,0x3c9,dialogue,narrative,opo｢慰謝料ﾄｼﾃ五十万円ｦ請求ｽﾙ｣,29,opo｢作為賠償要求五十萬圓｣,人工定稿,P7: 慰謝料 日式词改写
+62,0x3e8,system,system,0219,4,,未翻,
+63,0x3ed,dialogue,narrative,opo｢じ､冗談ﾆ聞ｺｴﾅｲ金額ｦ言ｳﾅｯ!｣,30,opo｢別説不像玩笑的金額!｣,人工定稿,导入警告: kana_residue
+64,0x40c,dialogue,narrative,ｳﾑ､実ﾆ弄ﾘ甲斐ﾉｱﾙ男だ｡,21,唔，這男人真好戲弄。,人工定稿,
+65,0x424,dialogue,narrative,ロム2_KW_プロポーズ_香菜,24,ROM2_KW_求婚_香菜,人工定稿,
+66,0x440,system,system,0231,4,,未翻,
+67,0x445,dialogue,narrative,opo｢プロポーズﾉ台詞でｻ｡,23,opo｢求婚的台詞嘛。,人工定稿,导入警告: kana_residue
+68,0x460,dialogue,narrative,ﾖｸ､毎朝俺ﾉﾐｿ汁作ｯﾃｸﾚｰｯﾃﾉ,24,常有毎天早上為我做味噌湯,人工定稿,P7: 补回 よく/毎朝
+69,0x47c,dialogue,narrative,ｱﾙｹど……｣,10,有哦……｣,人工定稿,导入警告: kana_residue
+70,0x487,system,system,s0232,5,,未翻,
+71,0x48d,dialogue,narrative,opo｢私､パン食派ﾅﾉﾖﾈ｡,20,opo｢我是麺包派呀。,人工定稿,P7: なのよね 共感陈述用「呀」(卡 v1.4)
+72,0x4a4,dialogue,narrative,ｿﾚ言ﾜﾚﾀﾗ､例ｴ大好ｷﾅ人でﾓ,23,被那樣説，就算喜歡的人,人工定稿,
+73,0x4bc,dialogue,narrative,ｲｲｴﾄ言ﾜざﾙｦ得ﾅｲﾉﾖ｣,18,也只能説不呀｣,人工定稿,导入警告: kana_residue
+74,0x4d0,system,system,1400,4,,未翻,
+75,0x4d5,dialogue,narrative,opo｢大好ｷﾅ人ﾉﾀﾒﾆ,16,opo｢為了喜歡的人,人工定稿,导入警告: kana_residue
+76,0x4e8,dialogue,narrative,ご飯派ﾆﾅﾙﾄｲｳﾉﾊどｳだ?｣,21,改成米飯派如何?｣,人工定稿,导入警告: kana_residue
+77,0x500,system,system,0233,4,,未翻,
+78,0x505,dialogue,narrative,opo｢ﾊ? ﾅﾝで私が合ﾜｾﾅｷｬﾅﾝﾅｲﾉﾖ｡,29,opo｢哈? 為何要我配合呀。,人工定稿,导入警告: kana_residue
+79,0x524,dialogue,narrative,ﾑｼﾛ男ﾉ方が毎朝パンｦ焼ｹばｲｲﾉﾖ｣,29,不如男的毎天早上做麺包就好｣,人工定稿,"P7: 毎朝 补正; 烤 不可编码, 改 做(与味噌湯句并行)"
+80,0x544,dialogue,narrative,……彼女ﾄ結婚ｼﾀ男ﾊ,18,……娶香菜的男人,人工定稿,P7: 第三人称女性用名字指代(指南 v1.2)
+81,0x558,dialogue,narrative,尻ﾆ敷ｶﾚｿｳだﾅ……｡,17,會被老婆管……。,人工定稿,
+82,0x56c,dialogue,narrative,ロム2_KW_プロポーズ_圭介,24,ROM2_KW_求婚_圭介,人工定稿,
+83,0x588,system,system,0099,4,,未翻,
+84,0x58d,dialogue,narrative,opo｢ｲﾔ､ｿﾝﾅｺﾄ言ﾜﾚﾃﾓ,18,opo｢不，就算被説也,人工定稿,导入警告: kana_residue
+85,0x5a0,dialogue,narrative,僕ﾏだ中学生ﾅﾝで……｣,20,我還是中學生……｣,人工定稿,导入警告: kana_residue
+86,0x5b8,system,system,1401,4,,未翻,
+87,0x5bd,dialogue,narrative,opo｢ｲﾔｲﾔ､昔ﾊｿﾉぐﾗｲで成人ｼ,25,opo｢不不，以前這年紀成人,人工定稿,导入警告: kana_residue
+88,0x5d8,dialogue,narrative,結婚ｽﾙｺﾄﾓｱｯﾀﾉだぞ｡,18,結婚的例子也有哇。,人工定稿,
+89,0x5ec,dialogue,narrative,何ﾓ問題ﾊｱﾙﾏｲ｣,13,完全沒問題｣,人工定稿,导入警告: kana_residue
+90,0x5fc,system,system,0100,4,,未翻,
+91,0x601,dialogue,narrative,opo｢ｿ､ｿｳｯｽｶ……?,16,opo｢是哦……?,人工定稿,导入警告: kana_residue
+92,0x614,dialogue,narrative,ｲﾔ､でﾓ､相手が……｣,18,不，可是對象……｣,人工定稿,导入警告: kana_residue
+93,0x628,system,system,1402,4,,未翻,
+94,0x62d,dialogue,narrative,opo｢ﾑ? 霞ｸﾝでﾊ不満ﾅﾉｶ?｣,23,opo｢唔? 對霞不滿?｣,人工定稿,导入警告: kana_residue
+95,0x648,system,system,0101,4,,未翻,
+96,0x64d,dialogue,narrative,opo｢ﾝﾅｯ､ﾅｯ､ﾅﾝでｿｺで,19,opo｢什､什､為何這裡,人工定稿,导入警告: kana_residue
+97,0x664,dialogue,narrative,霞が出ﾃｸﾙﾝｽｶ……!｣,18,霞會出現……!｣,人工定稿,导入警告: kana_residue
+98,0x678,system,system,1403,4,,未翻,
+99,0x67d,dialogue,narrative,opo｢ﾌﾌ､青ｲﾅ｣,12,opo｢呵呵､嫩｣,人工定稿,导入警告: kana_residue
+100,0x68a,system,system,.s0102,6,,未翻,
+101,0x691,dialogue,narrative,opo｢ﾓｳ､ｶﾗｶﾜﾅｲでｸだｻｲ｣,21,opo｢別再捉弄我了｣,人工定稿,导入警告: kana_residue
+102,0x6a8,dialogue,narrative,ロム2_KW_プロポーズ_霞,22,ROM2_KW_求婚_霞,人工定稿,
+103,0x6c0,system,system,0090,4,,未翻,
+104,0x6c5,dialogue,narrative,opo｢プロポーズｯﾃ……憧ﾚﾏｽﾖﾈ｡,28,opo｢求婚……真令人憧憬呀。,人工定稿,P7: 求確認禁哦(卡 v1.4 + 漂移清单)
+105,0x6e4,dialogue,narrative,私ﾓｲﾂｶ､ｻﾚﾃﾐﾀｲでｽ｣,17,我也希望被求婚｣,人工定稿,导入警告: kana_residue
+106,0x6f8,system,system,1404,4,,未翻,
+107,0x6fd,dialogue,narrative,opo｢霞ｸﾝﾊどﾝﾅプロポーズｦｻﾚﾙﾄ,28,opo｢霞被怎樣的求婚才,人工定稿,"P7: 跨行 會/會 重复, 拆至下行"
+108,0x71c,dialogue,narrative,嬉ｼｲﾉだ?｣,9,會開心?｣,人工定稿,导入警告: kana_residue
+109,0x726,system,system,.s0091,6,,未翻,
+110,0x72d,dialogue,narrative,opo｢ｿﾚﾊ､ｿﾉ……ｱﾉ……｣,21,opo｢那是、那個……｣,人工定稿,导入警告: kana_residue
+111,0x744,system,system,0092,4,,未翻,
+112,0x749,dialogue,narrative,opo｢綺麗ﾅ星空ﾄｶ､眺ﾒﾅがﾗ……,27,opo｢一邊看著美麗星空……,人工定稿,导入警告: kana_residue
+113,0x768,dialogue,narrative,例ｴば､ｿﾉｫ……!｣,15,比如那個……!｣,人工定稿,导入警告: kana_residue
+114,0x778,system,system,0093,4,,未翻,
+115,0x77d,dialogue,narrative,opo｢ｲ､言ｴﾏｾﾝｯ｡,14,opo｢説不出口。,人工定稿,导入警告: kana_residue
+116,0x78c,dialogue,narrative,恥ずｶｼｲでｽｯ｣,12,太害羞了｣,人工定稿,导入警告: kana_residue
+117,0x799,system,system,s,1,,未翻,
+118,0x79c,system,system,1405,4,,未翻,
+119,0x7a1,dialogue,narrative,opo｢ｿ､ｿｳｶ……｣,14,opo｢是哦……｣,人工定稿,导入警告: kana_residue
+120,0x7b0,dialogue,narrative,何ﾔﾗロマンチックが爆発ｼｿｳﾅ,26,似乎有個浪漫快要爆發的,人工定稿,"P7: 跨行 好像/好像 重复, 合成一句"
+121,0x7cc,dialogue,narrative,願望がｱﾙﾗｼｲ……｡,16,願望……。,人工定稿,P7: 与上行连读(原'好像有願望'重复好像)
+122,0x7e0,dialogue,narrative,ロム2_KW_プロポーズ_ﾂﾑじ,24,ROM2_KW_求婚_旋,人工定稿,
+123,0x7fc,system,system,0067,4,,未翻,
+124,0x801,dialogue,narrative,opo｢ｵ姉ｻﾝ､ショタコンでｽｶ?｣,26,opo｢姐姐，是正太控?｣,人工定稿,导入警告: kana_residue
+125,0x81c,system,system,1406,4,,未翻,
+126,0x821,dialogue,narrative,opo｢悪ｲがｿﾝﾅ趣味ﾊﾅｲ｣,20,opo｢抱歉，沒那興趣｣,人工定稿,导入警告: kana_residue
+127,0x838,system,system,0068,4,,未翻,
+128,0x83d,dialogue,narrative,opo｢ﾅﾗ､ﾔﾒﾃｸだｻｲ｡,16,opo｢那就住手。,人工定稿,导入警告: kana_residue
+129,0x850,dialogue,narrative,ｿﾓｿﾓ法律的ﾆﾏだ無理でｽｶﾗ｣,24,本來法律上還不行｣,人工定稿,导入警告: kana_residue
+130,0x86c,system,system,1407,4,,未翻,
+131,0x871,dialogue,narrative,opo｢……自意識過剰ｽぎﾔｼﾅｲｶ?,27,opo｢……未免太自作多情?,人工定稿,导入警告: kana_residue
+132,0x890,dialogue,narrative,私ﾊ別ﾆ君ﾆプロポーズｼﾀﾜｹでﾊ……｣,31,我又不是求婚的意思……｣,人工定稿,导入警告: kana_residue
+133,0x8b0,system,system,0069,4,,未翻,
+134,0x8b5,dialogue,narrative,opo｢どｯﾁでﾓｲｲでｽ｡,17,opo｢兩邊都可以。,人工定稿,"P7: どっちでもいい; 哪 不可编码, 原'那一個都行'歧义"
+135,0x8c8,dialogue,narrative,ぼｸﾊ､ﾊﾙｶ以外ｶﾗプロポーズﾅﾝﾃ,27,我對遙以外的求婚,人工定稿,
+136,0x8e4,dialogue,narrative,聞ｷﾀｸｱﾘﾏｾﾝ｣,11,不想聽｣,人工定稿,导入警告: kana_residue
+137,0x8f0,system,system,1408,4,,未翻,
+138,0x8f5,dialogue,narrative,opo｢ﾂﾑじｸﾝ､シスコンﾅﾉｶ?｣,24,opo｢旋，是妹控?｣,人工定稿,导入警告: kana_residue
+139,0x910,system,system,0070,4,,未翻,
+140,0x915,dialogue,narrative,opo｢ﾊｲ｡ｿﾚが何ｶ｣,15,opo｢是。又怎樣｣,人工定稿,导入警告: kana_residue
+141,0x925,system,system,s,1,,未翻,
+142,0x928,system,system,1409,4,,未翻,
+143,0x92d,dialogue,narrative,opo｢ｲ､ｲﾔ｡ﾅﾝでﾓﾅｲ｣,17,opo｢不、沒什麼｣,人工定稿,导入警告: kana_residue
+144,0x940,dialogue,narrative,ｵｶｼｲﾅ｡,6,真怪。,人工定稿,
+145,0x947,dialogue,narrative,o仕返ｼｼﾀﾂﾓﾘが､全ｸｺﾀｴﾃﾅｲ……｡,28,o本想報復，卻全沒效果……。,人工定稿,
+146,0x964,dialogue,narrative,ロム2_KW_プロポーズ_ﾊﾙｶ,23,ROM2_KW_求婚_遙,人工定稿,
+147,0x97c,system,system,0058,4,,未翻,
+148,0x981,dialogue,narrative,opo｢プロポーズｯﾃ､結婚ｼﾖｯﾃ言ｳｺﾄでｼｮ?｣,36,opo｢求婚，就是説要結婚對不?｣,人工定稿,P7: でしょう? 求確認出口(卡 v1.4)
+149,0x9a8,system,system,1410,4,,未翻,
+150,0x9ad,dialogue,narrative,opo｢ｱｱ､ｿｳだﾅ｣,13,opo｢哦，對呀｣,人工定稿,P7: そうだな 为赞同非听闻(原'是嘛'方向错)
+151,0x9bb,system,system,s0059,5,,未翻,
+152,0x9c1,dialogue,narrative,opo｢でﾓ､結婚ｯﾃﾅｧﾆ?,18,opo｢結婚是什麼?,人工定稿,导入警告: kana_residue
+153,0x9d4,dialogue,narrative,ｼﾀﾗどｳﾅﾙﾉ?｣,11,結了會怎樣｣,人工定稿,导入警告: kana_residue
+154,0x9e0,system,system,1411,4,,未翻,
+155,0x9e5,dialogue,narrative,opo｢ｿﾚﾊ……ｳｩﾑ｡,15,opo｢那……唔。,人工定稿,导入警告: kana_residue
+156,0x9f5,system,system,s,1,,未翻,
+157,0x9f8,dialogue,narrative,ﾏずﾊ夫婦ﾆﾅﾙﾅ｡,13,先成為夫妻。,人工定稿,
+158,0xa08,dialogue,narrative,ｿﾚﾄ一般的ﾆﾊ女性ﾊ姓が変ﾜﾙ｣,25,還有一般女方改姓｣,人工定稿,导入警告: kana_residue
+159,0xa24,system,system,0060,4,,未翻,
+160,0xa29,dialogue,narrative,opo｢ｿﾚだｹ?｣,11,opo｢就這?｣,人工定稿,导入警告: kana_residue
+161,0xa35,system,system,e.s1412,7,,未翻,
+162,0xa3d,dialogue,narrative,opo｢ｱﾄﾊ……ｼ､幸ｾﾆﾅﾙﾉでﾊﾅｲｶﾅ｣,28,opo｢還有……應該會幸福｣,人工定稿,导入警告: kana_residue
+163,0xa5c,system,system,0061,4,,未翻,
+164,0xa61,dialogue,narrative,opo｢どｳｼﾃ?,10,opo｢為何?,人工定稿,导入警告: kana_residue
+165,0xa6c,dialogue,narrative,何が幸ｾﾅﾉ?,10,幸福是什麼,人工定稿,
+166,0xa77,dialogue,narrative,s結婚ｼﾅｲﾄ幸ｾじｬﾅｲﾉ?｣,20,s不結婚就不幸福?｣,人工定稿,导入警告: kana_residue
+167,0xa8c,system,system,1413,4,,未翻,
+168,0xa91,dialogue,narrative,opo｢ﾑｯ……ｿ､ｿｳｲｳｺﾄﾊ,19,opo｢唔……那種事,人工定稿,导入警告: kana_residue
+169,0xaa8,dialogue,narrative,ｵ母ｻﾝﾆ聞ｷﾅｻｲ｡,13,去問媽媽。,人工定稿,
+170,0xab8,dialogue,narrative,結婚ｼﾃｲﾙﾝだｶﾗ､ﾖｸ知ｯﾃﾙだﾛｳ｣,26,既然結婚了，應該很明白｣,人工定稿,导入警告: kana_residue
+171,0xad4,dialogue,narrative,恋愛経験ｽﾗﾅｲ私ﾆｿﾝﾅｺﾄ聞ｶﾚﾃﾓ,26,連戀愛經驗都沒有的我,人工定稿,
+172,0xaf0,dialogue,narrative,答ｴﾗﾚﾙﾊずがﾅｶﾛｳ｡,16,怎麼可能答得出。,人工定稿,
+173,0xb04,system,system,0062,4,,未翻,
+174,0xb09,dialogue,narrative,opo｢ﾝｰ……?,11,opo｢唔……?,人工定稿,导入警告: kana_residue
+175,0xb15,dialogue,narrative,e.sﾜｶｯﾀ､ｿｳｽﾙ……｣,17,e.s知道，去問｣,人工定稿,导入警告: kana_residue
+176,0xb28,dialogue,narrative,ロム2_KW_プロポーズ_樫沢,24,ROM2_KW_求婚_樫澤,人工定稿,
+177,0xb44,system,system,0220,4,,未翻,
+178,0xb49,dialogue,narrative,opo｢ﾑ｡誰ｶﾄご婚約ﾅｻﾚﾀﾉでｽｶ?｣,27,opo｢唔。和誰訂婚了?｣,人工定稿,导入警告: kana_residue
+179,0xb68,system,system,1414,4,,未翻,
+180,0xb6d,dialogue,narrative,opo｢ｱｱ｡私､ｺﾉゲームが終ﾜｯﾀﾗ,26,opo｢唔。我等遊戲結束,人工定稿,导入警告: kana_residue
+181,0xb88,dialogue,narrative,結婚ｽﾙﾝだ｣,10,就結婚｣,人工定稿,导入警告: kana_residue
+182,0xb93,system,system,s0221,5,,未翻,
+183,0xb99,dialogue,narrative,opo｢……シャレﾆﾅﾗﾅｲフラグｦ立ﾃﾙﾉﾊ,32,opo｢……立那種不好笑的flag,人工定稿,导入警告: kana_residue
+184,0xbbc,dialogue,narrative,ﾔﾒﾃｲﾀだｹﾏｾﾝｶ｡不謹慎でｽﾖ｣,24,能別這樣? 太不謹慎｣,人工定稿,导入警告: kana_residue
+185,0xbd8,system,system,1415,4,,未翻,
+186,0xbdd,dialogue,narrative,opo｢ｽﾏﾅｲ｡ﾂｲ｣,12,opo｢抱歉。｣,人工定稿,导入警告: kana_residue
+187,0xbea,system,system,.s0222,6,,未翻,
+188,0xbf1,dialogue,narrative,opo｢でﾓ､ｵﾒでﾄｳござｲﾏｽ｡,22,opo｢不過，恭喜了。,人工定稿,导入警告: kana_residue
+189,0xc08,dialogue,narrative,ﾅﾝﾄｼﾃﾓ帰ﾗﾅｹﾚばﾅﾘﾏｾﾝﾈ｣,21,無論如何都得回去｣,人工定稿,导入警告: kana_residue
+190,0xc20,system,system,1416,4,,未翻,
+191,0xc25,dialogue,narrative,opo｢ｱ､ｲﾔ､ｽﾏﾅｲ……,17,opo｢哦、抱歉……,人工定稿,导入警告: kana_residue
+192,0xc38,dialogue,narrative,婚約ﾄｲｳﾉﾓ嘘だ｡恋人ｽﾗｲﾅｲﾖ｣,25,訂婚是騙人的。連戀人都沒｣,人工定稿,导入警告: kana_residue
+193,0xc54,system,system,0223,4,,未翻,
+194,0xc59,dialogue,narrative,opo｢……何が言ｲﾀｶｯﾀﾝでｽｶ｣,25,opo｢……到底想説什麼｣,人工定稿,导入警告: kana_residue
+195,0xc74,dialogue,narrative,ロム2_KW_プロポーズ_ジャック,28,ROM2_KW_求婚_傑克,人工定稿,
+196,0xc94,dialogue,narrative,｢オレﾍﾉプロポーズﾊ,18,｢給我的求婚是,人工定稿,导入警告: kana_residue
+197,0xca7,dialogue,narrative,_『殺ｼﾃｸだｻｲ』ｼｶ受ｹ付ｹﾈｪぜ!｣,28,_『請殺了我』之外不收咯!｣,人工定稿,P7: だぜ→咯(指南/全库惯例)
+198,0xcc4,system,system,1417,4,,未翻,
+199,0xcc9,dialogue,narrative,opo｢ﾏｻﾆ殺ｼ文句ﾄ言ｳﾜｹだﾅ｣,24,opo｢這正是殺人台詞｣,人工定稿,导入警告: kana_residue
+200,0xce4,dialogue,narrative,｢ｳﾏｲｺﾄ言ｳじｬﾈｪｶ!,16,｢不是挺會説話的!,人工定稿,P7: じゃねぇか 出口(卡 v1.4)
+201,0xcf8,dialogue,narrative,ﾌﾋｬﾋｬﾋｬﾋｬ!｣,11,桀桀桀桀!｣,人工定稿,导入警告: kana_residue
+202,0xd04,dialogue,narrative,ロム2_KW_プロポーズ_薫,22,ROM2_KW_求婚_薰,人工定稿,
+203,0xd1c,system,system,0207,4,,未翻,
+204,0xd21,dialogue,narrative,opo｢ﾅﾆｿﾚ｡美味ｼｲﾝでｽｶ?｣,22,opo｢那是什麼。好吃?｣,人工定稿,导入警告: kana_residue
+205,0xd38,system,system,1418,4,,未翻,
+206,0xd3d,dialogue,narrative,opo｢……ｲﾔ､ｽﾏﾅｶｯﾀ｡,18,opo｢……不、抱歉。,人工定稿,导入警告: kana_residue
+207,0xd50,dialogue,narrative,聞ｶﾅｶｯﾀｺﾄﾆｼﾃｸﾚ｣,15,當作沒聽見｣,人工定稿,导入警告: kana_residue
+208,0xd60,system,system,0208,4,,未翻,
+209,0xd65,dialogue,narrative,opo｢ﾅ､ﾅﾝでｽｶｿﾚ!,15,opo｢什、什麼!,人工定稿,导入警告: kana_residue
+210,0xd75,system,system,s,1,,未翻,
+211,0xd78,dialogue,narrative,ﾁｮｯﾄ､ﾅﾝで哀ｼｿｳﾅ顔ｼﾃﾙﾝでｽｶ!｣,27,等等，為何一副難過的臉!｣,人工定稿,导入警告: kana_residue
+212,0xd94,system,system,0209,4,,未翻,
+213,0xd99,dialogue,narrative,opo｢ｱ､ｱﾅﾀだｯﾃプロポーズｻﾚﾀｺﾄﾅﾝﾃ,31,opo｢哦、薰也沒被求婚過,人工定稿,P7: 〜ない 否定丢失修正(原'不也被人求婚過'反义)
+214,0xdbc,dialogue,narrative,ﾅｲでｼｮｳ!?｣,10,對不!?｣,人工定稿,P7: でしょう 求確認出口(卡 v1.4)
+215,0xdc7,system,system,s1419,5,,未翻,
+216,0xdcd,dialogue,narrative,opo｢ｲﾔ……承諾ｼﾀｺﾄﾊﾅｲが､,24,opo｢不……雖沒答應過，,人工定稿,导入警告: kana_residue
+217,0xde8,dialogue,narrative,言ﾜﾚﾀｺﾄﾊｱﾙぞ｣,13,倒是被人求過｣,人工定稿,导入警告: kana_residue
+218,0xdf8,system,system,0210,4,,未翻,
+219,0xdfd,dialogue,narrative,opo｢どｳｾ笹木ｻﾝでｼｮｳ｣,20,opo｢反正又是笹木嘛｣,人工定稿,导入警告: kana_residue
+220,0xe14,system,system,1420,4,,未翻,
+221,0xe19,dialogue,narrative,opo｢ｲﾔ､男だが?｣,15,opo｢是男的?｣,人工定稿,导入警告: kana_residue
+222,0xe29,system,system,s,1,,未翻,
+223,0xe2c,system,system,0211,4,,未翻,
+224,0xe31,dialogue,narrative,opo｢ﾁ､小ｻｲ頃ﾉ遊びﾉ上でﾄｶ……｣,29,opo｢小、小時候玩鬧……｣,人工定稿,导入警告: kana_residue
+225,0xe50,system,system,1421,4,,未翻,
+226,0xe55,dialogue,narrative,opo｢ﾂｲ半年前ﾉ話だ｡,18,opo｢才半年前的事。,人工定稿,P7: 补回 つい
+227,0xe68,dialogue,narrative,ｻｽがﾆﾖｸ知ﾗﾅｲ相手だｯﾀが､,23,雖是不太熟的對象，,人工定稿,
+228,0xe80,dialogue,narrative,向ｺｳﾊずｯﾄ私ｦ見ﾃｲﾀﾄｶで……｣,26,聽説對方一直看著我……｣,人工定稿,P7: 〜とかで 传闻语气补回
+229,0xe9c,system,system,0212,4,,未翻,
+230,0xea1,dialogue,narrative,opo｢ば､爆発ｼﾛ!｣,15,opo｢爆、爆炸!｣,人工定稿,导入警告: kana_residue
+231,0xeb1,system,system,s,1,,未翻,
+232,0xeb4,system,system,1422,4,,未翻,
+233,0xeb9,dialogue,narrative,opo｢ﾅぜ!?｣,10,opo｢為何?｣,人工定稿,导入警告: kana_residue
+234,0xec4,system,system,0213,4,,未翻,
+235,0xec9,dialogue,narrative,opo｢ｳｩｩ……ﾅﾝで私だｹ……｣,25,opo｢嗚……為何只有我……｣,人工定稿,导入警告: kana_residue
+236,0xee4,dialogue,narrative,ﾔﾊﾘ､触ﾚﾃﾊｲｹﾅｲ話題だｯﾀﾖｳだﾅ……｡,31,果然，是不該提的話題……。,人工定稿,
+237,0xf04,dialogue,narrative,ロム2_KW_プロポーズ_唯柚,24,ROM2_KW_求婚_唯柚,人工定稿,
+238,0xf20,system,system,0142,4,,未翻,
+239,0xf25,dialogue,narrative,opo｢プロポーズｯﾃ,16,opo｢求婚這種事,人工定稿,导入警告: kana_residue
+240,0xf37,dialogue,narrative,M嬉ｼｲ人ｲﾙﾉｶﾅｰ｣,14,M會有人開心?｣,人工定稿,导入警告: kana_residue
+241,0xf48,system,system,1423,4,,未翻,
+242,0xf4d,dialogue,narrative,opo｢ｿﾘｬｱ､一般的ﾆﾊ嬉ｼｲﾓﾉだﾛｳ｡,28,opo｢那當然，一般是開心的。,人工定稿,导入警告: kana_residue
+243,0xf6c,dialogue,narrative,嫌ﾅﾉｶ?｣,7,討厭?｣,人工定稿,导入警告: kana_residue
+244,0xf74,system,system,0143,4,,未翻,
+245,0xf79,dialogue,narrative,opo｢ｳｰﾝ､だｯﾃﾈ｡,14,opo｢唔，因為。,人工定稿,P7: だって 表原因(原'可是'误)
+246,0xf88,dialogue,narrative,ﾕﾕﾆプロポーズｼﾃｸﾙ人ﾊ､,21,跟唯柚求婚的人，,人工定稿,
+247,0xfa0,dialogue,narrative,ﾐﾝﾅﾕﾕじｬﾅｸﾃ高円寺家ﾄ結婚ｼﾀｲ人だｼ｣,33,都想跟高圓寺家結婚，不是唯柚｣,人工定稿,导入警告: kana_residue
+248,0xfc4,system,system,0144,4,,未翻,
+249,0xfc9,dialogue,narrative,opo｢ﾎﾝﾄﾆ大好ｷﾅ人ﾄﾊ､,19,opo｢跟真正喜歡的人,人工定稿,导入警告: kana_residue
+250,0xfe0,dialogue,narrative,プロポーズﾅﾝﾃﾅｸﾃﾓ,17,就算沒有求婚,人工定稿,
+251,0xff4,dialogue,narrative,一緒ﾆｲﾗﾚﾀﾗｲｲｶﾅｯﾃ｣,17,能在一起就好｣,人工定稿,导入警告: kana_residue
+252,0x1008,system,system,1424,4,,未翻,
+253,0x100d,dialogue,narrative,opo｢でﾓ､ｿﾝﾅ人ﾆ,14,opo｢可是那種人,人工定稿,导入警告: kana_residue
+254,0x101c,dialogue,narrative,ずｯﾄ一緒ﾆｲﾃｸﾚｯﾃ言ﾜﾚﾀﾗ,21,被説一直在一起的話,人工定稿,
+255,0x1034,dialogue,narrative,嬉ｼｲﾉだﾛｳ?｣,11,會開心?｣,人工定稿,导入警告: kana_residue
+256,0x1040,system,system,0145,4,,未翻,
+257,0x1045,dialogue,narrative,opo｢ｱｯ､ｿｯｶｰ｡ｿｳだﾈ｡,18,opo｢哦，對哦。也是,人工定稿,导入警告: kana_residue
+258,0x1058,dialogue,narrative,嬉ｼｲｶﾓ｡ｴﾍﾍ｣,11,開心。呵呵｣,人工定稿,导入警告: kana_residue
+259,0x1064,dialogue,narrative,ロム2_KW_プロポーズ_紅春,24,ROM2_KW_求婚_紅春,人工定稿,
+260,0x1080,system,system,0191,4,,未翻,
+261,0x1085,dialogue,narrative,opo｢……ｺﾉ前､患者ｻﾝが言ｯﾃﾏｼﾀ｡,29,opo｢……之前，病友説。,人工定稿,导入警告: kana_residue
+262,0x10a4,dialogue,narrative,ｱﾝﾅﾆ情熱的ﾆプロポーズｼﾃ結婚ｼﾀﾉﾆ,31,那麼熱情地求婚結婚了,人工定稿,
+263,0x10c4,dialogue,narrative,今ﾔ入院ｼﾃﾓ見舞ｲﾆﾓｺﾅｲｯﾃ｣,23,現在住院都不來探望｣,人工定稿,导入警告: kana_residue
+264,0x10dc,system,system,0192,4,,未翻,
+265,0x10e1,dialogue,narrative,opo｢ｷｯﾄ自分ﾉｺﾄｦATMｶ何ｶだﾄ,25,opo｢一定把自己當成ATM,人工定稿,导入警告: kana_residue
+266,0x10fc,dialogue,narrative,思ｯﾃﾙﾝだｯﾃ､泣ｲﾃﾏｼﾀﾈｰ｣,21,邊哭邊説著｣,人工定稿,导入警告: kana_residue
+267,0x1114,system,system,1425,4,,未翻,
+268,0x1119,dialogue,narrative,opo｢ｿ､ｿﾚﾊ憐ﾚだﾅ……｣,20,opo｢那、真可憐……｣,人工定稿,导入警告: kana_residue
+269,0x1130,system,system,0193,4,,未翻,
+270,0x1135,dialogue,narrative,opo｢隣で入院ｼﾃﾀｵ婆ｻﾝﾆ､,22,opo｢隔壁住院的老太太，,人工定稿,导入警告: kana_residue
+271,0x114c,dialogue,narrative,ｱﾝﾀｿﾘｬ情熱的ｽぎﾃ利用ｼﾔｽｲﾄ,25,説太熱情容易被利用,人工定稿,
+272,0x1168,dialogue,narrative,思ﾜﾚﾀﾝだﾖｯﾃ言ﾜﾚﾃﾏｼﾀ｣,20,老太太這麼説的｣,人工定稿,导入警告: kana_residue
+273,0x1180,system,system,1426,4,,未翻,
+274,0x1185,dialogue,narrative,opo｢ｿﾉｵ婆ｻﾝﾓ､,13,opo｢老太太也,人工定稿,导入警告: kana_residue
+275,0x1193,dialogue,narrative,sトドメｦ刺ｻﾅｸﾃﾓ良ｲだﾛｳﾆ……｣,28,s何必再補一刀……｣,人工定稿,导入警告: kana_residue
+276,0x11b0,system,system,0194,4,,未翻,
+277,0x11b5,dialogue,narrative,opo｢プロポーズｯﾃ怖ｲでｽﾖﾈ｣,25,opo｢求婚真可怕呀｣,人工定稿,导入警告: kana_residue
+278,0x11d0,dialogue,narrative,ｿﾚﾊ何ｶ違ｳﾄ思ｳぞ……｡,20,那好像不太一樣……。,人工定稿,
+279,0x11e8,dialogue,narrative,ロム2_KW_プロポーズ_西野,24,ROM2_KW_求婚_西野,人工定稿,
+280,0x1204,system,system,0057,4,,未翻,
+281,0x1209,dialogue,narrative,opo｢ﾝ､ﾅﾝだﾈ｡,12,opo｢什麼事?,人工定稿,P7: 何事 日式残留改写
+282,0x1216,dialogue,narrative,.s玉ﾉ輿ｦ狙ｯﾄﾙﾉｶﾈ?｣,18,.s想攀高枝?｣,人工定稿,导入警告: kana_residue
+283,0x122c,system,system,1427,4,,未翻,
+284,0x1231,dialogue,narrative,opo｢ｲﾔ､ﾏｯぴﾗごﾒﾝだが｣,21,opo｢不，我才不要｣,人工定稿,导入警告: kana_residue
+285,0x1248,dialogue,narrative,｢ｿｳだﾅ｡チミﾅﾗ愛人ﾆﾅﾗ,20,｢也是。當情婦的話,人工定稿,导入警告: kana_residue
+286,0x1260,dialogue,narrative,ｼﾃﾔｯﾃﾓ良ｲぞ｡ﾌﾋﾋ､ﾌﾋﾋﾋﾋ｣,22,也不是不行。桀桀桀桀｣,人工定稿,导入警告: kana_residue
+287,0x1278,system,system,1428,4,,未翻,
+288,0x127d,dialogue,narrative,opo｢薫ｻｰﾝ､ｺﾉ人逮捕ｼﾃｸだｻｰｲ｣,27,opo｢薰，快逮捕這人｣,人工定稿,导入警告: kana_residue
+289,0x129c,dialogue,narrative,｢ﾝﾅｯ､ﾔ､ﾔﾒﾅｲｶ!,13,｢什、住手!,人工定稿,导入警告: kana_residue
+290,0x12ac,dialogue,narrative,ﾜ､ﾜｶｯﾀ｡ｵ小遣ｲﾔﾙｶﾗ｡ﾅ｣,20,知道了。給零花錢｣,人工定稿,导入警告: kana_residue
+291,0x12c4,system,system,1429,4,,未翻,
+292,0x12c9,dialogue,narrative,opo｢私ｦ何だﾄ思ｯﾃｲﾙﾝだブタ男｡,28,opo｢把我當什麼，豬頭。,人工定稿,导入警告: kana_residue
+293,0x12e8,dialogue,narrative,臭ｲｶﾗ失ｾﾛ｡ｲｲ加減ﾆｼﾅｲﾄｱﾅﾀﾉ,25,臭死了，滾。再鬧就把,人工定稿,P7: 失せろ 去翻译腔
+294,0x1304,dialogue,narrative,ニックネームｦ『神経痛』ﾆｽﾙぞ｣,29,綽號改成『神經痛』｣,人工定稿,导入警告: kana_residue
+295,0x1324,dialogue,narrative,｢ﾝｵ､ｵｫｯ……?｣,13,｢唔、哦……?｣,人工定稿,导入警告: kana_residue
+296,0x1334,dialogue,narrative,ｺﾉぐﾗｲ言ｯﾃｵｹば,14,這樣説的話就,人工定稿,
+297,0x1344,dialogue,narrative,ﾓｳ近寄ｯﾃｸﾙﾏｲ｡,13,不會再靠近。,人工定稿,
+298,0x1354,dialogue,narrative,｢ﾝ､ｽﾏﾅｲが､チミ｡,15,｢唔，抱歉小子。,人工定稿,导入警告: kana_residue
+299,0x1364,dialogue,narrative,ﾓ､ﾓｳ一度罵ｯﾃｸﾚﾝｶ｣,17,再、再罵我一次｣,人工定稿,导入警告: kana_residue
+300,0x1378,system,system,1430,4,,未翻,
+301,0x137d,dialogue,narrative,opo｢ﾋｯ……!｣,12,opo｢呀……!｣,人工定稿,导入警告: kana_residue
+302,0x138a,dialogue,narrative,.s逆効果だｯﾀ｡,13,.s反效果了。,人工定稿,
+303,0x1398,system,system,0214,4,,未翻,
+304,0x139d,dialogue,narrative,opo｢ｱﾉ､ｻｯｷ呼びﾏｼﾀ?｣,19,opo｢剛才叫我?｣,人工定稿,导入警告: kana_residue
+305,0x13b4,dialogue,narrative,｢ﾝｯ､チミｶ｡,10,｢哦､小子｡,人工定稿,P7 校对修正
+306,0x13bf,dialogue,narrative,sﾝﾝ､ごﾎﾝ｡何でﾓﾅｲ｡下がﾘﾀﾏｴ｣,26,s咳咳。沒什麼。退下｣,人工定稿,导入警告: kana_residue
+307,0x13dc,system,system,0215,4,,未翻,
+308,0x13e1,dialogue,narrative,opo｢ﾊｧ……｣,11,opo｢哈……｣,人工定稿,导入警告: kana_residue
+309,0x13ed,system,system,e.s0063,7,,未翻,
+310,0x13f5,dialogue,narrative,opo｢ﾄﾝだ邪魔が入ｯﾀﾅ｡,20,opo｢偏偏有人來打擾。,人工定稿,P7: とんだ邪魔が入った 去翻译腔
+311,0x140c,dialogue,narrative,ﾝ､ﾏｧｺｺﾊ人が多ｲ｡,15,唔，這裡人多。,人工定稿,
+312,0x141c,dialogue,narrative,続ｷﾊｿﾉｳﾁ､ﾅ｣,11,下次再説｣,人工定稿,导入警告: kana_residue
+313,0x1428,system,system,1431,4,,未翻,
+314,0x142d,dialogue,narrative,opo｢ｲﾔ､ｱﾘﾏｾﾝｶﾗ｣,15,opo｢不，才沒有｣,人工定稿,P7: ありません 语义(原'才不要')
+315,0x143d,system,system,s,1,,未翻,
+316,0x1440,dialogue,narrative,ｺﾉ人ﾄだｹﾊ二人ｷﾘﾆﾅﾗﾅｲﾖｳﾆｼﾖｳ｡,27,只有這人，別單獨相處。,人工定稿,

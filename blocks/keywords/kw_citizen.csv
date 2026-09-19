@@ -1,0 +1,195 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_citizen.tob,26,,未翻,
+2,0x1c,system,system,kw_citizen.sts,14,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_市民,12,ROM2_KW_市民,人工定稿,
+4,0x3c,dialogue,label,ROM2_KW会話_市民,16,ROM2_KW會話_市民,人工定稿,
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_市民_昇,16,ROM2_KW_市民_昇,人工定稿,
+8,0x8c,system,system,0237,4,,未翻,
+9,0x91,dialogue,narrative,tiz｢市民ｯﾃ無力だﾖﾅ……｣,23,tiz｢市民還真是無力……｣,人工定稿,导入警告: kana_residue
+10,0xac,system,system,1559,4,,未翻,
+11,0xb1,dialogue,narrative,tiz｢ｿｳでﾓﾅｲぞ｡,14,tiz｢不見得哇。,人工定稿,"P7 校对修正: ぞ→哇(风格指南 だぞ 口径), 非 哦"
+12,0xc0,dialogue,narrative,人が減ﾙﾎど投票ﾉ重ﾐが集約ｼﾃｲｸ｣,29,人越少，投票分量越集中｣,人工定稿,导入警告: kana_residue
+13,0xe0,system,system,0238,4,,未翻,
+14,0xe5,dialogue,narrative,tiz｢でﾓ､Xｦ見ﾂｹﾀﾘﾊでｷﾅｲだﾛ?,26,tiz｢但也找不到X，對不?,人工定稿,"P7 校对修正: だろ? 求确认, 按卡 v1.4 用 對不?, 禁 哦"
+15,0x100,dialogue,narrative,当ﾃずｯぽｳで投票ｽﾙﾜｹﾆﾓｲｶﾅｲｼ……｣,31,也不能靠瞎猜投票……｣,人工定稿,导入警告: kana_residue
+16,0x120,system,system,1560,4,,未翻,
+17,0x125,dialogue,narrative,tiz｢ｿﾉジレンマﾊ市民だｹﾉﾓﾉでﾊﾅｲﾖ｣,32,tiz｢那種兩難不是市民才有哦｣,人工定稿,P7 校对修正: 补回 よ 的告知语气(だよ→哦)
+18,0x148,system,system,0239,4,,未翻,
+19,0x14d,dialogue,narrative,tiz｢ｿｳｶ……ｿﾚﾓｿｳｶﾓﾅ｣,20,tiz｢這樣……也許哦｣,人工定稿,"P7 校对修正: 「也許是」悬空, 补足; 保留 かも 推测语气"
+20,0x164,dialogue,narrative,ロム2_KW_市民_香菜,18,ROM2_KW_市民_香菜,人工定稿,
+21,0x178,system,system,0252,4,,未翻,
+22,0x17d,dialogue,narrative,tiz｢市民で選挙ﾈ｡,16,tiz｢市民的選舉。,人工定稿,导入警告: kana_residue
+23,0x190,dialogue,narrative,でﾓ当選ｼﾀﾗ死ﾇ､ﾄ｡,16,但當選就會死。,人工定稿,"P7 校对修正: 去「，這樣」翻译腔, 补回 でも(但); 語尾 と 依全库口径略去"
+24,0x1a4,dialogue,narrative,モチーフﾄｼﾃﾊ変ﾖﾈ｣,17,作為主題很怪呀｣,人工定稿,"P7 校对修正: 変よね 共感, 按卡用 呀, 禁 哦"
+25,0x1b8,system,system,1561,4,,未翻,
+26,0x1bd,dialogue,narrative,tiz｢選挙ﾄｲｳﾖﾘ魔女裁判だﾅ｣,25,tiz｢比起選舉更像魔女審判｣,人工定稿,导入警告: kana_residue
+27,0x1d8,system,system,0253,4,,未翻,
+28,0x1dd,dialogue,narrative,tiz｢ﾅﾙﾎどﾈ｡,11,tiz｢是哦。,人工定稿,导入警告: kana_residue
+29,0x1e9,dialogue,narrative,n.sﾅﾗ市民ﾄｲｳﾖﾘ､裁判員じｬﾅｲ?｣,28,n.s那更像陪審員對不?｣,人工定稿,"P7 校对修正: じゃない? 求确认, 按卡用 對不?, 禁 哦"
+30,0x208,system,system,1562,4,,未翻,
+31,0x20d,dialogue,narrative,tiz｢どｳだﾛｳﾅ｡魔女裁判ﾅﾝﾃﾓﾉﾊ特ﾆ,30,tiz｢很難説呀。魔女審判尤其,人工定稿,"P7 校对修正: どうだろうな 非「不知道」, 改推测语气 很難説呀"
+32,0x22c,dialogue,narrative,世論がｿﾉﾏﾏ判決ﾆﾅﾙﾖｳﾅﾓﾉだｶﾗﾅ｣,28,因為輿論直接就成判決｣,人工定稿,导入警告: kana_residue
+33,0x24c,system,system,0254,4,,未翻,
+34,0x251,dialogue,narrative,tiz｢ｿｯｶ……｣,12,tiz｢是這樣｣,人工定稿,导入警告: kana_residue
+35,0x25e,dialogue,narrative,.sロム2_KW_市民_圭介,20,.sROM2_KW_市民_圭介,人工定稿,
+36,0x274,system,system,0121,4,,未翻,
+37,0x279,dialogue,narrative,tiz｢市民ｯﾃﾎﾄﾝど何ﾓでｷﾅｲでｽﾖﾈ……｣,33,tiz｢市民幾乎什麼都做不到呀……｣,人工定稿,"P7 校对修正: ですよね 共感, 按卡用 呀"
+38,0x29c,system,system,1563,4,,未翻,
+39,0x2a1,dialogue,narrative,tiz｢ｿｳでﾓﾅｲｻ｣,13,tiz｢不見得哦｣,人工定稿,导入警告: kana_residue
+40,0x2af,system,system,s0122,5,,未翻,
+41,0x2b5,dialogue,narrative,tiz｢ｿｳでｽｶ?,11,tiz｢這樣?,人工定稿,导入警告: kana_residue
+42,0x2c1,dialogue,narrative,n.s何分ﾉ一ｶﾉ票ｼｶﾓｯﾃﾅｲﾝでｽﾖ?｣,28,n.s只有幾分之一票而已?｣,人工定稿,导入警告: kana_residue
+43,0x2e0,system,system,1564,4,,未翻,
+44,0x2e5,dialogue,narrative,tiz｢探偵ﾔ警官､シリアルキラーﾆ比べﾙﾄ,35,tiz｢跟偵探、警官、連環殺手相比,人工定稿,P7 校对修正: 并列三项补 、(跟偵探、警官、連環殺手)
+45,0x30c,dialogue,narrative,でｷﾙ事が少ﾅｲﾖｳﾆﾓ思ｴﾙが,22,能做的事好像也較少，但,人工定稿,"P7 校对修正: 补回 が(但), 与下句衔接"
+46,0x324,dialogue,narrative,探偵ﾔ警官ﾓ､能力ﾉ使ｲ所ﾊ難ｼｲｶﾗﾅ｣,30,因為偵探和警官的能力也很難用｣,人工定稿,"P7 校对修正: 补回 から(因為)与 の(的), 難用→很難用"
+47,0x344,system,system,0123,4,,未翻,
+48,0x349,dialogue,narrative,tiz｢……確ｶﾆ｣,13,tiz｢……確實｣,人工定稿,导入警告: kana_residue
+49,0x357,system,system,s1565,5,,未翻,
+50,0x35d,dialogue,narrative,tiz｢シリアルキラーﾓ強力ﾅﾖｳﾆ見ｴﾙが,33,tiz｢連環殺手看起來也很強，但,人工定稿,P7 校对修正: 补回 も/ように(看起來也很強)与 が(但)
+51,0x380,dialogue,narrative,人数的ﾆﾊ3対11ﾉ勝負ﾅ上ﾆ,22,人數是3對11勝負，而且,人工定稿,P7 校对修正: 补 、断句
+52,0x398,dialogue,narrative,3ターンﾆ一度ｼｶ自分ﾉ優先ターンﾊｺﾅｲ｣,34,3回合才有一次自己的優先回合｣,人工定稿,导入警告: kana_residue
+53,0x3bc,system,system,1566,4,,未翻,
+54,0x3c1,dialogue,narrative,tiz｢協力関係ｦ結ぶｺﾄﾓ難ｼｲだﾛｳｶﾗ,30,tiz｢因為建立合作關係也很難,人工定稿,导入警告: kana_residue
+55,0x3e0,dialogue,narrative,結局ﾉﾄｺﾛ､誰ﾓが無力ﾄｲｳﾜｹだﾅ｣,27,説到底誰都無力｣,人工定稿,导入警告: kana_residue
+56,0x3fc,system,system,1567,4,,未翻,
+57,0x401,dialogue,narrative,tiz｢ゲーム内でﾉ能力ﾖﾘ､樫沢氏ﾉﾖｳﾆ,32,tiz｢比起遊戲内的能力，像樫澤先生,人工定稿,P7 校对修正: ゲーム内 补 内; 补 、断句
+58,0x424,dialogue,narrative,皆ｦ自分ﾉ意見ﾆ従ﾜｾﾙ能力ﾉ方が,27,讓大家聽從自己意見的能力,人工定稿,
+59,0x440,dialogue,narrative,有効ﾅﾉでﾊﾅｲだﾛｳｶ｣,17,豈不是更有效?｣,人工定稿,"P7 校对修正: ではないだろうか 为反问, 补 豈不是 与 ?"
+60,0x454,system,system,0124,4,,未翻,
+61,0x459,dialogue,narrative,tiz｢……ｿｳでｽﾈ｣,15,tiz｢……沒錯｣,人工定稿,导入警告: kana_residue
+62,0x469,system,system,s,1,,未翻,
+63,0x46c,dialogue,narrative,ロム2_KW_市民_霞,16,ROM2_KW_市民_霞,人工定稿,
+64,0x480,system,system,0108,4,,未翻,
+65,0x485,dialogue,narrative,tiz｢……市民ﾓ……誰ｶｦ指名ｼﾅｲﾄ,29,tiz｢……市民也……得指名某人,人工定稿,"P7 校对修正: 指名 依全库定稿(探偵/指名 口径), 指認→指名"
+66,0x4a4,dialogue,narrative,ｲｹﾅｲﾝでｽﾖﾈ……｣,15,是不行的呀……｣,人工定稿,"P7 校对修正: んですよね 共感, 按卡用 呀"
+67,0x4b4,system,system,1568,4,,未翻,
+68,0x4b9,dialogue,narrative,tiz｢自分が死ﾆﾀｸﾅｹﾚば､ﾅ｣,23,tiz｢若自己不想死的話｣,人工定稿,导入警告: kana_residue
+69,0x4d4,system,system,0109,4,,未翻,
+70,0x4d9,dialogue,narrative,tiz｢自分が死ﾇﾉﾓ嫌でｽｹど……,27,tiz｢自己死掉也不願意……,人工定稿,导入警告: kana_residue
+71,0x4f8,dialogue,narrative,でﾓ誰ｶｦ殺ｽﾅﾝﾃ……私､ﾄﾃﾓ……,27,但殺誰什麼的……我實在……,人工定稿,
+72,0x514,dialogue,narrative,ｿﾚぐﾗｲﾅﾗ､ｲｯｿ……｣,17,與其那樣不如……｣,人工定稿,导入警告: kana_residue
+73,0x528,system,system,1569,4,,未翻,
+74,0x52d,dialogue,narrative,tiz｢ｵｲ､バカﾅｺﾄﾊ考ｴﾙﾅﾖ?｣,23,tiz｢欸，別想蠢事?｣,人工定稿,导入警告: kana_residue
+75,0x548,system,system,0110,4,,未翻,
+76,0x54d,dialogue,narrative,tiz｢ｱ､ﾊｲ……ごﾒﾝﾅｻｲ｣,20,tiz｢是……對不起｣,人工定稿,导入警告: kana_residue
+77,0x564,dialogue,narrative,ロム2_KW_市民_美紀,18,ROM2_KW_市民_美紀,人工定稿,
+78,0x578,system,system,0966,4,,未翻,
+79,0x57d,dialogue,narrative,tiz｢市民……人数的ﾆﾊ村人ｯｽﾖﾈ｣,29,tiz｢市民……人數上算村民呀｣,人工定稿,"P7 校对修正: っすよね 求同位置禁 哦, 按卡用 呀(与 kw_vote 口径一致)"
+80,0x59c,system,system,1570,4,,未翻,
+81,0x5a1,dialogue,narrative,tiz｢何万人ﾓ集ﾒﾚば満足ｶ?｣,24,tiz｢集齊幾萬人就滿足?｣,人工定稿,导入警告: kana_residue
+82,0x5bc,system,system,0967,4,,未翻,
+83,0x5c1,dialogue,narrative,tiz｢ｿﾉ中ｶﾗ一人が死ﾇ……,23,tiz｢其中一人會死……,人工定稿,导入警告: kana_residue
+84,0x5dc,dialogue,narrative,ｱﾚｯ､でﾓｿﾚだｯﾀﾗｱﾀｼ達ﾉ危険性ﾊ,27,欸，但那樣我們的危險性,人工定稿,P7 校对修正: 补回 アレッ(欸)
+85,0x5f8,dialogue,narrative,減ﾗﾅｲｯｽｶ?｣,10,不會減少?｣,人工定稿,导入警告: kana_residue
+86,0x603,system,system,s1571,5,,未翻,
+87,0x609,dialogue,narrative,tiz｢ﾏず､死ﾇﾉﾊ一人ﾄﾊ限ﾗﾅｲ｡,25,tiz｢死的未必只有一人。,人工定稿,导入警告: kana_residue
+88,0x624,dialogue,narrative,ｿｼﾃ確ｶﾆ序盤ﾉ生存確率ﾊ高ｸﾅﾙが,28,而且開頭生存率確實變高,人工定稿,
+89,0x644,dialogue,narrative,放ｯﾃｵｹば結局ﾊ今ﾄ同じ状況ﾆﾅﾙ｣,28,放著不管結果還是跟現在一樣｣,人工定稿,导入警告: kana_residue
+90,0x664,system,system,1572,4,,未翻,
+91,0x669,dialogue,narrative,tiz｢ｵｿﾗｸｺｺﾆ集ﾒﾗﾚﾀ人数が､,24,tiz｢大概聚集到此的人數，,人工定稿,导入警告: kana_residue
+92,0x684,dialogue,narrative,ｺﾉゲームｦ開始ｽﾙﾉﾆﾁｮｳど良ｲ,25,正好適合開始這遊戲,人工定稿,
+93,0x6a0,dialogue,narrative,緊張感ｦ生ﾑ人数ﾅﾉだﾛｳﾅ｣,22,能産生緊張感的人數｣,人工定稿,导入警告: kana_residue
+94,0x6b8,system,system,0968,4,,未翻,
+95,0x6bd,dialogue,narrative,tiz｢ﾑﾑｩ……｣,12,tiz｢唔唔｣,人工定稿,导入警告: kana_residue
+96,0x6ca,dialogue,narrative,.sロム2_KW_市民_ﾊﾙｶ,19,.sROM2_KW_市民_遙,人工定稿,
+97,0x6e0,system,system,0081,4,,未翻,
+98,0x6e5,dialogue,narrative,tiz｢ﾜﾀｼ､市民だﾖ｡,16,tiz｢我是市民哦。,人工定稿,导入警告: kana_residue
+99,0x6f8,dialogue,narrative,夏休ﾐﾊ､市民プールｲｯﾃﾀｼ｣,23,暑假還去過市民泳池｣,人工定稿,导入警告: kana_residue
+100,0x710,system,system,1573,4,,未翻,
+101,0x715,dialogue,narrative,tiz｢ｿｳｶ｡,8,tiz｢哦。,人工定稿,导入警告: kana_residue
+102,0x71e,dialogue,narrative,izｺｺﾆ来ﾃｶﾗﾓ､市民ｯﾃ言ﾜﾚﾀｶ?｣,26,iz來此之後也被叫市民?｣,人工定稿,导入警告: kana_residue
+103,0x73c,system,system,0082,4,,未翻,
+104,0x741,dialogue,narrative,tiz｢ｳﾝ｡メールﾆﾊｿｳｶｲﾃﾀ｣,22,tiz｢對。郵件裡寫著｣,人工定稿,导入警告: kana_residue
+105,0x758,system,system,1574,4,,未翻,
+106,0x75d,dialogue,narrative,tiz｢ｿｳｶ｣,8,tiz｢哦。,人工定稿,导入警告: kana_residue
+107,0x766,dialogue,narrative,izロム2_KW_市民_ﾂﾑじ,20,izROM2_KW_市民_旋,人工定稿,
+108,0x77c,system,system,0083,4,,未翻,
+109,0x781,dialogue,narrative,tiz｢ぼｸﾓﾊﾙｶﾓ市民でｽﾖ｡,21,tiz｢我和遙都是市民哦,人工定稿,导入警告: kana_residue
+110,0x798,dialogue,narrative,でﾓ本当ﾊ警官が良ｶｯﾀｶﾅ｡,22,但其實本來想當警官。,人工定稿,
+111,0x7b0,dialogue,narrative,ﾊﾙｶｦ守ﾚﾙｼ｣,10,能保護遙｣,人工定稿,导入警告: kana_residue
+112,0x7bb,system,system,s1575,5,,未翻,
+113,0x7c1,dialogue,narrative,tiz｢大切ﾅ人ｦ守ﾘﾀｲﾄｲｳ気持ﾁﾊ皆同じだ｡,35,tiz｢想保護重要之人的心情都一樣。,人工定稿,导入警告: kana_residue
+114,0x7e8,dialogue,narrative,でｷﾚばｺﾚ以上､,13,可以的話別再,人工定稿,
+115,0x7f8,dialogue,narrative,誰ﾓ死ﾅﾅｲﾖｳﾆｼﾀｲﾓﾉだﾅ｣,20,希望誰都不要死｣,人工定稿,导入警告: kana_residue
+116,0x810,system,system,0084,4,,未翻,
+117,0x815,dialogue,narrative,tizロム2_KW_市民_ジャック,25,tizROM2_KW_市民_傑克,人工定稿,
+118,0x830,system,system,0106,4,,未翻,
+119,0x835,dialogue,narrative,tiz｢市民だｧ? ｱｧ?,16,tiz｢市民? 哦?,人工定稿,导入警告: kana_residue
+120,0x848,dialogue,narrative,ﾌざｹﾝじｬﾈｰﾖ!,12,別開玩笑!,人工定稿,
+121,0x855,system,system,s,1,,未翻,
+122,0x858,dialogue,narrative,普通オレﾊシリアルキラーだﾛ!｣,28,一般來説我是連環殺手對不!｣,人工定稿,"P7 校对修正: だろ! 求确认, 按卡用 對不(全库 kw_ope 同形)"
+123,0x878,system,system,0107,4,,未翻,
+124,0x87d,dialogue,narrative,tiz｢オレがｲﾂﾀだﾉ市民だｯﾀｯﾃ言ｳﾝだ｡,33,tiz｢我何時説過只是市民了。,人工定稿,P7 校对修正: 补回 ただの(只是)
+125,0x8a0,dialogue,narrative,言ｯﾃﾐﾛ!!｣,9,説説看!!｣,人工定稿,导入警告: kana_residue
+126,0x8aa,system,system,.s1576,6,,未翻,
+127,0x8b1,dialogue,narrative,tiz｢……生ﾏﾚﾃｽぐﾊ,17,tiz｢……剛出生時,人工定稿,导入警告: kana_residue
+128,0x8c4,dialogue,narrative,ｻｽがﾆﾀだﾉ市民だｯﾀだﾛｳ?｣,23,好歹也只是個市民對不?｣,人工定稿,P7 校对修正: ただの市民 补 只是個; だろ? 按卡用 對不?
+129,0x8dc,dialogue,narrative,｢ﾌﾋｬﾋｬﾋｬ!,9,｢桀桀桀!,人工定稿,导入警告: kana_residue
+130,0x8e6,dialogue,narrative,.sオレが生ﾏﾚﾀ時ﾆ母親ﾊ死ﾝじﾏｯﾃﾅ?,31,.s我出生時媽媽就死了?,人工定稿,
+131,0x908,dialogue,narrative,ｿﾉ時ｶﾗ親父ﾆﾊ人殺ｼ呼ばﾜﾘﾖ｣,25,從那時起就被父親叫殺人犯｣,人工定稿,导入警告: kana_residue
+132,0x924,dialogue,narrative,……彼がｺｳﾅｯﾃｼﾏｯﾀﾉﾊ,19,他變成這樣是因為,人工定稿,
+133,0x938,dialogue,narrative,ｿﾉ父親ﾉｾｲｶﾓｼﾚﾅｲﾅ……｡,21,或許是他父親的錯……,人工定稿,
+134,0x950,dialogue,narrative,ロム2_KW_市民_薫,16,ROM2_KW_市民_薰,人工定稿,
+135,0x964,dialogue,narrative,｢残念ﾅがﾗ市民でｽ……｣,21,｢很遺憾是市民……｣,人工定稿,导入警告: kana_residue
+136,0x97c,system,system,1577,4,,未翻,
+137,0x981,dialogue,narrative,tiz｢残念ﾅﾉｶ?｣,13,tiz｢很遺憾?｣,人工定稿,导入警告: kana_residue
+138,0x98f,system,system,s0240,5,,未翻,
+139,0x995,dialogue,narrative,tiz｢ﾊｲ……｡どｳｲｳ理由で,22,tiz｢是……什麼理由,人工定稿,导入警告: kana_residue
+140,0x9ac,dialogue,narrative,私がｺｺﾆｲﾙﾉｶﾊﾜｶﾘﾏｾﾝが,20,我不知為何在此但,人工定稿,
+141,0x9c4,dialogue,narrative,どｳｾ連ﾚﾃｸﾙﾅﾗ警官ﾆｼﾃ欲ｼｶｯﾀ……｣,30,反正要帶來真希望是警官……｣,人工定稿,导入警告: kana_residue
+142,0x9e4,system,system,0241,4,,未翻,
+143,0x9e9,dialogue,narrative,tiz｢市民でﾊ､誰ﾓ守ﾙｺﾄﾅﾝﾃでｷﾏｾﾝｶﾗ｣,32,tiz｢市民保護不了任何人｣,人工定稿,导入警告: kana_residue
+144,0xa0c,dialogue,narrative,悪ｲが､強ｽぎﾙ正義感ﾊ,19,抱歉但過強的正義感,人工定稿,
+145,0xa20,dialogue,narrative,ｺﾉゲームﾉ警官ﾆﾄｯﾃマイナスだﾄ思ｳぞ｡,34,我覺得對這遊戲的警官不利哇。,人工定稿,P7 校对修正: ぞ→哇(风格指南)
+146,0xa44,dialogue,narrative,ロム2_KW_市民_樫沢,18,ROM2_KW_市民_樫澤,人工定稿,
+147,0xa58,system,system,0229,4,,未翻,
+148,0xa5d,dialogue,narrative,tiz｢僕でｽｶ? 市民でｽﾖ｡,21,tiz｢是我? 是市民哦。,人工定稿,导入警告: kana_residue
+149,0xa74,dialogue,narrative,ﾓｯﾄﾓ､証明ｽﾙ手立ﾃﾊｱﾘﾏｾﾝが､,25,不過我沒法證明，,人工定稿,
+150,0xa90,dialogue,narrative,ｿﾚﾊｱﾅﾀﾓ同じでｼｮｳ?｣,18,那也同樣對不?｣,人工定稿,"P7 校对修正: でしょう? 求确认, 按卡用 對不?"
+151,0xaa4,system,system,1578,4,,未翻,
+152,0xaa9,dialogue,narrative,tizｲﾔ､樫沢氏ﾉ場合､警官でｱｯﾃ欲ｼｶｯﾀがﾅ｣,37,tiz不，樫澤先生我倒希望是警官｣,人工定稿,导入警告: kana_residue
+153,0xad0,system,system,0230,4,,未翻,
+154,0xad5,dialogue,narrative,tiz｢残念ﾅがﾗ､市民でｽ｡,21,tiz｢很遺憾是市民。,人工定稿,导入警告: kana_residue
+155,0xaec,dialogue,narrative,ﾀだ､ｿﾚﾊｼｮｳがﾅｲでｽﾖ｡,19,只是那也沒法子。,人工定稿,
+156,0xb00,dialogue,narrative,与ｴﾗﾚﾀ役割でベストｦ尽ｸｽだｹでｽ｣,30,只能在被賦予的角色上盡力｣,人工定稿,"P7 校对修正: 「被給的角色」去翻译腔, 改 被賦予; 与えられた=被赋予"
+157,0xb20,dialogue,narrative,ﾂﾏﾘｱﾉ作戦ﾊ本当ﾆ命がｹ､ｶ｡,23,換言之那作戰真得賭命。,人工定稿,P7 校对修正: 补回 つまり(換言之); 命がけ 改 賭命(拼 不可编码)
+158,0xb38,dialogue,narrative,頼ﾓｼｲﾓﾉだﾅ｡,11,真是可靠。,人工定稿,
+159,0xb44,dialogue,narrative,ロム2_KW_市民_唯柚,18,ROM2_KW_市民_唯柚,人工定稿,
+160,0xb58,system,system,0164,4,,未翻,
+161,0xb5d,dialogue,narrative,tiz｢ﾕﾕﾊﾈ､市民だﾖ｣,17,tiz｢唯柚是市民哦｣,人工定稿,导入警告: kana_residue
+162,0xb70,system,system,1579,4,,未翻,
+163,0xb75,dialogue,narrative,tiz｢ﾏｧ､皆ｿｳｲｳだﾛｳがﾅ｣,21,tiz｢嘛大家都這麼説｣,人工定稿,导入警告: kana_residue
+164,0xb8c,system,system,0165,4,,未翻,
+165,0xb91,dialogue,narrative,tiz｢ﾝﾕ? ﾐﾝﾅ市民ﾅﾉ?｣,19,tiz｢唔? 都是市民?｣,人工定稿,P7 校对修正: ﾝﾕ? 依全库口径作 唔?(非 哦)
+166,0xba8,system,system,1580,4,,未翻,
+167,0xbad,dialogue,narrative,tiz｢ｲﾔ……ｿﾚでﾊゲームﾆﾅﾗﾅｲだﾛｳ｣,31,tiz｢不……那樣就不成遊戲｣,人工定稿,导入警告: kana_residue
+168,0xbd0,system,system,0166,4,,未翻,
+169,0xbd5,dialogue,narrative,tiz｢ｳﾝ? じｬｱ嘘ﾂｷｻﾝがｲﾙｯﾃｺﾄ?｣,28,tiz｢唔? 就是説有騙子?｣,人工定稿,P7 校对修正: 同上 唔?; 嘘ツキさん 改 騙子
+170,0xbf4,system,system,1581,4,,未翻,
+171,0xbf9,dialogue,narrative,tiz｢ｿﾓｿﾓ､ｿｳｲｳルールだ｡,22,tiz｢本來就是這種規則。,人工定稿,导入警告: kana_residue
+172,0xc10,dialogue,narrative,気づｲﾃｲﾅｶｯﾀﾉｶ?｣,15,沒注意到?｣,人工定稿,导入警告: kana_residue
+173,0xc20,system,system,0167,4,,未翻,
+174,0xc25,dialogue,narrative,tiz｢だｯﾃﾈ､嘘ﾊﾖｸﾅｲﾝだﾖ｡,22,tiz｢因為騙人不好哦。,人工定稿,导入警告: kana_residue
+175,0xc3c,dialogue,narrative,でﾓ……ﾀｼｶﾆ嘘ﾂｲﾃﾙ人ﾊ,20,不過確實有騙人的人,人工定稿,
+176,0xc54,dialogue,narrative,ｲｯぱｲｲﾙﾐﾀｲだｹど｣,16,好像有很多｣,人工定稿,导入警告: kana_residue
+177,0xc68,system,system,1582,4,,未翻,
+178,0xc6d,dialogue,narrative,tiz｢ﾜｶﾙﾉｶ?｣,11,tiz｢知道?｣,人工定稿,导入警告: kana_residue
+179,0xc79,system,system,n.s0168,7,,未翻,
+180,0xc81,dialogue,narrative,tiz｢ｳﾝ｡ﾅﾝﾄﾅｸ雰囲気が､正直じｬﾅｲﾓﾝ｣,33,tiz｢對。總覺得氣氛不老實嘛｣,人工定稿,导入警告: kana_residue
+181,0xca4,dialogue,narrative,彼女ﾉ第六感ｶ……ｱﾃﾆﾅﾙﾉだﾛｳｶ｡,28,他的第六感……靠得住?,人工定稿,"P7 校对修正: 内心推测(彼女の第六感か……), 保留 ……; 去多余空格并删「是」"
+182,0xcc4,dialogue,narrative,ロム2_KW_市民_紅春,18,ROM2_KW_市民_紅春,人工定稿,
+183,0xcd8,system,system,0212,4,,未翻,
+184,0xcdd,dialogue,narrative,tiz｢市民ﾓ……人数が多ｲだｹﾉ,26,tiz｢市民也只是人數多的,人工定稿,导入警告: kana_residue
+185,0xcf8,dialogue,narrative,シリアルキラー……でｽﾖﾈ｣,24,連環殺手……對不?｣,人工定稿,"P7 校对修正: 求确认位(助词前带谓语), 按卡禁 對哦, 改 對不?"
+186,0xd14,system,system,1583,4,,未翻,
+187,0xd19,dialogue,narrative,tiz｢ｿｳだﾅ｡票が割ﾚﾀ場合ﾉ処理ﾊ,28,tiz｢對。票分散時的處理,人工定稿,导入警告: kana_residue
+188,0xd38,dialogue,narrative,ﾑｼﾛシリアルキラーﾖﾘ恐ﾛｼｲ｣,25,反而比連環殺手更可怕｣,人工定稿,导入警告: kana_residue
+189,0xd54,system,system,0213,4,,未翻,
+190,0xd59,dialogue,narrative,tiz｢名前ﾆ騙ｻﾚﾃﾊｲｹﾏｾﾝﾈ｡,22,tiz｢不能被名字騙了。,人工定稿,导入警告: kana_residue
+191,0xd70,dialogue,narrative,市民ﾓ……怖ｲでｽ｣,16,市民也……可怕｣,人工定稿,P7 校对修正: 补回 も(也)
+192,0xd84,dialogue,narrative,彼女､怯ｴﾃばｶﾘｶﾄ思ｯﾀが,21,本以為他只是害怕但,人工定稿,
+193,0xd9c,dialogue,narrative,ルールﾉ分析ﾊ冷静だﾅ……｡,24,對規則分析倒是冷靜……。,人工定稿,
+194,0xdb8,dialogue,narrative,ロム2_KW_市民_西野,18,ROM2_KW_市民_西野,人工定稿,

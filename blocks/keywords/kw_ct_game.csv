@@ -1,0 +1,7 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_ct_game.tob,26,,未翻,
+2,0x1c,system,system,kw_ct_game.sts,14,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_カテゴリ_ゲーム分岐,27,ROM2_KW_類別_遊戲分支,人工定稿,
+4,0x48,dialogue,label,ROM2_KW_カテゴリ_ゲーム,23,ROM2_KW_類別_遊戲,人工定稿,
+5,0x60,dialogue,command,フェードアウト,14,,未翻,
+6,0x6f,dialogue,narrative,階W_ダミー,10,階W_假資料,人工定稿,P7 终轮收口: ダミー→假資料 统一

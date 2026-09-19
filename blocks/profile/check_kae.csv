@@ -1,0 +1,34 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_kae.tob,25,,未翻,
+2,0x1c,system,system,check_kae.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_楓,7,調査_楓,人工定稿,
+4,0x34,dialogue,label,調査_楓_未調査,14,調査_楓_未調査,人工定稿,
+5,0x44,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,P7 校对修正
+6,0x60,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『浅川楓』ﾉ名前ｦ押ｽ｡,29,我從中按下『淺川楓』的名字。,人工定稿,P7 校对修正
+7,0x80,dialogue,narrative,『浅川楓でｲｲでｽｶ?』ﾉメッセージﾆ､,32,出現『淺川楓是否正確?』信息，,人工定稿,P7 校对修正
+8,0xa4,dialogue,narrative,ﾅﾝﾄ私ﾊ『確認』ｦ押ｼﾃｼﾏｯﾀ!,24,我竟然按下了『確認』!,人工定稿,
+9,0xc0,dialogue,narrative,画面ﾆ『調査結果』ﾄｲｳ文字が浮ｶび出ﾙ｡,35,畫面上浮現出『調査結果』這幾個字。,人工定稿,
+10,0xe4,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,P7 终轮统一: 共享句形(然後……)
+11,0xed,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,P7 终轮统一: 共享句形(.st…………)
+12,0xfa,dialogue,narrative,st……｡,7,st……,人工定稿,P7 校对修正
+13,0x102,dialogue,narrative,ka『浅川楓ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,35,ka『淺川楓不是連環殺手』,人工定稿,
+14,0x128,system,system,2041,4,,未翻,
+15,0x12d,dialogue,narrative,_ka｢……ﾌｩ｡ﾖｶｯﾀ｣,16,_ka｢呼。太好了｣,人工定稿,导入警告: kana_residue
+16,0x140,system,system,2042,4,,未翻,
+17,0x145,dialogue,narrative,_ka｢ｯﾃ､バカｶ私ﾊｯ!｣,18,_ka｢等等、我真蠢!｣,人工定稿,导入警告: kana_residue
+18,0x158,dialogue,narrative,ｲｸﾗﾅﾝでﾓ､調べﾙ必要がﾅｻｽぎﾙだﾛ｡,30,再怎麼説，也沒調査的必要。,人工定稿,
+19,0x178,dialogue,narrative,ｲﾔｲﾔ待ﾃ待ﾃ､ﾓｼｶｽﾙﾄ私ﾊ錯乱ｼﾃｲﾃ,28,不不，等等，説不定我混亂了,人工定稿,
+20,0x198,dialogue,narrative,シリアルキラーでｱﾙｺﾄｦ,21,是連環殺手這件事,人工定稿,
+21,0x1b0,dialogue,narrative,忘ﾚﾃｲﾙだｹｶﾓｼﾚﾅｲ｡,16,或許只是忘記了。,人工定稿,
+22,0x1c4,dialogue,narrative,だｶﾗ確認ｼﾅｹﾚばﾅﾗﾅｶｯﾀﾉだ｡,24,所以才非得確認不可。,人工定稿,
+23,0x1e0,dialogue,narrative,ｺﾉ『探偵』ﾉ能力で……｡,22,靠『偵探』能力……。,人工定稿,
+24,0x1f8,system,system,2043,4,,未翻,
+25,0x1fd,dialogue,narrative,_ka｢ｯﾃ､だｯﾀﾗ私ﾊ『探偵』だﾛ!｣,28,_ka｢那我不就是『偵探』對不!｣,人工定稿,P7 校对修正
+26,0x21c,dialogue,narrative,ｱﾏﾘﾉ大ボケﾆ悶絶ｼﾃｲﾙﾄ､,21,被這迷糊氣得無語時，,人工定稿,
+27,0x234,dialogue,narrative,画面がﾏﾀ切ﾘ替ﾜｯﾀ｡,17,畫面又切換了。,人工定稿,
+28,0x248,dialogue,narrative,『浅川楓ﾊシリアルキラーでﾊｱﾘﾏｾﾝが――』,39,『淺川楓不是連環殺手，不過――』,人工定稿,
+29,0x270,dialogue,narrative,『――アホでｽ』,15,『――是笨蛋』,人工定稿,
+30,0x280,system,system,2044,4,,未翻,
+31,0x285,dialogue,narrative,_ka｢ﾔｶﾏｼｲ!｣,11,_ka｢好煩!｣,人工定稿,导入警告: kana_residue
+32,0x291,dialogue,narrative,.stｸｿ､ｺﾝﾅ小細工ﾏで仕掛ｹｵｯﾃ｡,27,.st可惡，竟用這種小手段。,人工定稿,
+33,0x2b0,dialogue,narrative,運営者ﾒ､絶対ﾆ許ｻﾅｲ!,19,運營方，我絶不原諒!,人工定稿,P7 校对修正

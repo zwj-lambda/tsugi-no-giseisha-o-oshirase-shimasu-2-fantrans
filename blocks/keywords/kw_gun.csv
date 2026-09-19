@@ -1,0 +1,170 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_gun.tob,22,,未翻,
+2,0x18,system,system,kw_gun.sts,10,,未翻,
+3,0x24,dialogue,label,ROM2_KW_拳銃,12,ROM2_KW_手槍,人工定稿,
+4,0x34,dialogue,label,ROM2_KW会話_拳銃,16,ROM2_KW會話_手槍,人工定稿,
+5,0x48,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x60,dialogue,command,フェードアウト,14,,未翻,
+7,0x70,dialogue,narrative,ロム2_KW_拳銃_昇,16,ROM2_KW_手槍_昇,人工定稿,
+8,0x84,system,system,0277,4,,未翻,
+9,0x89,dialogue,narrative,n.s｢拳銃ｶｰ｡子どﾓﾉ頃ﾊ憧ﾚﾀﾅ｣,26,n.s｢手槍。小時候很憧憬哇｣,人工定稿,导入警告: kana_residue
+10,0xa4,system,system,1752,4,,未翻,
+11,0xa9,dialogue,narrative,n.s｢刑事ドラマﾉ影響ｶ?｣,22,n.s｢刑警劇的影響?｣,人工定稿,导入警告: kana_residue
+12,0xc0,system,system,0278,4,,未翻,
+13,0xc5,dialogue,narrative,n.s｢ｲﾔ､ロボットアニメﾉ影響だ｡,29,n.s｢不，是機器人動畫的影響。,人工定稿,"P7 校对修正: イヤ=不(非'不對'), 补'的'"
+14,0xe4,dialogue,narrative,だｶﾗどｯﾁｶｯﾃｲｳﾄ,14,所以説，硬要説,人工定稿,
+15,0xf4,dialogue,narrative,ビームﾄｶだﾅ｣,12,光束之類哇｣,人工定稿,导入警告: kana_residue
+16,0x104,dialogue,narrative,ｿﾚﾊ確ｶﾆ憧ﾚﾙﾅ……｡,17,確實令人憧憬……｡,人工定稿,"P7 校对修正: 憧憬需补'令人', 原译不成句"
+17,0x118,dialogue,narrative,ロム2_KW_拳銃_香菜,18,ROM2_KW_手槍_香菜,人工定稿,
+18,0x12c,system,system,0275,4,,未翻,
+19,0x131,dialogue,narrative,n.s｢拳銃ﾉ仕組ﾐｯﾃﾖｸ出来ﾃﾙﾉﾖ｡,27,n.s｢手槍的結構做得真好呀。,人工定稿,导入警告: kana_residue
+20,0x150,dialogue,narrative,ｱﾉ小ｻｲ空間で数万気圧ﾆﾓ達ｽﾙエネルギーｦ,37,在那麼小的空間裡達到數萬氣壓的能量,人工定稿,
+21,0x178,dialogue,narrative,作ｯﾃ銃身ｦ傷ﾒずﾆ弾丸ｦ真ｯ直ぐ飛ばｼﾃﾙﾉ｣,36,製造出來又不傷槍身、讓子彈筆直飛出｣,人工定稿,"P7 校对修正: 作って=製造出來, 原译'製造又'易误读为主语"
+22,0x1a0,system,system,1753,4,,未翻,
+23,0x1a5,dialogue,narrative,n.s｢ﾎｵ､ｿﾚﾊ高度ﾅ事ﾅﾉｶ?｣,22,n.s｢哦，那是高深的事?｣,人工定稿,导入警告: kana_residue
+24,0x1bc,system,system,0276,4,,未翻,
+25,0x1c1,dialogue,narrative,n.s｢歴史ﾉｱﾙ武器だｹﾆ､,20,n.s｢正因為是老武器，,人工定稿,导入警告: kana_residue
+26,0x1d8,dialogue,narrative,拳銃ﾉ仕組ﾐﾊｶﾅﾘ研究ｻﾚﾃﾙｶﾗﾈ｣,26,手槍的結構研究得很透徹哦｣,人工定稿,导入警告: kana_residue
+27,0x1f4,system,system,1754,4,,未翻,
+28,0x1f9,dialogue,narrative,n.s｢人殺ｼﾉ道具ﾍﾉ情熱ｶ……｣,26,n.s｢對殺人道具的熱情……｣,人工定稿,导入警告: kana_residue
+29,0x214,dialogue,narrative,｢ｿﾝﾅ風ﾆ言ﾜﾅｲで｡,15,｢別那樣説。,人工定稿,导入警告: kana_residue
+30,0x224,dialogue,narrative,ﾖﾘ機能的ﾅﾓﾉｦ作ﾘﾀｸﾅﾙﾉが,22,會更想做功能性的東西,人工定稿,
+31,0x23c,dialogue,narrative,科学者ﾉ性ﾅﾉ……｣,16,科學家天性……｣,人工定稿,导入警告: kana_residue
+32,0x250,system,system,1755,4,,未翻,
+33,0x255,dialogue,narrative,n.s｢ｿｳだﾅ｡作ｯﾀ側でﾊﾅｸ,21,n.s｢是哦。不是製作方,人工定稿,导入警告: kana_residue
+34,0x26c,dialogue,narrative,問題がｱﾙﾄｽﾚば使ｳ側だｶﾗﾅ｣,24,有問題的話就是使用方｣,人工定稿,"P7 校对修正: 原文无'も', 也→就"
+35,0x288,dialogue,narrative,｢ｿｳｲｳｺﾄ｣,8,｢是這樣｣,人工定稿,"P7 校对修正: そういうこと=就是這樣(kw_death 同例), 原译'就這樣'语义漂移"
+36,0x291,system,system,s,1,,未翻,
+37,0x294,dialogue,narrative,ロム2_KW_拳銃_圭介,18,ROM2_KW_手槍_圭介,人工定稿,
+38,0x2a8,system,system,0142,4,,未翻,
+39,0x2ad,dialogue,narrative,n.s｢薫ｻﾝｯﾃｲｳ現職ﾉ警官がｺｺﾆｲﾃｸﾚﾀﾉﾊ,33,n.s｢薰這位現職警官願意待在這裡,人工定稿,导入警告: kana_residue
+40,0x2d0,dialogue,narrative,心強ｲ事でｽｹど､拳銃ﾓ持ｯﾃｷﾃｼﾏｯﾀﾉﾊ,31,固然讓人安心，但連手槍都帶來了,人工定稿,
+41,0x2f0,dialogue,narrative,大丈夫ﾅﾝでｼｮｳｶ……｣,19,這樣真的沒問題……｣,人工定稿,导入警告: kana_residue
+42,0x304,system,system,1756,4,,未翻,
+43,0x309,dialogue,narrative,n.s｢無ｲ方がﾖｶｯﾀｶﾓｼﾚﾅｲが,23,n.s｢或許沒有更好，但,人工定稿,导入警告: kana_residue
+44,0x324,dialogue,narrative,直接暴力ﾊ禁止ｻﾚﾃｲﾙｼﾅ,20,直接暴力是被禁止的嘛,人工定稿,
+45,0x33c,dialogue,narrative,ﾏｧ大丈夫だﾛｳ｣,13,反正應該沒事｣,人工定稿,导入警告: kana_residue
+46,0x34c,system,system,0143,4,,未翻,
+47,0x351,dialogue,narrative,n.s｢でﾓ､誰ｶが自棄ｦ起ｺｻﾅｲﾄﾊ,26,n.s｢但不能保證沒人自暴自棄,人工定稿,导入警告: kana_residue
+48,0x36c,dialogue,narrative,限ﾗﾅｲでｽﾖﾈ｣,11,未必對不?｣,人工定稿,"P7 校对修正: 〜とは限らないですよね 求确认, 依 v1.4 卡禁'哦', 改對不?"
+49,0x378,system,system,1757,4,,未翻,
+50,0x37d,dialogue,narrative,n.s｢ｳﾑ｡注意ﾊｼﾃｵｲﾀ方が良ｲｶﾓﾅ｣,28,n.s｢唔。還是注意點比較好｣,人工定稿,导入警告: kana_residue
+51,0x39c,dialogue,narrative,ロム2_KW_拳銃_霞,16,ROM2_KW_手槍_霞,人工定稿,
+52,0x3b0,system,system,0146,4,,未翻,
+53,0x3b5,dialogue,narrative,n.s｢銃ﾅﾝﾃ……,13,n.s｢手槍……,人工定稿,导入警告: kana_residue
+54,0x3c4,dialogue,narrative,どｳｼﾃｱﾝﾅﾓﾉがｱﾙﾝでｼｮｳ……｣,25,為什麼會有那種東西……｣,人工定稿,导入警告: kana_residue
+55,0x3e0,system,system,1758,4,,未翻,
+56,0x3e5,dialogue,narrative,n.s｢ｿｳだﾅ……,13,n.s｢是哦……,人工定稿,导入警告: kana_residue
+57,0x3f4,dialogue,narrative,アメリカ人が銃ｦ購入ｽﾙ理由ﾊ,26,美國人購買槍的理由,人工定稿,
+58,0x410,dialogue,narrative,何ｶﾜｶﾙｶ?｣,9,有頭緒?｣,人工定稿,"P7 校对修正: 何かわかるか=有頭緒, 非'猜到'"
+59,0x41c,system,system,0147,4,,未翻,
+60,0x421,dialogue,narrative,n.s｢自衛ﾉﾀﾒ……でｽﾖﾈ｣,21,n.s｢為自衛……對不?｣,人工定稿,"P7 校对修正: 〜ですよね 求确认, 依 v1.4 卡禁'對哦', 改對不?(槽紧舍'了')"
+61,0x438,system,system,1759,4,,未翻,
+62,0x43d,dialogue,narrative,n.s｢ｿｳ､相手が持ｯﾃｲﾙｶﾓｼﾚﾅｲﾉだｶﾗ,30,n.s｢是哦，因為對方可能持有,人工定稿,导入警告: kana_residue
+63,0x45c,dialogue,narrative,襲ﾜﾚﾙ前ﾆ対抗でｷﾙ武器ｦ持ｯﾃｵｺｳ,28,在被襲撃前先備好能對抗的武器,人工定稿,
+64,0x47c,dialogue,narrative,ﾄｲｳ発想ﾅﾝだﾅ｣,13,是這種想法哇｣,人工定稿,导入警告: kana_residue
+65,0x48c,system,system,0148,4,,未翻,
+66,0x491,dialogue,narrative,n.s｢ﾅﾝだｶ……悲ｼｲでｽﾈ｣,22,n.s｢總覺得……很悲哀｣,人工定稿,导入警告: kana_residue
+67,0x4a8,dialogue,narrative,ロム2_KW_拳銃_美紀,18,ROM2_KW_手槍_美紀,人工定稿,
+68,0x4bc,system,system,1028,4,,未翻,
+69,0x4c1,dialogue,narrative,n.s｢漫画ﾄｶ映画で拳銃ﾉ弾ｦ,24,n.s｢漫畫電影裡手槍的子彈,人工定稿,导入警告: kana_residue
+70,0x4dc,dialogue,narrative,手で受ｹ止ﾒﾙシーンｱﾙじｬﾅｲｯｽｶ｡,28,不是有用手接子彈的鏡頭?,人工定稿,
+71,0x4fc,dialogue,narrative,ｱﾚ憧ﾚﾏｽﾖﾈ｣,10,好憧憬呀｣,人工定稿,"P7 校对修正: 〜ますよね 共感, 依 v1.4 卡用'呀'; 原译'那很憧憬'不成句"
+72,0x508,system,system,1760,4,,未翻,
+73,0x50d,dialogue,narrative,n.s｢現実的ﾆ無理だｶﾗﾅ｣,21,n.s｢現實中不可能嘛｣,人工定稿,导入警告: kana_residue
+74,0x524,system,system,1029,4,,未翻,
+75,0x529,dialogue,narrative,n.s｢ｿｳｯｽﾖﾈ｡,11,n.s｢對哦。,人工定稿,导入警告: kana_residue
+76,0x535,system,system,s,1,,未翻,
+77,0x538,dialogue,narrative,ｾﾒﾃ､体ｦ思ｲｯｷﾘ反ﾗｼﾃ,18,至少身體要盡力後仰,人工定稿,
+78,0x54c,dialogue,narrative,避ｹﾙぐﾗｲｯｽﾖﾈ｣,13,能避開對不?｣,人工定稿,"P7 校对修正: 〜っすよね 求确认, 依 v1.4 卡禁'哦'; 且删原译误增的'至少'"
+79,0x55c,system,system,1761,4,,未翻,
+80,0x561,dialogue,narrative,n.s｢君ﾊ少ｼ､映画ﾉ見ｽぎだﾅ……｣,29,n.s｢電影看得有點多……｣,人工定稿,导入警告: kana_residue
+81,0x580,dialogue,narrative,ロム2_KW_拳銃_ﾊﾙｶ,17,ROM2_KW_手槍_遙,人工定稿,
+82,0x594,system,system,0101,4,,未翻,
+83,0x599,dialogue,narrative,n.s｢ｹﾝじｭｳ? ｵ兄ﾁｬﾝがﾓｯﾃﾙﾖ｣,26,n.s｢手槍? 哥哥有哦｣,人工定稿,导入警告: kana_residue
+84,0x5b4,system,system,1762,4,,未翻,
+85,0x5b9,dialogue,narrative,n.s｢ﾅﾝだﾄ?｣,11,n.s｢什麼?｣,人工定稿,导入警告: kana_residue
+86,0x5c5,system,system,s,1,,未翻,
+87,0x5c8,system,system,0102,4,,未翻,
+88,0x5cd,dialogue,narrative,n.s｢家ﾉ机ﾉ上ﾆ､ｲﾂﾓｵｲﾃｱﾙﾉ｡,24,n.s｢家裡書案上總是放著。,人工定稿,导入警告: kana_residue
+89,0x5e8,dialogue,narrative,ﾀﾏﾆﾜﾀｼ､ｳﾀﾚﾁｬｳﾉ｡,15,偶爾我會中彈。,人工定稿,
+90,0x5f8,dialogue,narrative,ｲﾀｲｲﾀｲｯﾃﾅﾙﾖ｣,12,會喊痛痛哦｣,人工定稿,导入警告: kana_residue
+91,0x608,dialogue,narrative,ﾅﾝだ､ｵﾓﾁｬﾉ話ｶ｡,14,什麼嘛，玩具。,人工定稿,
+92,0x618,dialogue,narrative,ロム2_KW_拳銃_ﾂﾑじ,18,ROM2_KW_手槍_旋,人工定稿,
+93,0x62c,system,system,0104,4,,未翻,
+94,0x631,dialogue,narrative,n.s｢ぼｸ､射撃得意ﾅﾝでｽﾖ｡,23,n.s｢我擅長射撃哦。,人工定稿,导入警告: kana_residue
+95,0x64c,dialogue,narrative,ｵﾓﾁｬだｹど､ｶﾅﾘ練習ｼﾀｼ｣,21,雖然是玩具，練了很久｣,人工定稿,导入警告: kana_residue
+96,0x664,system,system,1763,4,,未翻,
+97,0x669,dialogue,narrative,n.s｢ﾎｳ｡だが本物ﾊ重ｲ上ﾆ反動ﾓ大ｷｲ｡,32,n.s｢哦。不過真槍重，後座力也大。,人工定稿,导入警告: kana_residue
+98,0x68c,dialogue,narrative,同じﾖｳﾆﾊｲｶﾅｲぞ｣,15,可不會一樣哇｣,人工定稿,导入警告: kana_residue
+99,0x69c,system,system,0105,4,,未翻,
+100,0x6a1,dialogue,narrative,n.s｢知ｯﾃﾏｽﾖ｡本当ﾉ本物ﾊ触ｯﾀｺﾄﾅｲｹど,33,n.s｢知道哦。真槍沒摸過但,人工定稿,P7 校对修正: 本当の本物 直译'真正的真槍'冗叠
+101,0x6c4,dialogue,narrative,ゲームでﾊﾖｸｱﾘﾏｽｼﾈ､反動｣,23,遊戲裡倒是常見，後座力｣,人工定稿,导入警告: kana_residue
+102,0x6dc,system,system,1764,4,,未翻,
+103,0x6e1,dialogue,narrative,n.s｢ｿｳｶ｡ﾅﾗ､少ｼ練習ｽﾚば本当ﾆ,27,n.s｢是哦。那練一下，真的,人工定稿,导入警告: kana_residue
+104,0x700,dialogue,narrative,上手ｸﾅﾙｶﾓﾅ｣,11,可能更厲害｣,人工定稿,导入警告: kana_residue
+105,0x70c,system,system,0106,4,,未翻,
+106,0x711,dialogue,narrative,n.s｢自信ﾊｱﾘﾏｽ｣,14,n.s｢我有自信｣,人工定稿,导入警告: kana_residue
+107,0x720,dialogue,narrative,ロム2_KW_拳銃_ジャック,22,ROM2_KW_手槍_傑克,人工定稿,
+108,0x738,dialogue,narrative,ロム2_KW_拳銃_薫,16,ROM2_KW_手槍_薰,人工定稿,
+109,0x749,dialogue,narrative,ャb0267,7,ャb0267,人工定稿,导入警告: kana_residue
+110,0x751,dialogue,narrative,n.s｢制服ﾉ警官ﾊ勤務中ﾊ,21,n.s｢制服警官執勤時,人工定稿,导入警告: kana_residue
+111,0x768,dialogue,narrative,だｲﾀｲ持ﾁ歩ｲﾃｲﾏｽﾖ｣,17,基本上都會帶著哦｣,人工定稿,导入警告: kana_residue
+112,0x77c,system,system,1765,4,,未翻,
+113,0x781,dialogue,narrative,n.s｢撃ｯﾀ事ﾊｱﾙﾉｶ?｣,17,n.s｢開過槍?｣,人工定稿,导入警告: kana_residue
+114,0x794,system,system,0268,4,,未翻,
+115,0x799,dialogue,narrative,n.s｢ﾓﾁﾛﾝでｽ!,12,n.s｢當然!,人工定稿,导入警告: kana_residue
+116,0x7a8,dialogue,narrative,訓練ﾓｼﾅｲで銃ｦ持ﾁ歩ｸﾅﾝﾃ,22,不訓練就帶著槍什麼的,人工定稿,
+117,0x7c0,dialogue,narrative,警察ﾊｿﾝﾅｲｲ加減ﾅ組織じｬｱﾘﾏｾﾝ!｣,29,警察可不是那麼隨便的組織!｣,人工定稿,导入警告: kana_residue
+118,0x7e0,system,system,1766,4,,未翻,
+119,0x7e5,dialogue,narrative,n.s｢ｿﾚﾓｿｳｶ……ｿﾚで､上手ｲﾉｶ?｣,28,n.s｢説得也是……那，很厲害?｣,人工定稿,"P7 校对修正: それもそうか=説得也是, 原译'那也是'半截"
+120,0x804,system,system,0269,4,,未翻,
+121,0x809,dialogue,narrative,n.s｢ｴｴ｡同僚が合コンﾄｶﾔｯﾃﾙ間､,28,n.s｢是的。同事在聯誼的時候，,人工定稿,P7 校对修正: ええ=应诺(非感叹词'哦')
+122,0x828,dialogue,narrative,私ﾊガンガン練習ｼﾃﾏｼﾀｶﾗ｣,23,我一直在猛練｣,人工定稿,导入警告: kana_residue
+123,0x840,dialogue,narrative,呼ﾝでﾓﾗｴﾅｶｯﾀ鬱憤ｦ晴ﾗｽﾉﾆ,23,用來發洩沒被邀請的鬱悶,人工定稿,
+124,0x858,dialogue,narrative,銃ｦ使ｳﾉﾊどｳｶﾄ思ｳがﾅ……｡,24,用槍我覺得不太好……。,人工定稿,
+125,0x874,dialogue,narrative,ロム2_KW_拳銃_樫沢,18,ROM2_KW_手槍_樫澤,人工定稿,
+126,0x888,system,system,0252,4,,未翻,
+127,0x88d,dialogue,narrative,n.s｢ｺﾉゲームで銃ｦ撃ﾂ事ﾊ,23,n.s｢在這遊戲裡開槍,人工定稿,"P7 校对修正: は主题标记, 原译'是'与下行'果然是犯規'错位"
+128,0x8a8,dialogue,narrative,ﾔﾊﾘ反則ﾅﾉでｼｮｳｶ?｣,17,果然是犯規?｣,人工定稿,导入警告: kana_residue
+129,0x8bc,system,system,1767,4,,未翻,
+130,0x8c1,dialogue,narrative,n.s｢ｿﾚﾊｿｳだﾛｳ｡,14,n.s｢那倒是。,人工定稿,P7 校对修正: それはそうだろう=那倒是(kw_ope/kw_action 同例)
+131,0x8d0,dialogue,narrative,ｿﾚが通ﾙﾅﾗ暴力禁止ﾉルール自体が,30,如果那能通，禁止暴力的規則本身,人工定稿,
+132,0x8f0,dialogue,narrative,無意味ﾆﾅﾙ｣,10,就沒意義｣,人工定稿,导入警告: kana_residue
+133,0x8fc,system,system,0253,4,,未翻,
+134,0x901,dialogue,narrative,n.s｢でｽﾖﾈ……｡,14,n.s｢對哦……。,人工定稿,导入警告: kana_residue
+135,0x910,dialogue,narrative,ﾄﾅﾙﾄ､人ﾆ向ｹﾃ発砲ｼﾀﾉｶどｳｶ等ﾓ含ﾒﾃ,31,那麼，是否朝人開槍等也包括在内,人工定稿,"P7 校对修正: '也包括'缺补语, 补'在内'"
+136,0x930,dialogue,narrative,どｺｶで見張ｯﾃｲﾙ事ﾆﾅﾘﾏｽﾈ｣,23,就變成有人在某處監視了｣,人工定稿,导入警告: kana_residue
+137,0x948,system,system,1768,4,,未翻,
+138,0x94d,dialogue,narrative,n.s｢……ﾌﾑ｡カメラﾅどﾊ見当ﾀﾗﾅｲがﾅ……｣,37,n.s｢……唔。沒發現攝影機之類的……｣,人工定稿,导入警告: kana_residue
+139,0x974,dialogue,narrative,ｼｶｼ確ｶﾆ､どｺで判断ｼﾃｲﾙﾉｶﾊ,24,不過確實，是在何處判斷的,人工定稿,
+140,0x990,dialogue,narrative,謎でﾊｱﾙﾅ……｡,13,是謎團……。,人工定稿,
+141,0x9a0,dialogue,narrative,ロム2_KW_拳銃_唯柚,18,ROM2_KW_手槍_唯柚,人工定稿,
+142,0x9b4,system,system,0194,4,,未翻,
+143,0x9b9,dialogue,narrative,n.s｢拳銃……怖ｲｹど……｣,23,n.s｢手槍……很可怕……｣,人工定稿,导入警告: kana_residue
+144,0x9d4,system,system,0195,4,,未翻,
+145,0x9d9,dialogue,narrative,n.s｢ｿｳだ｡ｱﾉﾈ､ｲｲｺﾄ思ｲﾂｲﾀﾝだｹど､,30,n.s｢對了。那個，我想到好主意，,人工定稿,导入警告: kana_residue
+146,0x9f8,dialogue,narrative,拳銃ｶﾗ弾丸じｬﾅｸﾃｵ花がでﾙﾖｳﾆﾅｯﾀﾗ,31,如果手槍不射子彈，而是噴花,人工定稿,
+147,0xa18,dialogue,narrative,ﾐﾝﾅ平和ﾆﾅﾙﾝじｬﾅｲｶﾅ?｣,20,大家不就都和平了?｣,人工定稿,导入警告: kana_residue
+148,0xa30,system,system,1769,4,,未翻,
+149,0xa35,dialogue,narrative,n.s｢……世界中ﾉ人がﾐﾝﾅ唯柚ｸﾝﾉﾖｳだｯﾀﾗ,36,n.s｢如果全世界的人都像唯柚一樣,人工定稿,导入警告: kana_residue
+150,0xa5c,dialogue,narrative,世界が平和ﾆﾅﾘｿｳだﾅ｣,19,世界就會和平了哇｣,人工定稿,"P7 校对修正: 〜になりそう=就会(条件结果), 非'就快要'; な→哇同块"
+151,0xa70,system,system,0196,4,,未翻,
+152,0xa75,dialogue,narrative,n.s｢ｴﾍﾍ､ｿｳｶﾅ｣,13,n.s｢呵，是哦｣,人工定稿,导入警告: kana_residue
+153,0xa84,dialogue,narrative,私ﾓｺﾉぐﾗｲ能天気ﾆﾅﾘﾀｲﾓﾉだ｡,25,我也想要像這樣天真無憂。,人工定稿,"P7 校对修正: '也想像這樣'易误读, 补'要'"
+154,0xaa0,dialogue,narrative,ロム2_KW_拳銃_紅春,18,ROM2_KW_手槍_紅春,人工定稿,
+155,0xab4,system,system,0235,4,,未翻,
+156,0xab9,dialogue,narrative,n.s｢日本でﾓﾀﾏﾆ拳銃で怪我ｦｼﾃ,27,n.s｢在日本偶爾會因手槍受傷,人工定稿,导入警告: kana_residue
+157,0xad8,dialogue,narrative,病院ﾆ来ﾙ人ﾊｲﾏｽﾖ｣,16,有人會來醫院哦｣,人工定稿,导入警告: kana_residue
+158,0xaec,system,system,0236,4,,未翻,
+159,0xaf1,dialogue,narrative,n.s｢私ﾉ病院ﾆﾓ一度だｹ担ぎ込ﾏﾚﾃｷﾀ,31,n.s｢聽説我的醫院也只有過一次,人工定稿,P7 校对修正: 原译'被送來'与下行'有過案例'断句不成句
+160,0xb14,dialogue,narrative,事がｱﾙｿｳでｽ｣,12,送來的案例｣,人工定稿,P7 校对修正: 承上行'擔ぎ込まれてきた事'重组为'送來的案例'
+161,0xb24,system,system,1770,4,,未翻,
+162,0xb29,dialogue,narrative,n.s｢珍ｼｲ事でﾊｱﾙﾉｶ?｣,19,n.s｢算是稀奇的事?｣,人工定稿,导入警告: kana_residue
+163,0xb40,system,system,0237,4,,未翻,
+164,0xb45,dialogue,narrative,n.s｢私ﾉ病院でﾊ､ｿﾉ一度だｹで,26,n.s｢我的醫院，就那一次,人工定稿,导入警告: kana_residue
+165,0xb60,dialogue,narrative,色々ﾄ大変だｯﾀﾐﾀｲで,18,好像很麻煩，,人工定稿,
+166,0xb74,dialogue,narrative,未だﾆ語ﾘ継がﾚﾃﾏｽﾖ｣,18,至今仍被傳頌哦｣,人工定稿,导入警告: kana_residue
+167,0xb88,dialogue,narrative,色々ﾄ､ﾄｲｳﾉﾊ治療でﾊﾅｸ,20,各種各樣的，不是治療,人工定稿,
+168,0xba0,dialogue,narrative,周辺事情関係ﾅﾉだﾛｳﾅ､ｷｯﾄ……｡,28,大概是周邊的各種情況……。,人工定稿,
+169,0xbc0,dialogue,narrative,ロム2_KW_拳銃_西野,18,ROM2_KW_手槍_西野,人工定稿,

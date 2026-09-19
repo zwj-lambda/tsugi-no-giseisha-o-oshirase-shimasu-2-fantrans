@@ -1,0 +1,9 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_cmn.tob,23,,未翻,
+2,0x18,system,system,sts_cmn.sts,11,,未翻,
+3,0x24,system,system,end_save,8,,未翻,
+4,0x30,dialogue,narrative,クリア情報ｦセーブｼﾏｽｶ?,22,是否儲存通關信息?,人工定稿,
+5,0x48,system,system,init_var,8,,未翻,
+6,0x51,system,system,ts,2,,未翻,
+7,0x54,dialogue,narrative,変数初期化,10,初始化變量,人工定稿,
+8,0x60,dialogue,narrative,CALLﾅｼ処理,10,無CALL處理,人工定稿,

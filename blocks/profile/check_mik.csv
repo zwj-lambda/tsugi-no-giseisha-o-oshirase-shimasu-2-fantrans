@@ -1,0 +1,38 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/check_mik.tob,25,,未翻,
+2,0x1c,system,system,check_mik.sts,13,,未翻,
+3,0x2c,dialogue,narrative,調査_美紀,9,調査_美紀,人工定稿,
+4,0x38,dialogue,label,調査_美紀_判定,14,調査_美紀_判定,人工定稿,
+5,0x48,dialogue,label,調査_美紀_未調査,16,調査_美紀_未調査,人工定稿,
+6,0x5c,dialogue,narrative,画面ﾆ映ｼ出ｻﾚﾀ参加者ﾉ名前｡,25,畫面中映出的參加者姓名。,人工定稿,
+7,0x78,dialogue,narrative,ｿﾉ中ｶﾗ私ﾊ『笹木美紀』ﾉ名前ｦ押ｽ｡,31,我從中按下『笹木美紀』的名字。,人工定稿,
+8,0x98,dialogue,narrative,『笹木美紀でｲｲでｽｶ?』ﾉメッセージ｡,33,出現『笹木美紀是否正確?』信息。,人工定稿,P7 词形统一: 訊息→信息(大陆用语)
+9,0xbc,dialogue,narrative,『確認』ｦ押ｽﾄ､,14,按『確認』後，,人工定稿,
+10,0xcc,dialogue,narrative,画面ﾆﾊ『調査結果』ﾄｲｳ文字が浮ｶび出ﾀ｡,36,畫面上浮現『調査結果』的文字。,人工定稿,
+11,0xf4,dialogue,narrative,額ｦ汗が伝ｳ｡,11,額頭冒汗。,人工定稿,
+12,0x100,dialogue,narrative,緊張が走ﾙ｡,10,緊張蔓延。,人工定稿,
+13,0x10b,dialogue,narrative,t画面が切ﾘ替ﾜﾙﾏでﾉ数秒が､,25,t畫面切換前的數秒，,人工定稿,
+14,0x128,dialogue,narrative,永遠ﾉﾖｳﾆ感じﾙ｡,14,感覺像永恆。,人工定稿,
+15,0x138,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,
+16,0x141,dialogue,narrative,.st…………｡,12,.st…………,人工定稿,
+17,0x14e,dialogue,narrative,st……｡,7,st……,人工定稿,
+18,0x156,dialogue,narrative,mi『笹木美紀ﾊ』,15,mi『笹木美紀』,人工定稿,
+19,0x168,dialogue,narrative,『シリアルキラーでﾊｱﾘﾏｾﾝ』,26,『不是連環殺手』,人工定稿,
+20,0x184,system,system,2047,4,,未翻,
+21,0x189,dialogue,narrative,_mi｢ｿ､ｿｳｶ……!｣,15,_mi｢是這樣…!｣,人工定稿,导入警告: kana_residue
+22,0x19c,dialogue,narrative,胸ﾉ奥ｶﾗ安堵ﾉ息ｦ漏ﾗｽ｡,20,從心底鬆了口氣。,人工定稿,
+23,0x1b4,dialogue,narrative,ﾖｶｯﾀ､本当ﾆ｡,11,太好了。,人工定稿,
+24,0x1c0,dialogue,narrative,嘘ｦﾂｹﾙﾖｳﾅ子でﾊﾅｲﾄ思ｯﾃｲﾀが､,26,我以為不是會騙人的孩子，,人工定稿,
+25,0x1dc,dialogue,narrative,ﾔﾊﾘ信用でｷﾙﾖｳだ｡,16,果然可以信任。,人工定稿,
+26,0x1f0,dialogue,narrative,ﾑｼﾛ疑ｯﾀｺﾄｦ恥じﾙべｷｶﾓｼﾚﾅｲ｡,25,反倒該為懷疑感到羞恥。,人工定稿,P7 校对修正
+27,0x20c,dialogue,narrative,調査_美紀_調査済,16,調査_美紀_調査濟,人工定稿,
+28,0x220,dialogue,narrative,『笹木美紀ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,35,『笹木美紀不是連環殺手』,人工定稿,
+29,0x244,system,system,2048,4,,未翻,
+30,0x249,dialogue,narrative,_mi｢……知ｯﾃﾀﾝだがﾅ｣,20,_mi｢…我早就知道了｣,人工定稿,导入警告: kana_residue
+31,0x260,dialogue,narrative,悩ﾝだ末､知ﾘ合ｲﾉ名前がｱｯﾀｶﾗ,26,煩惱許久，因為有熟人的名字,人工定稿,
+32,0x27c,dialogue,narrative,ﾂｲ押ｼﾃｼﾏｯﾀ……｡,15,不小心按下了…,人工定稿,
+33,0x28c,dialogue,narrative,どｳｾ適当ﾆ押ｼﾃｼﾏｳﾅﾗ,18,反正隨便按的話,人工定稿,
+34,0x2a0,dialogue,narrative,ﾏだ調査ｼﾃﾅｲ者ﾆｽﾚばﾖｶｯﾀﾉﾆ……｡,29,選還沒調査的人就好了……。,人工定稿,
+35,0x2c0,dialogue,narrative,ｺﾉ殺人ゲームﾆﾊセーブ機能ﾊﾅｲﾉだﾛｳｶ｡,34,這殺人遊戲應該沒有儲存功能。,人工定稿,
+36,0x2e4,dialogue,narrative,ｱﾚばロードｼﾃﾔﾘ直ｼﾀｲ気分だが……｡,32,如果有，恨不得重新讀取，但……。,人工定稿,P7 校对修正
+37,0x308,dialogue,narrative,……後悔ｼﾃﾓ始ﾏﾗﾅｲﾅ｡,19,……後悔也無濟於事,人工定稿,

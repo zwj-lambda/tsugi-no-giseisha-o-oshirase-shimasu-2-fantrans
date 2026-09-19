@@ -1,0 +1,161 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_serial.tob,25,,未翻,
+2,0x1c,system,system,kw_serial.sts,13,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_シリアルキラー,22,ROM2_KW_連環殺手,人工定稿,
+4,0x44,dialogue,label,ROM2_KW会話_シリアルキラー,26,ROM2_KW會話_連環殺手,人工定稿,
+5,0x60,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x77,dialogue,narrative,宴tェードアウト,15,宴t淡出,人工定稿,
+7,0x88,dialogue,narrative,ロム2_KW_シリアルキラー_昇,26,ROM2_KW_連環殺手_昇,人工定稿,
+8,0xa4,system,system,0215,4,,未翻,
+9,0xa9,dialogue,narrative,ria｢自分がﾓｼ､シリアルキラーﾆﾅｯﾃﾀﾗ……,37,ria｢如果我自己成了連環殺手……,人工定稿,导入警告: kana_residue
+10,0xd0,dialogue,narrative,ｯﾃ考ｴﾙﾄぞｯﾄｽﾙﾖ｣,15,一想到就發毛｣,人工定稿,导入警告: kana_residue
+11,0xe0,dialogue,narrative,ﾀｼｶﾆﾅ……｡,10,確實……。,人工定稿,
+12,0xeb,dialogue,narrative,tロム2_KW_シリアルキラー_香菜,29,tROM2_KW_連環殺手_香菜,人工定稿,
+13,0x10c,system,system,0229,4,,未翻,
+14,0x111,dialogue,narrative,ria｢私がシリアルキラーだｯﾀﾗ……｣,32,ria｢如果我是連環殺手……｣,人工定稿,导入警告: kana_residue
+15,0x134,system,system,1372,4,,未翻,
+16,0x139,dialogue,narrative,ria｢どｳｽﾙ?｣,11,ria｢如何?｣,人工定稿,导入警告: kana_residue
+17,0x145,system,system,.st0230,7,,未翻,
+18,0x14d,dialogue,narrative,ria｢1人分安全ﾅターンが増ｴﾃｵ得だｯﾀﾜﾈ｣,36,ria｢多了一個人的安全回合，賺到了呀｣,人工定稿,P7 校对修正: 1人分 漏译(原译'一回合'单位偏移); わね→呀; 份不可编码改'一個人的'
+19,0x174,dialogue,narrative,ﾀｼｶﾆ､シリアルキラーﾉ人選次第でﾊ,31,確實，隨連環殺手的人選不同,人工定稿,
+20,0x194,dialogue,narrative,ﾓｯﾄ安全ﾅ流ﾚﾓｱｯﾀﾊずﾅﾉｶ……?,26,也可能有更安全的走向……?,人工定稿,
+21,0x1b0,dialogue,narrative,ロム2_KW_シリアルキラー_圭介,28,ROM2_KW_連環殺手_圭介,人工定稿,
+22,0x1d0,system,system,0097,4,,未翻,
+23,0x1d5,dialogue,narrative,ria｢シリアルキラーﾊｶﾜｲｿｳでｽﾖ｡,29,ria｢連環殺手挺可憐的。,人工定稿,导入警告: kana_residue
+24,0x1f4,dialogue,narrative,望ﾐﾓｼﾅｲﾉﾆ人殺ｼ役ｦｻｾﾗﾚﾙﾅﾝﾃ｣,26,明明不願卻被迫殺人｣,人工定稿,导入警告: kana_residue
+25,0x210,system,system,1373,4,,未翻,
+26,0x215,dialogue,narrative,ria｢だが､少ﾅｸﾄﾓ1人ﾊ望ﾝでｲﾙ人間がｲﾙ｡,35,ria｢但至少有一人是自願的。,人工定稿,导入警告: kana_residue
+27,0x23c,dialogue,narrative,だｶﾗｺｿﾉｺﾉ状況だ｣,16,才有這種局面｣,人工定稿,导入警告: kana_residue
+28,0x250,system,system,0098,4,,未翻,
+29,0x255,dialogue,narrative,ria｢ｿｳでｽﾈ……｣,15,ria｢是呀……｣,人工定稿,导入警告: kana_residue
+30,0x268,dialogue,narrative,ロム2_KW_シリアルキラー_霞,26,ROM2_KW_連環殺手_霞,人工定稿,
+31,0x284,system,system,0087,4,,未翻,
+32,0x289,dialogue,narrative,ria｢シ､シリアルキラー……｣,26,ria｢連，連環殺手……｣,人工定稿,导入警告: kana_residue
+33,0x2a4,system,system,1374,4,,未翻,
+34,0x2a9,dialogue,narrative,ria｢……ｿﾝﾅﾆ怯ｴﾙｺﾄﾓﾅｲだﾛｳ｣,26,ria｢……不用怕成那樣的｣,人工定稿,导入警告: kana_residue
+35,0x2c4,system,system,0088,4,,未翻,
+36,0x2c9,dialogue,narrative,ria｢ｱ……ごﾒﾝﾅｻｲ……,20,ria｢呀……對不起……,人工定稿,导入警告: kana_residue
+37,0x2e0,dialogue,narrative,ｹど……ｱﾏﾘ聞ｷﾀｲ言葉でﾊ､ﾅｲﾉで……｣,33,但……並不是很想聽這些……｣,人工定稿,导入警告: kana_residue
+38,0x304,system,system,1375,4,,未翻,
+39,0x309,dialogue,narrative,ria｢……君ﾆﾄｯﾃﾊ辛ｲ話題ｶﾓｼﾚﾅｲﾅ｣,30,ria｢……這話題或許太沈重了｣,人工定稿,导入警告: kana_residue
+40,0x328,system,system,0089,4,,未翻,
+41,0x32d,dialogue,narrative,ria｢ごﾒﾝﾅｻｲ……｣,16,ria｢對不起……｣,人工定稿,导入警告: kana_residue
+42,0x340,dialogue,narrative,ロム2_KW_シリアルキラー_美紀,28,ROM2_KW_連環殺手_美紀,人工定稿,
+43,0x360,system,system,0936,4,,未翻,
+44,0x365,dialogue,narrative,ria｢シリアルキラー……,22,ria｢連環殺手……,人工定稿,导入警告: kana_residue
+45,0x37c,dialogue,narrative,見ﾂｹﾃﾓ殴ｯﾀﾗダメﾅﾝｽﾖﾈ｡,21,找到了也不能打呀。,人工定稿,P7 校对修正: なんすよね 共感陈述按 v1.4 卡改 呀(禁 哦)
+46,0x394,dialogue,narrative,ｳｰ､イライラｽﾙｰ｣,15,嗚，氣死人了｣,人工定稿,导入警告: kana_residue
+47,0x3a4,system,system,1376,4,,未翻,
+48,0x3a9,dialogue,narrative,ria｢仕方ﾅｲだﾛｳ｡,15,ria｢無可奈何。,人工定稿,导入警告: kana_residue
+49,0x3bc,dialogue,narrative,ゲームが終ﾜｯﾀﾗ､存分ﾆ殴ﾙがｲｲｻ｣,29,遊戲結束後，盡情打一頓就行咯｣,人工定稿,"P7 校对修正: 存分に=盡情, 非'隨便'"
+50,0x3dc,dialogue,narrative,ﾓｯﾄﾓｿﾉ時ﾊ､シリアルキラーﾊ,25,不過到那時，連環殺手,人工定稿,
+51,0x3f8,dialogue,narrative,全滅ｼﾃｲﾙ可能性ﾓｱﾙがﾅ｡,21,也可能已經全滅了。,人工定稿,
+52,0x410,dialogue,narrative,ロム2_KW_シリアルキラー_ﾊﾙｶ,27,ROM2_KW_連環殺手_遙,人工定稿,
+53,0x42c,system,system,0056,4,,未翻,
+54,0x431,dialogue,narrative,ria｢……ﾜﾀｼ､ﾁがｳﾓﾝ｣,19,ria｢……我不一樣嘛｣,人工定稿,导入警告: kana_residue
+55,0x445,dialogue,narrative,ﾙｶ,2,遙,人工定稿,
+56,0x448,system,system,1377,4,,未翻,
+57,0x44d,dialogue,narrative,ria｢ｱｱ｡ｿﾚだｹﾊ信じﾀｲﾄｺﾛだ｣,25,ria｢哦。就這點倒想相信｣,人工定稿,导入警告: kana_residue
+58,0x468,system,system,0057,4,,未翻,
+59,0x46d,dialogue,narrative,ria｢ｳﾝ……｣,11,ria｢唔……｣,人工定稿,导入警告: kana_residue
+60,0x479,dialogue,narrative,.stロム2_KW_シリアルキラー_ﾂﾑじ,31,.stROM2_KW_連環殺手_旋,人工定稿,
+61,0x49c,system,system,0064,4,,未翻,
+62,0x4a1,dialogue,narrative,ria｢……ｿﾚがどｳｶｼﾏｼﾀｶ?｣,23,ria｢……那個怎麼了?｣,人工定稿,P7 校对修正: それがどうかしましたか 误译为'後來如何了'
+63,0x4bc,system,system,1378,4,,未翻,
+64,0x4c1,dialogue,narrative,ria｢ｲﾔ､何ｶ知ﾗﾅｲｶﾄ思ｯﾃﾅ｣,23,ria｢不，想問知道些什麼｣,人工定稿,导入警告: kana_residue
+65,0x4dc,system,system,0065,4,,未翻,
+66,0x4e1,dialogue,narrative,ria｢ぼｸﾐﾀｲﾅ子どﾓが､知ｯﾃﾙﾜｹ,26,ria｢像我這樣的孩子不會知道,人工定稿,导入警告: kana_residue
+67,0x4fc,dialogue,narrative,ﾅｲじｬﾅｲでｽｶ｣,12,怎麼可能嘛｣,人工定稿,"P7 校对修正: わけないじゃないですか 反語, 非'什麼嘛'"
+68,0x50c,system,system,1379,4,,未翻,
+69,0x511,dialogue,narrative,ria｢ｿｳﾄﾊ限ﾗﾅｲだﾛｳ?｣,19,ria｢那也不見得?｣,人工定稿,P7 校对修正: そうとは限らない 去翻译腔'可説不一定'
+70,0x528,system,system,0066,4,,未翻,
+71,0x52d,dialogue,narrative,ria｢何ﾓ知ﾗﾅｲでｽ｣,16,ria｢一無所知｣,人工定稿,导入警告: kana_residue
+72,0x540,system,system,1380,4,,未翻,
+73,0x545,dialogue,narrative,ria｢……ｿｳｶ｣,12,ria｢……哦｣,人工定稿,导入警告: kana_residue
+74,0x552,dialogue,narrative,stロム2_KW_シリアルキラー_ジャック,34,stROM2_KW_連環殺手_傑克,人工定稿,
+75,0x578,dialogue,narrative,｢11人だ｣,8,｢11人｣,人工定稿,导入警告: kana_residue
+76,0x581,system,system,.st1381,7,,未翻,
+77,0x589,dialogue,narrative,ria｢ﾑ?｣,7,ria｢?｣,人工定稿,导入警告: kana_residue
+78,0x591,dialogue,narrative,ria｢オレがシリアルキラーだｯﾀﾗ,29,ria｢如果我成了連環殺手,人工定稿,导入警告: kana_residue
+79,0x5b0,dialogue,narrative,ｱﾉ機械ｦ使ｯﾃ11人ﾊ殺ｾﾀﾜｹだ｣,25,用那機械就能殺掉11人了｣,人工定稿,"P7 校对修正: 殺せた 能願+わけだ 语气, 去'的'结尾"
+80,0x5cc,system,system,0099,4,,未翻,
+81,0x5d1,dialogue,narrative,ria｢ｿｼﾃ生ｷ残ｯﾀ2人ﾉシリアルキラーﾊ,33,ria｢而活下來的2名連環殺手,人工定稿,导入警告: kana_residue
+82,0x5f4,dialogue,narrative,好ｷﾅだｹﾔｯﾁﾏｴﾀﾜｹだﾛｳ?,20,能隨心所欲地下手了?,人工定稿,
+83,0x60c,dialogue,narrative,ｸｯｿｫ､シリアルキラーﾆﾅﾘﾀｶｯﾀぜ!｣,30,可惡，我就是想當連環殺手咯!｣,人工定稿,导入警告: kana_residue
+84,0x62c,dialogue,narrative,……色々ﾄ計算ﾊ合ﾜﾅｲが､,22,……怎麼算都對不上，,人工定稿,
+85,0x644,dialogue,narrative,シリアルキラーﾆﾅﾘﾀｲﾄｲｳﾉﾊ,24,想成為連環殺手這種話,人工定稿,
+86,0x660,dialogue,narrative,本心ﾉﾖｳだﾅ……｡,15,是真心話……。,人工定稿,
+87,0x670,dialogue,narrative,ロム2_KW_シリアルキラー_薫,26,ROM2_KW_連環殺手_薰,人工定稿,
+88,0x68c,system,system,1382,4,,未翻,
+89,0x691,dialogue,narrative,ria｢シリアルキラーﾊ犯罪者ﾄ言ｴﾙﾉだﾛｳｶ｣,37,ria｢連環殺手能稱為罪犯?｣,人工定稿,导入警告: kana_residue
+90,0x6b8,system,system,0204,4,,未翻,
+91,0x6bd,dialogue,narrative,ria｢ﾄ､当然でｽ｡,14,ria｢當，當然。,人工定稿,导入警告: kana_residue
+92,0x6cc,dialogue,narrative,人殺ｼﾅﾝでｽｶﾗ｣,13,是殺人犯嘛｣,人工定稿,导入警告: kana_residue
+93,0x6dc,system,system,1383,4,,未翻,
+94,0x6e1,dialogue,narrative,ria｢ｼｶｼだ｡彼ﾗﾊ強要ｻﾚﾀ操作ｦｼﾃｲﾙだｹ｡,34,ria｢但他們只是在執行被迫的操作。,人工定稿,导入警告: kana_residue
+95,0x704,dialogue,narrative,実際ﾆ殺人ｦ行ｯﾃｲﾙﾉﾊｱﾉ機械だぞ?｣,30,實際殺人的可是那機械哇?｣,人工定稿,导入警告: kana_residue
+96,0x724,system,system,0205,4,,未翻,
+97,0x729,dialogue,narrative,ria｢ピストルだｯﾃ引ｷ金ｦ引ｸだｹで､,31,ria｢手槍也只是扣動機關，,人工定稿,导入警告: kana_residue
+98,0x74c,dialogue,narrative,実際ﾆ殺ｼﾃｲﾙﾉﾊ銃弾でｽ｡,21,真正殺人的是子彈。,人工定稿,
+99,0x764,dialogue,narrative,ﾀだ……｣,8,但……｣,人工定稿,导入警告: kana_residue
+100,0x76d,system,system,.st0206,7,,未翻,
+101,0x775,dialogue,narrative,ria｢今ﾊ自分ﾉ命が危険ﾅﾜｹでｽｶﾗ,28,ria｢現在自身性命有危險，,人工定稿,导入警告: kana_residue
+102,0x794,dialogue,narrative,少ｼ事情ﾊ変ﾜｯﾃｸﾙｶﾓｼﾚﾏｾﾝﾈ｡,24,情況或許會有所變化。,人工定稿,
+103,0x7b0,dialogue,narrative,ｿｺﾊ法律家が判断ｽﾙﾄｺﾛでｽﾈ｣,25,這就要交由法律專家判斷了｣,人工定稿,导入警告: kana_residue
+104,0x7cc,system,system,1384,4,,未翻,
+105,0x7d1,dialogue,narrative,ria｢ﾅﾙﾎどﾅ……｣,15,ria｢這樣呀……｣,人工定稿,"P7 校对修正: なるほどな 补全, 保 …… 停顿"
+106,0x7e4,dialogue,narrative,ロム2_KW_シリアルキラー_樫沢,28,ROM2_KW_連環殺手_樫澤,人工定稿,
+107,0x804,system,system,0218,4,,未翻,
+108,0x809,dialogue,narrative,ria｢シリアルキラーﾉプレイングﾉ一手ﾄｼﾃ,37,ria｢作為連環殺手玩法的一歩棋，,人工定稿,P7 校对修正: 补回漏译 プレイング
+109,0x830,dialogue,narrative,探偵ｦ装ｳﾄｲｳﾉﾊ考ｴﾗﾚﾏｽﾈ｣,22,裝成偵探倒是想得到｣,人工定稿,导入警告: kana_residue
+110,0x848,system,system,1385,4,,未翻,
+111,0x84d,dialogue,narrative,ria｢ﾀｼｶﾆ､ｱﾘｴﾙ話だﾅ｣,19,ria｢確實，有可能｣,人工定稿,导入警告: kana_residue
+112,0x864,system,system,0219,4,,未翻,
+113,0x869,dialogue,narrative,ria｢市民ｶﾗﾉ投票が集ﾏﾙﾄﾊ考ｴﾆｸｲでｽｼ､,34,ria｢要收集市民的票不太現實，,人工定稿,导入警告: kana_residue
+114,0x88c,dialogue,narrative,シリアルキラーﾉ指名ﾓ自分ﾉ票で薄ﾒﾗﾚﾙ｡,36,連環殺手的指名也能用自己的票稀釋。,人工定稿,
+115,0x8b4,dialogue,narrative,ﾓﾁﾛﾝボロが出ﾀﾗｽぐﾆバレﾏｽが……｣,31,當然一露馬脚就會穿幇……｣,人工定稿,导入警告: kana_residue
+116,0x8d4,system,system,1386,4,,未翻,
+117,0x8d9,dialogue,narrative,ria｢……勝負ｦｶｹﾙ時ﾆﾊ出ﾃｸﾙｶﾓｼﾚﾅｲﾅ｣,33,ria｢……在決勝負時或許會使出來｣,人工定稿,导入警告: kana_residue
+118,0x8fc,dialogue,narrative,ｿﾉ時､私ﾊ……どｳ対処ｽﾙべｷだﾛｳｶ｡,30,到時我……該如何應對才好。,人工定稿,
+119,0x91c,dialogue,narrative,ロム2_KW_シリアルキラー_唯柚,28,ROM2_KW_連環殺手_唯柚,人工定稿,
+120,0x93c,system,system,0138,4,,未翻,
+121,0x941,dialogue,narrative,ria｢ｼﾘｱﾙｷﾗｰ……ｯﾃ,17,ria｢連環殺手呀,人工定稿,导入警告: kana_residue
+122,0x953,dialogue,narrative,_どｳｲｳ意味ﾅﾉｶﾅ｣,15,_意思是什麼?｣,人工定稿,导入警告: kana_residue
+123,0x964,system,system,1387,4,,未翻,
+124,0x969,dialogue,narrative,ria｢連続殺人鬼ﾉｺﾄだ｡,20,ria｢指連環殺人鬼。,人工定稿,导入警告: kana_residue
+125,0x980,dialogue,narrative,ﾅﾝだ､英語ﾊ苦手ｶ?｣,17,怎麼，英語不行?｣,人工定稿,导入警告: kana_residue
+126,0x994,system,system,0139,4,,未翻,
+127,0x999,dialogue,narrative,ria｢ｲｴｽ､ｱｲｱﾑ｣,13,ria｢Yes I am｣,人工定稿,"P7 校对修正: イエス、アイアム 英文回答梗, 原译'是，是我'失义"
+128,0x9a7,system,system,t1388,5,,未翻,
+129,0x9ad,dialogue,narrative,ria｢ﾎﾎｳ｡高円寺家ﾄｼﾃﾊ外国ﾉ人ﾄ,28,ria｢哦哦。身為高圓寺家的,人工定稿,导入警告: kana_residue
+130,0x9cc,dialogue,narrative,会話ｽﾙｺﾄﾓｱﾙﾉでﾊﾅｲﾉｶ?｣,21,不也會和外國人交談?｣,人工定稿,P7 校对修正: 会話することもある=也會有交談的時候
+131,0x9e4,system,system,0140,4,,未翻,
+132,0x9e9,dialogue,narrative,ria｢ｿｳｲｳ時ﾊ通訳ﾉ人がｲﾙﾉ｡,24,ria｢那種時候有翻譯人員。,人工定稿,导入警告: kana_residue
+133,0xa04,dialogue,narrative,ﾎﾝﾄﾊﾈ､勉強ﾓｼﾃﾙﾝだｹどﾈ｡,22,其實嘛，唯柚也在學的。,人工定稿,"P7 校对修正: 唯柚第三人称自称(风格指南), 不得用'我'"
+134,0xa1c,dialogue,narrative,ﾕﾕﾊﾔｯぱﾘ､日本語が好ｷだﾖ｣,24,唯柚果然最喜歡日語哦｣,人工定稿,导入警告: kana_residue
+135,0xa38,system,system,1389,4,,未翻,
+136,0xa3d,dialogue,narrative,ria｢ｿｳｶ……,11,ria｢哦……,人工定稿,导入警告: kana_residue
+137,0xa49,dialogue,narrative,.stｼｶｼシリアルキラーﾅﾝﾃ言葉､,28,.st不過連環殺手這種詞，,人工定稿,
+138,0xa68,dialogue,narrative,洋画ｦ見ﾃｲﾚば出ﾃｸﾙﾄ思ｳが｣,24,看外國片應該就會聽到｣,人工定稿,导入警告: kana_residue
+139,0xa84,system,system,0141,4,,未翻,
+140,0xa89,dialogue,narrative,ria｢ﾕﾕ､ｱﾝﾏﾘ外国ﾉ映画ﾊ見ﾅｲﾖ?,27,ria｢唯柚不太看外國電影對不?,人工定稿,P7 校对修正: よ? 求确认按 v1.4 卡用 對不?
+141,0xaa8,dialogue,narrative,ｴｯﾄﾈ､スタジオブリキﾄｶが好ｷｶﾅ｣,29,唔，大概喜歡布里克工作室之類｣,人工定稿,P7 校对修正: 补回 とか(之類)+かな(大概); えっと 按唯柚既译用 唔
+142,0xac8,dialogue,narrative,……イメージｿﾉﾏﾏだﾅ｡,20,……印象完全一致。,人工定稿,
+143,0xae0,dialogue,narrative,ﾄﾅﾙﾄｺｳｲｯﾀ世界観ﾆ馴染ﾒﾅｲﾉﾓ,25,與這種世界觀合不來的地方,人工定稿,
+144,0xafc,dialogue,narrative,仕方ﾅｲ部分ﾓｱﾙｶ……｡,19,也是正常……。,人工定稿,
+145,0xb10,dialogue,narrative,ロム2_KW_シリアルキラー_紅春,28,ROM2_KW_連環殺手_紅春,人工定稿,
+146,0xb30,system,system,0188,4,,未翻,
+147,0xb35,dialogue,narrative,ria｢……私達ﾉ中ﾉ誰ｶが,21,ria｢……我們之中有人,人工定稿,导入警告: kana_residue
+148,0xb4b,dialogue,narrative,tシリアルキラーﾅﾝでｽﾖﾈ……,26,t是連環殺手呀……,人工定稿,P7 校对修正: なんですよね 非'的話'; 共感陈述用 呀(v1.4 卡)
+149,0xb68,dialogue,narrative,私､怖ｸｯﾃ……｣,13,我，害怕……｣,人工定稿,导入警告: kana_residue
+150,0xb78,system,system,0189,4,,未翻,
+151,0xb7d,dialogue,narrative,ria｢ｱ……でﾓ､楓ｻﾝだｯﾃ,21,ria｢呀……不過楓也,人工定稿,P7 校对修正: だって=也 补回; 楓サン 按术语表作 楓
+152,0xb94,dialogue,narrative,ﾓｼｶｼﾀﾗシリアルキラーﾅﾉｶﾓ,24,説不定就是連環殺手,人工定稿,
+153,0xbb0,dialogue,narrative,ｼﾚﾅｲﾝでｽﾖﾈ……｣,15,也不一定呀……｣,人工定稿,P7 校对修正: んですよね 共感陈述按 v1.4 卡改 呀(禁 哦)
+154,0xbc0,system,system,1390,4,,未翻,
+155,0xbc5,dialogue,narrative,ria｢可能性ﾊ否定ｼﾅｲが､,21,ria｢不否認這可能，,人工定稿,导入警告: kana_residue
+156,0xbdc,dialogue,narrative,違ｳﾄ宣言だｹﾊｼﾃｵｺｳ｣,18,但我可以斷言不同｣,人工定稿,导入警告: kana_residue
+157,0xbf0,system,system,0190,4,,未翻,
+158,0xbf5,dialogue,narrative,ria｢……本当ﾆ違ｳﾅﾗ……,22,ria｢……若真的不同……,人工定稿,导入警告: kana_residue
+159,0xc0c,dialogue,narrative,楓ｻﾝﾊ頼ﾘﾆﾅﾘﾏｽｶﾗ嬉ｼｲでｽ｣,23,楓很可靠，我很高興｣,人工定稿,P7 校对修正: から 因果非条件('就太好了'); 楓サン 按术语表作 楓
+160,0xc24,dialogue,narrative,ロム2_KW_シリアルキラー_西野,28,ROM2_KW_連環殺手_西野,人工定稿,

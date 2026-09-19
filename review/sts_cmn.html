@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-Hant"><meta charset="utf-8">
+<title>sts_cmn.tob</title>
+<style>
+body { font-family: system-ui, sans-serif; margin: 16px; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #ddd; padding: 4px 8px; vertical-align: top;
+        font-size: 13px; }
+td.jp, td.zh { width: 34%; }
+.jp { font-family: "Yu Gothic", "MS Gothic", monospace; }
+tr.skip { opacity: 0.45; }
+td.note { color: #b00; font-size: 12px; }
+</style>
+<body>
+<p><a href="index.html"><< 返回索引</a></p>
+<h2>sts_cmn.tob</h2>
+<p><label>状态 <select id="f" onchange="flt()">
+<option value="">全部</option><option>未翻</option><option>机翻</option>
+<option>机审</option><option>人工定稿</option><option>skip</option>
+</select></label> <span id="stat"></span></p>
+<table><tr><th>seq</th><th>状态</th><th>role</th>
+<th>原文</th><th>译文</th><th>备注</th></tr>
+<tr class="未翻"><td>1</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">../tob/rom2/sts_cmn.tob</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>2</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">sts_cmn.sts</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>3</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">end_save</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>4</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">クリア情報ｦセーブｼﾏｽｶ?</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>5</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">init_var</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>6</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">ts</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>7</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">変数初期化</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>8</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">CALLﾅｼ処理</td><td class="zh"></td><td class="note"></td></tr>
+</table>
+<script>
+function flt() {
+  const v = document.getElementById('f').value;
+  let n = 0;
+  for (const tr of document.querySelectorAll('tr')) {
+    if (!tr.rowIndex || !tr.className) continue;
+    const show = !v || tr.className === v;
+    tr.style.display = show ? '' : 'none';
+    if (show) n++;
+  }
+  document.getElementById('stat').textContent = n + ' 行';
+}
+flt();
+</script>

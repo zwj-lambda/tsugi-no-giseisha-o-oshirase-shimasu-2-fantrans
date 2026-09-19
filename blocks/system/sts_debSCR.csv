@@ -1,0 +1,13 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_debSCR.tob,26,,未翻,
+2,0x1c,system,system,sts_debSCR.sts,14,,未翻,
+3,0x2c,system,system,scr_deb_start,13,,未翻,
+4,0x3c,dialogue,narrative,スクリプタ用デバッグスタート,28,脚本作者用調試啓動,人工定稿,
+5,0x5c,dialogue,narrative,テストメニュー1,15,測試菜單1,人工定稿,
+6,0x6c,dialogue,narrative,テストメニュー2,15,測試菜單2,人工定稿,
+7,0x7c,dialogue,narrative,テストメニュー3,15,測試菜單3,人工定稿,
+8,0x8c,dialogue,narrative,相沢デバッグ,12,相澤調試,人工定稿,
+9,0x99,system,system,s,1,,未翻,
+10,0x9c,dialogue,narrative,空ｷ,3,空,人工定稿,
+11,0xa0,dialogue,narrative,ざﾜｼ,4,雜音,人工定稿,
+12,0xa5,dialogue,narrative,ebSｱｷ,5,ebS空,人工定稿,

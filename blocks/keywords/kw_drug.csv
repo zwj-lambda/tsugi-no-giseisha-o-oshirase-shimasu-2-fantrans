@@ -1,0 +1,231 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_drug.tob,23,,未翻,
+2,0x18,system,system,kw_drug.sts,11,,未翻,
+3,0x24,dialogue,label,ROM2_KW_薬物,12,ROM2_KW_藥物,人工定稿,
+4,0x34,dialogue,label,ROM2_KW会話_薬物,16,ROM2_KW會話_藥物,人工定稿,
+5,0x48,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x60,dialogue,command,フェードアウト,14,,未翻,
+7,0x70,dialogue,narrative,ロム2_KW_薬物_美紀,18,ROM2_KW_藥物_美紀,人工定稿,
+8,0x84,system,system,1083,4,,未翻,
+9,0x89,dialogue,narrative,ug.｢薬物ｯｽｶ?｣,13,ug.｢藥物?｣,人工定稿,导入警告: kana_residue
+10,0x98,system,system,1084,4,,未翻,
+11,0x9d,dialogue,narrative,ug.｢ｱﾀｼが欲ｼｲﾉﾊﾔｯぱﾘ,20,ug.｢我想要的果然是,人工定稿,导入警告: kana_residue
+12,0xb4,dialogue,narrative,惚ﾚ薬ｯｽ!!｣,10,迷魂藥!!｣,人工定稿,导入警告: kana_residue
+13,0xc0,system,system,1924,4,,未翻,
+14,0xc5,dialogue,narrative,ug.｢念ﾉﾀﾒﾆ聞ｸが,15,ug.｢為慎重問下,人工定稿,导入警告: kana_residue
+15,0xd8,dialogue,narrative,どｺで使ｳﾂﾓﾘﾅﾝだ?｣,17,打算在何處用?｣,人工定稿,导入警告: kana_residue
+16,0xec,system,system,1085,4,,未翻,
+17,0xf1,dialogue,narrative,ug.｢ﾓﾁﾛﾝｵ姉ｻﾏﾆ使ｳｯｽ!｣,21,ug.｢當然給姐姐大人用｣,人工定稿,导入警告: kana_residue
+18,0x108,system,system,1925,4,,未翻,
+19,0x10d,dialogue,narrative,ug.｢ﾏｧ､現実ﾆ存在ｼﾀﾗ,19,ug.｢嘛現實中若有,人工定稿,导入警告: kana_residue
+20,0x124,dialogue,narrative,間違ｲﾅｸ使用禁止ﾆﾅﾙだﾛｳがﾅ｣,26,肯定會被禁止使用｣,人工定稿,导入警告: kana_residue
+21,0x140,dialogue,narrative,ロム2_KW_薬物_昇,16,ROM2_KW_藥物_昇,人工定稿,
+22,0x154,system,system,0301,4,,未翻,
+23,0x159,dialogue,narrative,ug.｢薬!?｣,9,ug.｢藥!?｣,人工定稿,导入警告: kana_residue
+24,0x163,system,system,.1926,5,,未翻,
+25,0x169,dialogue,narrative,ug.｢どｳｼﾀ?｣,11,ug.｢怎麼?｣,人工定稿,"P7 校对修正: 原文 どした? 带问号, 槽紧取短形并保留问号(全库先例 r2_t3_1_0_0 487)"
+26,0x175,system,system,ts,2,,未翻,
+27,0x178,system,system,0302,4,,未翻,
+28,0x17d,dialogue,narrative,ug.｢ｱｧ……ｲﾔ､昔ﾊ香菜ﾆﾖｸ,23,ug.｢唔……以前常被香菜,人工定稿,"P7 校对修正: 香菜に=被香菜(原译 對香菜 误), 承29行成 被…逼著喝下"
+29,0x198,dialogue,narrative,薬ﾄ呼ばﾚﾙ怪ｼげﾅ物体ｦ飲ﾏｻﾚﾃﾅ｣,28,逼著喝下那叫藥的可疑東西｣,人工定稿,"P7 校对修正: 承28行, 去重复的 被, 飲まされて=逼著喝下"
+30,0x1b8,system,system,1927,4,,未翻,
+31,0x1bd,dialogue,narrative,ug.｢ﾖｸ飲ﾝだﾅｿﾝﾅﾓﾉ……｣,22,ug.｢常喝那種東西……｣,人工定稿,导入警告: kana_residue
+32,0x1d4,system,system,0303,4,,未翻,
+33,0x1d9,dialogue,narrative,ug.｢若気ﾉ至ﾘｯﾃﾔﾂだﾖ……｣,24,ug.｢年輕氣盛那回事哦｣,人工定稿,"P7 校对修正: だよ 不得用 咯(だぜ专用), 改 哦(v1.4 卡)"
+34,0x1f4,system,system,1928,4,,未翻,
+35,0x1f9,dialogue,narrative,ug.｢愛ﾉ力ﾄｲｳﾔﾂｶ?｣,17,ug.｢愛的力量?｣,人工定稿,导入警告: kana_residue
+36,0x20c,system,system,0304,4,,未翻,
+37,0x211,dialogue,narrative,ug.｢ば､ばｶﾔﾛｳ､ｿﾝﾅﾝじｬﾈｪﾖ……!｣,30,ug.｢蠢，蠢材，才不是那樣……!｣,人工定稿,导入警告: kana_residue
+38,0x230,dialogue,narrative,ロム2_KW_薬物_香菜,18,ROM2_KW_藥物_香菜,人工定稿,
+39,0x244,dialogue,narrative,｢ﾝｯﾌｯﾌ～｣,9,｢呵呵～｣,人工定稿,导入警告: kana_residue
+40,0x24e,system,system,s,1,,未翻,
+41,0x250,dialogue,narrative,｢どｳｼﾀﾉ? どｺｶ調子でﾓ悪ｲﾉ?｣,26,｢怎麼了? 身體不舒服?｣,人工定稿,导入警告: kana_residue
+42,0x26c,dialogue,narrative,｢ﾁｮｯﾄｼﾀ痛ﾐ止ﾒﾔ風邪薬程度で,26,｢普通止痛藥或感冒藥之類,人工定稿,导入警告: kana_residue
+43,0x288,dialogue,narrative,ﾖｶｯﾀﾗ作ｯﾃｱげﾙﾜﾖ?｣,17,可以的話我做哦?｣,人工定稿,导入警告: kana_residue
+44,0x29c,system,system,1929,4,,未翻,
+45,0x2a1,dialogue,narrative,ug.｢ﾎｳ｡薬剤師ﾉ免許でﾓ持ｯﾃｲﾙﾉｶ?｣,31,ug.｢哦。還有藥劑師執照?｣,人工定稿,导入警告: kana_residue
+46,0x2c4,system,system,0305,4,,未翻,
+47,0x2c9,dialogue,narrative,ug.｢ｲｲｴ? ｹど､効ｷ目ﾊ保証ｽﾙﾜﾖ｡,28,ug.｢沒有? 不過效果我保證哦。,人工定稿,导入警告: kana_residue
+48,0x2e8,dialogue,narrative,副作用ﾆﾂｲﾃﾊ保障ｼｶﾈﾙｹど……｣,27,副作用方面沒法保證……｣,人工定稿,导入警告: kana_residue
+49,0x304,system,system,1930,4,,未翻,
+50,0x309,dialogue,narrative,ug.｢ﾁﾅﾐﾆｿﾉ薬､自分で飲ﾑ自信ﾊｱﾙｶ?｣,32,ug.｢順便問下，那藥自己敢喝?｣,人工定稿,导入警告: kana_residue
+51,0x32c,system,system,0306,4,,未翻,
+52,0x331,dialogue,narrative,ug.｢昇ﾆﾊ飲ﾏｾﾀｺﾄｱﾙﾜﾖ｣,20,ug.｢給昇喝過哦｣,人工定稿,导入警告: kana_residue
+53,0x348,dialogue,narrative,……恐ﾛｼｲ科学者だ｡,18,真是可怕的科學家。,人工定稿,
+54,0x35c,dialogue,narrative,ロム2_KW_薬物_圭介,18,ROM2_KW_藥物_圭介,人工定稿,
+55,0x370,system,system,0167,4,,未翻,
+56,0x375,dialogue,narrative,ug.｢薬でｽｶ……｣,15,ug.｢是藥呀……｣,人工定稿,P7 校对修正
+57,0x388,system,system,0168,4,,未翻,
+58,0x38d,dialogue,narrative,ug.｢ﾅﾝｶ抵抗がｱﾙﾝでｽﾖﾈ｣,22,ug.｢總覺得有點抗拒呀｣,人工定稿,"P7 校对修正: んですね 共感陈述, v1.4 卡禁 哦, 用 呀"
+59,0x3a4,system,system,1931,4,,未翻,
+60,0x3a9,dialogue,narrative,ug.｢抵抗?｣,10,ug.｢抗拒?｣,人工定稿,导入警告: kana_residue
+61,0x3b4,system,system,0169,4,,未翻,
+62,0x3b9,dialogue,narrative,ug.｢ﾊｲ｡ﾅﾝｶ自然じｬﾅｲ力が体ﾆ影響ｽﾙﾉｯﾃ,35,ug.｢是。那非自然力量影響身體的感覺,人工定稿,导入警告: kana_residue
+63,0x3e0,dialogue,narrative,変ﾅ感じじｬﾅｲでｽｶ?,17,不覺得奇怪?,人工定稿,
+64,0x3f4,dialogue,narrative,自分ﾉ体で何が起ｺｯﾃﾙﾉｶﾜｶﾗﾅｲｼ｣,28,自己身體裡發生什麼都不清楚｣,人工定稿,P7 校对修正: 补 裡(自分の体で=身體裡)
+65,0x414,system,system,1932,4,,未翻,
+66,0x419,dialogue,narrative,ug.｢ｿﾚが把握でｷﾚば医者ﾆﾅﾚﾙだﾛｳﾅ｣,32,ug.｢能掌握那個就能當醫生呀｣,人工定稿,P7 校对修正: だろうな 用 呀(咯 为だぜ专用; kw_citizen 31 先例)
+67,0x43c,system,system,0170,4,,未翻,
+68,0x441,dialogue,narrative,ug.｢ｿﾚﾆ消毒ﾄｶﾓ嫌ﾅﾝでｽﾖﾈ｡,24,ug.｢而且消毒之類也討厭。,人工定稿,导入警告: kana_residue
+69,0x45c,dialogue,narrative,沁ﾐﾙｼ痛ｲｼ､だｲﾀｲ菌ｦ殺ｽｯﾃｺﾄﾊ,26,又刺痛又疼，而且殺菌這事,人工定稿,
+70,0x478,dialogue,narrative,僕ﾉ体ﾓ少ｼダメージｦ受ｹﾃﾙﾊずで……｣,33,我的身體也該受了點損傷……｣,人工定稿,导入警告: kana_residue
+71,0x49c,system,system,0171,4,,未翻,
+72,0x4a1,dialogue,narrative,ug.｢ｿﾚでﾓ霞ﾆﾊ無理ﾔﾘ塗ﾗﾚﾏｽｹど｣,29,ug.｢不過霞還是會被硬塗上｣,人工定稿,导入警告: kana_residue
+73,0x4c0,dialogue,narrative,霞ｸﾝﾊｲｲ奥ｻﾝﾆﾅﾘｿｳだﾅ｡,20,霞會是個好太太哦。,人工定稿,
+74,0x4d8,dialogue,narrative,ロム2_KW_薬物_霞,16,ROM2_KW_藥物_霞,人工定稿,
+75,0x4ec,system,system,0174,4,,未翻,
+76,0x4f1,dialogue,narrative,ug.｢ｵ薬……?,12,ug.｢藥……?,人工定稿,导入警告: kana_residue
+77,0x4fe,system,system,s,1,,未翻,
+78,0x500,dialogue,narrative,大変､どｺｶ悪ｲﾝでｽｶ?｣,19,怎麼了?身體不舒服?｣,人工定稿,P7 校对修正: 补回疑问号(大変、どこか悪いんですか?)
+79,0x514,system,system,1933,4,,未翻,
+80,0x519,dialogue,narrative,ug.｢ｱｱ､ｲﾔ｡ｿｳｲｳﾜｹじｬﾅｲﾝだ｣,25,ug.｢唔，不，沒那回事｣,人工定稿,P7 校对修正: 补 いや=不; そういうわけじゃない=沒那回事
+81,0x534,system,system,0175,4,,未翻,
+82,0x539,dialogue,narrative,ug.｢ｱ､ｿｳﾅﾝでｽｶ……ﾖｶｯﾀ｣,23,ug.｢哦，這樣……太好了｣,人工定稿,导入警告: kana_residue
+83,0x554,system,system,1934,4,,未翻,
+84,0x559,dialogue,narrative,ug.｢ｿﾚで､薬ﾊ何ｶ持ｯﾃﾙｶ?｣,23,ug.｢那麼，有帶什麼藥?｣,人工定稿,导入警告: kana_residue
+85,0x574,system,system,0176,4,,未翻,
+86,0x579,dialogue,narrative,ug.｢ｱｯ､ｴｯﾄ……ｿﾉ……,20,ug.｢唔，那、那個……,人工定稿,导入警告: kana_residue
+87,0x590,dialogue,narrative,精神安定剤ﾄ……,15,精神安定劑……,人工定稿,
+88,0x5a0,dialogue,narrative,ｱﾄ､ｿﾉ……鎮痛剤ｦ……｣,21,還有，那鎮痛劑……｣,人工定稿,导入警告: kana_residue
+89,0x5b8,system,system,1935,4,,未翻,
+90,0x5bd,dialogue,narrative,ug.｢ｱｱ､ﾅﾙﾎどﾅ｡,14,ug.｢哦原來如此,人工定稿,导入警告: kana_residue
+91,0x5cc,dialogue,narrative,……安定剤ｶ……｣,16,……安定劑……｣,人工定稿,导入警告: kana_residue
+92,0x5e0,system,system,0177,4,,未翻,
+93,0x5e5,dialogue,narrative,ug.｢……ｱﾏﾘ飲ﾏﾅｲ方が良ｲﾝでｽｹど,30,ug.｢……還是別喝太多比較好,人工定稿,导入警告: kana_residue
+94,0x604,dialogue,narrative,今回ﾊﾁｮｯﾄ……飲ﾏﾅｲﾄ､私……｣,27,這次有點……不喝的話我……｣,人工定稿,导入警告: kana_residue
+95,0x620,system,system,1936,4,,未翻,
+96,0x625,dialogue,narrative,ug.｢……ｱﾏﾘ飲ﾐｽぎﾅｲﾖｳﾆﾅ｣,24,ug.｢……別喝太多哦｣,人工定稿,"P7 校对修正: 去误加的 了(ないようにな 为将来劝告), な→哦"
+97,0x640,dialogue,narrative,私達ﾓ､彼女ﾉ精神状態ﾆﾊ気ｦ付ｹﾃｱげﾖｳ｡,34,我們也該多留意霞的精神状態。,人工定稿,P7 校对修正: 彼女→霞(风格指南女性第三人称以名字指代)
+98,0x664,dialogue,narrative,ロム2_KW_薬物_ﾊﾙｶ,17,ROM2_KW_藥物_遙,人工定稿,
+99,0x678,system,system,0117,4,,未翻,
+100,0x67d,dialogue,narrative,ug.｢ｵｸｽﾘﾊ､ｱﾏｲﾉｼｶイヤ｣,21,ug.｢藥嘛，只喜歡甜的｣,人工定稿,导入警告: kana_residue
+101,0x694,system,system,1937,4,,未翻,
+102,0x699,dialogue,narrative,ug.｢シロップ入ﾘﾉﾔﾂｶ｡,20,ug.｢是加糖漿的那種哦,人工定稿,导入警告: kana_residue
+103,0x6b0,dialogue,narrative,最近ﾊジュースﾆ混ぜﾙタイプﾓ,26,最近聽説也有混進果汁的,人工定稿,"P7 校对修正: らしい 并入本行, 与104行成句(跨行断句)"
+104,0x6cc,dialogue,narrative,ｱﾙﾗｼｲﾅ｣,7,類型哦｣,人工定稿,P7 校对修正: 承103行; 原 貌似有 悬空不通
+105,0x6d4,system,system,0118,4,,未翻,
+106,0x6d9,dialogue,narrative,ug.｢ジュースﾅﾗ……ﾉﾐﾀｲ｣,23,ug.｢要是果汁……想喝｣,人工定稿,导入警告: kana_residue
+107,0x6f4,system,system,1938,4,,未翻,
+108,0x6f9,dialogue,narrative,ug.｢ｱﾝﾏﾘ大量ﾆ飲ﾑﾝじｬﾅｲぞ｡,25,ug.｢別喝太多。,人工定稿,P7 校对修正: じゃないぞ 警告句去 哦(全库同型 別跟別人亂説/別莽撞進去 均无语气词)
+109,0x714,dialogue,narrative,一応､薬ﾅﾉだｶﾗﾅ｣,15,畢竟也是藥嘛｣,人工定稿,导入警告: kana_residue
+110,0x724,system,system,0119,4,,未翻,
+111,0x729,dialogue,narrative,ug.｢ｳﾝ｣,7,ug.｢好｣,人工定稿,导入警告: kana_residue
+112,0x731,dialogue,narrative,ug.ロム2_KW_薬物_ﾂﾑじ,21,ug.ROM2_KW_藥物_旋,人工定稿,
+113,0x748,system,system,0131,4,,未翻,
+114,0x74d,dialogue,narrative,ug.｢薬? 何ｶヤバイﾓﾉ売ﾘﾂｹﾖｳﾄｼﾃﾙ?｣,32,ug.｢藥? 想推銷什麼危險東西?｣,人工定稿,导入警告: kana_residue
+115,0x770,system,system,1939,4,,未翻,
+116,0x775,dialogue,narrative,ug.｢君ﾊ私ｦ何だﾄ思ｯﾃﾙﾝだ｣,24,ug.｢把我當成什麼了｣,人工定稿,导入警告: kana_residue
+117,0x790,system,system,0132,4,,未翻,
+118,0x795,dialogue,narrative,ug.｢怪ｼｲｵ姉ｻﾝ｣,14,ug.｢可疑大姐｣,人工定稿,导入警告: kana_residue
+119,0x7a4,system,system,1940,4,,未翻,
+120,0x7a9,dialogue,narrative,ug.｢……否定ﾊｽﾏｲ｣,17,ug.｢……否定不了｣,人工定稿,导入警告: kana_residue
+121,0x7bc,dialogue,narrative,ロム2_KW_薬物_ジャック,22,ROM2_KW_藥物_傑克,人工定稿,
+122,0x7d4,system,system,0141,4,,未翻,
+123,0x7d9,dialogue,narrative,ug.｢ﾅﾝだ? 姉ﾁｬﾝ欲ｼｲﾉｶ?｣,23,ug.｢什麼? 想要姐姐?｣,人工定稿,导入警告: kana_residue
+124,0x7f4,system,system,0142,4,,未翻,
+125,0x7f9,dialogue,narrative,ug.｢ﾋｬﾋｬﾋｬ!,11,ug.｢桀桀桀!,人工定稿,导入警告: kana_residue
+126,0x805,system,system,ts,2,,未翻,
+127,0x808,dialogue,narrative,最初ﾉ1回ﾊタダでｸﾚﾃﾔﾙぜ｣,23,第一次免費送咯｣,人工定稿,导入警告: kana_residue
+128,0x820,system,system,1941,4,,未翻,
+129,0x825,dialogue,narrative,ug.｢待ﾃ｡死刑囚ﾄｼﾃ収監ｻﾚﾃｲﾀﾊずﾅﾉﾆ,32,ug.｢等等。明明該是死刑犯被收監的,人工定稿,导入警告: kana_residue
+130,0x848,dialogue,narrative,ﾅぜｿﾝﾅﾓﾉｦ持ｯﾃｲﾙ｣,16,為何會有那東西｣,人工定稿,导入警告: kana_residue
+131,0x85c,system,system,0143,4,,未翻,
+132,0x861,dialogue,narrative,ug.｢ﾌﾋｬﾋｬﾋｬ､どｺﾆでﾓルートﾊｱﾙﾓﾝｻ｡,32,ug.｢桀桀桀，到處都有門路。,人工定稿,导入警告: kana_residue
+133,0x884,dialogue,narrative,ﾁｮｯﾄばｶﾘ高ｸﾂｸがﾅ｣,17,只是有點貴哦｣,人工定稿,导入警告: kana_residue
+134,0x898,dialogue,narrative,……少ｼ興味ﾊｱﾙが､深入ﾘﾊｼﾅｲでｵｺｳ｡,32,……雖有點興趣，還是別太深入。,人工定稿,
+135,0x8bc,dialogue,narrative,ロム2_KW_薬物_薫,16,ROM2_KW_藥物_薰,人工定稿,
+136,0x8d0,system,system,0293,4,,未翻,
+137,0x8d5,dialogue,narrative,ug.｢ダメ｡ゼッタイ｣,18,ug.｢不行。絶不行｣,人工定稿,导入警告: kana_residue
+138,0x8e8,system,system,1942,4,,未翻,
+139,0x8ed,dialogue,narrative,ug.｢ﾔﾊﾘ警察ﾊ薬ﾄ聞ｸﾄｿﾚｦ思ｲ浮ｶべﾏｽｶ｣,34,ug.｢果然警察一聽到藥就會想到那個,人工定稿,导入警告: kana_residue
+140,0x910,system,system,0294,4,,未翻,
+141,0x915,dialogue,narrative,ug.｢署内ﾆ貼ｯﾃｱﾙポスターﾉ標語ﾄｶ,30,ug.｢署内貼的海報標語之類,人工定稿,导入警告: kana_residue
+142,0x934,dialogue,narrative,ﾂｲ頭ﾆ残ﾙﾉで……｣,16,總留在腦裡……｣,人工定稿,导入警告: kana_residue
+143,0x948,dialogue,narrative,職業病ﾉ一種だﾅ……｡,19,職業病的一種……,人工定稿,
+144,0x95c,dialogue,narrative,ロム2_KW_薬物_樫沢,18,ROM2_KW_藥物_樫澤,人工定稿,
+145,0x970,system,system,0280,4,,未翻,
+146,0x975,dialogue,narrative,ug.｢僕達がｺｺﾆ連ﾚﾃｺﾗﾚﾙ時､,24,ug.｢我們被帶來這裡時，,人工定稿,导入警告: kana_residue
+147,0x990,dialogue,narrative,薬で意識ｦ失ﾜｻﾚﾀﾄ考ｴﾙﾉが,23,認為是被藥弄暈,人工定稿,
+148,0x9a8,dialogue,narrative,自然でｽﾖﾈ｣,10,才自然呀｣,人工定稿,"P7 校对修正: すよね 共感陈述, v1.4 卡禁 哦, 用 呀"
+149,0x9b4,system,system,1943,4,,未翻,
+150,0x9b9,dialogue,narrative,ug.｢ﾖｸｱﾙ話だが､クロロホルムﾅどだﾛｳｶ｣,36,ug.｢常有的事，是哥羅芳之類?｣,人工定稿,导入警告: kana_residue
+151,0x9e0,system,system,0281,4,,未翻,
+152,0x9e5,dialogue,narrative,ug.｢ｲｴ｡マンガﾔドラマでﾊﾖｸ見ｶｹﾙシーン,36,ug.｢不。漫畫和電視劇裡常見的場景,人工定稿,导入警告: kana_residue
+153,0xa0c,dialogue,narrative,でｽが､実際ﾆﾊ､クロロホルムｦ多少吸引ｼﾀ,36,但是，實際上就算吸了點哥羅芳,人工定稿,
+154,0xa34,dialogue,narrative,ﾄｺﾛで意識ｦ失ｳﾏでﾊｲｶﾅｲﾗｼｲでｽﾖ｣,29,似乎也不會到失去意識哦｣,人工定稿,导入警告: kana_residue
+155,0xa54,system,system,1944,4,,未翻,
+156,0xa59,dialogue,narrative,ug.｢ﾎｵ｣,7,ug.｢哦｣,人工定稿,导入警告: kana_residue
+157,0xa61,system,system,ug.0282,7,,未翻,
+158,0xa69,dialogue,narrative,ug.｢誰ﾉ記憶ﾆﾓ残ｯﾃｲﾅｲﾄﾅﾙﾄ,24,ug.｢要是誰的記憶都沒留,人工定稿,导入警告: kana_residue
+159,0xa84,dialogue,narrative,ｵｿﾗｸ僕達ﾊ一瞬で眠ﾗｻﾚﾀ……,25,大概一瞬間就被弄睡了……,人工定稿,
+160,0xaa0,dialogue,narrative,薬物だﾄｽﾙﾄ､後遺症が心配でｽﾈ｣,28,若是藥物的話，擔心後遺症呀｣,人工定稿,"P7 校对修正: ですね 共感陈述, v1.4 卡禁 哦, 用 呀"
+161,0xac0,system,system,1945,4,,未翻,
+162,0xac5,dialogue,narrative,ug.｢……どﾉﾐﾁ､ｺｺｶﾗ出ﾀﾗ,22,ug.｢……總之從這出去後,人工定稿,导入警告: kana_residue
+163,0xadc,dialogue,narrative,ﾏずﾊ全員､病院で検査ｦ受ｹﾀﾎｳが,28,首先全員去醫院檢査一下,人工定稿,P7 校对修正: 為好 移至164行成句
+164,0xafc,dialogue,narrative,ﾖｻｿｳだﾅ……｣,12,比較好……｣,人工定稿,P7 校对修正: よさそうだな=比較好(原 不錯 误义; kw_police 92 同型先例)
+165,0xb0c,dialogue,narrative,ロム2_KW_薬物_唯柚,18,ROM2_KW_藥物_唯柚,人工定稿,
+166,0xb20,system,system,0213,4,,未翻,
+167,0xb25,dialogue,narrative,ug.｢ｵ薬?,8,ug.｢藥?,人工定稿,导入警告: kana_residue
+168,0xb2e,dialogue,narrative,g.ｴｯﾄﾈ､今ﾊｵ花用ﾉｼｶ持ｯﾃﾅｲﾖ｣,26,g.那個，現在只有花用的哦｣,人工定稿,导入警告: kana_residue
+169,0xb4c,system,system,1946,4,,未翻,
+170,0xb51,dialogue,narrative,ug.｢ﾑｼﾛ､ﾅぜｿﾚｦ常備ｼﾃｲﾙ……｣,27,ug.｢不如説為何常備那個……,人工定稿,导入警告: kana_residue
+171,0xb70,system,system,0214,4,,未翻,
+172,0xb75,dialogue,narrative,ug.｢だｯﾃﾈ､元気ﾉﾅｲｵ花ｻﾝﾊ,23,ug.｢因為，沒精神的花兒,人工定稿,P7 校对修正: だって=因為(原 畢竟 为误连接)
+173,0xb90,dialogue,narrative,どｺﾆでﾓｱﾙﾝだﾖ?｣,15,到處都有哦?｣,人工定稿,导入警告: kana_residue
+174,0xba0,system,system,1947,4,,未翻,
+175,0xba5,dialogue,narrative,ug.｢ﾏｻｶ､道端ﾉ花ﾆﾏで,19,ug.｢難道連路邊花都,人工定稿,导入警告: kana_residue
+176,0xbbc,dialogue,narrative,ｿﾉ薬ｦ使ｯﾃﾙﾉｶ……?｣,18,是在用那種藥……?｣,人工定稿,导入警告: kana_residue
+177,0xbd0,system,system,0215,4,,未翻,
+178,0xbd5,dialogue,narrative,ug.｢ｳﾝ｡ﾓﾁﾛﾝだﾖ｣,15,ug.｢對。當然哦｣,人工定稿,P7 校对修正: うん 应诺问句改 對(原 好 不成应答)
+179,0xbe8,dialogue,narrative,……薬ﾅﾝﾃ安ｸﾅｲだﾛｳﾆ､,20,……藥可不便宜，,人工定稿,
+180,0xc00,dialogue,narrative,金持ﾁだｶﾗ成ｾﾙ所業だﾅ……｡,25,有錢人才做得出的行徑……,人工定稿,
+181,0xc1c,dialogue,narrative,ロム2_KW_薬物_紅春,18,ROM2_KW_藥物_紅春,人工定稿,
+182,0xc30,system,system,1948,4,,未翻,
+183,0xc35,dialogue,narrative,ug.｢紅春ｸﾝﾊ看護師だｯﾀﾅ｡,23,ug.｢紅春原來是護士哦。,人工定稿,导入警告: kana_residue
+184,0xc50,dialogue,narrative,薬ﾆﾓｱﾙ程度ﾊ詳ｼｲｶ?｣,18,對藥也略知一二?｣,人工定稿,导入警告: kana_residue
+185,0xc64,system,system,0255,4,,未翻,
+186,0xc69,dialogue,narrative,ug.｢ｴｪ､ｱﾙ程度ﾊ､でｽｹど……｣,26,ug.｢多少知道，不過……｣,人工定稿,导入警告: kana_residue
+187,0xc84,system,system,1949,4,,未翻,
+188,0xc89,dialogue,narrative,ug.｢でﾊ､我々が眠ﾗｻﾚﾀ薬が,24,ug.｢那麼，讓我們睡著的藥,人工定稿,导入警告: kana_residue
+189,0xca4,dialogue,narrative,何ｶﾊﾜｶﾙｶ?｣,10,知道什麼?｣,人工定稿,导入警告: kana_residue
+190,0xcb0,system,system,0256,4,,未翻,
+191,0xcb5,dialogue,narrative,ug.｢ｴ? ｿｳでｽﾈｪ……,18,ug.｢欸? 對哦……,人工定稿,导入警告: kana_residue
+192,0xcc8,dialogue,narrative,ｳｰﾝ……量ﾄｶ摂取方法ﾆﾖｯﾃﾓ,24,唔……也取決於用量和用法,人工定稿,
+193,0xce4,dialogue,narrative,色々ｱﾘﾏｽｶﾗ……｣,15,多種多樣……｣,人工定稿,导入警告: kana_residue
+194,0xcf4,system,system,0257,4,,未翻,
+195,0xcf9,dialogue,narrative,ug.｢どﾝﾅｵ薬ｶﾊﾜｶﾘﾏｾﾝが､,22,ug.｢雖不知是什麼藥，,人工定稿,导入警告: kana_residue
+196,0xd10,dialogue,narrative,ｵｿﾗｸ､一般で手ﾆ入ﾙﾓﾉでﾊﾅｲﾄ思ｲﾏｽ｣,31,ug.｢我想大概不是普通人能弄到的｣,人工定稿,P7 校对修正: 补 と思います(漏译)
+197,0xd30,system,system,1950,4,,未翻,
+198,0xd35,dialogue,narrative,ug.｢ｿｳｶ……｣,12,ug.｢這樣呀｣,人工定稿,导入警告: kana_residue
+199,0xd42,system,system,s,1,,未翻,
+200,0xd44,dialogue,narrative,ロム2_KW_薬物_西野,18,ROM2_KW_藥物_西野,人工定稿,
+201,0xd58,system,system,0082,4,,未翻,
+202,0xd5d,dialogue,narrative,ug.｢ﾝ､私が常用ｼﾃｲﾙ薬ﾊ,21,ug.｢唔，我常用的藥,人工定稿,导入警告: kana_residue
+203,0xd74,dialogue,narrative,アスコルビンエールﾄ言ｯﾃだﾅ｣,27,叫做阿斯可賓艾爾｣,人工定稿,导入警告: kana_residue
+204,0xd90,system,system,0083,4,,未翻,
+205,0xd95,dialogue,narrative,ug.｢万病ﾉ元ｦ断ﾂﾄｲｳ,18,ug.｢能斷萬病之源的,人工定稿,"P7 校对修正: 补 的, 与206行成 という 连接"
+206,0xda8,dialogue,narrative,最新技術ﾉ結晶で､特殊ﾅルートｶﾗｼｶ,31,最新技術的結晶，只能從特殊渠道,人工定稿,
+207,0xdc8,dialogue,narrative,入手でｷﾅｲ特別ﾅ薬ﾅﾉだﾖ｣,22,弄到的特別藥物哦｣,人工定稿,P7 校对修正: しか…できない 反译修正(原 弄不到 反义)
+208,0xde0,dialogue,narrative,アスコルビン酸L……?,20,阿斯可賓酸L……?,人工定稿,
+209,0xdf8,dialogue,narrative,科学ﾊ苦手ﾅﾉで自信ﾊﾅｲが､,23,不擅長科學所以沒自信，,人工定稿,
+210,0xe10,dialogue,narrative,ﾀｼｶビタミンCﾉ事だｯﾀﾊず……｡,27,記得應該是維生素C……。,人工定稿,
+211,0xe2c,dialogue,narrative,ﾀｼｶﾆ風邪ﾊﾋｷﾆｸｸﾅﾙだﾛｳｼ､,22,確實會比較不容易感冒，,人工定稿,
+212,0xe44,dialogue,narrative,風邪ﾊ万病ﾉ元ﾄ言ｳｶﾗ嘘でﾊﾅｲだﾛｳが……｡,36,常説感冒是萬病之源所以不算騙……。,人工定稿,
+213,0xe6c,system,system,0084,4,,未翻,
+214,0xe71,dialogue,narrative,ug.｢ﾝ､ﾏ､チミﾉﾖｳﾅ庶民ﾆﾊ,22,ug.｢唔，對平民來説,人工定稿,导入警告: kana_residue
+215,0xe88,dialogue,narrative,手ﾉ届ｶﾅｲﾖｳﾅ高価ﾅ代物だがﾈ｣,26,是買不起的那種高價玩意哦｣,人工定稿,P7 校对修正: 手の届かない=買不起(原 摸不到 误; kw_ring 266 先例)
+216,0xea4,system,system,0085,4,,未翻,
+217,0xea9,dialogue,narrative,ug.｢学会でﾓ効果が認ﾒﾗﾚﾀ､,24,ug.｢連學會都認可了效果，,人工定稿,导入警告: kana_residue
+218,0xec4,dialogue,narrative,大変素晴ﾗｼｲ薬ﾄﾉｺﾄだ､仕方ﾅｲだﾛｳ｣,31,據説是非常棒的藥，那也沒法子｣,人工定稿,导入警告: kana_residue
+219,0xee4,dialogue,narrative,ｿﾘｬビタミンCﾉ効果ﾊ学会どｺﾛｶ,27,那維生素C的效果別説學會,人工定稿,
+220,0xf00,dialogue,narrative,小学校ﾉ学級会でﾓ認ﾒﾗﾚﾙだﾛｳﾄｲｳぐﾗｲ,33,連小學班會都能認可的程度,人工定稿,
+221,0xf24,dialogue,narrative,周知ﾉ事実だが……｡,18,衆所周知的事實……,人工定稿,
+222,0xf38,system,system,0086,4,,未翻,
+223,0xf3d,dialogue,narrative,ug.｢ﾝ､ｱﾚだｹ高ｶｯﾀﾉだ､,20,ug.｢唔，貴成那樣，,人工定稿,P7 校对修正: あれだけ高かった=貴成那樣(原 就那個貴 不成句)
+224,0xf54,dialogue,narrative,私が今健康ﾅﾉﾓ,13,現在的健康也,人工定稿,
+225,0xf64,dialogue,narrative,ｺﾉ薬ﾉｵｶげﾆ違ｲﾅｲ｣,16,都是這藥的功勞｣,人工定稿,导入警告: kana_residue
+226,0xf78,dialogue,narrative,……ｵｿﾗｸ騙ｻﾚﾃｲﾙﾅ｡,17,……大概是上當了,人工定稿,
+227,0xf8c,dialogue,narrative,だが､病ﾊ気ｶﾗﾄｲｳｶﾗﾅ､,19,不過病由心生，,人工定稿,
+228,0xfa0,dialogue,narrative,黙ｯﾃｵｲﾃﾔﾛｳ｡,11,就別説破了,人工定稿,
+229,0xfac,system,system,0087,4,,未翻,
+230,0xfb1,dialogue,narrative,ug.｢長生ｷｽﾙぞｰ｣,15,ug.｢會長命哇～｣,人工定稿,P7 校对修正: だぞ→哇(v1.4 卡)

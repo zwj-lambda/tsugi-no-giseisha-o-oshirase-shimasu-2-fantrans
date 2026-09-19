@@ -1,0 +1,209 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_brother.tob,26,,未翻,
+2,0x1c,system,system,kw_brother.sts,14,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_兄弟,12,ROM2_KW_兄弟,人工定稿,
+4,0x3c,dialogue,label,ROM2_KW会話_兄弟,16,ROM2_KW會話_兄弟,人工定稿,
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_兄弟_昇,16,ROM2_KW_兄弟_昇,人工定稿,
+8,0x8c,system,system,0221,4,,未翻,
+9,0x91,dialogue,narrative,oth｢兄弟? ｲﾙﾄ思ｳｶ?｣,19,oth｢兄弟? 覺得有?｣,人工定稿,导入警告: kana_residue
+10,0xa8,system,system,1445,4,,未翻,
+11,0xad,dialogue,narrative,oth｢ｳｰﾑ｡責任感ﾓ几帳面ｻﾓｱﾏﾘﾅｸ,28,oth｢唔。責任感跟嚴謹都不太有,人工定稿,"P7 校对修正: あまりなく 为 不太有, 原译 都沒有 过强"
+12,0xcc,dialogue,narrative,妙ﾆ女ﾀﾗｼﾅ部分ﾓｱﾙｶﾗﾅ……,23,也有莫名花心的一面……,人工定稿,"P7 校对修正: 女たらし=花心/玩弄女人, 輕浮 丢义"
+13,0xe4,dialogue,narrative,恐ﾗｸﾊ面倒見ﾉ良ｲ姉がｲﾙだﾛｳ｣,26,大概有位很會照顧人的姐姐｣,人工定稿,导入警告: kana_residue
+14,0x100,system,system,0222,4,,未翻,
+15,0x105,dialogue,narrative,oth｢ｴﾗｲ理由でﾉ予想だﾅ……｣,26,oth｢預測的理由太牽強……｣,人工定稿,"P7 校对修正: 修饰语序理顺, 去翻译腔"
+16,0x120,system,system,1446,4,,未翻,
+17,0x125,dialogue,narrative,oth｢実際ﾉ所ﾊどｳﾅﾝだ?｣,21,oth｢實際上到底怎樣?｣,人工定稿,导入警告: kana_residue
+18,0x13c,system,system,0223,4,,未翻,
+19,0x141,dialogue,narrative,oth｢歳ﾉ離ﾚﾀ妹ｦ､責任感ﾓ感じず,28,oth｢差很多歳的妹妹，沒責任感,人工定稿,"P7 校对修正: 歳の離れた=差很多歳, 原译 差多歳 不成词"
+20,0x160,dialogue,narrative,几帳面でﾓﾅｸ､,12,也並不嚴謹，,人工定稿,
+21,0x16d,system,system,s,1,,未翻,
+22,0x170,dialogue,narrative,俺ﾅﾘﾆｶﾜｲがｯﾃﾙﾖ……｣,19,以我的方式疼愛……｣,人工定稿,"P7 校对修正: 補回 俺なりに=以我的方式, 去增译 也"
+23,0x184,system,system,1447,4,,未翻,
+24,0x189,dialogue,narrative,oth｢ｿ､ｿｳｶ｡,10,oth｢是哦。,人工定稿,导入警告: kana_residue
+25,0x194,dialogue,narrative,妹ｻﾝﾆﾖﾛｼｸﾅ｣,11,向妹妹問好｣,人工定稿,导入警告: kana_residue
+26,0x1a0,system,system,0224,4,,未翻,
+27,0x1a5,dialogue,narrative,oth｢ｱｧ､ｺｺｦ出ﾗﾚﾀﾗﾅ｣,18,oth｢哦，出去就好｣,人工定稿,P7 校对修正: 補回 ｱｧ 感嘆词(槽紧压到 出去就好)
+28,0x1b8,dialogue,narrative,ロム2_KW_兄弟_香菜,18,ROM2_KW_兄弟_香菜,人工定稿,
+29,0x1cc,system,system,0237,4,,未翻,
+30,0x1d1,dialogue,narrative,oth｢兄弟?,9,oth｢兄弟?,人工定稿,导入警告: kana_residue
+31,0x1db,dialogue,narrative,hｲﾀﾗ面白ｶｯﾀでｼｮｳﾈ｣,18,h要是有會很有趣呀｣,人工定稿,"P7 校对修正: でしょうね 共感句尾, v1.4 卡 用 呀"
+32,0x1f0,system,system,1448,4,,未翻,
+33,0x1f5,dialogue,narrative,oth｢ﾄｲｳ事ﾊｲﾅｲﾉｶ?｣,17,oth｢就是説沒有?｣,人工定稿,导入警告: kana_residue
+34,0x208,system,system,0238,4,,未翻,
+35,0x20d,dialogue,narrative,oth｢ﾎﾝﾄﾊ弟が欲ｼｶｯﾀﾅ｡,20,oth｢其實想要個弟弟。,人工定稿,导入警告: kana_residue
+36,0x224,dialogue,narrative,英才教育ｦ施ｼﾃｱげﾀﾉﾆ｣,20,明明施以英才教育了｣,人工定稿,导入警告: kana_residue
+37,0x23c,system,system,1449,4,,未翻,
+38,0x241,dialogue,narrative,oth｢私が一人前ﾆｼﾃｱげﾖｳ♪,24,oth｢我會把他培養成材♪,人工定稿,"P7 校对修正: 一人前にしてあげる=培養成材, 教好 丢义"
+39,0x25c,dialogue,narrative,ﾅﾝﾃダメﾅ男ﾆﾋｯｶｶﾘｿｳだﾅ｣,22,感覺會被沒用的男人騙｣,人工定稿,"P7 校对修正: 引っかかる=被騙/上當, 遇到 过弱"
+40,0x274,system,system,0239,4,,未翻,
+41,0x279,dialogue,narrative,oth｢……ﾋどｲ言ﾜﾚﾖｳﾈ｣,20,oth｢……被説得好慘｣,人工定稿,导入警告: kana_residue
+42,0x290,dialogue,narrative,ロム2_KW_兄弟_圭介,18,ROM2_KW_兄弟_圭介,人工定稿,
+43,0x2a4,system,system,0105,4,,未翻,
+44,0x2a9,dialogue,narrative,oth｢兄弟でｽｶ? ｲﾏｾﾝﾖ｣,20,oth｢兄弟? 沒有哦｣,人工定稿,导入警告: kana_residue
+45,0x2c0,system,system,1450,4,,未翻,
+46,0x2c5,dialogue,narrative,oth｢ﾎ～｡一人ｯ子ｶ｡意外だﾅ｡,25,oth｢哦～。獨生子真意外。,人工定稿,导入警告: kana_residue
+47,0x2e0,dialogue,narrative,歳ﾉ割ﾘﾆｼｯｶﾘｼﾃｲﾙ印象だが｣,24,給人比年紀更成熟的印象｣,人工定稿,"P7 校对修正: 比年紀 缺 更, 补足比较句"
+48,0x2fc,system,system,0106,4,,未翻,
+49,0x301,dialogue,narrative,oth｢ｿｳでｽｶ? ｱﾘがﾄｳござｲﾏｽ｡,26,oth｢真的? 謝謝。,人工定稿,"P7 校对修正: そうですか? 为疑问, 原來如此? 陈述加问号矛盾"
+50,0x31c,dialogue,narrative,祖父が厳ｼｶｯﾀｶﾗｶﾓｼﾚﾏｾﾝ｡,22,也許是因為祖父很嚴格。,人工定稿,
+51,0x334,dialogue,narrative,軍人だｯﾀﾗｼｲでｽｶﾗﾈ｣,18,因為據説他是軍人｣,人工定稿,P7 校对修正: 補回 から 的因果关系
+52,0x348,system,system,1451,4,,未翻,
+53,0x34d,dialogue,narrative,oth｢ﾅﾙﾎどﾅ｡,11,oth｢是哦。,人工定稿,导入警告: kana_residue
+54,0x359,dialogue,narrative,r.sｿﾚﾆﾖｸ考ｴﾀﾗ妹がｲﾙﾖｳﾅ環境だﾓﾉﾅ｣,32,r.s而且仔細想，就像有妹妹似的｣,人工定稿,P7 校对修正: 補回 それに(而且)
+55,0x37c,system,system,0107,4,,未翻,
+56,0x381,dialogue,narrative,oth｢……ｿｳｶﾓｼﾚﾏｾﾝﾈ｣,19,oth｢……也許是這樣｣,人工定稿,导入警告: kana_residue
+57,0x398,dialogue,narrative,ロム2_KW_兄弟_霞,16,ROM2_KW_兄弟_霞,人工定稿,
+58,0x3ac,system,system,0096,4,,未翻,
+59,0x3b1,dialogue,narrative,oth｢……私がﾏだ小ｻｲ頃ﾆ,22,oth｢……我年紀還小時,人工定稿,导入警告: kana_residue
+60,0x3c8,dialogue,narrative,兄が亡ｸﾅｯﾃｲﾏｽ｣,14,哥哥去世了｣,人工定稿,导入警告: kana_residue
+61,0x3d8,system,system,1452,4,,未翻,
+62,0x3dd,dialogue,narrative,oth｢ｿｳﾅﾉｶ……迂闊ﾅ事ｦ,21,oth｢這樣……問得冒失,人工定稿,导入警告: kana_residue
+63,0x3f4,dialogue,narrative,聞ｲﾃｼﾏｯﾃｽﾏﾅｶｯﾀ｣,15,不該問的，抱歉｣,人工定稿,导入警告: kana_residue
+64,0x404,system,system,0097,4,,未翻,
+65,0x409,dialogue,narrative,oth｢ｲｴ､昔ﾉ話でｽｶﾗ……｣,22,oth｢不，都是往事……｣,人工定稿,P7 校对修正: 回應 ですから 的收束感
+66,0x420,dialogue,narrative,悪ｲ事ｦｼﾃｼﾏｯﾀﾅ……｡,18,做了不該的事……。,人工定稿,"P7 校对修正: 悪い事をしてしまった 为 做了不该的事, 原译易读成作恶"
+67,0x434,dialogue,narrative,ロム2_KW_兄弟_美紀,18,ROM2_KW_兄弟_美紀,人工定稿,
+68,0x448,system,system,0947,4,,未翻,
+69,0x44d,dialogue,narrative,oth｢ｱﾀｼﾆﾊ､ｵ姉ｻﾏがｲﾙｯｽ｣,22,oth｢我有姐姐大人｣,人工定稿,导入警告: kana_residue
+70,0x464,system,system,1453,4,,未翻,
+71,0x469,dialogue,narrative,oth｢ｿﾚﾊ私ﾉｺﾄでｱｯﾃ,17,oth｢那人就是我,人工定稿,导入警告: kana_residue
+72,0x47c,dialogue,narrative,本当ﾉ姉でﾊﾅｲﾉだﾅ｣,17,並非真正的姐姐｣,人工定稿,导入警告: kana_residue
+73,0x490,system,system,1454,4,,未翻,
+74,0x495,dialogue,narrative,oth｢私ﾆ妹ﾅどｲﾅｲ｣,16,oth｢我沒有妹妹｣,人工定稿,导入警告: kana_residue
+75,0x4a8,system,system,0949,4,,未翻,
+76,0x4ad,dialogue,narrative,oth｢……ｵ姉ｻﾏ……｣,18,oth｢……姐姐大人｣,人工定稿,导入警告: kana_residue
+77,0x4c0,system,system,1455,4,,未翻,
+78,0x4c5,dialogue,narrative,oth｢頼ﾓｼｲ友人ﾅﾗｲﾙがﾅ｣,21,oth｢可靠的朋友倒有｣,人工定稿,导入警告: kana_residue
+79,0x4dc,system,system,0950,4,,未翻,
+80,0x4e1,dialogue,narrative,oth｢ｱﾀｼ……憧ﾚﾃﾀﾝｽ｡,19,oth｢我……很憧憬。,人工定稿,导入警告: kana_residue
+81,0x4f8,dialogue,narrative,ｵ姉ｻﾏﾐﾀｲﾅ姉が本当ﾆｲﾀﾗｯﾃ｡,24,有像姐姐大人的姐姐就好。,人工定稿,
+82,0x514,dialogue,narrative,ﾂｲでﾆ……樫沢が兄貴ｯﾃﾉﾓｲｲｶﾅｯﾃ｣,30,順便……樫澤當哥哥也不錯｣,人工定稿,导入警告: kana_residue
+83,0x534,system,system,0951,4,,未翻,
+84,0x539,dialogue,narrative,oth｢多分､ｲﾂﾓ喧嘩ｼﾃ｡,19,oth｢大概老是爭執。,人工定稿,导入警告: kana_residue
+85,0x550,dialogue,narrative,ｵ姉ｻﾏが仲裁ｼﾃ｡,14,姐姐大人調解。,人工定稿,
+86,0x560,dialogue,narrative,ｿﾝﾅ毎日ﾄｶ……楽ｼｿｳだﾅｯﾃ｣,24,那樣的日子……感覺開心｣,人工定稿,"P7 校对修正: そんな毎日=那樣的日子, 原译 那樣毎天 不通"
+87,0x57c,system,system,1456,4,,未翻,
+88,0x581,dialogue,narrative,oth｢……ｿﾉ関係ﾊ､親友でﾓ築ｹﾙだﾛｳ?,32,oth｢……那種關係，好友也能建立?,人工定稿,导入警告: kana_residue
+89,0x5a4,dialogue,narrative,君ﾉ妄想だｹﾉ話でﾊﾅｲ､現実的ﾆ,26,這不只是妄想，現實地來説,人工定稿,
+90,0x5c0,dialogue,narrative,ｱﾘ得ﾙ……ｲﾔ……ｱﾘ得ﾀ話､だ｣,26,有可能……不，曾有過的事｣,人工定稿,导入警告: kana_residue
+91,0x5dc,dialogue,narrative,過去形ﾆｼﾀﾉﾊ､,12,用過去式，,人工定稿,
+92,0x5e9,system,system,s,1,,未翻,
+93,0x5ec,dialogue,narrative,今ﾄﾅｯﾃﾊﾓｳ実現不可能だｶﾗ｡,24,因為現在已不可能實現。,人工定稿,
+94,0x608,system,system,0952,4,,未翻,
+95,0x60d,dialogue,narrative,oth｢……樫沢ﾊ､ｺｺで会ｯﾀだｹﾉ,26,oth｢……樫澤只是在這裡見過,人工定稿,导入警告: kana_residue
+96,0x628,dialogue,narrative,嫌味ﾅﾔﾂだｯﾀｹど……,18,雖是個討厭鬼……,人工定稿,
+97,0x63c,dialogue,narrative,ﾅﾝでｯｽｶﾈ｡許ｾﾅｲﾝｽ｣,17,為什麼。無法原諒｣,人工定稿,"P7 校对修正: 句号随原文, 原本一问一答被并列"
+98,0x650,system,system,0953,4,,未翻,
+99,0x655,dialogue,narrative,oth｢勝手ﾆ死ﾝだｺﾄﾄｶ､,19,oth｢擅自死掉之類，,人工定稿,导入警告: kana_residue
+100,0x66c,dialogue,narrative,ｱﾝﾅ危ﾅｲｺﾄｼﾃﾀｺﾄﾄｶ｣,17,做那種危險事之類｣,人工定稿,导入警告: kana_residue
+101,0x680,dialogue,narrative,……彼女ﾊ理解ｼﾃｲﾅｲﾖｳだｼ,23,……美紀似乎並不理解，,人工定稿,"P7 校对修正: 彼女 以名字指代(风格指南), 去生硬 且"
+102,0x698,dialogue,narrative,ｺﾚｶﾗﾓ理解ｽﾙｺﾄﾊﾅｲﾉだﾛｳが……｡,28,今後應該也不會理解……。,人工定稿,
+103,0x6b8,dialogue,narrative,彼女ﾆﾄｯﾃ樫沢氏ﾊ､ｲﾂﾉ間ﾆｶ,23,對他而言樫澤先生不覺間,人工定稿,
+104,0x6d0,dialogue,narrative,掛ｹ替ｴﾉﾅｲ人ﾆﾅﾘﾂﾂｱｯﾀﾗｼｲ｡,23,似乎成了無可替代的人。,人工定稿,
+105,0x6e8,system,system,1457,4,,未翻,
+106,0x6ed,dialogue,narrative,oth｢美紀ｸﾝ｡だが､本当ﾆ許ｾﾅｲﾉﾊXだ｡,32,oth｢美紀。但真正無法原諒的是X。,人工定稿,"P7 校对修正: 补 的, 原译 無法原諒是X 不成句"
+107,0x710,dialogue,narrative,樫沢氏ﾉ命ｦ奪ｯﾀﾉﾓ……｣,21,奪走樫澤先生命的也是｣,人工定稿,导入警告: kana_residue
+108,0x728,system,system,0954,4,,未翻,
+109,0x72d,dialogue,narrative,oth｢……ｿｳｯｽﾖ｡許ｾﾅｲｯｽ!,22,oth｢……對。無法原諒!,人工定稿,"P7 校对修正: 句号随原文, 原译两分句间无标点"
+110,0x744,dialogue,narrative,ｵ姉ｻﾏ､絶対見ﾂｹﾙｯｽﾖ!｣,20,姐姐大人，定會找到!｣,人工定稿,导入警告: kana_residue
+111,0x75c,system,system,1458,4,,未翻,
+112,0x761,dialogue,narrative,oth｢ｱｧ｣,7,oth｢哦｣,人工定稿,导入警告: kana_residue
+113,0x769,dialogue,narrative,oth彼女ﾉ気持ﾁが恋心ﾏで発展ｼﾃｲﾅｶｯﾀｺﾄﾊ,36,oth美紀的感情沒發展成愛慕之情,人工定稿,P7 校对修正: 彼女→美紀(风格指南 二/三人称)
+114,0x790,dialogue,narrative,今ﾄﾅｯﾃﾊ良ｶｯﾀﾄ考ｴﾙべｷﾅﾉだﾛｳｶ｡,28,事到如今，該覺得慶幸?,人工定稿,
+115,0x7b0,dialogue,narrative,どﾁﾗﾆｾﾖ……,11,總之……,人工定稿,
+116,0x7bc,dialogue,narrative,Xﾆﾏﾀﾋﾄﾂ､大ｷﾅ借ﾘがでｷﾀｺﾄﾊ,24,又欠X一個大人情，,人工定稿,
+117,0x7d8,dialogue,narrative,間違ｲﾅｲ｡,8,沒錯。,人工定稿,
+118,0x7e1,dialogue,narrative,r.s必ず返ｻｾﾃﾓﾗｳぞ……X……!,27,r.s一定會討回來的……X……!,人工定稿,
+119,0x800,dialogue,narrative,ロム2_KW_兄弟_ﾊﾙｶ,17,ROM2_KW_兄弟_遙,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+120,0x814,system,system,0065,4,,未翻,
+121,0x819,dialogue,narrative,oth｢ｵ兄ﾁｬﾝがｲﾙﾖ｣,16,oth｢我有哥哥哦｣,人工定稿,导入警告: kana_residue
+122,0x82c,system,system,1459,4,,未翻,
+123,0x831,dialogue,narrative,oth｢ｿﾚﾊﾂﾑじｸﾝﾉ事ｶ?｣,19,oth｢那是指旋?｣,人工定稿,导入警告: kana_residue
+124,0x848,system,system,0066,4,,未翻,
+125,0x84d,dialogue,narrative,oth｢ｳﾝ｣,7,oth｢對｣,人工定稿,导入警告: kana_residue
+126,0x855,system,system,oth1460,7,,未翻,
+127,0x85d,dialogue,narrative,oth｢他ﾆﾊｲﾅｲﾉｶ?｣,15,oth｢沒有其他?｣,人工定稿,导入警告: kana_residue
+128,0x86d,system,system,s,1,,未翻,
+129,0x870,system,system,0067,4,,未翻,
+130,0x875,dialogue,narrative,oth｢ｳﾝ､ｵ兄ﾁｬﾝだｹ｣,17,oth｢對，只有哥哥｣,人工定稿,导入警告: kana_residue
+131,0x888,dialogue,narrative,ロム2_KW_兄弟_ﾂﾑじ,18,ROM2_KW_兄弟_旋,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+132,0x89c,system,system,0073,4,,未翻,
+133,0x8a1,dialogue,narrative,oth｢ﾊﾙｶ以外ﾉ兄弟ﾊｲﾅｲﾖ｣,22,oth｢除遙以外沒兄弟哦｣,人工定稿,导入警告: kana_residue
+134,0x8b8,system,system,1461,4,,未翻,
+135,0x8bd,dialogue,narrative,oth｢欲ｼｲﾄ思ｯﾀﾘｽﾙ事ﾊﾅｲﾉｶ?｣,25,oth｢沒有想要過?｣,人工定稿,导入警告: kana_residue
+136,0x8d8,dialogue,narrative,ﾂﾑじｸﾝがギロｯﾄｲｳ音ﾉ似合ｳ,24,旋的眼神兇狠像會出聲,人工定稿,
+137,0x8f4,dialogue,narrative,目ﾂｷでｺﾁﾗｦ見ﾙ｡,14,眼神看向這邊。,人工定稿,
+138,0x904,system,system,0074,4,,未翻,
+139,0x909,dialogue,narrative,oth｢ﾊﾙｶがｲﾚばｲｲﾝだﾖ｣,20,oth｢有遙在就好｣,人工定稿,导入警告: kana_residue
+140,0x920,dialogue,narrative,ｿ､ｿｳｶ……｡,10,是、這樣。,人工定稿,
+141,0x92b,dialogue,narrative,sロム2_KW_兄弟_ジャック,23,sROM2_KW_兄弟_傑克,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+142,0x944,dialogue,narrative,ロム2_KW_兄弟_薫,16,ROM2_KW_兄弟_薰,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+143,0x955,dialogue,narrative,ャb0220,7,ャb0220,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue; 导入警告: kana_residue
+144,0x95d,dialogue,narrative,oth｢兄弟……でｽｶ……｣,21,oth｢兄弟……是説……｣,人工定稿,"P7 校对修正: ですか 为迟疑的确认, 這樣 语义漂移"
+145,0x974,dialogue,narrative,｢昔夜中ﾆ､ヨレヨレﾉ服ｦ着ﾃ,24,從前半夜穿著皺巴巴的衣服,人工定稿,
+146,0x990,dialogue,narrative,ﾌﾗﾌﾗﾄ道ｦ歩ｸ酔ｯ払ｲﾆ,18,搖搖晃晃走路的醉漢,人工定稿,
+147,0x9a4,dialogue,narrative,職質ｦｼﾖｳﾄｼﾀﾝでｽｹど……｣,23,本想盤問他，可是……｣,人工定稿,P7 校对修正: 補回 けど(可是)与 しようとした 的未遂
+148,0x9bc,dialogue,narrative,｢ｵ兄ﾁｬﾝだｯﾀ事がｱﾘﾏｽ……｣,24,原來他是我哥哥……｣,人工定稿,"P7 校对修正: だ った事がある=原来是, 曾經 会读成已不是哥哥"
+149,0x9d8,system,system,1462,4,,未翻,
+150,0x9dd,dialogue,narrative,oth｢……ｵ兄ｻﾝﾓ驚ｲﾀｺﾄだﾛｳﾅ｣,26,oth｢……哥哥想必也嚇到了｣,人工定稿,"P7 校对修正: 驚いたことだろう 为过去推量, 會嚇一跳 时态错"
+151,0x9f8,dialogue,narrative,｢でﾓ､ｱﾉ時､逮捕ｼﾃｵｹば良ｶｯﾀｶﾓ……｡,32,不過那時逮捕他就好了……。,人工定稿,
+152,0xa1c,dialogue,narrative,ｺﾉ前ﾊカーネルｻﾝﾉ人形ｦ担ｲで歩ｲﾃﾙﾄｺｦ,34,上次扛著肯德基爺爺玩偶走路,人工定稿,
+153,0xa40,dialogue,narrative,任意同行で署ﾏで連ﾚﾃｺﾗﾚﾃﾀｼ……｣,30,自願同行被帶到警局……｣,人工定稿,机翻警告: quote_unbalanced; 导入警告: kana_residue
+154,0xa60,system,system,1463,4,,未翻,
+155,0xa65,dialogue,narrative,oth｢……ｵ酒ﾊ控ｴﾙﾖｳﾆ伝ｴﾃｵｲﾃｸﾚ｣,29,oth｢……幇我轉告他少喝酒｣,人工定稿,导入警告: kana_residue
+156,0xa84,dialogue,narrative,｢ﾊｲ……｣,8,是……｣,人工定稿,导入警告: kana_residue
+157,0xa8d,dialogue,narrative,r.sロム2_KW_兄弟_樫沢,21,r.sROM2_KW_兄弟_樫澤,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+158,0xaa4,dialogue,narrative,ロム2_KW_兄弟_唯柚,18,ROM2_KW_兄弟_唯柚,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+159,0xab8,system,system,0149,4,,未翻,
+160,0xabd,dialogue,narrative,oth｢兄弟でｽｶ?,13,oth｢有兄弟?,人工定稿,导入警告: kana_residue
+161,0xacb,dialogue,narrative,sｳｰﾝ､ﾕﾕﾊﾋﾄﾘｯｺだｶﾗ,17,s唯柚是獨生女所以,人工定稿,
+162,0xae0,dialogue,narrative,ｲﾅｲﾝでｽﾖ……｣,13,沒有哦……｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 导入警告: kana_residue
+163,0xaf0,system,system,1464,4,,未翻,
+164,0xaf5,dialogue,narrative,oth｢ﾅﾙﾎど｡,10,oth｢是哦。,人工定稿,导入警告: kana_residue
+165,0xb00,dialogue,narrative,ﾀｼｶﾆ､両親ﾆ大切ﾆ育ﾃﾗﾚﾀﾄｲｳ,24,確實有被父母悉心養育的,人工定稿,"P7 校对修正: 与166重排, 出す/感じ 落到 有…的感覺"
+166,0xb1c,dialogue,narrative,感じがでﾃｲﾙﾓﾉﾅ｣,15,那種感覺｣,人工定稿,"P7 校对修正: 承165, 感覺是有的 去翻译腔"
+167,0xb2c,system,system,0150,4,,未翻,
+168,0xb31,dialogue,narrative,oth｢ｳﾝ｡パパﾓママﾓ､,18,oth｢對。父母都，,人工定稿,导入警告: kana_residue
+169,0xb44,dialogue,narrative,ﾕﾕｦ大切ﾆｼﾃｸﾚﾃﾙﾖ?｣,17,疼愛唯柚，對不?｣,人工定稿,"P7 校对修正: 〜てくれてるよ? 真问句, v1.4 卡 禁 哦, 改 對不?"
+170,0xb58,system,system,1465,4,,未翻,
+171,0xb5d,dialogue,narrative,oth｢ﾁｬﾝﾄ恩返ｼｽﾙﾉだぞ｣,21,oth｢要好好報答恩情哇｣,人工定稿,导入警告: kana_residue
+172,0xb74,system,system,0151,4,,未翻,
+173,0xb79,dialogue,narrative,oth｢ｳﾝ｡ﾕﾕ､ｵ手伝ｲﾄｶｼﾃﾙﾓﾝ｣,24,oth｢對。唯柚有在幇忙嘛｣,人工定稿,导入警告: kana_residue
+174,0xb94,system,system,1466,4,,未翻,
+175,0xb99,dialogue,narrative,oth｢ﾎｳ｡ｿﾚﾊ偉ｲﾅ｡,15,oth｢哦。真乖。,人工定稿,"P7 校对修正: 偉いな 对小孩=真乖, 真好 过泛"
+176,0xba9,system,system,s,1,,未翻,
+177,0xbac,dialogue,narrative,だが君ﾉ家ﾎど金持ﾁでｱﾚば,23,但要是像那樣有錢的家庭,人工定稿,
+178,0xbc4,dialogue,narrative,家政婦ﾓｲﾙﾝじｬﾅｲﾉｶ?｣,19,不是也有家政阿姨?｣,人工定稿,机翻警告: quote_unbalanced; 导入警告: kana_residue
+179,0xbd8,system,system,0152,4,,未翻,
+180,0xbdd,dialogue,narrative,oth｢家政婦ｻﾝﾊ家政婦ｻﾝだﾖｰ｡,26,oth｢家政阿姨就是阿姨哦。,人工定稿,导入警告: kana_residue
+181,0xbf8,dialogue,narrative,ﾕﾕﾊ､ﾕﾕ｡パパﾄママﾉ娘ﾊﾕﾕだｹだﾓﾝ｡,30,唯柚是唯柚。父母只有唯柚嘛。,人工定稿,P7 校对修正: 補回 パパとママ(父母) 漏译
+182,0xc18,dialogue,narrative,ｵ手伝ｲﾓｽﾙﾖｰ｣,12,也會幇忙哦｣,人工定稿,导入警告: kana_residue
+183,0xc25,system,system,s,1,,未翻,
+184,0xc28,dialogue,narrative,ﾖｸﾜｶﾗﾅｲ理屈でﾊｱﾙが､,19,雖然是奇怪的道理，,人工定稿,
+185,0xc3c,dialogue,narrative,ﾄﾆｶｸ彼女が純粋で良ｲ子でｱﾙｺﾄﾊﾜｶｯﾀ｡,33,總之明白了唯柚很純真是個好孩子。,人工定稿,P7 校对修正: 彼女→唯柚(风格指南)
+186,0xc60,dialogue,narrative,ロム2_KW_兄弟_紅春,18,ROM2_KW_兄弟_紅春,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue
+187,0xc74,system,system,0197,4,,未翻,
+188,0xc79,dialogue,narrative,oth妹が一人ｲﾏｽﾖ｣,16,oth有妹妹哦｣,人工定稿,P7 校对修正
+189,0xc8c,system,system,1467,4,,未翻,
+190,0xc91,dialogue,narrative,oth｢ﾅﾙﾎど､面倒見がﾖｻｿｳだﾓﾉﾅ｣,28,oth｢原來如此，看來會照顧人｣,人工定稿,P7 校对修正: 補回 よさそう(看來)
+191,0xcb0,system,system,0198,4,,未翻,
+192,0xcb5,dialogue,narrative,oth｢……ｱﾉ子ﾉ姉ｦｼﾃｲﾚば,22,oth｢……當那孩子的姐姐,人工定稿,导入警告: kana_residue
+193,0xccc,dialogue,narrative,面倒見ﾓﾖｸﾅﾘﾏｽﾖｫ……｣,20,也更會照顧人……｣,人工定稿,"P7 校对修正: 補回 も(也), 槽紧用 更會照顧人"
+194,0xce4,system,system,0199,4,,未翻,
+195,0xce9,dialogue,narrative,oth｢ｽぐ迷子ﾆﾅﾙｼ､私ﾉｵ小遣ｲｦｱﾃﾆｼﾃ,31,oth｢老是迷路，又打我零用錢主意,人工定稿,导入警告: kana_residue
+196,0xd0c,dialogue,narrative,物ｦ欲ｼがﾙｼ……高校生ﾉ頃､一度だｹ,31,老是要東西……高中時只有一次,人工定稿,
+197,0xd2c,dialogue,narrative,本気でｵ説教ｼﾀｺﾄがｱﾘﾏｽ｣,22,認真地説教過妹妹｣,人工定稿,"P7 校对修正: お説教=說教, 去增译 一次, 他→妹妹(指向明确)"
+198,0xd44,system,system,1468,4,,未翻,
+199,0xd49,dialogue,narrative,oth｢ﾑｼﾛ､ｿﾚﾏでﾖｸ喧嘩ﾆﾅﾗﾅｶｯﾀﾅ……｣,32,oth｢反倒是之前居然都沒爭執……｣,人工定稿,"P7 校对修正: むしろ=反倒, 不如說 为翻译腔"
+200,0xd6c,system,system,0200,4,,未翻,
+201,0xd71,dialogue,narrative,oth｢ｼﾏｼﾀﾖ､何度ﾓ｡,16,oth｢有，好幾次。,人工定稿,导入警告: kana_residue
+202,0xd84,dialogue,narrative,でﾓｿﾉ度ﾆｽぐ泣ｸﾝでｽ｣,19,但毎次都會馬上哭｣,人工定稿,导入警告: kana_residue
+203,0xd98,system,system,0201,4,,未翻,
+204,0xd9d,dialogue,narrative,oth｢ｿｳｼﾀﾗ､ｵ母ｻﾝﾆ叱ﾗﾚﾙﾉﾊ,23,oth｢這樣一來被媽媽罵的,人工定稿,机翻警告: quote_unbalanced; 导入警告: kana_residue
+205,0xdb8,dialogue,narrative,ｲﾂﾓ私ﾅﾝでｽﾖ……｣,16,總是我哦……｣,人工定稿,机翻警告: quote_unbalanced; 机翻警告: quote_unbalanced; 导入警告: kana_residue
+206,0xdcc,system,system,1469,4,,未翻,
+207,0xdd1,dialogue,narrative,oth｢……苦労ｼﾃｲﾀﾉだﾅ……｣,25,oth｢……真是辛苦……｣,人工定稿,导入警告: kana_residue
+208,0xdec,dialogue,narrative,ロム2_KW_兄弟_西野,18,ROM2_KW_兄弟_西野,人工定稿,机翻警告: kana_residue; 机翻警告: kana_residue; 机翻警告: kana_residue

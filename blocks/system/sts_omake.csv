@@ -1,0 +1,7 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/sts_omake.tob,25,,未翻,
+2,0x1c,system,system,sts_omake.sts,13,,未翻,
+3,0x2c,system,system,sts_omake_start,15,,未翻,
+4,0x3c,dialogue,narrative,シーンリプレイ分岐,18,場景重播分支,人工定稿,
+5,0x50,dialogue,narrative,未作成,6,未製作,人工定稿,
+6,0x57,dialogue,narrative,kﾏだシーンリプレイﾉ分岐ﾊ未作成,30,k場景重播分支尚未製作,人工定稿,

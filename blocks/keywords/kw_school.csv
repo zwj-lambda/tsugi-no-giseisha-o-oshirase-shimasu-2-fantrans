@@ -1,0 +1,218 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_school.tob,25,,未翻,
+2,0x1c,system,system,kw_school.sts,13,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_学校,12,ROM2_KW_學校,人工定稿,
+4,0x3c,dialogue,label,ROM2_KW会話_学校,16,ROM2_KW會話_學校,人工定稿,"P7 校对修正: 字形统一 学校→學校(块内 13 处标签一致, 全库仅本块残留日文新字体)"
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_学校_美紀,18,ROM2_KW_學校_美紀,人工定稿,P7 校对修正: 字形统一 学校→學校
+8,0x8c,system,system,0957,4,,未翻,
+9,0x91,dialogue,narrative,hoo｢ｲﾂﾏでｺﾉゲームﾊ続ｸﾝでｽｶﾈ?｣,29,hoo｢這遊戲要持續到何時?｣,人工定稿,导入警告: kana_residue
+10,0xb0,system,system,1483,4,,未翻,
+11,0xb5,dialogue,narrative,hoo｢どｳｼﾀﾝだ､急ﾆ?｣,18,hoo｢怎麼了，突然?｣,人工定稿,导入警告: kana_residue
+12,0xc8,system,system,0958,4,,未翻,
+13,0xcd,dialogue,narrative,hoo｢ｲﾔｰ､明日､学校行ｹﾙｶﾅｯﾃ｡,26,hoo｢唔，明天能不能去學校。,人工定稿,"P7 校对修正: いやー 为迟疑 filler, 非惊呼叫欸"
+14,0xe8,dialogue,narrative,単位ヤバイﾝｽﾖﾈ……｣,19,學分很危險呀……｣,人工定稿,"P7 校对修正: んすよね 共感, v1.4 卡禁 哦, 改 呀"
+15,0xfc,system,system,1484,4,,未翻,
+16,0x101,dialogue,narrative,hoo｢私ﾊ1日ぐﾗｲ休ﾝだ所で問題無ｲ｣,31,hoo｢我休息一天也不成問題｣,人工定稿,导入警告: kana_residue
+17,0x124,system,system,0959,4,,未翻,
+18,0x129,dialogue,narrative,hoo｢ｳｰ……ｵ姉ｻﾏズルｲｯｽ｣,23,hoo｢唔……姐姐大人好壞｣,人工定稿,导入警告: kana_residue
+19,0x144,system,system,1485,4,,未翻,
+20,0x149,dialogue,narrative,hoo｢普段､ズル休ﾐｼﾃｲﾙｶﾗだﾛｳ｣,27,hoo｢大概是平常逃課嘛｣,人工定稿,导入警告: kana_residue
+21,0x168,system,system,0960,4,,未翻,
+22,0x16d,dialogue,narrative,hoo｢ｳｩｰ……ｺﾉﾏﾏじｬ留年ｯｽ｡,25,hoo｢嗚……再這樣要留級。,人工定稿,导入警告: kana_residue
+23,0x188,dialogue,narrative,学校ﾆ行ｸﾀﾒﾆﾓ､ｵ姉ｻﾏ､,19,為了上學，姐姐大人,人工定稿,
+24,0x19c,dialogue,narrative,ﾊﾔｸXｦ倒ｽｯｽﾖ!｣,13,快點打倒X!｣,人工定稿,导入警告: kana_residue
+25,0x1ac,dialogue,narrative,ロム2_KW_学校_昇,16,ROM2_KW_學校_昇,人工定稿,P7 校对修正: 字形统一 学校→學校
+26,0x1c0,system,system,0227,4,,未翻,
+27,0x1c5,dialogue,narrative,hoo｢学校ｶ……,13,hoo｢學校……,人工定稿,导入警告: kana_residue
+28,0x1d3,dialogue,narrative,tｿｳｲｴばｿﾛｿﾛ受験ﾅﾝだﾖﾅ……｣,26,t説起來快考試了呀……｣,人工定稿,P7 校对修正: 去增译的'也'; よな 共感补 呀
+29,0x1f0,system,system,1486,4,,未翻,
+30,0x1f5,dialogue,narrative,hoo｢大学ﾊ､香菜ｸﾝﾄ同じﾄｺﾛｶ?｣,27,hoo｢大學，和香菜同一所?｣,人工定稿,导入警告: kana_residue
+31,0x214,system,system,0228,4,,未翻,
+32,0x219,dialogue,narrative,hoo｢ｲﾔ､ｱｿｺﾊ俺ﾆﾊ無理だﾖ｡,23,hoo｢不，那裡我考不上。,人工定稿,导入警告: kana_residue
+33,0x234,dialogue,narrative,……模試ﾉ判定ﾓDだｯﾀｼ｣,21,……模擬考判定也是D｣,人工定稿,导入警告: kana_residue
+34,0x24c,dialogue,narrative,試ｼﾃﾊﾐﾀﾉだﾅ……｡,16,試過了呀……。,人工定稿,
+35,0x260,dialogue,narrative,ロム2_KW_学校_香菜,18,ROM2_KW_學校_香菜,人工定稿,P7 校对修正: 字形统一 学校→學校
+36,0x274,system,system,0243,4,,未翻,
+37,0x279,dialogue,narrative,hoo｢学校じｬ教ｴﾃｸﾚﾅｲｺﾄｯﾃ,23,hoo｢在學校學不到的事情,人工定稿,导入警告: kana_residue
+38,0x294,dialogue,narrative,ｲｯぱｲｱﾙﾜﾖﾈ｣,11,有一大堆呀｣,人工定稿,"P7 校对修正: わよね 共感, v1.4 卡禁 哦(漂移清单 seq38), 改 呀"
+39,0x2a0,system,system,1487,4,,未翻,
+40,0x2a5,dialogue,narrative,hoo｢ｿﾓｿﾓ学校で全ﾃｦ教ｴﾃｸﾚﾙﾄ,26,hoo｢以為學校會教一切,人工定稿,"P7 校对修正: と思っている方が間違い 主语误挂'我', 改无主语假设"
+41,0x2c0,dialogue,narrative,思ｯﾃｲﾙ方が間違ｲﾅﾉだがﾅ｣,23,有那種想法才是錯的｣,人工定稿,导入警告: kana_residue
+42,0x2d8,system,system,0244,4,,未翻,
+43,0x2dd,dialogue,narrative,hoo｢でﾓ割ﾄ応用効ｸｺﾄ教ｴﾃｸﾚﾃﾙﾜﾖ｣,30,hoo｢不過教的東西都挺實用哦｣,人工定稿,导入警告: kana_residue
+44,0x2fc,system,system,0245,4,,未翻,
+45,0x301,dialogue,narrative,hoo｢例ｴば､数学ﾉ行列計算ﾅﾝﾃ､,27,hoo｢比如説，數學的矩陣計算,人工定稿,导入警告: kana_residue
+46,0x320,dialogue,narrative,何ﾉﾀﾒﾆ使ｳﾉｶﾜｶﾗﾅｶｯﾀｹど､,22,不知道用來做什麼，,人工定稿,
+47,0x338,dialogue,narrative,コンピュータ上でﾊ三次元ﾉ計算ﾆ役立ﾂｼ｣,36,但在電腦上對三維計算很有用｣,人工定稿,导入警告: kana_residue
+48,0x360,system,system,1488,4,,未翻,
+49,0x365,dialogue,narrative,hoo｢ﾎｫ｡私ﾊ理系ﾉｺﾄﾊﾖｸﾜｶﾗﾝが,26,hoo｢哦。理科方面我不太明白,人工定稿,导入警告: kana_residue
+50,0x380,dialogue,narrative,ｿｳだﾅ……世界史ﾅﾝｶﾊ役ﾆ立ﾂﾅ｣,27,是呀……像世界史就很有用｣,人工定稿,"P7 校对修正: 役に立つ=有用, 原译反义(沒什麼用)"
+51,0x39c,system,system,1489,4,,未翻,
+52,0x3a1,dialogue,narrative,hoo｢ｺﾉゲームﾅﾝｶﾓ､,17,hoo｢這遊戲也一樣,人工定稿,导入警告: kana_residue
+53,0x3b4,dialogue,narrative,過去ﾉヨーロッパ諸国ﾉ歴史ｦ考ｴﾙﾄ,30,想想過去歐洲各國的歴史,人工定稿,
+54,0x3d4,dialogue,narrative,どｳ動ｹばどｳﾅﾙﾉｶ見ｴﾃｸﾙｶﾗﾅ｣,25,就能明白行動會有什麼結果｣,人工定稿,P7 校对修正: どう動けばどうなるのか 原译'怎樣行動會怎樣'不成句
+55,0x3f0,system,system,0246,4,,未翻,
+56,0x3f5,dialogue,narrative,hoo｢ﾅﾙﾎどﾈ｡,11,hoo｢是哦。,人工定稿,P7 校对修正: なるほどね=原来如此; 槽紧用'是哦'
+57,0x401,dialogue,narrative,.st超リアルﾅシュミレーションｯﾃﾜｹﾈ｣,34,.st超真實的模擬遊戲嘛｣,人工定稿,导入警告: kana_residue
+58,0x424,dialogue,narrative,ロム2_KW_学校_圭介,18,ROM2_KW_學校_圭介,人工定稿,P7 校对修正: 字形统一 学校→學校
+59,0x438,system,system,0111,4,,未翻,
+60,0x43d,dialogue,narrative,hoo｢学校でｽｶ……,16,hoo｢學校呀……,人工定稿,导入警告: kana_residue
+61,0x450,dialogue,narrative,ﾁｬﾝﾄ行ｹﾏｽｶﾈｪ｡,13,能好好上學。,人工定稿,
+62,0x460,dialogue,narrative,皆勤賞狙ｯﾃﾙﾝでｽｹど……｣,23,還想拿全勤獎……｣,人工定稿,导入警告: kana_residue
+63,0x478,system,system,1490,4,,未翻,
+64,0x47d,dialogue,narrative,hoo｢ｿﾚﾊ立派だﾅ｡,15,hoo｢真了不起。,人工定稿,导入警告: kana_residue
+65,0x490,dialogue,narrative,ｳﾑ､ﾅﾝﾄｶｼﾃ学校ﾆﾊ行ｹﾙﾖｳﾆ,22,唔，會設法讓他去上學,人工定稿,
+66,0x4a8,dialogue,narrative,帰ﾛｳでﾊﾅｲｶ｣,11,不如回去｣,人工定稿,导入警告: kana_residue
+67,0x4b4,system,system,0112,4,,未翻,
+68,0x4b9,dialogue,narrative,hoo｢ﾊｲ｣,7,hoo｢好｣,人工定稿,导入警告: kana_residue
+69,0x4c1,dialogue,narrative,hooロム2_KW_学校_霞,19,hooROM2_KW_學校_霞,人工定稿,P7 校对修正: 字形统一 学校→學校
+70,0x4d8,system,system,0102,4,,未翻,
+71,0x4dd,dialogue,narrative,hoo｢学校……行ｷﾀｲでｽ……｣,25,hoo｢學校……好想去……｣,人工定稿,导入警告: kana_residue
+72,0x4f8,system,system,1491,4,,未翻,
+73,0x4fd,dialogue,narrative,hoo｢学校が好ｷﾅﾉｶ? 珍ｼｲﾅ｣,24,hoo｢喜歡學校? 真稀奇呀｣,人工定稿,导入警告: kana_residue
+74,0x518,system,system,0103,4,,未翻,
+75,0x51d,dialogue,narrative,hoo｢ｿｳでﾊﾅｲﾝでｽｹど……,22,hoo｢不是那樣的……,人工定稿,导入警告: kana_residue
+76,0x534,dialogue,narrative,……早ｸ日常ﾆ戻ﾘﾀｲﾝでｽ……｣,26,……好想早點回到日常……｣,人工定稿,导入警告: kana_residue
+77,0x550,system,system,1492,4,,未翻,
+78,0x555,dialogue,narrative,hoo｢ｿｳだﾅ｡戻ﾚﾙﾄｲｲﾅ｣,19,hoo｢唔，但願能回去｣,人工定稿,P7 校对修正: 戻れる(能回去)+といいな 补回; 槽紧以 唔 代 そうだな
+79,0x56c,dialogue,narrative,ロム2_KW_学校_ﾊﾙｶ,17,ROM2_KW_學校_遙,人工定稿,P7 校对修正: 字形统一 学校→學校
+80,0x580,system,system,0070,4,,未翻,
+81,0x585,dialogue,narrative,hoo｢……学校嫌ｲ｣,16,hoo｢……討厭學校,人工定稿,"P7 校对修正: 嫌い=讨厌(与 seq97 同词一致), 非'不想去'"
+82,0x598,system,system,1493,4,,未翻,
+83,0x59d,dialogue,narrative,hoo｢何ｶｱﾙﾉｶ?｣,13,hoo｢怎麼了?｣,人工定稿,导入警告: kana_residue
+84,0x5ab,system,system,t0071,5,,未翻,
+85,0x5b1,dialogue,narrative,hoo｢ｵ兄ﾁｬﾝﾄ教室がﾁがｳﾓﾝ｣,24,hoo｢教室和哥哥不一樣嘛｣,人工定稿,导入警告: kana_residue
+86,0x5cc,system,system,1494,4,,未翻,
+87,0x5d1,dialogue,narrative,hoo｢ｱｧ……,10,hoo｢哦……,人工定稿,"P7 校对修正: 行首 あぁ 为领会语气, 全库惯例作 哦, 非 欸"
+88,0x5dc,dialogue,narrative,双子ﾊ一緒ﾆﾅﾗﾅｲﾖｳﾆｽﾙｯﾃ,21,聽説雙子不能在一起,人工定稿,
+89,0x5f4,dialogue,narrative,聞ｲﾀｺﾄｱﾙﾅ｣,10,有聽過呀｣,人工定稿,P7 校对修正: 聞いたことあるな 补 な 语气(呀)
+90,0x5ff,system,system,t0072,5,,未翻,
+91,0x605,dialogue,narrative,hoo｢ｲｯｼｮがｲｲﾉﾆｰ｣,16,hoo｢一起多好嘛｣,人工定稿,导入警告: kana_residue
+92,0x618,dialogue,narrative,依存関係ﾆﾅﾗﾅｲﾖｳﾆｽﾙﾉが,21,避免形成依存關係,人工定稿,
+93,0x630,dialogue,narrative,目的だｯﾀﾊずだが､,16,本來應該是目的，,人工定稿,"P7 校对修正: はず=本应, 原译'才是'误"
+94,0x644,dialogue,narrative,彼女ｦ見ﾃｲﾙﾄｿﾉ効果ﾓ疑ﾜﾚﾙﾅ｡,25,看霞這樣，效果也存疑。,人工定稿,
+95,0x660,dialogue,narrative,ロム2_KW_学校_ﾂﾑじ,18,ROM2_KW_學校_旋,人工定稿,P7 校对修正: 字形统一 学校→學校
+96,0x674,system,system,0076,4,,未翻,
+97,0x679,dialogue,narrative,hoo｢……学校ﾊ嫌ｲでｽﾖ｡,21,hoo｢……討厭學校哦。,人工定稿,导入警告: kana_residue
+98,0x690,dialogue,narrative,嫌ﾅﾔﾂ､ｲｯぱｲｲﾙｼ｡,15,討厭的人很多。,人工定稿,
+99,0x6a0,dialogue,narrative,ｲﾂﾓ喧嘩ﾆﾅﾙｼ｣,12,還老是爭執｣,人工定稿,导入警告: kana_residue
+100,0x6b0,system,system,1495,4,,未翻,
+101,0x6b5,dialogue,narrative,hoo｢喧嘩ばｶﾘｼﾃﾙﾄ､不良ﾆﾅﾙぞ｣,27,hoo｢老是爭執，會變成不良哇｣,人工定稿,"P7 校对修正: だぞ→哇(风格指南), 非 哦"
+102,0x6d4,system,system,0077,4,,未翻,
+103,0x6d9,dialogue,narrative,hoo｢ｲｲでｽﾖ｡不良で｡強ｿｳだｼ｣,26,hoo｢好呀。當不良。感覺強｣,人工定稿,导入警告: kana_residue
+104,0x6f4,system,system,1496,4,,未翻,
+105,0x6f9,dialogue,narrative,hoo｢訂正ｼﾖｳ｡,12,hoo｢更正。,人工定稿,导入警告: kana_residue
+106,0x706,dialogue,narrative,st喧嘩ｯ早ｲﾄ美紀ｸﾝﾉﾖｳﾆﾅﾙぞ｣,26,st動不動就爭執會像美紀哇｣,人工定稿,P7 校对修正: だぞ→哇 补回; 槽紧无逗号
+107,0x724,system,system,0078,4,,未翻,
+108,0x729,dialogue,narrative,hoo｢……ﾁｮｯﾄ控ｴﾏｽ｣,18,hoo｢……我會節制｣,人工定稿,导入警告: kana_residue
+109,0x73c,dialogue,narrative,ロム2_KW_学校_ジャック,22,ROM2_KW_學校_傑克,人工定稿,P7 校对修正: 字形统一 学校→學校
+110,0x754,dialogue,narrative,｢ｱｧ､ｿﾘｬｺﾉ俺ﾆﾓ,13,｢哦，那我也,人工定稿,"P7 校对修正: 行首 あぁ 领会语气作 哦, 非 欸"
+111,0x762,dialogue,narrative,ジ学生時代ｯﾃﾉﾊｱｯﾀぜ｣,20,學生時代還是有過咯｣,人工定稿,导入警告: kana_residue
+112,0x778,dialogue,narrative,｢ロクﾅ思ｲ出ﾅﾝぞ無ｲがﾅ!｣,23,｢沒半件像樣的回憶呀!｣,人工定稿,导入警告: kana_residue
+113,0x790,system,system,0104,4,,未翻,
+114,0x795,dialogue,narrative,hoo｢ﾌﾋｬﾋｬﾋｬ! 聞ｷﾃｰｶ?,20,hoo｢桀桀桀! 想聽?,人工定稿,"P7 校对修正: 聞きてーか=想听(吗), 原译'有在聽'误"
+115,0x7ac,dialogue,narrative,連続殺人鬼ﾉ明ﾙｲ青春時代ﾉ話がﾖ｡,30,連環殺手的光明青春故事。,人工定稿,
+116,0x7cc,dialogue,narrative,ｱｧ!?｣,5,哦!?｣,人工定稿,"P7 校对修正: あぁ!? 威胁反问, 全库惯例作 哦?, 非 哇"
+117,0x7d2,system,system,oo1497,6,,未翻,
+118,0x7d9,dialogue,narrative,hoo｢ｳﾑ｡実ﾆ興味深ｲﾅ｣,19,hoo｢唔。真有意思｣,人工定稿,导入警告: kana_residue
+119,0x7f0,system,system,0105,4,,未翻,
+120,0x7f5,dialogue,narrative,hoo｢話ｼﾀｸﾈｪｯﾂｯﾃﾝだﾖ!｣,21,hoo｢不是説了不想講!｣,人工定稿,"P7 校对修正: 話したくねぇ=不想说, 原译'自己想説'反义"
+121,0x80c,dialogue,narrative,ロム2_KW_学校_薫,16,ROM2_KW_學校_薰,人工定稿,P7 校对修正: 字形统一 学校→學校
+122,0x820,system,system,0229,4,,未翻,
+123,0x825,dialogue,narrative,hoo｢学校でｽｶ?,13,hoo｢是學校?,人工定稿,导入警告: kana_residue
+124,0x833,dialogue,narrative,tｳｰﾝ､警察学校ﾊ辛ｲ所でｼﾀﾈ｣,25,t唔，警察學校挺辛苦的｣,人工定稿,导入警告: kana_residue
+125,0x850,system,system,1498,4,,未翻,
+126,0x855,dialogue,narrative,hoo｢人ﾆﾖｯﾃﾊ刑務所ﾄ揶揄ｼﾀﾘｽﾙﾗｼｲﾅ｣,32,hoo｢聽説有人把它戲稱為監獄｣,人工定稿,导入警告: kana_residue
+127,0x878,system,system,0230,4,,未翻,
+128,0x87d,dialogue,narrative,hoo｢ｿｳﾅﾝでｽﾖ｡,13,hoo｢沒錯哦。,人工定稿,导入警告: kana_residue
+129,0x88b,dialogue,narrative,t色々規則が細ｶｶｯﾀﾘｼﾃ……,24,t各種規定瑣碎得要命……,人工定稿,
+130,0x8a4,dialogue,narrative,私ﾊ平気だｯﾀﾝでｽｹどﾈ｣,20,我倒是無所謂的｣,人工定稿,导入警告: kana_residue
+131,0x8bc,system,system,0231,4,,未翻,
+132,0x8c1,dialogue,narrative,hoo｢携帯禁止でﾓ､どｳｾ彼氏ﾓメル友ﾓ,32,hoo｢禁用手機，反正男友和筆友,人工定稿,P7 校对修正: 彼氏もメル友も 的 メル友 漏译补回
+133,0x8e4,dialogue,narrative,ｲﾅｶｯﾀｼ……今ﾓでｽｹど……｣,24,都沒有……現在也是……｣,人工定稿,导入警告: kana_residue
+134,0x900,system,system,1499,4,,未翻,
+135,0x905,dialogue,narrative,hoo｢ｱｰ……ﾅﾝだ､ｿﾉ……,21,hoo｢哦……那個……,人工定稿,"P7 校对修正: 行首 あー 迟疑声作 哦, 非 欸"
+136,0x91c,dialogue,narrative,私でﾖｹﾚばメールぐﾗｲ……｣,24,不嫌棄的話，當筆友……｣,人工定稿,导入警告: kana_residue
+137,0x938,system,system,0232,4,,未翻,
+138,0x93d,dialogue,narrative,hoo｢情ｹ無用でｽ!｣,16,hoo｢不需要同情!｣,人工定稿,导入警告: kana_residue
+139,0x950,dialogue,narrative,ｺﾉ意地ﾓアダﾄﾅｯﾃｲﾙﾉだﾛｳﾅ……｡,28,這股固執恐怕也成了阻礙……。,人工定稿,P7 校对修正: あだとなる=成为阻碍(非阻力); だろう(恐怕)补回
+140,0x970,dialogue,narrative,ロム2_KW_学校_樫沢,18,ROM2_KW_學校_樫澤,人工定稿,P7 校对修正: 字形统一 学校→學校
+141,0x984,system,system,0225,4,,未翻,
+142,0x989,dialogue,narrative,hoo｢学校? 今ﾊﾎﾄﾝど行ｯﾃｲﾅｲでｽﾖ｣,30,hoo｢學校? 現在幾乎都不去了｣,人工定稿,导入警告: kana_residue
+143,0x9a8,system,system,1500,4,,未翻,
+144,0x9ad,dialogue,narrative,hoo｢ﾎｳ｡サボﾘｶ?｣,15,hoo｢哦。逃課?｣,人工定稿,导入警告: kana_residue
+145,0x9c0,system,system,0226,4,,未翻,
+146,0x9c5,dialogue,narrative,hoo｢失礼でｽﾈ｡,13,hoo｢好失禮。,人工定稿,导入警告: kana_residue
+147,0x9d3,dialogue,narrative,t単位ﾓ卒論ﾓ終ﾜｯﾃｲﾏｽｶﾗ｡,22,t學分和論文都完成了。,人工定稿,
+148,0x9ec,dialogue,narrative,今ﾊﾀﾏﾆ図書館ｦ利用ｽﾙ程度ﾅﾝでｽ｣,29,現在只是偶爾去圖書館而已｣,人工定稿,导入警告: kana_residue
+149,0xa0c,system,system,1501,4,,未翻,
+150,0xa11,dialogue,narrative,hoo｢ｱｱ､ﾅﾙﾎどﾅ｡,14,hoo｢原來如此。,人工定稿,导入警告: kana_residue
+151,0xa20,dialogue,narrative,ｿｳｲｴば私ﾓ似ﾀﾖｳﾅﾓﾉだ｡,20,説起來我也差不多。,人工定稿,
+152,0xa38,dialogue,narrative,就職活動ﾉﾀﾒﾆ小ﾏﾒﾆ顔ﾊ出ｼﾃﾙがﾅ｣,29,為了找工作還是會常露面｣,人工定稿,导入警告: kana_residue
+153,0xa58,dialogue,narrative,｢……僕ﾊ就職ﾓ決ﾏﾘﾏｼﾀ｡,21,｢……我工作也定下了。,人工定稿,导入警告: kana_residue
+154,0xa70,dialogue,narrative,ﾄｲｯﾃﾓ､蹴ﾙﾂﾓﾘでｽｹど｣,19,但打算拒絶就是了｣,人工定稿,导入警告: kana_residue
+155,0xa84,system,system,1502,4,,未翻,
+156,0xa89,dialogue,narrative,hoo｢贅沢ﾅ奴ﾒ｡私ﾆﾖｺｾ｣,20,hoo｢真奢侈。讓給我｣,人工定稿,导入警告: kana_residue
+157,0xaa0,dialogue,narrative,｢ｱﾅﾀﾅﾗｿﾝﾅｺﾄｼﾅｸﾃﾓ,16,｢其實不必這樣,人工定稿,"P7 校对修正: あなた 不得写第二人称, '閣下'误; 省略主语"
+158,0xab4,dialogue,narrative,ｲﾂｶ良ｲ仕事が見ﾂｶﾙでｼｮｳ｣,23,總會找到好工作的｣,人工定稿,导入警告: kana_residue
+159,0xacc,system,system,1503,4,,未翻,
+160,0xad1,dialogue,narrative,hoo｢だﾄｲｲがﾅ｣,13,hoo｢但願如此｣,人工定稿,导入警告: kana_residue
+161,0xadf,dialogue,narrative,tロム2_KW_学校_唯柚,19,tROM2_KW_學校_唯柚,人工定稿,P7 校对修正: 字形统一 学校→學校
+162,0xaf4,system,system,0155,4,,未翻,
+163,0xaf9,dialogue,narrative,hoo｢学校?｣,10,hoo｢學校?｣,人工定稿,导入警告: kana_residue
+164,0xb04,system,system,1504,4,,未翻,
+165,0xb09,dialogue,narrative,hoo｢唯柚ｸﾝﾓ四回生ｶ｣,19,hoo｢唯柚也大四了呀｣,人工定稿,导入警告: kana_residue
+166,0xb20,system,system,0156,4,,未翻,
+167,0xb25,dialogue,narrative,hoo｢ｳﾝ､ｿｳだﾖｰ｣,14,hoo｢唔，是呀｣,人工定稿,导入警告: kana_residue
+168,0xb34,system,system,1505,4,,未翻,
+169,0xb39,dialogue,narrative,hoo｢卒論ﾊﾓｳ終ﾜｯﾀﾉｶ?｣,20,hoo｢論文已經寫完了?｣,人工定稿,导入警告: kana_residue
+170,0xb50,system,system,0157,4,,未翻,
+171,0xb55,dialogue,narrative,hoo｢ｳｰ､ｿﾚが､ﾏだ……｣,20,hoo｢唔，還沒……｣,人工定稿,导入警告: kana_residue
+172,0xb6c,system,system,0158,4,,未翻,
+173,0xb71,dialogue,narrative,hoo｢『ｵ花ﾉﾓﾀﾗｽ幸福感ﾆﾂｲﾃ』,26,hoo｢『花帶來的幸福感』,人工定稿,P7 校对修正: お花のもたらす幸福感 误译作'産花莫塔拉斯'(音译)
+174,0xb8c,dialogue,narrative,で研究中ﾅﾝだｹど､論文ﾆﾏﾄﾏﾗﾅｸﾃ……｣,33,正在研究，但論文一直寫不出來……｣,人工定稿,导入警告: kana_residue
+175,0xbb0,system,system,1506,4,,未翻,
+176,0xbb5,dialogue,narrative,hoo｢ｿ､ｿｳｶ……,13,hoo｢是哦……,人工定稿,导入警告: kana_residue
+177,0xbc3,dialogue,narrative,tｱﾙ意味唯柚ｸﾝﾊ,14,t某種意義上，,人工定稿,
+178,0xbd4,dialogue,narrative,ｽでﾆ幸ｾだﾄ思ｳがﾅ｣,17,唯柚已經算幸福了｣,人工定稿,导入警告: kana_residue
+179,0xbe8,system,system,0159,4,,未翻,
+180,0xbed,dialogue,narrative,hoo｢ｳﾝ｡ﾕﾕﾊｵ花で幸ｾだﾖｰ｣,23,hoo｢哦。唯柚有花就幸福｣,人工定稿,导入警告: kana_residue
+181,0xc08,dialogue,narrative,ロム2_KW_学校_紅春,18,ROM2_KW_學校_紅春,人工定稿,P7 校对修正: 字形统一 学校→學校
+182,0xc1c,system,system,0204,4,,未翻,
+183,0xc21,dialogue,narrative,hoo｢学生時代､懐ｶｼｲでｽ｡,22,hoo｢學生時代，好懷念。,人工定稿,导入警告: kana_residue
+184,0xc38,dialogue,narrative,ｿﾝﾅﾆ経ｯﾃﾅｲﾉﾆ､ﾓｳ随分ﾄ,20,明明沒過多久，,人工定稿,
+185,0xc50,dialogue,narrative,昔ﾉｺﾄﾉﾖｳﾆ感じﾏｽﾈｰ｣,18,卻像很久以前的事｣,人工定稿,导入警告: kana_residue
+186,0xc64,system,system,1507,4,,未翻,
+187,0xc69,dialogue,narrative,hoo｢環境が変ﾜﾙﾄｿﾝﾅﾓﾝだﾛｳﾅ｡,26,hoo｢環境一變就會這樣。,人工定稿,导入警告: kana_residue
+188,0xc84,dialogue,narrative,私ﾓ高校生だｯﾀﾉがﾄﾃﾓ昔ﾆ感じﾙﾖ｣,29,我也覺得高中時代很久遠了｣,人工定稿,P7 校对修正: 高校生だったのがとても昔 原译句意不清
+189,0xca4,system,system,0205,4,,未翻,
+190,0xca9,dialogue,narrative,hoo｢高校生でｽｶ｡,15,hoo｢高中生呀。,人工定稿,导入警告: kana_residue
+191,0xcbc,dialogue,narrative,ｲｲﾅｰ……セーラー服ﾏだ着ﾚﾙｶﾅ｣,28,真好……不知還穿得下水手服｣,人工定稿,P7 校对修正: 着れるかな 疑问语气补回
+192,0xcdc,system,system,1508,4,,未翻,
+193,0xce1,dialogue,narrative,hoo｢紅春ｸﾝﾅﾗ似合ｲｿｳだﾅ｡,23,hoo｢紅春穿應該很合適。,人工定稿,导入警告: kana_residue
+194,0xcfc,dialogue,narrative,私ﾊ当時ｶﾗ､セーラー服ﾖﾘスーツが似合ｳﾄ,36,我從以前就被人説穿西裝比水手服,人工定稿,
+195,0xd24,dialogue,narrative,言ﾜﾚﾃｲﾀｶﾗ､少ｼ羨ﾏｼｲ｣,19,合適，所以有點羨慕｣,人工定稿,导入警告: kana_residue
+196,0xd38,system,system,0206,4,,未翻,
+197,0xd3d,dialogue,narrative,hoo｢私ﾊ楓ｻﾝが羨ﾏｼｲでｽ｡大人ｯぽｸﾃ｡,32,hoo｢我反倒羨慕楓。感覺很成熟。,人工定稿,导入警告: kana_residue
+198,0xd60,dialogue,narrative,ﾌﾌ､ｵ互ｲﾆﾅｲﾓﾉﾈだﾘでｽﾈｰ｣,22,呵呵，彼此彼此呀｣,人工定稿,导入警告: kana_residue
+199,0xd78,dialogue,narrative,紅春ｸﾝﾊスーツﾓ似合ｳﾄ思ｳがﾅ……,30,我覺得紅春穿西裝也合適……,人工定稿,
+200,0xd98,dialogue,narrative,悔ｼｲﾉで言ﾜﾅｲでｵｺｳ｡,18,不甘心，先不説了。,人工定稿,
+201,0xdac,dialogue,narrative,ロム2_KW_学校_西野,18,ROM2_KW_學校_西野,人工定稿,P7 校对修正: 字形统一 学校→學校
+202,0xdc0,system,system,0064,4,,未翻,
+203,0xdc5,dialogue,narrative,hoo｢ﾝ､私ﾉ学歴ｶﾈ?,16,hoo｢唔，學歴?,人工定稿,"P7 校对修正: 行首 ん 作 唔(全库惯例), 非 哦"
+204,0xdd8,dialogue,narrative,私ﾊチミ､米国ﾉ有名大学ﾆ留学ｼﾃｵｯﾀﾉだﾖ｣,36,我以前在美國名牌大學留學過哦｣,人工定稿,导入警告: kana_residue
+205,0xe00,system,system,1509,4,,未翻,
+206,0xe05,dialogue,narrative,hoo｢ｻｽがﾆ国会議員ﾄﾓﾅﾙﾄ違ｲﾏｽﾈ｣,29,hoo｢當上國會議員果然不一樣｣,人工定稿,导入警告: kana_residue
+207,0xe24,system,system,0065,4,,未翻,
+208,0xe29,dialogue,narrative,hoo｢当然だﾖチミ!,16,hoo｢那是當然哦!,人工定稿,"P7 校对修正: だよ→哦, 咯 是 だぜ 的译法"
+209,0xe3c,dialogue,narrative,ﾝ､私ﾊチミ達ﾉﾖｳﾅ庶民ﾄﾊ違ｳﾉだﾖ!｣,30,我和那種平民可不一樣!｣,人工定稿,导入警告: kana_residue
+210,0xe5c,system,system,1510,4,,未翻,
+211,0xe61,dialogue,narrative,hoo｢ｿﾚで卒業ﾊ出来ﾀﾉでｽｶ?,24,hoo｢那麼畢業了沒?,人工定稿,导入警告: kana_residue
+212,0xe7c,dialogue,narrative,向ｺｳﾉ学位ｦ取ﾙﾉﾊ難ｼｲﾄ聞ｸが｣,26,聽説那邊的學位很難拿｣,人工定稿,导入警告: kana_residue
+213,0xe98,system,system,0066,4,,未翻,
+214,0xe9d,dialogue,narrative,hoo｢何ｦ細ｶｲﾄｺﾛﾆｺだﾜｯﾃｲﾙﾉだ!,27,hoo｢別計較那種小地方!,人工定稿,导入警告: kana_residue
+215,0xebc,dialogue,narrative,卒業ｼﾀｶどｳｶでﾊﾅｲ,16,重點不在畢不畢業,人工定稿,
+216,0xed0,dialogue,narrative,ｿﾉ大学ﾆ行ｯﾀ事ﾆ価値がｱﾙﾉだﾖ!!｣,29,重要的是在那所大學的經歴!!｣,人工定稿,导入警告: kana_residue
+217,0xef0,dialogue,narrative,ﾂﾏﾘ､卒業ﾊでｷﾅｶｯﾀﾝだﾅ｡,21,也就是説，沒畢業。,人工定稿,

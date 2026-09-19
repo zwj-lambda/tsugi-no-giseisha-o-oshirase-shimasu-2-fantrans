@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="zh-Hant"><meta charset="utf-8">
+<title>kw_police.tob</title>
+<style>
+body { font-family: system-ui, sans-serif; margin: 16px; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #ddd; padding: 4px 8px; vertical-align: top;
+        font-size: 13px; }
+td.jp, td.zh { width: 34%; }
+.jp { font-family: "Yu Gothic", "MS Gothic", monospace; }
+tr.skip { opacity: 0.45; }
+td.note { color: #b00; font-size: 12px; }
+</style>
+<body>
+<p><a href="index.html"><< 返回索引</a></p>
+<h2>kw_police.tob</h2>
+<p><label>状态 <select id="f" onchange="flt()">
+<option value="">全部</option><option>未翻</option><option>机翻</option>
+<option>机审</option><option>人工定稿</option><option>skip</option>
+</select></label> <span id="stat"></span></p>
+<table><tr><th>seq</th><th>状态</th><th>role</th>
+<th>原文</th><th>译文</th><th>备注</th></tr>
+<tr class="未翻"><td>1</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">../tob/rom2/kw_police.tob</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>2</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">kw_police.sts</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>3</td><td style="color:#888888">未翻</td><td>label</td><td class="jp">ROM2_KW_警官</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>4</td><td style="color:#888888">未翻</td><td>label</td><td class="jp">ROM2_KW会話_警官</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>5</td><td style="color:#888888">未翻</td><td>label</td><td class="jp">&lt;switch_err&gt; ﾆ分岐ｼﾃｷﾀ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>6</td><td style="color:#888888">未翻</td><td>command</td><td class="jp">フェードアウト</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>7</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_昇</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>8</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0312</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>9</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢自分が警官だｯﾀﾗﾅｧ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>10</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2000</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>11</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢警官がﾖｶｯﾀﾉｶ?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>12</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0313</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>13</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾅﾝﾄﾅｸ安全ﾅ気がｽﾙｹど</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>14</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">実際ｿｳでﾓﾅｲﾖﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>15</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2001</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>16</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｱｧ､自分ｦ指名ｽﾚばｼばﾗｸﾊ持ﾂが</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>17</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｿﾉ間最低でﾓ1人ずﾂﾊ死ﾝでｼﾏｳｶﾗﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>18</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0314</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>19</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢だﾖﾅｧ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>20</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">人が死ﾇﾀびﾆ自分ﾉｾｲだｯﾃ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>21</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">感じﾙだﾛｳｼﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>22</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2002</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>23</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｶﾄｲｯﾃ誰ｶｦ守ｯﾃ予想が外ﾚﾃﾓ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>24</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">一緒だがﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>25</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">t0315</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>26</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｳｰﾝ､ﾔｯぱ俺ﾊ市民でﾖｶｯﾀﾖ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>27</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_香菜</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>28</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">｢警官ﾈｰ､ﾐﾝﾅ警官ﾆﾅｯﾁｬｴば</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>29</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">誰ﾓ死ﾅﾅｸﾃ済ﾑﾉﾆﾈ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>30</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2003</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>31</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿﾚでﾊゲームが成立ｼﾅｲｶﾗﾅ……</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>32</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｿﾝﾅルールﾆﾊﾅﾗﾅｲだﾛｳﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>33</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">｢成立ｼﾅｲｶﾗ良ｲﾝじｬﾅｲ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>34</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">何ｶ含ﾐﾉｱﾘｿｳﾅ言ｲ方だﾅ……?</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>35</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_圭介</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>36</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0181</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>37</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢警官が2人ｲﾀﾗﾖｶｯﾀﾉﾆ……｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>38</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2004</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>39</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾌﾑ｡ｿｳｼﾀﾗ何ｶ策でﾓｱｯﾀﾉｶ?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>40</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0182</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>41</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｲｴ……霞が心配でﾂｲ……｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>42</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_霞</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>43</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0184</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>44</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢私が警官だｯﾀﾗ……</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>45</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">圭ｸﾝｦ守ｯﾃｱげﾗﾚﾀﾉﾆ……｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>46</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2005</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>47</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｼｶｼ､ｿﾚｦｼﾃｼﾏｯﾀﾗ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>48</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">樫沢氏ﾉ作戦ﾊ失敗ｽﾙぞ?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>49</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0185</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>50</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿｳ……でｽﾖﾈ……ごﾒﾝﾅｻｲ……｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>51</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_美紀</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>52</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">1110</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>53</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｱﾀｼが警官だｯﾀﾗ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>54</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｵ姉ｻﾏﾊ絶対安全だｯﾀﾉﾆ!!｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>55</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2006</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>56</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿﾚでﾊ樫沢氏ﾉ作戦が成立ｼﾅｲｼ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>57</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">君ﾓ危険だﾄ思ｳが?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>58</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">1111</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>59</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿﾚでﾓｲｲﾝｽ!</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>60</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｵ姉ｻﾏが無事ﾅﾗ!｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>61</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">正直､彼女が警官でﾅｸﾃﾖｶｯﾀ……｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>62</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_ﾊﾙｶ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>63</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0122</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>64</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢……ｹｲｶﾝ? 知ｯﾃﾙﾖ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>65</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2007</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>66</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢本当ｶ!?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>67</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">st0123</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>68</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｳﾝ｡薫ｻﾝ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>69</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">st2008</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>70</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢……ｿｳｶ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>71</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">stｲﾔ､可能性ﾊ否ﾒﾅｲが……</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>72</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">彼女ﾊｵｿﾗｸ質問ﾉ意図ｦ勘違ｲｼﾃｲﾙﾅ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>73</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">どｯﾁﾆｼﾛ知ﾗﾅｲﾄｲｳｺﾄだﾛｳが……｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>74</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_ﾂﾑじ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>75</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0139</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>76</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢警官? ｯﾃ､薫ｻﾝじｬﾅｲでｽﾖﾈ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>77</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2009</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>78</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｱｱ｡ゲーム内でﾉ話だ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>79</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0140</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>80</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿｯﾁﾊﾜｶﾗﾅｲｹど､</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>81</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">薫ｻﾝﾊ､ﾊﾙｶﾆ優ｼｸｼﾃｸﾚﾙｼ､</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>82</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｿﾉ警官ﾓﾊﾙｶｦ守ｯﾃｸﾚﾀﾗｲｲﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>83</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｿｳｼﾀﾗ樫沢氏ﾉ作戦ﾊ通用ｼﾅｸﾅﾙが､</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>84</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ﾀﾗﾚばﾉ話ﾆ本気で答ｴﾙｺﾄﾓﾅｲｶ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>85</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_ジャック</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>86</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0156</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>87</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾁｷｼｮｳ!</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>88</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｿﾉ名前ｦオレﾉ前で出ｽﾝじｬﾈｪ!</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>89</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">虫唾が走ﾙぜ!｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>90</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2010</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>91</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾌﾑ｡ｽﾏﾅｲ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>92</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">stｺﾉ話題ﾊﾔﾒﾃｵｲﾀ方がﾖｻｿｳだﾅ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>93</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_薫</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>94</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0301</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>95</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢警官ﾄﾊ本来皆ｻﾝｦ守ﾙ仕事でｽが……</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>96</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">人員ﾆﾊ限ﾘがｱﾙｼ､実際ﾉﾄｺﾛ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>97</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">限界ﾊｱﾘﾏｽ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>98</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">t0302</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>99</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢1ターンﾆ1人ｼｶ守ﾚﾅｲﾄｲｳﾉﾊ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>100</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">私達ﾍﾉ皮肉ﾅﾝでｼｮｳｶ……?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>101</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2011</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>102</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢考ｴｽぎだﾄ思ｳぞ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>103</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_樫沢</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>104</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0286</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>105</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢警官が協力ｼﾃｸﾚﾀﾐﾀｲで助ｶﾘﾏｼﾀ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>106</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">誰ｶﾊ知ﾘﾏｾﾝが､警官ﾉ協力無ｼﾆﾊ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>107</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">成立ｼﾅｲ作戦でｽｶﾗﾈ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>108</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2012</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>109</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｱｱ｡ｺﾉ調子でｲｹﾙﾄ良ｲがﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>110</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0287</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>111</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢心変ﾜﾘが心配でｽﾈ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>112</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_唯柚</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>113</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0221</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>114</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢警官……ｵﾏﾜﾘｻﾝ!｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>115</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2013</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>116</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿｳだが､違ｳ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>117</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ｺﾉゲームﾉ中でﾉ警官ﾉｺﾄだ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>118</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0222</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>119</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｳｰﾝ､ﾕﾕ､誰だｶﾜｶﾝﾅｲｹど……</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>120</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">警官ｻﾝﾊｷｯﾄ､良ｲ人だﾄ思ｲﾏｽ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>121</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2014</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>122</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾎｵ｡何故だ?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>123</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0223</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>124</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢だｯﾃ自分ﾉｺﾄｦ差ｼ置ｲﾃ､</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>125</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ﾐﾝﾅﾉﾀﾒﾆ作戦ﾆ乗ｯﾃｸﾚﾀﾝでｽﾖﾈ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>126</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0224</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>127</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾀﾄｴ途中で心変ﾜﾘｼﾀﾄｼﾃﾓ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>128</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">良ｲ人ﾅﾉﾊ間違ｲﾅｲﾉでｽ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>129</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">意外ﾄ鋭ｲﾅ……｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>130</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ロム2_KW_警官_紅春</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>131</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0263</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>132</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾓｼ……亡ｸﾅｯﾀ人が警官だｯﾀﾗ</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>133</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">ﾓｳ私達､守ﾗﾚﾅｲﾝでｽﾖﾈ……?｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>134</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2015</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>135</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｿｳﾅﾙﾅ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>136</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0264</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>137</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ｳｩ……ﾓｳ嫌でｽ､ｺﾝﾅﾄｺ……｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>138</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">2016</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>139</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢落ﾁ着ｹ｡</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>140</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">.stｿｳだﾄｼﾀﾗ､ｿﾚｺｿ冷静ｻが必要ﾅﾉだ｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>141</td><td style="color:#888888">未翻</td><td>system</td><td class="jp">0265</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>142</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">lic｢ﾊｲ……｣</td><td class="zh"></td><td class="note"></td></tr>
+<tr class="未翻"><td>143</td><td style="color:#888888">未翻</td><td>narrative</td><td class="jp">.stロム2_KW_警官_西野</td><td class="zh"></td><td class="note"></td></tr>
+</table>
+<script>
+function flt() {
+  const v = document.getElementById('f').value;
+  let n = 0;
+  for (const tr of document.querySelectorAll('tr')) {
+    if (!tr.rowIndex || !tr.className) continue;
+    const show = !v || tr.className === v;
+    tr.style.display = show ? '' : 'none';
+    if (show) n++;
+  }
+  document.getElementById('stat').textContent = n + ' 行';
+}
+flt();
+</script>

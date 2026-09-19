@@ -1,0 +1,7 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/d00.tob,19,,未翻,
+2,0x14,system,system,d00.sts,7,,未翻,
+3,0x1c,system,system,sts_d000_start,14,,未翻,
+4,0x2c,system,system,d00_start,9,,未翻,
+5,0x36,dialogue,narrative,taフリー会話回数初期化,22,ta自由對話次數初始化,人工定稿,
+6,0x50,dialogue,narrative,シナリオ進行,12,劇情推進,人工定稿,

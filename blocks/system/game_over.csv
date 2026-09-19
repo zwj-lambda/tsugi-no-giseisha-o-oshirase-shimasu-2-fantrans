@@ -1,0 +1,131 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/game_over.tob,25,,未翻,
+2,0x1c,system,system,game_over.sts,13,,未翻,
+3,0x2c,dialogue,label,ROM2_ゲームオーバー,19,ROM2_遊戲結束,人工定稿,
+4,0x40,dialogue,command,ゲームオーバー,14,,未翻,
+5,0x4f,dialogue,narrative,ヲT偵タイムが終了ｽﾙ｡,20,ヲT偵時間結束了。,人工定稿,机翻警告: kana_residue
+6,0x64,dialogue,narrative,腕輪ｦ端末ｶﾗ外ｼ､,15,從終端取下手環,人工定稿,
+7,0x74,dialogue,narrative,部屋ｶﾗ出ﾖｳﾄｼﾀ瞬間――｡,22,想走出房間的瞬間――。,人工定稿,P7 校对修正: 補回「出ようとした」的嘗試語氣
+8,0x8c,dialogue,narrative,ｿﾚﾊ､起ｺｯﾀ｡,10,它發生了。,人工定稿,
+9,0x97,dialogue,narrative,tドアが――｡,12,t門卻――。,人工定稿,
+10,0xa4,dialogue,narrative,開ｶﾅｶｯﾀ｡,8,沒打開。,人工定稿,
+11,0xad,dialogue,narrative,.stｿﾉ代ﾜﾘﾆ､,11,.st取而代之,人工定稿,P7 校对修正: その代わりに 與全庫定稿「取而代之」一致
+12,0xb9,dialogue,narrative,.st曇ﾘガラスが透明ﾆﾅﾙ｡,22,.st磨砂玻璃變得透明。,人工定稿,
+13,0xd0,system,system,2020,4,,未翻,
+14,0xd5,dialogue,narrative,ove｢……ﾏｻｶｯ｣,13,ove｢不會的｣,人工定稿,P7 校对修正: マサカッ 依全庫先例作「不會的」
+15,0xe3,system,system,t2021,5,,未翻,
+16,0xe9,dialogue,narrative,ove｢ｲﾔ……ﾔﾊﾘｶ｣,15,ove｢不……果然｣,人工定稿,"P7 校对修正: 還原原文停頓, 去逗號"
+17,0xfc,dialogue,narrative,画面ﾆ踊ﾙ､笑ｴﾅｲジョーク｡,23,畫面上躍動的冷笑話。,人工定稿,
+18,0x114,dialogue,narrative,『YOU ARE SHOCK!』,18,『YOU ARE SHOCK!』,人工定稿,
+19,0x128,system,system,2022,4,,未翻,
+20,0x12d,dialogue,narrative,ove｢メールｶ……｣,16,ove｢郵件……｣,人工定稿,
+21,0x140,dialogue,narrative,ポケットｶﾗ携帯ｦ取ﾘ出ｼ､中ｦ開ｸ｡,29,從口袋裡取出手機，打開來看。,人工定稿,
+22,0x160,dialogue,narrative,案ﾉ定､メールﾊ､,14,果不其然，郵件,人工定稿,
+23,0x170,dialogue,narrative,『Mailer-Daemon』ｶﾗだ｡,22,來自『Mailer-Daemon』,人工定稿,
+24,0x188,dialogue,narrative,鼓動が早ｲ｡,10,心臟猛跳。,人工定稿,
+25,0x193,dialogue,narrative,t嫌ﾅ予感がｽﾙ｡,13,t不祥預感。,人工定稿,
+26,0x1a4,dialogue,narrative,全身ｶﾗ冷ﾀｲ汗が吹ｷ出ﾙ｡,21,全身冒出冷汗。,人工定稿,
+27,0x1bc,dialogue,narrative,件名『次ﾉ犠牲者ｦオシラセシマス』｡,33,標題『通知下一位犧牲者』。,人工定稿,P7 校对修正: 件名 與全庫定稿「標題」一致
+28,0x1e0,dialogue,narrative,本文ﾊ――,9,正文――,人工定稿,
+29,0x1ea,dialogue,narrative,st『今回ﾉ犠牲者ﾊ､浅川楓ｻﾝでｽ』,30,st『本次的犧牲者是淺川楓小姐』,人工定稿,
+30,0x20c,system,system,2023,4,,未翻,
+31,0x211,dialogue,narrative,ove｢ｸｯ……｣,11,ove｢嗚……｣,人工定稿,P7 校对修正: 還原省略號
+32,0x21d,dialogue,narrative,.st覚悟ｦ決ﾒﾙｼｶｱﾙﾏｲ｡,19,.st只能下定決心了。,人工定稿,
+33,0x234,dialogue,narrative,ｿｳ考ｴﾃｲﾀ｡,9,這麼想。,人工定稿,
+34,0x23e,dialogue,narrative,st次ﾉ行ｦ見ﾙﾏでﾊ｡,16,st看下一行之前。,人工定稿,
+35,0x250,dialogue,narrative,"『処刑方法ﾊ､“蟲責ﾒ""でｽ』",25,『處刑方法是，“蟲責”』,人工定稿,
+36,0x26c,system,system,2024,4,,未翻,
+37,0x271,dialogue,narrative,ove｢ﾑ……蟲……だﾄ!?｣,21,ove｢蟲……是蟲!?｣,人工定稿,"P7 校对修正: だﾄ!? 疑問語氣, 補問號"
+38,0x288,dialogue,narrative,何ｶﾉ冗談だﾛｳ?,13,是在開玩笑?,人工定稿,P7 校对修正: 標點隨原文半角
+39,0x298,dialogue,narrative,ｱﾙｲﾊ比喩だﾛｳ?,13,或者是比喩?,人工定稿,P7 校对修正: 標點隨原文半角
+40,0x2a8,dialogue,narrative,私ﾊ……｡,8,我……。,人工定稿,
+41,0x2b1,dialogue,narrative,.st世界で一番､虫が､蟲が､大嫌ｲﾅﾉだ!,34,.st我在這世上最討厭的，就是蟲!,人工定稿,P7 校对修正: 標點隨原文半角
+42,0x2d4,dialogue,narrative,ｿﾚｺｿ死ﾇﾎど……,14,簡直要命……,人工定稿,
+43,0x2e4,dialogue,narrative,見ﾙだｹで嫌ｲﾅﾉだ｡,16,光是看到就討厭。,人工定稿,
+44,0x2f8,dialogue,narrative,触ﾚﾙﾅどﾄﾃﾓ……｡,15,別説觸摸……。,人工定稿,
+45,0x308,dialogue,narrative,足元ｦカサリﾄ何ｶが這ｳﾖｳﾅ感触｡,28,脚邊有東西沙沙爬動的感覺。,人工定稿,
+46,0x328,system,system,2025,4,,未翻,
+47,0x32d,dialogue,narrative,ove｢ﾋｩｯ!?｣,10,ove｢嗚!?｣,人工定稿,P7 校对修正: 補回對話引號｢｣
+48,0x338,dialogue,narrative,足元ｦ見ﾙﾄ……｡,14,往脚下一看……,人工定稿,
+49,0x348,dialogue,narrative,蟲……!,7,蟲……!,人工定稿,P7 校对修正: 補回原文嘆號
+50,0x350,system,system,2026,4,,未翻,
+51,0x355,dialogue,narrative,ove｢ｳﾜｯ……ｳﾜｧｧｧｧｯ!!｣,21,ove｢哇哇哇哇!!｣,人工定稿,P7 校对修正: 標點隨原文半角
+52,0x36c,dialogue,narrative,逃げﾖｳﾆﾓ､逃げ場がﾅｲ｡,20,想逃，卻也無處可逃。,人工定稿,
+53,0x384,system,system,2027,4,,未翻,
+54,0x389,dialogue,narrative,ove｢ｳｧ……ｧｯ……!｣,18,ove｢哇……嗚｣,人工定稿,
+55,0x39c,dialogue,narrative,脚ﾆ力が入ﾗず､座ﾘ込ﾝでｼﾏｳ｡,25,脚使不上力，就這麼坐下。,人工定稿,
+56,0x3b8,system,system,2028,4,,未翻,
+57,0x3bd,dialogue,narrative,ove｢……ｸ､ｸｩ……｣,17,ove｢……嗚嗚｣,人工定稿,
+58,0x3d0,dialogue,narrative,何ﾄｶ視線だｹ下ﾆ向ｹﾚば､,21,勉強把視線往下一移，,人工定稿,
+59,0x3e8,dialogue,narrative,私ﾉ足ﾆ見ﾀｺﾄﾉﾅｲﾖｳﾅ虫が,21,我脚上有隻沒見過的蟲,人工定稿,
+60,0x400,dialogue,narrative,這ｲ上がｯﾃｷﾃｲﾀ｡,14,正爬了上來。,人工定稿,
+61,0x410,system,system,2029,4,,未翻,
+62,0x415,dialogue,narrative,ove｢ﾋｯ､ﾋｨ……!!｣,16,ove｢嗚、嗚嗚!!｣,人工定稿,P7 终轮收口(主謀/双叹/標題/全角叹号)
+63,0x428,dialogue,narrative,ｿﾉ姿､感触､全ﾃが私ｦパニックﾍﾄ陥ﾚﾙ｡,33,身影、觸感，一切都讓我陷入恐慌。,人工定稿,
+64,0x44c,dialogue,narrative,投票機器､天井､,14,投票機、天花板,人工定稿,
+65,0x45c,dialogue,narrative,ｲﾀﾙﾄｺﾛﾆｱﾙ小ｻﾅ隙間ｶﾗ……｡,24,從四處的小縫隙裡……。,人工定稿,
+66,0x478,dialogue,narrative,大量ﾉ､蟲｡触角｡足｡羽根｡,22,大量蟲。觸角。脚。翅。,人工定稿,P7 校对修正: 原文為斷句而非頓號列舉
+67,0x490,dialogue,narrative,ﾜﾗﾜﾗﾜﾗﾜﾗﾜﾗﾜﾗﾜﾗﾜﾗ……｡,21,嘩嘩嘩嘩嘩嘩嘩嘩……,人工定稿,
+68,0x4a8,system,system,2030,4,,未翻,
+69,0x4ad,dialogue,narrative,ove｢ｲ､ｲﾔだ……ﾔﾒﾛ､止ﾒﾃｸﾚｪ!｣,27,ove｢不、不要……住手!拜託!｣,人工定稿,P7 校对修正: 補回「止めてくれ」的第二聲哀求
+70,0x4cc,dialogue,narrative,後ずｻﾙﾄ､手で何ｶｦ潰ｼﾀﾖｳﾅ感触｡,28,後退時，手上傳來捏碎的觸感。,人工定稿,
+71,0x4ec,system,system,2031,4,,未翻,
+72,0x4f1,dialogue,narrative,ove｢ﾋｨｯ……｣,12,ove｢嗚……｣,人工定稿,P7 校对修正: 省略號形態統一
+73,0x4fe,dialogue,narrative,st手ﾆベッタリﾄｼﾀ粘液が付着ｽﾙ｡,29,st手上黏著一層粘液。,人工定稿,P7 校对修正: ベッタリ 黏著感
+74,0x51c,dialogue,narrative,指先ﾆ触ﾚﾀ数匹が飛び立ﾂ｡,23,指尖一觸，飛起幾隻。,人工定稿,
+75,0x534,dialogue,narrative,小指ｶﾗ何匹ﾓﾉ蟲が這ｲ上がｯﾃｸﾙ｡,28,好幾隻蟲從小指爬了上來。,人工定稿,
+76,0x554,system,system,2032,4,,未翻,
+77,0x559,dialogue,narrative,ove｢ﾔ､ﾔﾒｯ……!｣,15,ove｢住、住手!｣,人工定稿,P7 校对修正: 還原原文口吃
+78,0x56c,dialogue,narrative,袖ｶﾗ､襟ｶﾗ､裾ｶﾗ､,15,袖、衣領、衣角,人工定稿,
+79,0x57c,dialogue,narrative,服ﾉ中ﾍﾄ入ﾘ込ﾑ感覚｡,18,爬進衣服裡的感覺。,人工定稿,
+80,0x590,dialogue,narrative,全身がﾑず痒ｲ｡,13,全身又麻又痒,人工定稿,
+81,0x5a0,dialogue,narrative,チクチクﾄ刺ｽﾖｳﾅ痛ﾐが走ﾙ｡,24,一陣陣針刺般的劇痛襲來。,人工定稿,
+82,0x5bc,dialogue,narrative,ｲﾔ､ｺﾚﾊ……｡,11,不，這……,人工定稿,
+83,0x5c8,system,system,2033,4,,未翻,
+84,0x5cd,dialogue,narrative,ove｢ﾂｩｯ……!!｣,14,ove｢嗚!!｣,人工定稿,P7 校对修正: 標點隨原文半角
+85,0x5dc,dialogue,narrative,ｺﾉ痛ﾐﾊ､刺ｼﾃｲﾙだﾄｶ,17,這種痛並非被刺,人工定稿,
+86,0x5f0,dialogue,narrative,吸ﾜﾚﾃｲﾙﾅﾝﾃﾓﾉでﾊﾅｲ｡,18,更不是被吸的那種。,人工定稿,
+87,0x604,dialogue,narrative,熱ｸ､抉ﾗﾚﾙﾖｳﾅ感触｡,17,又熱又像被破開。,人工定稿,
+88,0x618,dialogue,narrative,食ﾜﾚﾃｲﾙ……!?,13,正被吃掉!?,人工定稿,P7 校对修正: 標點隨原文半角
+89,0x628,system,system,2034,4,,未翻,
+90,0x62d,dialogue,narrative,ove｢ﾔ､ﾔﾒﾛ!,10,ove｢住手!,人工定稿,P7 校对修正: 補回對話開始引號
+91,0x638,dialogue,narrative,ﾔﾒﾛｫｫｫｫｫｫｯ!!!｣,14,住手哇哇哇哇!!,人工定稿,P7 终轮统一: 双感叹号恢复
+92,0x648,dialogue,narrative,叫ﾝだ口ﾉ中ﾆﾏで｡,15,連嘴裡也是。,人工定稿,
+93,0x658,dialogue,narrative,一匹､二匹､三匹……｡,19,一隻､兩隻､三隻……,人工定稿,P7 校对修正
+94,0x66c,dialogue,narrative,ヨン匹､ゴヒキ､ﾛｯぴｷ……｡,24,四隻、五隻、六隻……。,人工定稿,
+95,0x688,dialogue,narrative,ｲｯぱｲ､ｲｯぱｲﾉ蟲が｡,17,滿滿的、滿滿的蟲,人工定稿,
+96,0x69c,dialogue,narrative,ﾜﾀｼｦﾊｲ回ﾘ､蝕ﾝでｲｸ｡,18,圍著我，不斷侵蝕。,人工定稿,"P7 校对修正: 蝕む 為侵蝕, 「咬蝕」不成詞"
+97,0x6b0,system,system,2035,4,,未翻,
+98,0x6b5,dialogue,narrative,ove｢ｱ……がｧｯ……｣,18,ove｢嗚……哇｣,人工定稿,
+99,0x6c8,dialogue,narrative,気持ﾁ悪ｲ気持ﾁ悪ｲ気持ﾁ悪ｲ気持ﾁ悪ｲ!!,34,好惡心好惡心好惡心好惡心!!,人工定稿,"P7 校对修正: 気持ち悪い 為惡心感, 非難受"
+100,0x6ec,dialogue,narrative,誰ｶ……だﾚｶダレカタレガタレガァァァァ……｡,42,誰……是誰，是誰、到底是誰呀呀呀呀……。,人工定稿,"P7 校对修正: 哦 不可作擬聲, 改用呀"
+101,0x718,dialogue,narrative,ｲﾔだﾀｽｹﾃｸﾚｺｺｶﾗだｼﾃｸﾚ｡,21,不要，救救我出去。,人工定稿,
+102,0x730,dialogue,narrative,ﾑｼがﾀｸｻﾝﾜﾀｼｦﾊｲずﾘﾏﾜｯﾃ,21,好多蟲在我身上爬，,人工定稿,
+103,0x748,dialogue,narrative,ﾜﾀｼﾊﾀべﾗﾚﾃｼﾏｳじｬﾅｲｶ｡,20,我是不是要被吃掉了。,人工定稿,
+104,0x760,dialogue,narrative,ﾑｼがﾜﾀｼﾆﾀべﾗﾚﾀﾉﾆﾅｶでﾜﾀｼがﾀべﾗ,29,蟲明明是被我吃掉的，卻在,人工定稿,
+105,0x780,dialogue,narrative,ﾚﾃｲﾀｸﾃｲﾀｸﾃｺﾜｸﾃｵｲｼｸﾃﾂﾗｸﾃｼ,24,體内被吃，痛、可怕、好吃,人工定稿,
+106,0x79c,dialogue,narrative,ﾆｿｳでﾐｷｸﾝﾊﾅﾆｦｼﾃｲﾙﾝだﾊﾔｸﾜﾀｼ,26,難受得快死了，美紀在做什麼,人工定稿,P7 校对修正: 補完「何をしているんだ」疑問
+107,0x7b8,dialogue,narrative,ｦﾀｽｹﾆｺﾅｲﾄﾜﾀｼﾊｼﾝでｼﾏｳでﾊﾅｲｶ,26,快來救我，不然我就要死了。,人工定稿,P7 校对修正: 還原「早く〜ないと」的條件語氣
+108,0x7d4,dialogue,narrative,ﾑｼがﾀｸｻﾝｲﾙﾉだぞｺﾜｲじｬﾅｲｶｵｲｼｲ,28,好多蟲子哇，很可怕嘛，好吃,人工定稿,P7 校对修正: だぞ 依決策卡作「哇」
+109,0x7f4,dialogue,narrative,じｬﾅｲｶﾔﾜﾗｶｲﾉがｱﾏｸﾃｲｲじｬﾅｲｶで,28,軟軟的甜甜的，不是嘛，而且,人工定稿,
+110,0x814,dialogue,narrative,ﾓｶﾀｲﾉﾊざﾘざﾘｼﾃｲﾃﾆがｸﾃｱｱｲﾀｲﾏ,27,硬的沙沙的，苦，嗚，痛，又,人工定稿,
+111,0x830,dialogue,narrative,ﾀﾜﾀｼﾉﾅｶでﾑｼﾀﾁがﾜﾀｼｦﾀべﾃｲﾙﾜﾀ,27,在我體内，蟲子們吃著我，,人工定稿,
+112,0x84c,dialogue,narrative,ｼがﾀべﾀﾑｼがﾜﾀｼｦﾀべﾃｲﾙｼｮｸﾓﾂﾚﾝ,28,被我吃的蟲吃著我，食物鏈,人工定稿,P7 校对修正: 食物連鎖 → 中文 食物鏈
+113,0x86c,dialogue,narrative,――理性ﾅどﾄｯｸﾆﾅｸﾅｯﾃｲﾀ｡,23,――理性早已消失不見。,人工定稿,
+114,0x884,dialogue,narrative,ﾀだﾀだ終ﾜﾙﾉｦ､助ｹ出ｻﾚﾙﾉｦ,23,只是等著結束，等著被救,人工定稿,
+115,0x89c,dialogue,narrative,待ﾂｼｶﾅｶｯﾀ｡,10,只能等待。,人工定稿,
+116,0x8a7,dialogue,narrative,t肌ｦﾊｳ蟲｡,9,t膚上有蟲,人工定稿,P7 校对修正: 原譯不成句
+117,0x8b1,dialogue,narrative,.st中ｦﾊｳ蟲｡,11,.st體内有蟲,人工定稿,P7 校对修正: 原譯不成句
+118,0x8bd,dialogue,narrative,.st腕､腹､自慢ﾉ乳房ﾏで､ざｸざｸﾄ食ﾜﾚﾃｲｸ｡,37,.st手臂、腹、自豪的乳房被沙沙吃掉。,人工定稿,
+119,0x8e4,dialogue,narrative,耳､鼻､ｿｼﾃ――……｡,18,耳、鼻，然後是……,人工定稿,
+120,0x8f8,dialogue,narrative,ｱﾗﾕﾙ穴ｶﾗ､入ﾘ込ﾝでｸﾙ｡,20,從所有孔洞爬了進來。,人工定稿,
+121,0x910,dialogue,narrative,ｱﾙｲﾊ私ﾉ一部ｦ千切ｯﾃ,18,有的撕下我一部分，,人工定稿,P7 校对修正: 千切る 為撕下
+122,0x924,dialogue,narrative,巣ﾍ持ﾁ帰ﾛｳﾄｽﾙ群ﾚﾓｲﾙ｡,20,還有蟲群想帶回巣裡。,人工定稿,
+123,0x93c,dialogue,narrative,意識がﾅｸﾅﾘｶｹﾙ度ﾆ､,17,毎當快要昏過去，,人工定稿,P7 校对修正: 還原「かける」將要之意
+124,0x950,dialogue,narrative,身体中ﾉ蟲が神経ﾆ到達ｽﾙ｡,23,體内各處的蟲觸及神經。,人工定稿,
+125,0x968,dialogue,narrative,ｿｺｦ食ｲﾁぎﾗﾚﾙ痛ﾐﾉ強烈ｻﾆ,22,被咬碎的劇痛之強烈，,人工定稿,
+126,0x980,dialogue,narrative,眠ﾙｺﾄﾓでｷﾅｲﾏﾏ……｡,18,連睡都睡不著……,人工定稿,"P7 校对修正: 眠る 為睡, 非昏睡"
+127,0x994,dialogue,narrative,徐々ﾆ失ﾜﾚﾃｲｸ体温ﾄ肉体｡,22,體温與肉體正逐漸流失。,人工定稿,
+128,0x9ac,dialogue,narrative,ｿｼﾃ意識ﾉ中で｡,13,而在意識中。,人工定稿,
+129,0x9bc,dialogue,narrative,私ﾊ絶命でｷﾙｿﾉ瞬間ﾏで,20,直到我斷氣那刻為止,人工定稿,
+130,0x9d4,dialogue,narrative,ﾀだﾓがｷ続ｹﾀ……｡,16,只能不斷蠕動……,人工定稿,"P7 校对修正: もがく 為蠕動/掙扎, 非哀鳴"

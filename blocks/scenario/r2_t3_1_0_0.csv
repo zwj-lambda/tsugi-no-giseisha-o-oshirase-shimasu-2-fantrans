@@ -1,0 +1,1369 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/r2_t3_1_0_0.tob,27,,未翻,
+2,0x1c,system,system,r2_t3_1_0_0.sts,15,,未翻,
+3,0x2c,dialogue,label,ROM2_ターン3,12,ROM2_回合3,人工定稿,
+4,0x3c,dialogue,label,ROM2_3ターン目開始,18,ROM2_第3回合開始,人工定稿,
+5,0x50,dialogue,command,フェードアウト,14,,未翻,
+6,0x60,dialogue,narrative,ロム2_美紀ﾄ樫沢ﾉﾔﾘﾄﾘ,20,ROM2_美紀與樫澤交流,人工定稿,
+7,0x78,dialogue,narrative,ホールｦ出ﾃ休憩場ﾆ向ｶｯﾃｲﾙﾄ､,26,走出大廳前往休息處時，,人工定稿,
+8,0x94,dialogue,narrative,後ﾛｶﾗ樫沢氏が話ｼｶｹﾃ来ﾀ｡,23,樫澤從後面搭話過來。,人工定稿,
+9,0xac,system,system,0136,4,,未翻,
+10,0xb1,dialogue,narrative,_1_｢笹木ｻﾝ｡,11,_1_｢笹木。,人工定稿,导入警告: kana_residue
+11,0xbd,dialogue,narrative,_0.今回ﾊ誰ﾓ死ﾅﾅｶｯﾀﾜｹでｽが､,26,_0.這次誰都沒死，但,人工定稿,
+12,0xd8,dialogue,narrative,ｿﾛｿﾛ信じﾃｲﾀだｹﾏｼﾀｶ?｣,20,差不多該相信了?｣,人工定稿,导入警告: kana_residue
+13,0xf0,system,system,0372,4,,未翻,
+14,0xf5,dialogue,narrative,_1_｢ｴ､ｱﾀｼ?｣,11,_1_｢我?｣,人工定稿,导入警告: kana_residue
+15,0x101,system,system,_0.0137,7,,未翻,
+16,0x109,dialogue,narrative,_1_｢ｴｴ｡笹木ｻﾝﾊ浅川ｻﾝﾆ従ｯﾃ,25,_1_｢是的。笹木跟著淺川,人工定稿,导入警告: kana_residue
+17,0x124,dialogue,narrative,渋々賛成ｼﾃｸﾚﾃﾏｽが……,21,勉強贊成，但……,人工定稿,
+18,0x13c,dialogue,narrative,ｱﾅﾀ自身ﾊ納得ｻﾚﾃｲﾅｲﾖｳだｯﾀﾉで｣,28,但自己似乎並不認同｣,人工定稿,P7 校对修正: あなた自身 非第三人称本人
+19,0x15c,system,system,0373,4,,未翻,
+20,0x161,dialogue,narrative,_1_｢……信じﾗﾚﾙﾜｹﾅｲじｬﾝ｣,24,_1_｢……怎麼可能相信｣,人工定稿,导入警告: kana_residue
+21,0x17c,system,system,0138,4,,未翻,
+22,0x181,dialogue,narrative,_1_｢何故でｽｶ｡作戦が成功ｼﾀﾄｲｳﾉﾆ……｣,35,_1_｢為何。明明作戰成功了……｣,人工定稿,导入警告: kana_residue
+23,0x1a8,system,system,0374,4,,未翻,
+24,0x1ad,dialogue,narrative,_1_｢何が作戦成功だﾖ｡前ﾉ投票じｬ､西野ﾉｵｯｻﾝ,40,_1_｢什麼作戰成功。前次投票，西野大叔,人工定稿,导入警告: kana_residue
+25,0x1d8,dialogue,narrative,が死ﾝでﾙじｬﾝ!｣,14,不是死了!｣,人工定稿,导入警告: kana_residue
+26,0x1e8,system,system,0139,4,,未翻,
+27,0x1ed,dialogue,narrative,_1_｢ｿﾚﾊ裏切ﾘ者がｲﾀｶﾗでｽﾖ｣,25,_1_｢那是因為有背叛者｣,人工定稿,导入警告: kana_residue
+28,0x208,system,system,0375,4,,未翻,
+29,0x20d,dialogue,narrative,_1_｢裏切ﾘ者ﾈｪ……?｣,19,_1_｢背叛者呀……?｣,人工定稿,P7 校对修正: ねぇ 反问语气 去陈述化
+30,0x224,dialogue,narrative,美紀ｸﾝﾊ疑ﾜｼｲ視線ｦ樫沢氏ﾆ向ｹﾃｲﾙ｡,31,美紀用懷疑視線看向樫澤。,人工定稿,
+31,0x244,dialogue,narrative,ｿﾉﾏﾅざｼﾆ樫沢氏ﾊ困ｯﾀﾖｳﾆ両肩ｦ竦ﾒﾀ｡,32,那視線令樫澤困擾地聳肩。,人工定稿,
+32,0x268,system,system,0140,4,,未翻,
+33,0x26d,dialogue,narrative,_1_｢ﾓｼｶｼﾃ､僕ｦシリアルキラーだﾄ,30,_1_｢難道，懷疑我是,人工定稿,P7 校对修正
+34,0x28c,dialogue,narrative,疑ｯﾃｲﾙﾉでｽｶ?｣,13,連環殺手?｣,人工定稿,P7 校对修正
+35,0x29a,system,system,s,1,,未翻,
+36,0x29c,system,system,0141,4,,未翻,
+37,0x2a1,dialogue,narrative,_1_｢笹木ｻﾝだｯﾃ､,15,_1_｢笹木也是，,人工定稿,导入警告: kana_residue
+38,0x2b1,system,system,ts,2,,未翻,
+39,0x2b4,dialogue,narrative,投票ｦ自分ﾆ集ﾒﾙリスクﾉ高ｻｦ,25,把投票集中到自己的風險,人工定稿,
+40,0x2d0,dialogue,narrative,知ﾗﾅｲ訳でﾓﾅｲでｼｮｳ?｣,19,也不是不知道?｣,人工定稿,导入警告: kana_residue
+41,0x2e4,system,system,0376,4,,未翻,
+42,0x2e9,dialogue,narrative,_1_｢ｿﾘｬｿｳだｹど､,15,_1_｢那倒是，,人工定稿,导入警告: kana_residue
+43,0x2f9,system,system,ts,2,,未翻,
+44,0x2fc,dialogue,narrative,警察ﾉ投票がｱﾙ以上ﾊｱﾝﾀが,23,有警察的投票，樫澤就,人工定稿,
+45,0x314,dialogue,narrative,死ﾇｺﾄﾊﾅｲじｬﾝ｣,13,不會死｣,人工定稿,导入警告: kana_residue
+46,0x322,system,system,s,1,,未翻,
+47,0x324,system,system,0142,4,,未翻,
+48,0x329,dialogue,narrative,_1_｢ｴｴ｡ｿﾚｦ見計ﾗｯﾃﾉ作戦じｬﾅｲでｽｶ｣,32,_1_｢是的。正是看準這點的作戰｣,人工定稿,导入警告: kana_residue
+49,0x34c,system,system,0377,4,,未翻,
+50,0x351,dialogue,narrative,_1_｢ｿｳだｹどｻ……｡,17,_1_｢是這樣但……,人工定稿,导入警告: kana_residue
+51,0x364,dialogue,narrative,ﾅﾝｶ､自分だｹ安全ｯﾃ感じがｼﾃ,25,總覺得只有自己安全,人工定稿,
+52,0x380,dialogue,narrative,ズルｲﾝだﾖﾈｰ｣,12,好狡猾呀｣,人工定稿,P7 校对修正: ずるいんだよねー 共感 → 呀
+53,0x38d,system,system,ts,2,,未翻,
+54,0x390,system,system,0143,4,,未翻,
+55,0x395,dialogue,narrative,_1_｢本当ﾆｿｳ思ｳﾅﾗ……,20,_1_｢真這麼想的話……,人工定稿,导入警告: kana_residue
+56,0x3ac,dialogue,narrative,次ｶﾗﾊ全員でｱﾅﾀﾆ,15,下次就全員指名,人工定稿,
+57,0x3bc,dialogue,narrative,投票ｽﾙﾖｳﾆｼﾏｼｮｳｶ?｣,17,投票，如何?｣,人工定稿,导入警告: kana_residue
+58,0x3d0,system,system,0378,4,,未翻,
+59,0x3d5,dialogue,narrative,_1_｢ｴｯ!?,8,_1_｢欸!?,人工定稿,导入警告: kana_residue
+60,0x3de,dialogue,narrative,1_ﾔﾒﾃﾖｿﾝﾅﾉ! 危ﾅｲじｬﾝ!｣,22,1_別這樣! 很危險!｣,人工定稿,导入警告: kana_residue
+61,0x3f8,system,system,0510,4,,未翻,
+62,0x3fd,dialogue,narrative,_1_｢美紀ｸﾝ､語ﾙﾆ落ﾁﾃﾙぞ｣,23,_1_｢美紀，説漏嘴了哇｣,人工定稿,P7 校对修正: 語るに落ちる + だぞ→哇
+63,0x418,system,system,0379,4,,未翻,
+64,0x41d,dialogue,narrative,_1_｢ﾍ?｣,7,_1_｢欸｣,人工定稿,导入警告: kana_residue
+65,0x425,system,system,_1_0144,7,,未翻,
+66,0x42d,dialogue,narrative,_1_｢ｿｳ｡実際､危険でｽｼ怖ｲﾉでｽ｡,28,_1_｢是的。實際危險又可怕。,人工定稿,导入警告: kana_residue
+67,0x44c,dialogue,narrative,ｺｳｼﾃ成果ﾓ出ﾀｺﾄでｽｶﾗ､,20,既然已有成果，,人工定稿,
+68,0x464,dialogue,narrative,認ﾒﾃｲﾀだｷﾀｲﾉでｽが｣,18,希望得到認可｣,人工定稿,导入警告: kana_residue
+69,0x478,system,system,0380,4,,未翻,
+70,0x47d,dialogue,narrative,_1_｢で､でﾓｻ｡,12,_1_｢可是。,人工定稿,导入警告: kana_residue
+71,0x48a,dialogue,narrative,0.ｱﾝﾀがシリアルキラーだｯﾀﾗ,26,0.要是樫澤是連環殺手,人工定稿,
+72,0x4a8,dialogue,narrative,自分ｦ指名ｼﾅｹﾚばｲｲﾝだｼ｣,22,不指名自己就行了｣,人工定稿,导入警告: kana_residue
+73,0x4c0,system,system,0381,4,,未翻,
+74,0x4c5,dialogue,narrative,_1_｢ﾑｼﾛ､ｿﾝﾅｺﾄ出来ﾙﾉｯﾃ,21,_1_｢倒不如説，能做到,人工定稿,导入警告: kana_residue
+75,0x4dc,dialogue,narrative,ｿｳｲｳ保証がｱﾙｶﾗﾄｶ?｣,18,是因有那種保證?｣,人工定稿,导入警告: kana_residue
+76,0x4f0,system,system,0511,4,,未翻,
+77,0x4f5,dialogue,narrative,_1_｢美紀ｸﾝ､ｿﾚﾊ樫沢氏ﾆ対ｼﾃ,25,_1_｢美紀，那樣對樫澤,人工定稿,导入警告: kana_residue
+78,0x510,dialogue,narrative,失礼でﾊﾅｲｶ?｣,12,太失禮了?｣,人工定稿,导入警告: kana_residue
+79,0x51d,system,system,ts,2,,未翻,
+80,0x520,system,system,0382,4,,未翻,
+81,0x525,dialogue,narrative,_1_｢で､でﾓｵ姉ｻﾏ､失礼ﾄｶ言ｯﾃﾃ,27,_1_｢可是姐姐大人，説失禮,人工定稿,导入警告: kana_residue
+82,0x544,dialogue,narrative,ホントﾆ犯人だｯﾀﾗどｳｽﾙﾝｽｶ!?｣,27,真是犯人的話如何是好!?｣,人工定稿,P7 校对修正: どうする 怎么办 去翻译腔
+83,0x560,system,system,0512,4,,未翻,
+84,0x565,dialogue,narrative,_1_｢ﾌﾑ｡ｿﾉ心配ﾊﾓｯﾄﾓだが……｣,27,_1_｢唔。那擔心合理……｣,人工定稿,导入警告: kana_residue
+85,0x584,dialogue,narrative,ロム2_樫沢ｦ信じﾙｶどｳｶ,21,ROM2_是否相信樫澤,人工定稿,
+86,0x59c,dialogue,narrative,ﾀｼｶﾆ樫沢氏がシリアルキラーでﾊﾅｲﾄｲｳ,34,確實，樫澤不是連環殺手的確證,人工定稿,"P7 校对修正: ではない 漏译否定, 方向纠正"
+87,0x5c0,dialogue,narrative,確証ﾊどｺﾆﾓﾅｲ｡,13,一點也沒有。,人工定稿,P7 校对修正: どこにもない
+88,0x5ce,system,system,s,1,,未翻,
+89,0x5d0,dialogue,narrative,ｼｶｼ､彼がシリアルキラーだﾄｼﾀﾗ,28,但是，他若是連環殺手,人工定稿,
+90,0x5f0,dialogue,narrative,ｱﾉﾖｳﾅ作戦ﾊ全ｸ意味がﾅｲ｡,22,那種作戰毫無意義。,人工定稿,
+91,0x608,dialogue,narrative,ｲﾔ仮ﾆシリアルキラーだﾄｼﾃﾓ,25,就算他是連環殺手,人工定稿,
+92,0x624,dialogue,narrative,彼ﾊ無害だﾄ言ｴﾙだﾛｳ｡,19,也能説他無害。,人工定稿,
+93,0x638,dialogue,narrative,……本当ﾊ､ﾁｬﾝﾄ調査ｼﾃｵｷﾀｲｼ,25,……其實想好好調査,人工定稿,
+94,0x654,dialogue,narrative,ｻｽがﾆ探偵でｱﾙｺﾄｦ明ｶｼﾃ良ｲﾄﾊ,26,也不能表明自己是偵探,人工定稿,P7 校对修正: さすがに…明かして良いとは思えない
+95,0x670,dialogue,narrative,思ｴﾅｲが……｡,12,做不到……。,人工定稿,P7 校对修正: 思えない 非不能説
+96,0x67d,system,system,ts,2,,未翻,
+97,0x680,dialogue,narrative,少ﾅｸﾄﾓ意見ｦ参考ﾆｽﾙﾄｲｳ意味で,27,至少在參考意見的意義上,人工定稿,
+98,0x69c,dialogue,narrative,信用ｼﾃﾓ良ｲだﾛｳ｡,15,可以信用。,人工定稿,
+99,0x6ac,dialogue,narrative,だｶﾗ……｡,9,所以……,人工定稿,
+100,0x6b6,dialogue,narrative,0.ロム2_樫沢ｦ信じﾙ,18,0.ROM2_相信樫澤,人工定稿,
+101,0x6cc,system,system,0513,4,,未翻,
+102,0x6d1,dialogue,narrative,_1_｢……美紀ｸﾝ｡,15,_1_｢……美紀。,人工定稿,导入警告: kana_residue
+103,0x6e1,system,system,ts,2,,未翻,
+104,0x6e4,dialogue,narrative,彼ﾉ言ｳｺﾄﾓ少ｼﾊ信用ｼﾃ良ｲﾉでﾊﾅｲｶ?｣,31,他的話是不是也能稍微信一下?｣,人工定稿,P7 校对修正: ではないか 求确认句
+105,0x704,system,system,0383,4,,未翻,
+106,0x709,dialogue,narrative,_1_｢ｵ､ｵ姉ｻﾏ! どｳｼﾃｺﾝﾅ奴ｦ!?｣,27,_1_｢姐姐大人! 為何信他!?｣,人工定稿,导入警告: kana_residue
+107,0x728,dialogue,narrative,私ﾉ言葉ﾆ美紀ｸﾝが食ｯﾃｶｶﾙ｡,24,美紀反駁我的話。,人工定稿,
+108,0x744,system,system,0514,4,,未翻,
+109,0x749,dialogue,narrative,_1_｢ﾓﾁﾛﾝ､全部ｦ信じﾙﾜｹじｬﾅｲ｣,27,_1_｢當然不是全信｣,人工定稿,导入警告: kana_residue
+110,0x768,system,system,0515,4,,未翻,
+111,0x76d,dialogue,narrative,_1_｢……ﾀだ､ｿｳだﾅ｡,18,_1_｢……不過，是哦,人工定稿,导入警告: kana_residue
+112,0x780,dialogue,narrative,少ﾅｸﾄﾓ彼ﾉ作戦ﾊ信じﾃﾓ良ｲだﾛｳ｣,28,至少他的作戰應該可以信｣,人工定稿,P7 校对修正: だろう 推量漏译
+113,0x7a0,dialogue,narrative,ｿｺで視線ｦ美紀ｸﾝｶﾗ樫沢氏ﾍ向ｹﾙ｡,29,於是把視線從美紀轉向樫澤。,人工定稿,
+114,0x7c0,dialogue,narrative,彼ﾊ口角ｦﾂﾘ上げﾙﾄ､満足げﾆ笑ｯﾃｲﾀ｡,31,他揚起嘴角，滿足地笑了。,人工定稿,
+115,0x7e0,system,system,0145,4,,未翻,
+116,0x7e5,dialogue,narrative,_1_｢ｱﾅﾀﾆｿｳ言ｯﾃｲﾀだｹﾙﾄ嬉ｼｲでｽﾈ｣,30,_1_｢能聽到這番話很開心｣,人工定稿,P7 校对修正: 被这样説 去被动翻译腔
+117,0x804,system,system,0516,4,,未翻,
+118,0x809,dialogue,narrative,_1_｢私ﾅﾘﾆﾓ考ｴﾃﾊｲﾙが､,20,_1_｢我也有考慮，,人工定稿,导入警告: kana_residue
+119,0x820,dialogue,narrative,今ﾉﾄｺﾛ､樫沢氏ﾉ作戦が最良ﾅﾉﾊ,27,現在樫澤的作戰是最佳,人工定稿,
+120,0x83c,dialogue,narrative,変ﾜﾗﾅｲｶﾗﾅ｣,10,這點沒變｣,人工定稿,导入警告: kana_residue
+121,0x847,dialogue,narrative,.実際ﾆ成功ｼﾃ､ｻｯｷﾊ誰ﾓ死ﾅﾅｶｯﾀ｡,28,.實際成功了，剛才誰都沒死。,人工定稿,
+122,0x864,dialogue,narrative,でｷﾙｺﾄﾅﾗ､,9,若可以，,人工定稿,
+123,0x86e,dialogue,narrative,0.ｺﾉ結果がずｯﾄ続ｲﾃ欲ｼｲが……｡,29,0.希望這結果一直持續……。,人工定稿,
+124,0x88c,system,system,0384,4,,未翻,
+125,0x891,dialogue,narrative,_1_｢で､でﾓｯ､ｵ姉ｻﾏ!,18,_1_｢可是，姐姐!,人工定稿,导入警告: kana_residue
+126,0x8a4,dialogue,narrative,ﾓｼ､コイツが嘘ﾂｲﾃﾀﾗ!?｣,21,萬一這東西騙人!?｣,人工定稿,导入警告: kana_residue
+127,0x8bc,system,system,0517,4,,未翻,
+128,0x8c1,dialogue,narrative,_1_｢仮ﾆ樫沢氏がシリアルキラーだﾄｼﾃﾓ､,36,_1_｢就算樫澤是連環殺手，,人工定稿,导入警告: kana_residue
+129,0x8e8,dialogue,narrative,ｺﾉ作戦ｦ提案ｼﾀ時点で行動が随分ﾄ,30,在提案這作戰時行動就相當,人工定稿,
+130,0x908,dialogue,narrative,制限ｻﾚﾃｲﾙﾄ思ﾜﾅｲｶ?｣,18,受限了，不覺得?｣,人工定稿,导入警告: kana_residue
+131,0x91c,system,system,0385,4,,未翻,
+132,0x921,dialogue,narrative,_1_｢ﾍ? 制限ｯｽｶ?｣,16,_1_｢欸? 受限?｣,人工定稿,导入警告: kana_residue
+133,0x932,system,system,s,1,,未翻,
+134,0x934,dialogue,narrative,ハテナマークｦｲｸﾂﾓ浮ｶべﾀ顔で美紀ｸﾝﾊ,34,美紀滿頭問號的表情,人工定稿,
+135,0x958,dialogue,narrative,私ｦ見ﾂﾒﾀ｡,9,看著我。,人工定稿,
+136,0x962,system,system,0.0518,6,,未翻,
+137,0x969,dialogue,narrative,_1_｢君ﾓｻｯｷ言ｯﾃｲﾀが……｡,23,_1_｢剛才也説了……。,人工定稿,导入警告: kana_residue
+138,0x984,dialogue,narrative,樫沢氏が死ﾅずﾆ済ﾝでｲﾙﾉﾊ､,24,樫澤能不死，,人工定稿,
+139,0x9a0,dialogue,narrative,警官が彼ﾆ投票ｼﾃｲﾙｶﾗだ｣,22,因為警官投他票｣,人工定稿,导入警告: kana_residue
+140,0x9b8,system,system,0519,4,,未翻,
+141,0x9bd,dialogue,narrative,_1_｢だが､ﾓｼ警官が死ﾝでｼﾏｯﾀﾘ､,28,_1_｢但是，若警官死了，,人工定稿,导入警告: kana_residue
+142,0x9dc,dialogue,narrative,警官が考ｴｦ変ｴﾃ他ﾉ人間ｦ守ｯﾀﾗ､,28,警官改變想法保護他人，,人工定稿,
+143,0x9fc,dialogue,narrative,彼ﾊどｳﾅﾙﾄ思ｳ?｣,14,他會怎樣?｣,人工定稿,P7 校对修正: どうなる 去如何
+144,0xa0c,system,system,0386,4,,未翻,
+145,0xa11,dialogue,narrative,_1_｢……ｿ､ｿﾘｬ……｣,18,_1_｢……那……｣,人工定稿,导入警告: kana_residue
+146,0xa24,system,system,0387,4,,未翻,
+147,0xa29,dialogue,narrative,_1_｢投票ﾉ多ｻで……死ﾇｯｽ……｣,28,_1_｢票多……就會死……｣,人工定稿,导入警告: kana_residue
+148,0xa48,system,system,0520,4,,未翻,
+149,0xa4d,dialogue,narrative,_1_｢ｿｺで彼がシリアルキラーだﾄｼﾖｳ｡,33,_1_｢假設他是連環殺手。,人工定稿,导入警告: kana_residue
+150,0xa70,dialogue,narrative,ｿｳだｯﾀﾄｼﾃﾓ､警官が誰ﾅﾉｶﾜｶﾗﾅｲ以上,31,就算是，在不知警官是誰的状況下,人工定稿,P7 校对修正: 警官が誰なのか 补足
+151,0xa90,dialogue,narrative,迂闊ﾆ人ﾊ殺ｾﾅｲﾄ思ﾜﾅｲｶ?｣,22,不能隨便殺人?｣,人工定稿,导入警告: kana_residue
+152,0xaa8,system,system,0388,4,,未翻,
+153,0xaad,dialogue,narrative,_1_｢……間違ｯﾃ警官ｦ殺ｼﾀﾗ､,25,_1_｢……若誤殺警官，,人工定稿,导入警告: kana_residue
+154,0xac8,dialogue,narrative,自分ﾉ立場ﾓ危ﾅｸﾅﾙｯﾃｺﾄｽｶ?｣,24,自己立場也危險?｣,人工定稿,导入警告: kana_residue
+155,0xae4,system,system,0521,4,,未翻,
+156,0xae9,dialogue,narrative,_1_｢ｱｱ｡ﾂﾏﾘ､人が死ﾈば樫沢氏ﾉ危険ﾊ増ｽ｡,36,_1_｢對。總之，一死人樫澤就更危險。,人工定稿,P7 校对修正: 人が死ねば 误切分
+157,0xb10,dialogue,narrative,ｺﾚﾊ､警官ﾉ協力がｱｯﾃｺｿﾉ,21,這是有警官協力才,人工定稿,
+158,0xb28,dialogue,narrative,作戦ﾅﾉだｶﾗﾅ｣,12,成立的作戰｣,人工定稿,导入警告: kana_residue
+159,0xb35,system,system,ts,2,,未翻,
+160,0xb38,system,system,0389,4,,未翻,
+161,0xb3d,dialogue,narrative,_1_｢で､でﾓ､ｿﾝﾅﾉ､,16,_1_｢可是，那種，,人工定稿,导入警告: kana_residue
+162,0xb4e,system,system,s,1,,未翻,
+163,0xb50,dialogue,narrative,コイツが警官だｯﾀﾗ済ﾑ話ｯｽﾖ!｣,27,這東西是警官就簡單了!｣,人工定稿,导入警告: kana_residue
+164,0xb6c,system,system,0146,4,,未翻,
+165,0xb71,dialogue,narrative,_1_｢僕が警官だｯﾀﾗ､,18,_1_｢我是警官的話，,人工定稿,导入警告: kana_residue
+166,0xb84,dialogue,narrative,シリアルキラーでﾊﾅｲでｼｮｳ?｣,26,就不是連環殺手?｣,人工定稿,导入警告: kana_residue
+167,0xba0,system,system,0390,4,,未翻,
+168,0xba5,dialogue,narrative,_1_｢ｱｯ……｣,11,_1_｢呀……｣,人工定稿,P7 校对修正: あっ 感叹词漏译
+169,0xbb1,system,system,_0.0522,7,,未翻,
+170,0xbb9,dialogue,narrative,_1_｢……ﾏｱ､ｿｳｲｳ理由ｶﾗ､,22,_1_｢……總之，因此，,人工定稿,导入警告: kana_residue
+171,0xbd0,dialogue,narrative,彼ｦ疑ｳ必要ﾊﾅｲﾄ考ｴﾙ｣,19,沒必要懷疑他｣,人工定稿,导入警告: kana_residue
+172,0xbe4,system,system,0523,4,,未翻,
+173,0xbe9,dialogue,narrative,_1_｢ｿｳだﾛｳ? 樫沢氏｣,19,_1_｢對不? 樫澤｣,人工定稿,P7 校对修正: そうだろう 求确认 禁對哦
+174,0xc00,system,system,0147,4,,未翻,
+175,0xc05,dialogue,narrative,_1_｢ｴｴ｡ｱﾘがﾄｳござｲﾏｽ｣,21,_1_｢是的。謝謝｣,人工定稿,导入警告: kana_residue
+176,0xc1c,system,system,0524,4,,未翻,
+177,0xc21,dialogue,narrative,_1_｢ｿﾓｿﾓ､樫沢氏ﾆﾊ,17,_1_｢説到底，樫澤,人工定稿,导入警告: kana_residue
+178,0xc34,dialogue,narrative,何ﾉメリットﾓﾅｲ作戦だｶﾗﾅ｡,24,這作戰毫無好處。,人工定稿,
+179,0xc50,dialogue,narrative,ｿﾚ故ﾆ疑ﾜﾚﾃｲﾙﾉｶﾓｼﾚﾝが｣,21,正因如此才被懷疑｣,人工定稿,导入警告: kana_residue
+180,0xc68,system,system,0148,4,,未翻,
+181,0xc6d,dialogue,narrative,_1_｢ｲｲｴ､メリットﾅﾗｱﾘﾏｽﾖ｣,24,_1_｢不，好處是有的｣,人工定稿,导入警告: kana_residue
+182,0xc88,system,system,0525,4,,未翻,
+183,0xc8d,dialogue,narrative,_1_｢ﾎｳ?｣,8,_1_｢哦?｣,人工定稿,导入警告: kana_residue
+184,0xc96,system,system,1_0149,6,,未翻,
+185,0xc9d,dialogue,narrative,_1_｢僕ﾉ作戦で人が救ｴﾙ｡,22,_1_｢我的作戰能救人。,人工定稿,导入警告: kana_residue
+186,0xcb4,dialogue,narrative,ｺﾉ上ﾅｲメリットだﾄ思ｲﾏｾﾝｶ?｣,26,這不是最大的好處?｣,人工定稿,导入警告: kana_residue
+187,0xcd0,dialogue,narrative,不敵ﾅ笑ﾐｦ見ｾﾀ樫沢氏……,23,露出無畏笑容的樫澤……,人工定稿,
+188,0xce8,dialogue,narrative,ｿﾝﾅ彼ｦ美紀ｸﾝﾊ､忌々ｼげﾆ睨ﾐﾂｹﾙ｡,29,美紀厭惡地睨著他。,人工定稿,
+189,0xd08,system,system,0391,4,,未翻,
+190,0xd0d,dialogue,narrative,_1_｢ｱﾝﾀ､ｵ姉ｻﾏﾆ近づｷ過ぎだｯﾂﾉ｡,29,_1_｢太靠近姐姐大人了。,人工定稿,导入警告: kana_residue
+191,0xd2c,dialogue,narrative,信じﾃ貰ｴﾀｶﾗｯﾃ調子ﾆ乗ﾝﾅｲでｸﾚﾙ?｣,30,別因被信就得意忘形?｣,人工定稿,导入警告: kana_residue
+192,0xd4c,system,system,0392,4,,未翻,
+193,0xd51,dialogue,narrative,_1_｢ﾃﾕｳｶ､ﾏｻｶｵ姉ｻﾏﾆ惚ﾚﾀﾄｶ,24,_1_｢該不會迷上姐姐大人,人工定稿,导入警告: kana_residue
+194,0xd6c,dialogue,narrative,言ｳﾝじｬﾅｲでｼｮｳﾈ!｣,17,可別説這種話!｣,人工定稿,导入警告: kana_residue
+195,0xd80,dialogue,narrative,美紀ｸﾝ……｡,11,美紀……。,人工定稿,
+196,0xd8c,dialogue,narrative,ｲｸﾗ何でﾓｿﾚﾊﾅｲﾄ思ｳが……｡,24,再怎麼説也不至於……。,人工定稿,
+197,0xda8,system,system,0150,4,,未翻,
+198,0xdad,dialogue,narrative,_1_｢ﾓｼ､ｿｳだﾄ言ｯﾀﾗ､どｳｼﾏｽ?｣,26,_1_｢若我説是的，如何?｣,人工定稿,导入警告: kana_residue
+199,0xdc8,system,system,0393,4,,未翻,
+200,0xdcd,dialogue,narrative,_1_｢ｿﾝﾅﾉ､ｱﾀｼが絶対許ｻﾅｲ!｣,25,_1_｢那種事，我絶不原諒!｣,人工定稿,导入警告: kana_residue
+201,0xde8,system,system,0526,4,,未翻,
+202,0xded,dialogue,narrative,_1_｢ｵｲｵｲ､樫沢氏……,19,_1_｢欸欸，樫澤……,人工定稿,导入警告: kana_residue
+203,0xe04,dialogue,narrative,挑発ｽﾙﾖｳﾅ台詞ﾊ慎ﾝでｸﾚ｣,22,挑釁的話就別説了｣,人工定稿,导入警告: kana_residue
+204,0xe1c,system,system,0151,4,,未翻,
+205,0xe21,dialogue,narrative,_1_｢ﾌﾌ､冗談でｽﾖ｡,16,_1_｢呵呵，玩笑。,人工定稿,导入警告: kana_residue
+206,0xe32,system,system,s,1,,未翻,
+207,0xe34,dialogue,narrative,ｿﾝﾅﾆ怒ﾗﾅｲで下ｻｲ｣,16,請別這麼生氣｣,人工定稿,导入警告: kana_residue
+208,0xe48,system,system,0527,4,,未翻,
+209,0xe4d,dialogue,narrative,_1_｢……樫沢氏でﾓ冗談ﾊ言ｳﾉだﾅ｡,30,_1_｢……樫澤也會開玩笑呀。,人工定稿,P7 校对修正: だな 共感 → 呀
+210,0xe6c,dialogue,narrative,少ｼ安心ｼﾀぞ｣,12,稍微放心了｣,人工定稿,导入警告: kana_residue
+211,0xe79,system,system,ts,2,,未翻,
+212,0xe7c,dialogue,narrative,誰ﾓ死ﾅﾅｶｯﾀｺﾄで,14,因為誰都沒死,人工定稿,
+213,0xe8c,dialogue,narrative,彼ﾆﾓ余裕が生ﾏﾚﾃｲﾙﾉだﾛｳｶ｡,24,他也生出餘裕了。,人工定稿,
+214,0xea8,system,system,0152,4,,未翻,
+215,0xead,dialogue,narrative,_1_｢僕だｯﾃ人間でｽｶﾗ｡でｽが､浅川ｻﾝ｡,33,_1_｢我也是人。但是，淺川小姐。,人工定稿,导入警告: kana_residue
+216,0xed0,dialogue,narrative,ｱﾅﾀﾆ一目置ｲﾃｲﾙｺﾄﾊ事実でｽ｣,25,對淺川刮目相看是事實｣,人工定稿,导入警告: kana_residue
+217,0xeec,dialogue,narrative,初ﾒﾃ見ﾙ樫沢氏ﾉ和ﾗｲだ表情ﾆ､,26,第一次看到樫澤柔和的表情，,人工定稿,
+218,0xf08,dialogue,narrative,ﾂﾗﾚﾙﾖｳﾆ口元が弛ﾑ｡,17,嘴角跟著鬆懈。,人工定稿,
+219,0xf1c,dialogue,narrative,ｿﾉ傍ﾗでﾊ……｡,13,在旁……。,人工定稿,
+220,0xf2a,system,system,s,1,,未翻,
+221,0xf2c,system,system,0394,4,,未翻,
+222,0xf31,dialogue,narrative,_1_｢ﾑｷｨｰｯ! 見ﾂﾒ合ｯﾃﾝじｬﾅｲﾖ!,27,_1_｢唔――! 別對視!,人工定稿,导入警告: kana_residue
+223,0xf50,dialogue,narrative,ﾃﾕｳｶ､樫沢､マジでムカﾂｸｶﾗ!｣,26,話説，樫澤，真讓人不爽!｣,人工定稿,导入警告: kana_residue
+224,0xf6c,dialogue,narrative,鼻息荒ｲぞ､美紀ｸﾝ｡,17,呼吸急促哇，美紀,人工定稿,P7 校对修正: だぞ→哇
+225,0xf80,dialogue,narrative,頼ﾑｶﾗ､間違ｯﾃﾓ,13,拜託，千萬別,人工定稿,
+226,0xf8e,system,system,s,1,,未翻,
+227,0xf90,dialogue,narrative,暴力ﾊ振ﾙﾜﾅｲでｸﾚﾖ……｡,21,動手用暴力……。,人工定稿,
+228,0xfa8,dialogue,narrative,ロム2_美紀ﾆ打ﾁ明ｹﾙｶどｳｶ,23,ROM2_向美紀坦白與否,人工定稿,
+229,0xfc0,system,system,0395,4,,未翻,
+230,0xfc5,dialogue,narrative,_1_｢ｿﾚﾆｼﾃﾓ……,14,_1_｢即便如此…,人工定稿,导入警告: kana_residue
+231,0xfd4,dialogue,narrative,ﾔｯぱﾘ西野ﾉｵｯｻﾝﾊ嫌ﾜﾚﾃﾀだｹ,24,果然西野的大叔只是被討厭,人工定稿,
+232,0xff0,dialogue,narrative,だｯﾀﾝｽﾈ｣,8,而已呀｣,人工定稿,导入警告: kana_residue
+233,0xff9,system,system,_0.0528,7,,未翻,
+234,0x1001,dialogue,narrative,_1_｢……ﾝ?｣,11,_1_｢…欸?｣,人工定稿,导入警告: kana_residue
+235,0x100d,system,system,_0.0396,7,,未翻,
+236,0x1015,dialogue,narrative,_1_｢だｯﾃ､今回､誰ﾓ死ﾅﾅｶｯﾀｯﾃｺﾄﾊ､,30,_1_｢因為，這次誰都沒死，,人工定稿,导入警告: kana_residue
+237,0x1034,dialogue,narrative,ﾐﾝﾅ樫沢ﾆ投票ｼﾀｯﾃｺﾄじｬﾅｲｽｶ｣,26,不就是大家都投票給樫澤了?｣,人工定稿,导入警告: kana_residue
+238,0x1050,system,system,0397,4,,未翻,
+239,0x1055,dialogue,narrative,_1_｢だｶﾗ､ｵｯｻﾝｦ殺ｼﾀ人ﾊ,21,_1_｢所以，殺大叔的人,人工定稿,导入警告: kana_residue
+240,0x106c,dialogue,narrative,ｵｯｻﾝだｹｦ殺ｼﾀｶｯﾀﾝじｬﾅｲﾝｽｶ?｣,26,不就只是想殺大叔而已?｣,人工定稿,导入警告: kana_residue
+241,0x1088,dialogue,narrative,美紀ｸﾝﾊ不思議ｿｳﾆ首ｦ傾げﾅがﾗ考ｴﾃｲﾙ｡,34,美紀一副不解地歪著頭思考著。,人工定稿,
+242,0x10ac,system,system,0529,4,,未翻,
+243,0x10b1,dialogue,narrative,_1_｢ｿﾚﾊﾜｶﾗﾅｲﾅ｡,14,_1_｢那我不知道,人工定稿,导入警告: kana_residue
+244,0x10c0,dialogue,narrative,今回ﾊ偶然､樫沢氏ﾉ作戦が上手ｸｲｯﾀだｹで､,37,這次只是偶然，樫澤的作戰成功了，,人工定稿,
+245,0x10e8,dialogue,narrative,他ﾉ人だｯﾃ指名ｻﾚﾃｲﾀｶﾓｼﾚﾅｲぞ｣,27,其他人也可能被指名哇｣,人工定稿,导入警告: kana_residue
+246,0x1104,dialogue,narrative,実際ﾆﾊ､樫沢氏ﾉ他ﾆ薫ｻﾝﾔ美紀ｸﾝﾓ,29,實際上，除了樫澤，薰和美紀也,人工定稿,
+247,0x1124,dialogue,narrative,指名ｻﾚﾃｲﾀ｡,10,被指名了。,人工定稿,
+248,0x112f,dialogue,narrative,.ｺﾉｺﾄﾊ『探偵』でｱﾙ私ﾄ､,22,.這件事，作為偵探的我,人工定稿,
+249,0x1148,dialogue,narrative,投票ｼﾀ人間ｼｶﾜｶﾗﾅｲが……｡,24,和投票的人才知道……。,人工定稿,
+250,0x1164,system,system,0398,4,,未翻,
+251,0x1169,dialogue,narrative,_1_｢ﾝｰ､ﾓｼｿｳﾅﾗ､票が足ﾘﾅｶｯﾀｶﾗ､,28,_1_｢唔─，若是這樣，票不足，,人工定稿,导入警告: kana_residue
+252,0x1188,dialogue,narrative,命拾ｲｼﾀ人ﾓｲﾙｶﾓｼﾚﾅｲｯﾃｺﾄｽｶ?｣,26,也可能有人因此拾回一命?｣,人工定稿,导入警告: kana_residue
+253,0x11a4,system,system,0530,4,,未翻,
+254,0x11a9,dialogue,narrative,_1_｢ｱｸﾏでﾓ推測だがﾅ｡,20,_1_｢説到底只是推測。,人工定稿,导入警告: kana_residue
+255,0x11c0,dialogue,narrative,ルール14ｦ思ｲ出ｼﾃﾐﾛ｣,19,回想一下規則14｣,人工定稿,导入警告: kana_residue
+256,0x11d4,system,system,0399,4,,未翻,
+257,0x11d9,dialogue,narrative,_1_｢ﾝﾄ……｣,11,_1_｢唔……｣,人工定稿,导入警告: kana_residue
+258,0x11e5,dialogue,narrative,_0.携帯ｦ取ﾘ出ｼﾃメールｦ確認ｽﾙ｡,29,_0.拿出手機確認郵件。,人工定稿,
+259,0x1204,system,system,0400,4,,未翻,
+260,0x1209,dialogue,narrative,_1_｢……ﾅﾝｶﾔﾔｺｼｲﾝｽﾖﾈ､ｺﾚ｣,24,_1_｢……總覺得好複雜呀｣,人工定稿,P7 校对修正: っすよね 共感 → 呀
+261,0x1224,system,system,0531,4,,未翻,
+262,0x1229,dialogue,narrative,_1_｢シリアルキラーﾉ投票がバラバラﾆﾅｯﾀ場合､,42,_1_｢連環殺手的投票分散時，,人工定稿,导入警告: kana_residue
+263,0x1254,dialogue,narrative,ｿﾉｳﾁ誰ｶ1人ﾉ投票だｹが有効ﾆﾅﾙ……｡,32,其中某1人的投票才會有效……。,人工定稿,
+264,0x1278,dialogue,narrative,ﾄｲｳﾓﾉだﾅ｣,9,就這回事｣,人工定稿,导入警告: kana_residue
+265,0x1282,system,system,0.0532,6,,未翻,
+266,0x1289,dialogue,narrative,_1_｢シリアルキラーﾉ3名ﾉｳﾁ,25,_1_｢連環殺手3名之中,人工定稿,导入警告: kana_residue
+267,0x12a4,dialogue,narrative,2名が樫沢氏ﾍ投票ｼﾃｲﾚば､,23,2人投票給樫澤的話，,人工定稿,
+268,0x12bc,dialogue,narrative,ｱﾄﾉ1人が誰ｦ指名ｼﾃｲﾃﾓ無意味だ｣,29,剩下1人指名誰都無意義｣,人工定稿,导入警告: kana_residue
+269,0x12dc,system,system,0533,4,,未翻,
+270,0x12e1,dialogue,narrative,_1_｢だが､ﾓｼシリアルキラーﾉｳﾁ,28,_1_｢但是，如果連環殺手之中,人工定稿,导入警告: kana_residue
+271,0x1300,dialogue,narrative,2人が樫沢氏以外ﾉ別ﾉ人物ｦ指名ｼﾃｲﾀ場合､,37,2人指名樫澤以外的其他人時，,人工定稿,
+272,0x1328,dialogue,narrative,票ﾊ割ﾚﾀｺﾄﾆﾅﾙ｣,13,票就會分散｣,人工定稿,导入警告: kana_residue
+273,0x1336,system,system,s,1,,未翻,
+274,0x1338,system,system,0534,4,,未翻,
+275,0x133d,dialogue,narrative,_1_｢ｿﾉ時ﾆ有効ﾆﾅｯﾀﾓﾉが､,22,_1_｢那時生效的，,人工定稿,导入警告: kana_residue
+276,0x1354,dialogue,narrative,例ｴば西野氏だｯﾀﾅﾗば､ｻｯｷﾉﾖｳﾆ……｡,32,比如是西野，就像剛才……。,人工定稿,
+277,0x1378,dialogue,narrative,だが､有効ﾆﾅｯﾀﾓﾉが樫沢氏だｯﾀﾗ?｣,30,但是，若生效的是樫澤?｣,人工定稿,导入警告: kana_residue
+278,0x1398,system,system,0401,4,,未翻,
+279,0x139d,dialogue,narrative,_1_｢ｱ! 誰ﾓ死ﾅずﾆ済ﾑｯﾃｺﾄｯｽﾈ?｣,28,_1_｢呀! 誰都不會死，對不對?｣,人工定稿,导入警告: kana_residue
+280,0x13bc,dialogue,narrative,美紀ｸﾝﾉ言葉ﾆ､私ﾊ軽ｸ頷ｲﾃﾐｾﾙ｡,27,對美紀的話，我輕輕點頭。,人工定稿,
+281,0x13d8,system,system,0535,4,,未翻,
+282,0x13dd,dialogue,narrative,_1_｢ﾓﾁﾛﾝ市民ﾉ投票ﾆﾖﾙ死亡ﾓｱﾘ得ﾙが､,33,_1_｢當然市民投票也可能致死，,人工定稿,导入警告: kana_residue
+283,0x1400,dialogue,narrative,西野氏が殺ｻﾚﾀ理由ﾊ､ｿﾚが有力だﾄ思ｳぞ｣,36,西野被殺的理由，我覺得這最有力｣,人工定稿,导入警告: kana_residue
+284,0x1428,system,system,0402,4,,未翻,
+285,0x142d,dialogue,narrative,_1_｢ｿｯｶ､市民ﾓ……ﾑｳ｡,20,_1_｢這樣，市民也……,人工定稿,导入警告: kana_residue
+286,0x1444,dialogue,narrative,ｿｳ考ｴﾙﾄ……樫沢ﾉ作戦ｯﾃﾔｯぱﾘ,27,這麼一想……樫澤的作戰果然,人工定稿,
+287,0x1460,dialogue,narrative,卑怯ｸｻｲｯｽ｣,10,很卑鄙｣,人工定稿,导入警告: kana_residue
+288,0x146b,system,system,.0536,5,,未翻,
+289,0x1471,dialogue,narrative,_1_｢卑怯……?｣,14,_1_｢卑鄙……?｣,人工定稿,导入警告: kana_residue
+290,0x1480,system,system,0403,4,,未翻,
+291,0x1485,dialogue,narrative,_1_｢だｯﾃ警官が樫沢ﾆ票ｦ入ﾚﾃﾙ限ﾘﾊ､,32,_1_｢因為只要警官投票給樫澤，,人工定稿,导入警告: kana_residue
+292,0x14a8,dialogue,narrative,誰ﾆどｳ投票ｻﾚﾃﾓ､,15,無論誰怎麼投，,人工定稿,
+293,0x14b8,dialogue,narrative,ｱｲﾂﾊ死ﾅﾅｲじｬﾅｲｽｶ!｣,18,那東西就不會死!｣,人工定稿,导入警告: kana_residue
+294,0x14cc,system,system,0537,4,,未翻,
+295,0x14d1,dialogue,narrative,_1_｢逆ﾆ言ｴば､警官が裏切ｯﾀ時点で､,32,_1_｢反過來説，警官背叛的那一刻，,人工定稿,导入警告: kana_residue
+296,0x14f4,dialogue,narrative,彼ﾊ死ﾇがﾅ｣,10,他就會死｣,人工定稿,导入警告: kana_residue
+297,0x14ff,system,system,.0404,5,,未翻,
+298,0x1505,dialogue,narrative,_1_｢……ｵ姉ｻﾏ､シビアｯｽﾈ｣,24,_1_｢……姐姐大人真殘酷｣,人工定稿,导入警告: kana_residue
+299,0x1520,system,system,0538,4,,未翻,
+300,0x1525,dialogue,narrative,_1_｢シビアﾄｲｳｶ､可能性ﾄｼﾃﾊ考ｴﾗﾚﾙだﾛ?,35,_1_｢與其説殘酷，不如説有可能?,人工定稿,导入警告: kana_residue
+301,0x154c,dialogue,narrative,警官がｲﾂﾏでﾓ樫沢氏ﾉ作戦通ﾘﾆ行ｳ保障ﾊ､,36,警官永遠按樫澤的作戰行動的保證，,人工定稿,
+302,0x1574,dialogue,narrative,どｺﾆﾓ無ｲﾉだｶﾗﾅ｣,15,何處都沒有｣,人工定稿,导入警告: kana_residue
+303,0x1584,system,system,0539,4,,未翻,
+304,0x1589,dialogue,narrative,_1_｢ﾓｯﾄﾓ､樫沢氏ﾉ役職が警官でｱﾚば､,33,_1_｢不過，如果樫澤身份是警官，,人工定稿,导入警告: kana_residue
+305,0x15ac,dialogue,narrative,自分ｦ指名ｽﾙｺﾄでｿﾚﾊ回避出来ﾙが……｣,34,指名自己就能回避……｣,人工定稿,导入警告: kana_residue
+306,0x15d0,system,system,0405,4,,未翻,
+307,0x15d5,dialogue,narrative,_1_｢ｱｰｯ､面倒ｸｻｲｯｽ!,18,_1_｢呀─，好麻煩!,人工定稿,导入警告: kana_residue
+308,0x15e8,dialogue,narrative,早ｸシリアルキラーが誰ﾅﾉｶ,24,快點知道連環殺手是誰,人工定稿,
+309,0x1604,dialogue,narrative,ﾜｶﾘｬｲｲﾉﾆｰ!｣,11,就好了─!｣,人工定稿,导入警告: kana_residue
+310,0x1610,system,system,0540,4,,未翻,
+311,0x1615,dialogue,narrative,_1_｢……同感だﾅ｣,16,_1_｢……同感｣,人工定稿,导入警告: kana_residue
+312,0x1626,system,system,s,1,,未翻,
+313,0x1628,dialogue,narrative,美紀ｸﾝﾉ言葉ﾆ､私ﾊｿｯﾄ眉ｦﾋｿﾒﾙ｡,27,對美紀的話，我悄悄皺眉。,人工定稿,
+314,0x1644,dialogue,narrative,シリアルキラーｦ知ﾙｺﾄﾅﾗ､私ﾆﾊ出来ﾙﾉだ｡,36,若是知道連環殺手，我做得到。,人工定稿,
+315,0x166c,dialogue,narrative,ﾀだ､投票時ﾆ誰ｶﾆ指名ｻﾚﾃｲﾅｲﾄ､,27,只是，投票時沒被指名，,人工定稿,
+316,0x1688,dialogue,narrative,調査ﾊ不可能ﾄｲｳ短所がｱﾙ｡,23,就有無法調査的缺點。,人工定稿,
+317,0x16a0,dialogue,narrative,ｺﾚｦクリアｽﾙﾀﾒﾆﾊ､市民ﾉ協力が必要だ｡,34,為了克服這點，需要市民協助。,人工定稿,
+318,0x16c4,dialogue,narrative,調べﾀｲ対象ｦ､意図的ﾆ,19,只要想調査的對象被,人工定稿,
+319,0x16d8,dialogue,narrative,指名ｼﾃ貰ｴｻｴｽﾚば……｡,20,刻意指名就行……。,人工定稿,
+320,0x16f0,system,system,0541,4,,未翻,
+321,0x16f5,dialogue,narrative,_1_｢…………｣,13,_1_｢…………｣,人工定稿,导入警告: kana_residue
+322,0x1703,dialogue,narrative,.全ﾃｦ打ﾁ明ｹﾃ､協力ｼﾃｸﾚﾙ人が欲ｼｲ｡,31,.想全盤托出，找個能協助我的人。,人工定稿,
+323,0x1724,dialogue,narrative,ｼｶｼ探偵でｱﾙｺﾄｦ,14,但是自己是偵探,人工定稿,
+324,0x1734,dialogue,narrative,ﾓｼシリアルキラーﾆ明ｶｼﾃｼﾏｴば……｡,32,如果暴露給連環殺手……。,人工定稿,
+325,0x1758,system,system,0406,4,,未翻,
+326,0x175d,dialogue,narrative,_1_｢楓ｵ姉ｻﾏ……?｣,17,_1_｢楓姐姐大人?｣,人工定稿,导入警告: kana_residue
+327,0x1770,dialogue,narrative,急ﾆ黙ﾘ込ﾝだ私ｦ､美紀ｸﾝがじｯﾄ見ﾂﾒﾀ｡,33,突然沈默的我，被美紀凝視。,人工定稿,
+328,0x1794,dialogue,narrative,……ﾓｼ誰ｶﾉ協力ｦ仰ぐﾄｽﾚば､,25,……若要借助誰的協助，,人工定稿,
+329,0x17b0,dialogue,narrative,ﾔﾊﾘ私ﾄ常ﾆ行動ｦ共ﾆｼ､,19,還是和我一起行動，,人工定稿,
+330,0x17c4,dialogue,narrative,慕ｯﾃｸﾚﾙ美紀ｸﾝが最適だﾛｳ｡,24,仰慕我的美紀最合適。,人工定稿,
+331,0x17e0,dialogue,narrative,ｼｶｼ､ｺﾉゲームﾆｵｲﾃﾊ､,18,但是，在這遊戲中，,人工定稿,
+332,0x17f4,dialogue,narrative,少ｼﾉ判断ミスが命取ﾘﾆﾅﾙ｡,23,一點判斷失誤就喪命。,人工定稿,
+333,0x180c,dialogue,narrative,ﾀﾄｴｿﾚが､慣ﾚ親ｼﾝだ相手だﾄｼﾃﾓだ｡,30,即使那是親近的對象。,人工定稿,
+334,0x182c,system,system,0407,4,,未翻,
+335,0x1831,dialogue,narrative,_1_｢ｵ姉ｻﾏｯﾃば､どｳｼﾁｬｯﾀﾝｽｶ?｣,27,_1_｢姐姐大人，到底怎麼了?｣,人工定稿,导入警告: kana_residue
+336,0x1850,dialogue,narrative,美紀ｸﾝｦ信頼ｼ､打ﾁ明ｹﾙｶ｡,22,要信任美紀，坦白?,人工定稿,
+337,0x1868,dialogue,narrative,ｿﾚﾄﾓ､ｺﾉﾏﾏ一人で調査ｼ続ｹﾙｶ｡,26,還是，就這樣一人繼續調査?,人工定稿,
+338,0x1884,dialogue,narrative,ロム2_美紀ﾆ打ﾁ明ｹﾙ,18,ROM2_向美紀坦白,人工定稿,
+339,0x1898,dialogue,narrative,……ﾌ｡何ｦ悩ﾑｺﾄがｱﾙ｡,19,……呵。何必猶豫。,人工定稿,
+340,0x18ac,dialogue,narrative,少ｼ不安ﾊｱﾙが､私ﾊｿﾉﾀﾒﾆｻｯｷ,24,雖然有點不安，我剛才,人工定稿,
+341,0x18c8,dialogue,narrative,彼女ｦ調べﾀﾉだ｡,14,為此調査了他。,人工定稿,
+342,0x18d8,dialogue,narrative,結果ﾊ､シリアルキラーでﾊﾅｲ｡,26,結果，不是連環殺手。,人工定稿,
+343,0x18f4,dialogue,narrative,ﾅﾗば信頼ﾊでｷﾙ｡,14,那就値得信任。,人工定稿,
+344,0x1904,dialogue,narrative,今後､ﾖﾘ有効的ﾆ調査ｦ行ｳﾀﾒﾆﾓ､,27,今後，為了更有效調査，,人工定稿,
+345,0x1920,dialogue,narrative,ﾔﾊﾘ彼女ﾆ協力ｦｼﾃ貰ｳｼｶﾅｲ｡,23,果然還是只能請他協助。,人工定稿,
+346,0x1938,system,system,0542,4,,未翻,
+347,0x193d,dialogue,narrative,_1_｢美紀ｸﾝ｡,11,_1_｢美紀。｣,人工定稿,导入警告: kana_residue
+348,0x1949,dialogue,narrative,_0.話がｱﾙﾝだ｡少ｼ､ｲｲだﾛｳｶ｣,25,_0.有話要説。方便談?｣,人工定稿,导入警告: kana_residue
+349,0x1964,system,system,0408,4,,未翻,
+350,0x1969,dialogue,narrative,_1_｢ｴ､どｳｼﾀﾝｽｶ?,15,_1_｢欸怎麼了?｣,人工定稿,导入警告: kana_residue
+351,0x1979,system,system,ts,2,,未翻,
+352,0x197c,dialogue,narrative,改ﾏｯﾃ……｣,10,這麼正式｣,人工定稿,导入警告: kana_residue
+353,0x1987,system,system,.0543,5,,未翻,
+354,0x198d,dialogue,narrative,_1_｢ｲｲｶﾗ､ｺｯﾁﾆ来ﾃｸﾚ｣,19,_1_｢別問了，過來｣,人工定稿,导入警告: kana_residue
+355,0x19a4,system,system,0544,4,,未翻,
+356,0x19a9,dialogue,narrative,_1_｢……美紀ｸﾝ｡君ﾆ打ﾁ明ｹﾀｲｺﾄがｱﾙ｣,33,_1_｢……美紀。我有事要坦白｣,人工定稿,导入警告: kana_residue
+357,0x19cc,dialogue,narrative,私ﾊ美紀ｸﾝﾉ両肩ｦ掴ﾑﾄ､,20,我抓住美紀的雙肩，,人工定稿,
+358,0x19e4,dialogue,narrative,彼女ｦ自分ﾉ方ﾍﾄ振ﾘ向ｶｾﾀ｡,23,讓他轉向自己。,人工定稿,
+359,0x19fc,system,system,0409,4,,未翻,
+360,0x1a01,dialogue,narrative,_1_｢ｴｯ｡ｵ姉ｻﾏｯ!?,15,_1_｢姐姐大人!?｣,人工定稿,导入警告: kana_residue
+361,0x1a11,system,system,ts,2,,未翻,
+362,0x1a14,dialogue,narrative,ｱ､ｱﾉ､ﾔｯぱﾘ……ｿｳｲｳｺﾄ……!?｣,27,欸，那個，果然……那事!?｣,人工定稿,导入警告: kana_residue
+363,0x1a30,dialogue,narrative,当然でﾊｱﾙが､,12,理所當然，,人工定稿,
+364,0x1a3d,system,system,ts,2,,未翻,
+365,0x1a40,dialogue,narrative,妙ﾅ勘違ｲｦｻﾚﾃｲﾙﾖｳだﾅ……｡,24,似乎被嚴重誤會了……。,人工定稿,
+366,0x1a5c,system,system,0545,4,,未翻,
+367,0x1a61,dialogue,narrative,_1_私ﾊ真剣ﾅ話ｦｽﾙﾂﾓﾘだ｡,22,_1_我是要説正經事的。,人工定稿,
+368,0x1a78,dialogue,narrative,少ｼ黙ｯﾃ聞ｲﾃｸﾚﾅｲｶ｣,17,能安靜聽我説｣,人工定稿,导入警告: kana_residue
+369,0x1a8c,system,system,0410,4,,未翻,
+370,0x1a91,dialogue,narrative,_1_｢ｳ､ｳｲｯｽ! 黙ﾙｯｽ!｣,19,_1_｢是、是!我安靜!｣,人工定稿,导入警告: kana_residue
+371,0x1aa8,system,system,0546,4,,未翻,
+372,0x1aad,dialogue,narrative,_1_｢……ﾖｼ｡,11,_1_｢……好,人工定稿,导入警告: kana_residue
+373,0x1ab9,dialogue,narrative,_0.でﾊ思ｲ切ｯﾃ言ｳが……｣,23,_0.那我就直説了……｣,人工定稿,导入警告: kana_residue
+374,0x1ad4,system,system,0547,4,,未翻,
+375,0x1ad9,dialogue,narrative,_1_｢ｯﾃ美紀ｸﾝ!?,14,_1_｢美紀!?｣,人工定稿,导入警告: kana_residue
+376,0x1ae8,dialogue,narrative,鼻血が出ﾃｲﾅｲｶ!?｣,16,流鼻血了!?｣,人工定稿,导入警告: kana_residue
+377,0x1afc,system,system,0411,4,,未翻,
+378,0x1b01,dialogue,narrative,_1_｢ｵﾜｯ!?｣,10,_1_｢哇!?｣,人工定稿,导入警告: kana_residue
+379,0x1b0c,dialogue,narrative,ポケットティッシュｦ差ｼ出ｽﾄ､,27,遞出隨身面紙，,人工定稿,
+380,0x1b28,dialogue,narrative,慌ﾃﾃｿﾚｦ鼻ﾆ詰ﾒﾙ｡,15,慌張塞進鼻子。,人工定稿,
+381,0x1b38,dialogue,narrative,勘違ｲﾆｼﾃﾓ興奮ｼｽぎだﾛｳ……｡,26,就算是誤會也太興奮……。,人工定稿,
+382,0x1b54,dialogue,narrative,ﾁｬﾝﾄ重要ﾅ話だﾄｲｳｺﾄｦ,19,這是重要的事,人工定稿,
+383,0x1b68,dialogue,narrative,伝ｴﾅｹﾚばﾄ思ｯﾀが､,16,本想好好傳達，,人工定稿,
+384,0x1b7c,dialogue,narrative,ｺﾉ調子だﾄどｳﾓ無理だﾅ……｡,25,看這情況恐怕不行……。,人工定稿,
+385,0x1b98,system,system,0548,4,,未翻,
+386,0x1b9d,dialogue,narrative,_1_言ｯﾃｵｸが､君が喜ぶﾖｳﾅ話でﾊﾅｲぞ｣,33,_1_｢先説好，不是會讓人高興的事｣,人工定稿,导入警告: kana_residue
+387,0x1bc0,system,system,0412,4,,未翻,
+388,0x1bc5,dialogue,narrative,_1_｢ｴｯ､じｬｱ……,15,_1_｢欸，那……,人工定稿,导入警告: kana_residue
+389,0x1bd5,system,system,ts,2,,未翻,
+390,0x1bd8,dialogue,narrative,ﾓ､ﾓｼｶｼﾃ男がでｷﾀﾄｶｯｽｶ!?,22,難、難道交男友了!?,人工定稿,
+391,0x1bf0,dialogue,narrative,ｿﾚで､ｱﾀｼﾄﾊﾓｳ別ﾚﾙﾄｶ……｣,23,然後，就要跟我分手……｣,人工定稿,导入警告: kana_residue
+392,0x1c08,dialogue,narrative,付ｷ合ｯﾃﾓｲﾅｲだﾛｳが｡,18,又沒在交往。,人工定稿,
+393,0x1c1c,system,system,0549,4,,未翻,
+394,0x1c21,dialogue,narrative,_1_｢ｿｳでﾊﾅｲ｡,12,_1_｢不是。,人工定稿,导入警告: kana_residue
+395,0x1c2e,dialogue,narrative,0.今ｶﾗ､私ﾉ役職ﾆﾂｲﾃ君ﾆ話ｿｳﾄ思ｯﾀﾉだ｣,34,0.我正要説我的身份｣,人工定稿,导入警告: kana_residue
+396,0x1c54,system,system,0413,4,,未翻,
+397,0x1c59,dialogue,narrative,_1_｢役職?,9,_1_｢身份?,人工定稿,导入警告: kana_residue
+398,0x1c63,dialogue,narrative,_ｯﾃ､ｵ姉ｻﾏ､ｱﾀｼﾄ同じ市民ｯﾃ……｣,29,_姐姐大人不是和我一樣市民…｣,人工定稿,导入警告: kana_residue
+399,0x1c84,dialogue,narrative,ｿｳｲｴば､,7,説來，,人工定稿,
+400,0x1c8c,dialogue,narrative,役職ﾆﾂｲﾃﾉメールが送ﾗﾚﾃ来ﾀ時､,28,身份的郵件送來時，,人工定稿,
+401,0x1cac,dialogue,narrative,私ﾊ美紀ｸﾝﾆ『市民』だﾄ嘘ｦﾂｲﾃｲﾀ｡,30,我騙美紀説自己是『市民』。,人工定稿,
+402,0x1ccc,system,system,0550,4,,未翻,
+403,0x1cd1,dialogue,narrative,_1_｢ｽﾏﾅｲ｡ｱﾚﾊ嘘だ｣,17,_1_｢抱歉，是假的｣,人工定稿,导入警告: kana_residue
+404,0x1ce4,system,system,0414,4,,未翻,
+405,0x1ce9,dialogue,narrative,_1_｢嘘!?,8,_1_｢騙!?,人工定稿,导入警告: kana_residue
+406,0x1cf2,dialogue,narrative,1_……ｯﾃｺﾄﾊ､ﾏ､ﾏｻｶ､ｵ姉ｻﾏ……,27,1_……難、難道姐姐大人……,人工定稿,
+407,0x1d10,dialogue,narrative,シ､シリアルキラー……｣,22,連、連環殺手……｣,人工定稿,导入警告: kana_residue
+408,0x1d28,system,system,0551,4,,未翻,
+409,0x1d2d,dialogue,narrative,_1_｢違ｳﾖ､美紀ｸﾝ｣,16,_1_｢不是哦美紀｣,人工定稿,导入警告: kana_residue
+410,0x1d3e,system,system,s,1,,未翻,
+411,0x1d40,system,system,0552,4,,未翻,
+412,0x1d45,dialogue,narrative,_1_｢私ﾊ……探偵ﾅﾝだ｣,20,_1_｢我是……偵探｣,人工定稿,导入警告: kana_residue
+413,0x1d5c,system,system,0415,4,,未翻,
+414,0x1d61,dialogue,narrative,_1_｢……ﾍ?｣,11,_1_｢…欸?｣,人工定稿,导入警告: kana_residue
+415,0x1d6d,dialogue,narrative,_0.美紀ｸﾝﾊ一瞬､,15,_0.美紀一瞬間，,人工定稿,
+416,0x1d7d,system,system,ts,2,,未翻,
+417,0x1d80,dialogue,narrative,ハトが豆鉄砲ｦ喰ﾗｯﾀﾖｳﾅ顔ｦｼﾀ｡,27,露出吃驚的表情。,人工定稿,
+418,0x1d9c,dialogue,narrative,ｼｶｼ､ｽぐｻﾏ､目ｦ輝ｶｾﾃ私ﾍﾄ詰ﾒ寄ﾙ｡,29,但馬上就雙眼放光湊近。,人工定稿,
+419,0x1dbc,system,system,0416,4,,未翻,
+420,0x1dc1,dialogue,narrative,_1_｢ｽ､ｽｯごｰｲｯ!,14,_1_｢哇好厲害!,人工定稿,导入警告: kana_residue
+421,0x1dd0,dialogue,narrative,ｻｽがｵ姉ｻﾏｯｽﾈ!,13,不愧姐姐大人!,人工定稿,
+422,0x1dde,system,system,s,1,,未翻,
+423,0x1de0,dialogue,narrative,何ｶピッタリｯﾃ感じｯｽﾖ! 尊敬ｽﾙｯｽ!｣,32,感覺超搭的! 好崇拜!｣,人工定稿,"P7 校对修正: 机翻味重, 通读顺句"
+424,0x1e04,dialogue,narrative,ランダムﾆ決ﾒﾗﾚﾀ役職ﾆﾂｲﾃ,23,關於隨機決定的身份,人工定稿,
+425,0x1e1c,dialogue,narrative,何ｦどｳ尊敬ｽﾙ要素がｱﾙﾉｶ知ﾗﾅｲが､,30,不知有什麼好尊敬的，,人工定稿,
+426,0x1e3c,dialogue,narrative,嘘ｦﾂｲﾃｲﾀｺﾄﾊ許ｼﾃﾓﾗｴﾀﾗｼｲ｡,23,欺騙似乎被原諒了。,人工定稿,
+427,0x1e54,system,system,0417,4,,未翻,
+428,0x1e59,dialogue,narrative,_1_｢でﾓ､ｵ姉ｻﾏ｡,14,_1_｢姐姐大人。,人工定稿,导入警告: kana_residue
+429,0x1e68,dialogue,narrative,どｳｼﾃ今ﾆﾅｯﾃｱﾀｼﾆ打ﾁ明ｹﾀｯｽｶ?｣,27,為什麼現在才告訴我?｣,人工定稿,导入警告: kana_residue
+430,0x1e84,system,system,0553,4,,未翻,
+431,0x1e89,dialogue,narrative,_1_｢ｿﾉｺﾄだが､美紀ｸﾝ｡,20,_1_｢關於這，美紀。｣,人工定稿,导入警告: kana_residue
+432,0x1ea0,dialogue,narrative,今ｶﾗ話ｽｺﾄｦﾖｸ聞ｲﾃ欲ｼｲ｣,21,接下來要説的，聽好｣,人工定稿,导入警告: kana_residue
+433,0x1eb8,dialogue,narrative,私ﾊｿｳ言ｳﾄ､,10,我這麼説，,人工定稿,
+434,0x1ec3,dialogue,narrative,.自分がずｯﾄ考ｴﾃｲﾀｺﾄ全ﾃｦ,23,.把自己一直想的事全,人工定稿,
+435,0x1edc,dialogue,narrative,美紀ｸﾝﾆ打ﾁ明ｹﾀ｡,15,向美紀坦白了。,人工定稿,
+436,0x1eec,dialogue,narrative,ルールﾆﾖﾘ､探偵ﾊ投票ｻﾚﾀ人が,26,根據規則，偵探能知道,人工定稿,
+437,0x1f08,dialogue,narrative,シリアルキラーｶ否ｶｦ,19,被投票的人是否,人工定稿,
+438,0x1f1c,dialogue,narrative,知ﾙｺﾄが出来ﾙﾄｲｳｺﾄ｡,18,連環殺手。,人工定稿,
+439,0x1f30,dialogue,narrative,自分ﾊｿﾚｦ利用ｼﾃ､,15,我利用這個，,人工定稿,
+440,0x1f40,dialogue,narrative,今ﾏで誰がシリアルキラーｶｦ,25,至今都在調査誰是連環殺手,人工定稿,
+441,0x1f5c,dialogue,narrative,探ﾛｳﾄｼﾃｲﾀｺﾄ｡,12,這件事。,人工定稿,
+442,0x1f69,system,system,ts,2,,未翻,
+443,0x1f6c,system,system,0554,4,,未翻,
+444,0x1f71,dialogue,narrative,_1_｢……だが､自分一人でﾊ限界がｱﾙﾝだ｡,36,_1_｢……但是，我一個人有極限。,人工定稿,导入警告: kana_residue
+445,0x1f98,dialogue,narrative,全ｸ指名ｻﾚﾅｲ人ﾊ調べﾖｳがﾅｲｶﾗﾅ｣,28,完全沒被指名的人無從調査｣,人工定稿,导入警告: kana_residue
+446,0x1fb8,system,system,0418,4,,未翻,
+447,0x1fbd,dialogue,narrative,_1_｢ﾅﾙﾎど｡,10,_1_｢原來呀,人工定稿,P7 校对修正: なるほど 承答位 去原来哦
+448,0x1fc8,dialogue,narrative,ﾂﾏﾘ､誰ｶ一人が協力ｼﾃ､ｵ姉ｻﾏﾉ,26,就是説，有個人協助，,人工定稿,
+449,0x1fe4,dialogue,narrative,調べﾀｲ人ﾆ投票ｽﾚばｲｲｯﾃﾜｹｯｽﾈ?｣,28,投給想調査的人就行?｣,人工定稿,导入警告: kana_residue
+450,0x2004,system,system,0555,4,,未翻,
+451,0x2009,dialogue,narrative,_1_｢ｱｱ｡,7,_1_｢哦,人工定稿,导入警告: kana_residue
+452,0x2011,dialogue,narrative,_1_ｿｼﾃ協力者ﾊ警官でﾓシリアルキラーでﾓﾅｸ,39,_1_而且協助者不能是警官或連環殺手,人工定稿,
+453,0x203c,dialogue,narrative,市民でﾅｲﾄﾅﾗﾅｲ｣,14,得是市民不可｣,人工定稿,导入警告: kana_residue
+454,0x204c,dialogue,narrative,警官ﾔシリアルキラーﾉ票ｦ任意ﾆ動ｶｽﾄ,33,隨便動警官或連環殺手的票,人工定稿,
+455,0x2070,dialogue,narrative,大変ﾅｺﾄﾆﾅｯﾃｼﾏｳ｡,15,會出大問題。,人工定稿,
+456,0x2080,dialogue,narrative,市民ﾉ票ﾓ全ｸリスクがﾅｲﾄｲｳﾜｹでﾊﾅｲが､,34,市民的票也不是完全沒風險，,人工定稿,
+457,0x20a4,dialogue,narrative,今ﾉ段階ﾅﾗｿﾉ重ﾐﾊﾄﾃﾓ軽ｲﾓﾉだ｡,26,現階段其風險很輕。,人工定稿,
+458,0x20c0,system,system,0556,4,,未翻,
+459,0x20c5,dialogue,narrative,_1_｢……美紀ｸﾝ｣,15,_1_｢……美紀｣,人工定稿,导入警告: kana_residue
+460,0x20d5,system,system,ts,2,,未翻,
+461,0x20d8,dialogue,narrative,私ﾊ改ﾒﾃ､美紀ｸﾝﾆ真剣ﾅ眼差ｼｦ向ｹﾀ｡,31,我再次以認真眼神看美紀。,人工定稿,
+462,0x20f8,system,system,0557,4,,未翻,
+463,0x20fd,dialogue,narrative,_1_｢私ﾆ協力ｼﾃｸﾚﾙ人ﾊ､君ｼｶ考ｴﾗﾚﾅｲ｣,32,_1_｢能協助我的人只有美紀｣,人工定稿,导入警告: kana_residue
+464,0x2120,system,system,0419,4,,未翻,
+465,0x2125,dialogue,narrative,_1_｢ｵ､ｵ､ｵ姉ｻﾏ……｣,18,_1_｢姐姐大人……｣,人工定稿,导入警告: kana_residue
+466,0x2138,system,system,0558,4,,未翻,
+467,0x213d,dialogue,narrative,_1_｢私ｦ手伝ｯﾃ欲ｼｲ｣,18,_1_｢希望美紀幇我｣,人工定稿,导入警告: kana_residue
+468,0x2150,dialogue,narrative,ｿﾉ言葉ﾆ､美紀ｸﾝﾊﾜずｶﾆ頬ｦ染ﾒ､,27,聽聞此言，美紀微紅了臉，,人工定稿,
+469,0x216c,dialogue,narrative,私ｦ真ｯ直ぐﾆ見返ｼﾀ｡,18,直直地回望我。,人工定稿,
+470,0x2180,system,system,0420,4,,未翻,
+471,0x2185,dialogue,narrative,_1_｢ｵ姉ｻﾏﾉﾀﾒﾅﾗ､ｱﾀｼ､何だｯﾃｼﾏｽ!｣,30,_1_｢為了姐姐大人，我什麼都做!｣,人工定稿,导入警告: kana_residue
+472,0x21a4,system,system,0559,4,,未翻,
+473,0x21a9,dialogue,narrative,_1_｢ｱﾘがﾄｳ｣,11,_1_｢謝謝。｣,人工定稿,导入警告: kana_residue
+474,0x21b5,dialogue,narrative,_0.美紀ｸﾝﾉ返答ﾆホッﾄ胸ｦ撫で下ﾛｽ｡,32,_0.對美紀的回答鬆了口氣。,人工定稿,
+475,0x21d8,dialogue,narrative,ｺﾚで今後ﾉ調査ﾊﾖﾘ効果的ﾅﾓﾉﾆﾅﾙだﾛｳ｡,33,今後調査會更有效了。,人工定稿,
+476,0x21fc,system,system,0421,4,,未翻,
+477,0x2201,dialogue,narrative,_1_｢ｳﾋｬｰ!,9,_1_｢哇─!,人工定稿,导入警告: kana_residue
+478,0x220b,dialogue,narrative,_ｵ姉ｻﾏﾄ秘密ﾉ共有!,17,_姐姐大人共享秘密,人工定稿,
+479,0x2220,dialogue,narrative,頼ﾗﾚﾙ! 最高ｯｽ!｣,15,被依賴!太棒了!｣,人工定稿,导入警告: kana_residue
+480,0x2230,dialogue,narrative,ﾔﾙ気ﾓｱﾙﾖｳで､ﾅﾆﾖﾘだ｡,19,有幹勁就最好了。,人工定稿,
+481,0x2244,dialogue,narrative,ﾓｯﾄﾓ彼女ﾉ場合､,14,不過以他來説，,人工定稿,
+482,0x2254,dialogue,narrative,ｿﾉﾔﾙ気が空回ﾘｽﾙｺﾄﾉ方が,22,反而那幹勁空轉,人工定稿,
+483,0x226c,dialogue,narrative,怖ｶｯﾀﾘﾓｽﾙﾉだが……｡,19,更叫人害怕……。,人工定稿,
+484,0x2280,system,system,0422,4,,未翻,
+485,0x2285,dialogue,narrative,_1_｢ｱｯ､でﾓ……ｵ姉ｻﾏ｣,20,_1_｢可是…姐姐大人｣,人工定稿,导入警告: kana_residue
+486,0x229c,system,system,0560,4,,未翻,
+487,0x22a1,dialogue,narrative,_1_｢ﾝ､どｳｼﾀ?｣,13,_1_｢哦怎麼?｣,人工定稿,导入警告: kana_residue
+488,0x22af,system,system,.0423,5,,未翻,
+489,0x22b5,dialogue,narrative,_1_｢ｱﾉ……ｺﾉｺﾄｯﾃ､,17,_1_｢那個……這，,人工定稿,导入警告: kana_residue
+490,0x22c8,dialogue,narrative,樫沢ﾄｶﾆﾓ打ﾁ明ｹﾀﾘｽﾙﾝｽｶ?｣,23,也會跟樫澤説?｣,人工定稿,导入警告: kana_residue
+491,0x22e0,system,system,0561,4,,未翻,
+492,0x22e5,dialogue,narrative,_1_｢ｲﾔ｡例ﾉ日記ﾉ件ﾄ同様ﾆ､,24,_1_｢不。和日記的事一樣，,人工定稿,导入警告: kana_residue
+493,0x2300,dialogue,narrative,ｺﾉ話ﾊ誰ﾆﾓ言ﾜﾅｲで欲ｼｲ｡,21,這件事別跟任何人説。,人工定稿,
+494,0x2318,dialogue,narrative,ｱｸﾏでﾓ､私ﾄ君だｹﾉ秘密だ｣,23,終究是，我和美紀的秘密｣,人工定稿,导入警告: kana_residue
+495,0x2330,system,system,0424,4,,未翻,
+496,0x2335,dialogue,narrative,_1_｢でｽﾖﾈｰ!,11,_1_｢是哦─!,人工定稿,导入警告: kana_residue
+497,0x2341,dialogue,narrative,_0.ﾌﾌﾌ､二人だｹﾉ秘密!,20,_0.呵呵，兩人的秘密!,人工定稿,
+498,0x2358,dialogue,narrative,萌ｴﾃｷﾀｯｽ!｣,10,萌起來了!｣,人工定稿,导入警告: kana_residue
+499,0x2363,dialogue,narrative,.美紀ｸﾝﾊ顔ｦニヤﾂｶｾﾅがﾗ､,23,.美紀賊笑著，,人工定稿,
+500,0x237c,dialogue,narrative,嬉ｼｿｳﾆ言ｯﾀ｡,11,開心地説。,人工定稿,
+501,0x2388,dialogue,narrative,何ｶニュアンスﾉ間違ｯﾀ言葉が聞ｺｴﾀ気がｼﾀが,39,似乎聽到些語氣怪異的話,人工定稿,
+502,0x23b0,dialogue,narrative,気ﾉｾｲﾄｲｳｺﾄﾆｼﾃｵｺｳ｡,17,就當作是錯覺。,人工定稿,
+503,0x23c4,dialogue,narrative,ロム2_何ﾓ伝ｴﾅｲ,14,ROM2_不傳達,人工定稿,
+504,0x23d4,dialogue,narrative,……ｲﾔ､ダメだﾅ｡,15,……不，不行。,人工定稿,
+505,0x23e4,dialogue,narrative,ｲｸﾗ､彼女が私ﾉ一番近ｸﾆｲﾙ存在だﾄﾊｲｴ､,34,雖然美紀是我身邊最親近的人，,人工定稿,
+506,0x2408,dialogue,narrative,ｺﾉゲームﾆｵｲﾃﾊ､,14,但在遊戲裏，,人工定稿,
+507,0x2418,dialogue,narrative,本当ﾆ信頼ｵｹﾙ人物ｶどｳｶﾜｶﾘｶﾈﾙ｡,28,是否真能信任，難以判斷。,人工定稿,
+508,0x2438,dialogue,narrative,ﾓｼ､美紀ｸﾝがシリアルキラーだﾄｼﾀﾗ?,32,萬一，美紀是連環殺手的話？,人工定稿,
+509,0x245c,dialogue,narrative,ﾓｼ､美紀ｸﾝが『X』だﾄｼﾀﾗ?,23,萬一，美紀是『X』的話？,人工定稿,
+510,0x2474,dialogue,narrative,ｿｳ考ｴﾃｼﾏｳﾄ､,11,一想到這，,人工定稿,
+511,0x2480,dialogue,narrative,迂闊ﾆ協力ｦ頼ﾑｺﾄﾊ出来ﾅｲ｡,23,就無法貿然請求協助。,人工定稿,
+512,0x2498,system,system,0425,4,,未翻,
+513,0x249d,dialogue,narrative,_1_｢……ｵ姉ｻﾏ､マジでどｳｼﾀﾝｽｶ?｣,30,_1_｢……姐姐大人，怎麼了？｣,人工定稿,导入警告: kana_residue
+514,0x24bc,dialogue,narrative,ずｯﾄ黙ﾘ込ﾝでｲﾙﾄ､,16,一直沈默不語，,人工定稿,
+515,0x24d0,dialogue,narrative,視界ｲｯぱｲﾆ美紀ｸﾝﾉ大アップが迫ｯﾃｸﾙ｡,34,視野裏美紀的特寫突然逼近。,人工定稿,
+516,0x24f4,system,system,0562,4,,未翻,
+517,0x24f9,dialogue,narrative,_1_｢ｯ､ﾅ､ﾅﾝだ……!?｣,19,_1_｢欸，什麼……!?｣,人工定稿,导入警告: kana_residue
+518,0x2510,system,system,0426,4,,未翻,
+519,0x2515,dialogue,narrative,_1_｢何だじｬﾅｲｯｽﾖ､楓ｵ姉ｻﾏ｡,25,_1_｢不是嘛，楓姐姐大人。,人工定稿,导入警告: kana_residue
+520,0x2530,dialogue,narrative,ｻｯｷｶﾗだﾝﾏﾘで｡,13,剛才不吭聲。,人工定稿,
+521,0x253e,system,system,s,1,,未翻,
+522,0x2540,dialogue,narrative,具合でﾓ悪ｸﾅｯﾀﾝｽｶ?｣,18,身體不舒服？｣,人工定稿,导入警告: kana_residue
+523,0x2554,system,system,0563,4,,未翻,
+524,0x2559,dialogue,narrative,_1_｢……ｲﾔ､大丈夫だ｣,20,_1_｢……不，沒事。｣,人工定稿,导入警告: kana_residue
+525,0x2570,system,system,0427,4,,未翻,
+526,0x2575,dialogue,narrative,_1_｢ｿﾚﾅﾗｲｲｯｽｹど……｣,20,_1_｢那就好，但……｣,人工定稿,导入警告: kana_residue
+527,0x258c,dialogue,narrative,美紀ｸﾝﾊ特ﾆ気ﾆｼﾀ様子ﾓﾅｸ､,23,美紀似乎毫不在意，,人工定稿,
+528,0x25a4,dialogue,narrative,大ｷｸ背伸びｦｼﾀ｡,14,伸個大懶腰。,人工定稿,
+529,0x25b4,system,system,0428,4,,未翻,
+530,0x25b9,dialogue,narrative,_1_｢……ﾆｼﾃﾓ､死亡者がｲﾅｶｯﾀｯﾃだｹで,33,_1_｢……話説回來，只是沒人死,人工定稿,导入警告: kana_residue
+531,0x25dc,dialogue,narrative,清々ｼｲ気分ｯｽﾈ!｣,15,心情超清爽！｣,人工定稿,导入警告: kana_residue
+532,0x25ec,system,system,0564,4,,未翻,
+533,0x25f1,dialogue,narrative,_1_｢ﾏｱﾅ｡ｺﾉ先ﾓ､ﾐﾝﾅ無事だﾄｲｲが……｣,33,_1_｢是哦。今後願大家都平安……｣,人工定稿,导入警告: kana_residue
+534,0x2614,system,system,0429,4,,未翻,
+535,0x2619,dialogue,narrative,_1_｢ホントｯｽﾖ!,14,_1_｢真的哦！,人工定稿,导入警告: kana_residue
+536,0x2628,dialogue,narrative,ｱｱﾓｳ､早ｸシリアルキラーﾔ,23,真是，快點找出連環殺手,人工定稿,
+537,0x2640,dialogue,narrative,『X』ﾉ正体がﾜｶﾚばｲｲﾉﾆｰ!｣,24,和『X』的真面目就好了！｣,人工定稿,导入警告: kana_residue
+538,0x265c,system,system,0565,4,,未翻,
+539,0x2661,dialogue,narrative,_1_｢……ｿｳ簡単ﾆﾊｲｶﾅｲｻ｣,22,_1_｢……沒那麼容易。｣,人工定稿,导入警告: kana_residue
+540,0x2678,system,system,0430,4,,未翻,
+541,0x267d,dialogue,narrative,_1_｢ｿﾘｬﾏｧ､ｿｳｯｽｹど……｣,22,_1_｢是這麼説，但……｣,人工定稿,导入警告: kana_residue
+542,0x2694,system,system,0566,4,,未翻,
+543,0x2699,dialogue,narrative,_1_｢……次ﾉ投票ﾏで少ｼ時間がｱﾙ｡,30,_1_｢……離下次投票還有點時間。,人工定稿,导入警告: kana_residue
+544,0x26b8,dialogue,narrative,今ｶﾗ他ﾉ人ﾀﾁﾉﾄｺﾛﾍﾓ話ｦ聞ｷﾆ行ｸｶ｣,29,現在也去別人那打聽看看。｣,人工定稿,导入警告: kana_residue
+545,0x26d8,system,system,0431,4,,未翻,
+546,0x26dd,dialogue,narrative,_1_｢ｿ､ｿｳｯｽﾈ!,12,_1_｢對對哦！,人工定稿,导入警告: kana_residue
+547,0x26ea,dialogue,narrative,0.運がﾖｹﾘｬ､会話ﾉ流ﾚで,21,0.運氣好的話，,人工定稿,
+548,0x2700,dialogue,narrative,誰がシリアルキラーｶﾜｶﾙｶﾓｼﾚﾅｲｼ!｣,31,説不定能看出誰是連環殺手！｣,人工定稿,导入警告: kana_residue
+549,0x2720,dialogue,narrative,拳ｦ握ｯﾃ意気込ﾑ美紀ｸﾝﾆ､深ｸ頷ｸ｡,29,對握拳鼓勁的美紀，深深點頭。,人工定稿,
+550,0x2740,dialogue,narrative,ｿｳだ｡調査ﾊ何ﾓ,13,對。調査並非,人工定稿,
+551,0x274e,system,system,s,1,,未翻,
+552,0x2750,dialogue,narrative,探偵ﾉ能力ﾆﾖﾙﾓﾉだｹでﾊﾅｲ｡,23,只靠偵探的能力。,人工定稿,
+553,0x2768,dialogue,narrative,普通ﾆ聞ｷ込ﾐ､推理ｽﾙ｡,19,普通打聽、推理。,人工定稿,
+554,0x277c,dialogue,narrative,ｿﾉﾀﾒﾉヒントﾄｼﾃ探偵ﾉ能力ｦ使ｳ｡,28,為此，把偵探能力當提示用。,人工定稿,
+555,0x279c,dialogue,narrative,ｿﾚが本来ﾉゲームバランスでｱﾛｳｼ､,30,那才是遊戲原本的平衡，,人工定稿,
+556,0x27bc,dialogue,narrative,不可能でﾊﾅｲﾊずだ｡,17,並非不可能。,人工定稿,
+557,0x27d0,dialogue,narrative,ｺﾉ時､私ﾊ決ﾒﾀ｡,13,我下定決心。,人工定稿,
+558,0x27de,system,system,s,1,,未翻,
+559,0x27e0,system,system,0567,4,,未翻,
+560,0x27e5,dialogue,narrative,_1_｢……ﾓｳ､誰ﾆﾓ頼ﾗﾅｲ｣,21,_1_｢……不靠任何人。｣,人工定稿,导入警告: kana_residue
+561,0x27fc,dialogue,narrative,頼ﾛｳﾅどﾄ思ｯﾃﾊｲｹﾅｲ｡,18,不可興起依賴念頭。,人工定稿,
+562,0x2810,dialogue,narrative,本当ﾆ信頼でｷﾙﾉﾊ自分だｹﾅﾉだｶﾗ,28,能真正信任的只有自己，,人工定稿,
+563,0x2830,dialogue,narrative,自分で解決ｼﾃｲｸべｷだ｡,20,該由自己解決。,人工定稿,
+564,0x2848,dialogue,narrative,……ｼｶｼ｡,8,……但。,人工定稿,
+565,0x2851,dialogue,narrative,_0.ｿﾉ後ﾉ聞ｷ込ﾐでﾓ､,18,_0.之後再打聽，,人工定稿,
+566,0x2864,dialogue,narrative,シリアルキラーﾊﾅｶﾅｶｿﾉ尻尾ｦ見ｾﾅｶｯﾀ｡,34,連環殺手遲遲不露馬脚。,人工定稿,
+567,0x2888,dialogue,narrative,結局､何ﾓ掴ﾒﾅｲﾏﾏ……｡,20,最後仍一無所獲……。,人工定稿,
+568,0x28a0,dialogue,narrative,3回目ﾉ投票ﾉ時間が近づｲﾃｲｸ……｡,30,3次投票的時間逼近……。,人工定稿,"P7 校对修正: 3回目 保留首字数值, 去重复第"
+569,0x28c0,dialogue,narrative,ロム2_美紀ﾄ口論,15,ROM2_與美紀爭執,人工定稿,P7 校对修正: 与 738 标签统一
+570,0x28d0,dialogue,narrative,一通ﾘ聞ｷ込ﾐｦ終ｴﾀ私達ﾊ､,22,打聽完一輪的我們，,人工定稿,
+571,0x28e8,dialogue,narrative,話ｦﾏﾄﾒﾙﾀﾒﾆ,10,為了匯總,人工定稿,
+572,0x28f3,dialogue,narrative,.会議室だｯﾀﾄ思ﾜﾚﾙ部屋ﾆ腰ｦ落ﾁ着ｹﾀ｡,33,.在疑似會議室的房間落座。,人工定稿,
+573,0x2918,system,system,0672,4,,未翻,
+574,0x291d,dialogue,narrative,_1_｢ｸｿｯ……｣,12,_1_｢可惡…｣,人工定稿,导入警告: kana_residue
+575,0x292a,dialogue,narrative,0.苛立ﾁがﾂﾉﾙ｡,13,0.焦躁加劇。,人工定稿,
+576,0x2938,dialogue,narrative,皆ｶﾗ得ﾗﾚﾀ情報ﾊ､,15,大家給的情報，,人工定稿,
+577,0x2948,dialogue,narrative,先ﾎどﾄ何ﾓ変ﾜﾗﾅｲﾓﾉだｯﾀ｡,22,與先前毫無不同。,人工定稿,
+578,0x2960,dialogue,narrative,森崎氏ﾊ相変ﾜﾗず鈍感だ｡,22,森崎仍舊遲鈍。,人工定稿,
+579,0x2978,dialogue,narrative,香菜ｸﾝﾊ冷静ﾆ警戒ｼ続ｹﾃｲﾙ｡,24,香菜冷靜地持續警戒。,人工定稿,
+580,0x2994,dialogue,narrative,坂橋氏ﾊ霞ｸﾝﾆべｯﾀﾘだｼ､,21,坂橋緊黏著霞，,人工定稿,
+581,0x29ac,dialogue,narrative,霞ｸﾝﾊ少ｼ落ﾁ着ｲﾃﾊｲﾀが､,21,霞稍微鎮定了些，,人工定稿,
+582,0x29c4,dialogue,narrative,状況ﾆ怯ｴ続ｹﾃｲﾙｺﾄﾆ変ﾜﾘﾊﾅｲ｡,25,仍對状況恐懼不已。,人工定稿,
+583,0x29e0,dialogue,narrative,ﾂﾑじｸﾝﾊ生意気ﾅ口ｦｷｸ､,20,旋口氣狂妄，,人工定稿,
+584,0x29f8,dialogue,narrative,ﾊﾙｶｸﾝﾊ大人ｼｸﾃ模範的ﾅ子｡,23,遙乖巧是模範生。,人工定稿,
+585,0x2a10,dialogue,narrative,薫ｻﾝﾊ結果ﾉ出ﾅｲ調査ｦ続ｹ､,23,薰繼續無果的調査，,人工定稿,
+586,0x2a28,dialogue,narrative,ジャック氏ﾊ不敵ﾆ笑ｯﾃｲﾙ｡,23,傑克無畏地笑著。,人工定稿,
+587,0x2a40,dialogue,narrative,樫沢氏ﾊ様々ﾅ作戦ﾉ可能性ｦ試算ｼﾃｲﾃ､,33,樫澤試算各種作戰的可能性，,人工定稿,
+588,0x2a64,dialogue,narrative,唯柚ｸﾝﾊｵ花ｦ眺ﾒﾃご機嫌ﾅご様子｡,29,唯柚賞花心情愉快。,人工定稿,
+589,0x2a84,dialogue,narrative,ｿｼﾃ紅春ｸﾝﾊ､ｱﾜｱﾜ言ｲ続ｹﾃｲﾃ､,25,而紅春一直慌慌張張，,人工定稿,
+590,0x2aa0,dialogue,narrative,美紀ｸﾝﾊ……｡,12,而美紀……。,人工定稿,
+591,0x2aad,system,system,ts,2,,未翻,
+592,0x2ab0,dialogue,narrative,｢ﾔｯぱ､ジャックｯﾃ怪ｼｲｯｽﾖﾈ!,25,｢果然，傑克很可疑！,人工定稿,导入警告: kana_residue
+593,0x2acc,dialogue,narrative,ｱｲﾂがシリアルキラーﾆ間違ｲﾅｲｯｽ!｣,31,那混蛋準是連環殺手！｣,人工定稿,导入警告: kana_residue
+594,0x2aec,dialogue,narrative,……ｲﾂﾓ通ﾘ､ｺﾉ調子だ｡,20,……還是老樣子。,人工定稿,
+595,0x2b04,system,system,0673,4,,未翻,
+596,0x2b09,dialogue,narrative,_1_｢美紀ｸﾝ､ﾏだｿﾝﾅｺﾄｦ……｣,25,_1_｢美紀，還説那種話……｣,人工定稿,导入警告: kana_residue
+597,0x2b24,dialogue,narrative,｢だｯﾃ､ｱｲﾂﾊ人殺ｼだｼ｡,19,｢因為他殺過人。,人工定稿,导入警告: kana_residue
+598,0x2b38,dialogue,narrative,ﾓｼｱｲﾂが『シリアルキラー』じｬﾅｸﾃﾓ､,33,就算他不是『連環殺手』，,人工定稿,
+599,0x2b5c,dialogue,narrative,気ﾆ入ﾗﾅｲ人ﾆ平気で投票ｼｿｳじｬﾅｲｯｽｶ｣,33,也像會隨意投看不順眼的人｣,人工定稿,导入警告: kana_residue
+600,0x2b80,dialogue,narrative,｢ﾏ､ｱﾀｼ的ﾆﾊ樫沢ﾓ信じﾃﾅｲｯｽｹどﾈ｣,29,｢嘛，我也沒信樫澤呀｣,人工定稿,P7 校对修正: けどね 共感 → 呀
+601,0x2ba0,dialogue,narrative,得意げﾅ様子で話ｽ美紀ｸﾝﾆ､,24,對得意講著的美紀，,人工定稿,
+602,0x2bbc,dialogue,narrative,ｻｽがﾆｳﾝざﾘｽﾙ｡,13,真是厭煩。,人工定稿,
+603,0x2bca,system,system,s,1,,未翻,
+604,0x2bcc,system,system,0674,4,,未翻,
+605,0x2bd1,dialogue,narrative,_1_｢ｲｲ加減ﾆｼﾅｲｶ｣,16,_1_｢適可而止！｣,人工定稿,导入警告: kana_residue
+606,0x2be2,system,system,s,1,,未翻,
+607,0x2be4,system,system,0675,4,,未翻,
+608,0x2be9,dialogue,narrative,_1_｢……経歴だｹで判断ｦｽﾙﾅ｡,26,_1_｢……別只憑經歴判斷。,人工定稿,导入警告: kana_residue
+609,0x2c04,dialogue,narrative,ｺｺでﾊｿﾝﾅﾓﾉ関係ﾅｲ｡,17,這和那無關。,人工定稿,
+610,0x2c18,dialogue,narrative,ｿﾚﾆ樫沢氏ｦ疑ｳﾆｼﾃﾓ証拠ﾓﾅｲだﾛｳ｣,29,再説懷疑樫澤也沒證據｣,人工定稿,导入警告: kana_residue
+611,0x2c38,dialogue,narrative,信じﾗﾚﾙﾓﾉﾊ何ﾓﾅｲ｡,16,沒什麼可相信。,人工定稿,
+612,0x2c4c,dialogue,narrative,ｿﾉ焦ﾘﾉｾｲｶ､,10,因這焦躁，,人工定稿,
+613,0x2c57,dialogue,narrative,.彼女ﾉ短絡思考ﾆ腹ｦ立ﾃずﾆｲﾗﾚﾅｶｯﾀ｡,32,.我無法不對他的短視思考動怒。,人工定稿,
+614,0x2c78,dialogue,narrative,｢ｿ､ｿﾚﾊ……｣,11,｢那、那…｣,人工定稿,导入警告: kana_residue
+615,0x2c84,system,system,0676,4,,未翻,
+616,0x2c89,dialogue,narrative,_1_｢ｺﾉゲームﾆｵｲﾃﾊ､,18,_1_｢在這遊戲裏，,人工定稿,导入警告: kana_residue
+617,0x2c9c,dialogue,narrative,少ｼﾉ判断ミスが命取ﾘﾆﾅﾙﾝだぞ｣,28,一點誤判就會要命哇｣,人工定稿,导入警告: kana_residue
+618,0x2cbc,dialogue,narrative,｢ﾜ､ﾜｶｯﾃﾙｯｽﾖ……｣,16,｢我、我明白……｣,人工定稿,导入警告: kana_residue
+619,0x2cd0,system,system,0677,4,,未翻,
+620,0x2cd5,dialogue,narrative,_1_｢ｲﾔ､君ﾊ何ﾓﾜｶｯﾃﾅｲ!｣,21,_1_｢美紀根本不明白！｣,人工定稿,P7 校对修正: 何も 漏译补足
+621,0x2cec,dialogue,narrative,｢ｴｯ……ど､どｳｼﾀﾝｽｶ……,22,｢欸……怎、怎麼了……,人工定稿,导入警告: kana_residue
+622,0x2d04,dialogue,narrative,ｲﾂﾓﾉｵ姉ｻﾏﾅﾗ､,12,姐姐大人平常,人工定稿,
+623,0x2d11,system,system,ts,2,,未翻,
+624,0x2d14,dialogue,narrative,ｿﾝﾅﾆ怒ﾙｺﾄﾅﾝﾃ……｣,17,不會這樣發火……｣,人工定稿,导入警告: kana_residue
+625,0x2d28,dialogue,narrative,思ﾜず出ﾀ大ｷﾅ声ﾆ､,16,不禁發出的大聲，,人工定稿,
+626,0x2d3c,dialogue,narrative,美紀ｸﾝﾊ動揺ｦ隠ｾﾅｲﾖｳだ｡,22,美紀似乎藏不住動搖。,人工定稿,
+627,0x2d54,dialogue,narrative,だが私ﾉ口ﾊ止ﾏﾗﾅｶｯﾀ｡,19,但我嘴裏停不下來。,人工定稿,
+628,0x2d68,system,system,0678,4,,未翻,
+629,0x2d6d,dialogue,narrative,_1_｢ﾄﾆｶｸ､君ﾊ誰彼構ﾜず疑ｲ過ぎﾅﾝだ!,33,_1_｢總之，美紀疑心太重！｣,人工定稿,导入警告: kana_residue
+630,0x2d90,dialogue,narrative,ﾓﾊﾔﾌざｹﾃｲﾙﾖｳﾆｼｶ見ｴﾅｲぞ!｣,24,看起來只像在胡鬧！｣,人工定稿,导入警告: kana_residue
+631,0x2dac,dialogue,narrative,｢ﾌ……｣,7,｢嗤…｣,人工定稿,导入警告: kana_residue
+632,0x2db4,dialogue,narrative,｢ﾌざｹﾃﾅﾝｶﾅｲｯｽﾓﾝ!,16,｢才不是在鬧！,人工定稿,导入警告: kana_residue
+633,0x2dc8,dialogue,narrative,ｱﾀｼﾊ真剣ﾆ､ﾀだ怪ｼｲ人ｦ怪ｼｲｯﾃ,26,我只是認真，把可疑的人,人工定稿,
+634,0x2de4,dialogue,narrative,言ｯﾃﾙだｹじｬﾅｲｯｽｶ!｣,18,説可疑而已！｣,人工定稿,导入警告: kana_residue
+635,0x2df8,system,system,0679,4,,未翻,
+636,0x2dfd,dialogue,narrative,_1_｢……何だﾄ?｣,15,_1_｢……什麼？｣,人工定稿,导入警告: kana_residue
+637,0x2e0d,system,system,ts,2,,未翻,
+638,0x2e10,dialogue,narrative,｢ｱﾀｼ､ｵ姉ｻﾏﾐﾀｲﾆ頭が良ｲワケじｬﾅｲ｡,31,｢我，不像姐姐大人那麼聰明。,人工定稿,导入警告: kana_residue
+639,0x2e30,dialogue,narrative,だｶﾗ深ｸ考ｴﾙｺﾄﾊ出来ﾅｲｹど……｣,28,所以沒法想得深……｣,人工定稿,导入警告: kana_residue
+640,0x2e50,dialogue,narrative,｢でﾓ､ｱﾀｼﾅﾘﾆ考ｴﾃﾙﾓﾝ!,19,｢但我也在想！,人工定稿,导入警告: kana_residue
+641,0x2e64,dialogue,narrative,ｿﾘｬｵ姉ｻﾏｶﾗ見ﾀﾗ､ﾌざｹﾃﾙﾖｳﾅ,24,在姐姐大人看來，像胡鬧,人工定稿,
+642,0x2e80,dialogue,narrative,バカﾅ考ｴばｶﾘｶﾓｼﾚﾅｲｹど……｣,26,的蠢想法也説不定……｣,人工定稿,导入警告: kana_residue
+643,0x2e9c,dialogue,narrative,｢ｱﾀｼ､真剣だﾓﾝ!｣,15,｢我是認真的！｣,人工定稿,导入警告: kana_residue
+644,0x2eac,dialogue,narrative,美紀ｸﾝが､反論ｼﾃｷﾀ｡,18,美紀反駁道。,人工定稿,
+645,0x2ec0,dialogue,narrative,飼ｲ犬ﾆ手ｦ噛ﾏﾚﾀﾖｳﾅ気分だｯﾀ｡,26,有種被自家狗咬的感覺。,人工定稿,P7 校对修正: 飼い犬に手を噛まれる 去非中文词
+646,0x2edc,dialogue,narrative,自覚でｷﾙﾎど急激ﾆ､,17,自覺地急遽，,人工定稿,
+647,0x2ef0,dialogue,narrative,頭ﾆ血がﾉぼｯﾃｲｸ｡,15,血氣衝上頭。,人工定稿,
+648,0x2f00,system,system,0680,4,,未翻,
+649,0x2f05,dialogue,narrative,_1_｢……ﾜｶｯﾃｲﾙﾝじｬﾅｲｶ｣,22,_1_｢……不是明白了？｣,人工定稿,P7 校对修正: じゃないか 求确认 保问号
+650,0x2f1c,system,system,0681,4,,未翻,
+651,0x2f21,dialogue,narrative,_1_｢自分ﾆ考ｴが足ﾘﾅｲﾄ､,21,_1_｢知道考慮不周，,人工定稿,导入警告: kana_residue
+652,0x2f38,dialogue,narrative,ﾜｶｯﾃｲﾙﾝじｬﾅｲｶ!,14,不是明白了！｣,人工定稿,P7 校对修正: 同上 同形同译
+653,0x2f48,dialogue,narrative,ﾅﾗば大人ｼｸ､私ﾉ言ｳｺﾄｦ聞ｷ入ﾚﾛ!｣,29,那就老實聽我的話！｣,人工定稿,导入警告: kana_residue
+654,0x2f68,dialogue,narrative,｢ｯ……!!｣,9,｢……!!｣,人工定稿,导入警告: kana_residue
+655,0x2f72,dialogue,narrative,0.私ﾊ｡,6,0.我。,人工定稿,
+656,0x2f79,dialogue,narrative,_1_言ｯﾃﾊｲｹﾅｲﾄ思ｯﾃｲﾀ全ﾃｦ｡,24,_1_把覺得不該説的全部。,人工定稿,
+657,0x2f94,dialogue,narrative,ｺｺで吐ｷ出ｽｺﾄﾆｼﾀ｡,16,在此全吐出來。,人工定稿,
+658,0x2fa8,dialogue,narrative,ダメだﾄ思ｲﾅがﾗﾓ｡,16,明知不該。,人工定稿,
+659,0x2fbc,dialogue,narrative,私ﾉ口ﾊ止ﾏﾗﾅｲ｡,13,嘴停不下來。,人工定稿,
+660,0x2fca,system,system,s,1,,未翻,
+661,0x2fcc,system,system,0682,4,,未翻,
+662,0x2fd1,dialogue,narrative,_1_｢大体､人ｦ怪ｼｲﾄ疑ｳ前ﾆ､,24,_1_｢話説，懷疑別人前，,人工定稿,导入警告: kana_residue
+663,0x2fec,dialogue,narrative,美紀ｸﾝ自身ﾊどｳﾅﾉだ?,19,美紀自己又如何？,人工定稿,
+664,0x3000,dialogue,narrative,絶対ﾆ潔白ﾄ言ｴﾙﾉｶ?｣,18,敢説絶對清白？｣,人工定稿,导入警告: kana_residue
+665,0x3014,dialogue,narrative,｢ｱﾀｼが､シリアルキラーだｯﾃ言ｳﾝｽｶ!?｣,34,｢懷疑我是連環殺手！？｣,人工定稿,导入警告: kana_residue
+666,0x3038,system,system,0683,4,,未翻,
+667,0x303d,dialogue,narrative,_1_｢シリアルキラーどｺﾛｶ､,24,_1_｢別説連環殺手，,人工定稿,导入警告: kana_residue
+668,0x3058,dialogue,narrative,君が『X』じｬﾅｲﾄｲｳ保障ｻｴ､,24,連美紀不是『X』的保證，,人工定稿,P7 校对修正: 『X』 标记补回
+669,0x3074,dialogue,narrative,どｺﾆﾓﾅｲだﾛｳ｣,12,都無處尋｣,人工定稿,导入警告: kana_residue
+670,0x3081,system,system,ts,2,,未翻,
+671,0x3084,dialogue,narrative,｢ｵ姉ｻﾏﾊ……ｵ姉ｻﾏﾊ……｡,22,｢姐姐大人…姐姐大人…,人工定稿,导入警告: kana_residue
+672,0x309c,dialogue,narrative,ｳ､ｳｩ……｣,9,嗚、嗚…｣,人工定稿,导入警告: kana_residue
+673,0x30a6,dialogue,narrative,0.ﾏﾙで訴ｴﾙﾖｳﾆ美紀ｸﾝﾊ詰ﾒ寄ﾙが､,29,0.美紀像控訴般逼近，,人工定稿,
+674,0x30c4,dialogue,narrative,私ﾊｿﾚｦ冷ﾔﾔｶﾅ視線で見下ｽ｡,24,我用冰冷視線俯視。,人工定稿,
+675,0x30e0,system,system,0684,4,,未翻,
+676,0x30e5,dialogue,narrative,_1_｢文句がｱﾙﾉｶ?,15,_1_｢有意見？,人工定稿,导入警告: kana_residue
+677,0x30f5,system,system,ts,2,,未翻,
+678,0x30f8,dialogue,narrative,私ﾊ怪ｼｲ者ｦ怪ｼｲﾄ言ｯﾃﾙだｹだ｡,26,我只是把可疑者説成可疑。,人工定稿,
+679,0x3114,dialogue,narrative,君ﾊｿﾚが正ｼｲﾄ思ｳﾉだﾛｳ?｣,22,覺得那樣正確？｣,人工定稿,导入警告: kana_residue
+680,0x312c,dialogue,narrative,｢ｳｩ……ｳﾜｧｧｧｧｧｧｧｧｯ!｣,20,｢嗚……哇哇哇！｣,人工定稿,导入警告: kana_residue
+681,0x3144,dialogue,narrative,｢ｵ姉ｻﾏﾉ､バカーーーーーーッ!!｣,29,｢姐姐大人、笨蛋――!!｣,人工定稿,P7 终轮收口(主謀/双叹/標題/全角叹号)
+682,0x3164,system,system,0685,4,,未翻,
+683,0x3169,dialogue,narrative,_1_｢ﾅｯ､ﾏ､待ﾃｯ!｣,15,_1_｢等、等等！｣,人工定稿,导入警告: kana_residue
+684,0x3179,system,system,ts,2,,未翻,
+685,0x317c,dialogue,narrative,ヒステリーｦ起ｺｼﾀ美紀ｸﾝが､,25,情緒失控的美紀，,人工定稿,
+686,0x3198,dialogue,narrative,拳ｦ投げ出ｽﾖｳﾆｼﾃ,15,把拳頭揮出，,人工定稿,
+687,0x31a8,dialogue,narrative,ポコポコﾄ私ﾉ胸ｦ叩ｲﾃｸﾙ｡,22,一下下捶打我胸口。,人工定稿,
+688,0x31c0,dialogue,narrative,｢バカｵ姉ｻﾏ!,11,｢笨蛋姐姐！,人工定稿,导入警告: kana_residue
+689,0x31cc,dialogue,narrative,ｱﾀｼ､ｵ姉ｻﾏﾊ､ｵ姉ｻﾏだｹﾊ,20,我，以為姐姐大人、,人工定稿,
+690,0x31e4,dialogue,narrative,信じﾃｸﾚﾃﾙｯﾃ､ｿｳ思ｯﾃﾀﾉﾆ……ｯ!｣,28,只有姐姐大人信我……！｣,人工定稿,导入警告: kana_residue
+691,0x3204,system,system,0686,4,,未翻,
+692,0x3209,dialogue,narrative,_1_｢バ､バカﾊ君だ!｣,18,_1_｢笨蛋是美紀！｣,人工定稿,导入警告: kana_residue
+693,0x321c,dialogue,narrative,最低限ﾉ力で美紀ｸﾝﾉ腕ｦﾂｶﾐ､,25,用最小力抓住美紀的手，,人工定稿,
+694,0x3238,dialogue,narrative,制止ｽﾙ｡,7,制止。,人工定稿,
+695,0x3240,dialogue,narrative,だが私でﾊ､彼女ﾉ腕力ﾆﾊ到底ｶﾅﾜﾅｶｯﾀ｡,33,但我的力氣根本敵不過他。,人工定稿,
+696,0x3264,dialogue,narrative,｢ｱﾀｼバカじｬﾅｲｯｽﾓﾝ!,18,｢我才不笨！,人工定稿,导入警告: kana_residue
+697,0x3278,dialogue,narrative,頭悪ｲｹど､バカじｬﾅｲｯｽﾓﾝ!｣,24,頭腦差，但不笨！｣,人工定稿,导入警告: kana_residue
+698,0x3294,system,system,0687,4,,未翻,
+699,0x3299,dialogue,narrative,_1_｢違ｳ!,8,_1_｢不對,人工定稿,导入警告: kana_residue
+700,0x32a2,dialogue,narrative,1_君ﾊ……今自分が､何ｦｼﾃｲﾙﾉｶ,27,1_美紀……知不知道，自己,人工定稿,
+701,0x32c0,dialogue,narrative,ﾜｶｯﾃｲﾙﾉｶ!?｣,11,在做什麼？｣,人工定稿,导入警告: kana_residue
+702,0x32cc,dialogue,narrative,｢ﾜｶｯﾃﾙｯｽﾓﾝ｡ﾜｶｯﾃﾙｯｽﾓﾝ!｣,22,｢我明白。我明白！｣,人工定稿,导入警告: kana_residue
+703,0x32e4,dialogue,narrative,ﾜｶｯﾃｲﾅｲ｡,8,不明白。,人工定稿,
+704,0x32ed,dialogue,narrative,_0.だｯﾃｺﾚﾊ……｡,15,_0.因為這是……,人工定稿,
+705,0x32fd,system,system,ts,2,,未翻,
+706,0x3300,dialogue,narrative,｢ｲﾂｯ……!｣,10,｢好痛…！｣,人工定稿,导入警告: kana_residue
+707,0x330b,dialogue,narrative,.ビクッﾄ一瞬だｹ動ｷﾉ止ﾏｯﾀ美紀ｸﾝﾉ手首､,36,.一瞬間停住動作的美紀的手腕，,人工定稿,
+708,0x3330,dialogue,narrative,例ﾉ腕輪ﾉ下ｶﾗ……｡,17,從那手環下方……,人工定稿,
+709,0x3344,dialogue,narrative,ﾂﾂ､ﾄ鮮血がｼﾀﾀﾘ落ﾁﾙ｡,19,滴、滴鮮血落下。,人工定稿,
+710,0x3358,dialogue,narrative,｢ｴ､何ｺﾚ……｣,12,｢這什麼……｣,人工定稿,终轮省略号统一: 单…→…… x1
+711,0x3365,system,system,ts,2,,未翻,
+712,0x3368,system,system,0688,4,,未翻,
+713,0x336d,dialogue,narrative,_1_｢……反則負ｹ､だ｣,19,_1_｢……違規失敗。｣,人工定稿,导入警告: kana_residue
+714,0x3384,dialogue,narrative,｢ｴｯ……?｣,9,｢欸…？｣,人工定稿,导入警告: kana_residue
+715,0x338e,system,system,0.0689,6,,未翻,
+716,0x3395,dialogue,narrative,_1_｢暴力行為ﾆﾖﾙ反則負ｹだ!｣,26,_1_｢因暴力行為違規失敗！｣,人工定稿,导入警告: kana_residue
+717,0x33b0,dialogue,narrative,｢反則……負ｹｯﾃ……,18,｢違規……失敗……,人工定稿,导入警告: kana_residue
+718,0x33c4,dialogue,narrative,じｬｱ､ﾓｼｶｼﾃ……｣,15,那，難道説……｣,人工定稿,导入警告: kana_residue
+719,0x33d4,system,system,0690,4,,未翻,
+720,0x33d9,dialogue,narrative,_1_｢どｳﾅﾙｶﾊﾜｶﾗﾅｲ｡,17,_1_｢會怎樣不知。,人工定稿,导入警告: kana_residue
+721,0x33ec,dialogue,narrative,だが､最悪ﾉ場合ﾊ……｣,20,但最壞的情況……｣,人工定稿,导入警告: kana_residue
+722,0x3404,dialogue,narrative,｢ｿ……ﾝﾅ……,12,｢怎…麼會…,人工定稿,导入警告: kana_residue
+723,0x3411,system,system,ts,2,,未翻,
+724,0x3414,dialogue,narrative,ｵ姉……ｻﾏ……｣,14,姐…姐大人…｣,人工定稿,导入警告: kana_residue
+725,0x3424,system,system,0691,4,,未翻,
+726,0x3429,dialogue,narrative,_1_｢美紀ｸﾝ､気ｦｼｯｶﾘﾓｯﾃ……｣,26,_1_｢美紀，振作一點……｣,人工定稿,导入警告: kana_residue
+727,0x3444,system,system,0692,4,,未翻,
+728,0x3449,dialogue,narrative,_1_｢……美紀ｸﾝ?｣,16,_1_｢……美紀？｣,人工定稿,导入警告: kana_residue
+729,0x345a,system,system,s,1,,未翻,
+730,0x345c,dialogue,narrative,美紀ｸﾝﾊ何ﾓ答ｴず｡,16,美紀沒有回答。,人工定稿,
+731,0x3470,dialogue,narrative,ﾀだﾌﾗﾘﾄ､倒ﾚｶｶｯﾃｷﾀ｡,18,只是踉蹌欲倒。,人工定稿,
+732,0x3484,system,system,0693,4,,未翻,
+733,0x3489,dialogue,narrative,_1_｢ｵ､ｵｲ､美紀ｸﾝ!?｣,18,_1_｢欸、美紀！？｣,人工定稿,导入警告: kana_residue
+734,0x349c,system,system,0694,4,,未翻,
+735,0x34a1,dialogue,narrative,_1_｢美紀ｸﾝ!?,12,_1_｢美紀！？,人工定稿,导入警告: kana_residue
+736,0x34ae,dialogue,narrative,0.ｵｲ､美紀ｸﾝ!!｣,14,0.美紀!!｣,人工定稿,P7 终轮收口(主謀/双叹/標題/全角叹号)
+737,0x34bd,system,system,ts,2,,未翻,
+738,0x34c0,dialogue,narrative,ロム2_美紀ﾄ口論_美紀死亡後,26,ROM2_與美紀爭執_美紀死後,人工定稿,
+739,0x34dc,dialogue,narrative,息ｦ……ｼﾃｲﾅｲ!?,14,沒有呼吸……!?,人工定稿,
+740,0x34ec,system,system,0695,4,,未翻,
+741,0x34f1,dialogue,narrative,_1_｢美紀ｸﾝ……ｯ!?｣,18,_1_｢美紀……!?｣,人工定稿,导入警告: kana_residue
+742,0x3504,dialogue,narrative,何が起ｺｯﾀﾄｲｳﾉだ｡,16,到底發生什麼事。,人工定稿,
+743,0x3518,dialogue,narrative,ｺﾝﾅ急激ﾆ……,12,如此突然……,人工定稿,
+744,0x3525,system,system,ts,2,,未翻,
+745,0x3528,dialogue,narrative,殺ｼﾃﾓ死ﾅﾅｿｳﾅ美紀ｸﾝが､,21,怎麼都殺不死的美紀，,人工定稿,
+746,0x3540,dialogue,narrative,ｺﾝﾅ……｡,8,竟然……,人工定稿,
+747,0x3549,dialogue,narrative,_0.腕輪ﾉ下ｶﾗ流ﾚ出ﾙ血｡,21,_0.手環下流出的血。,人工定稿,
+748,0x3560,dialogue,narrative,だが失血死ﾆﾊ見ｴﾅｲ｡,18,但不像失血而死。,人工定稿,
+749,0x3574,dialogue,narrative,何ｶ強力ﾅ毒でﾓ注射ｻﾚﾀﾉだﾛｳｶ｡,27,該不會被注射了某種劇毒。,人工定稿,
+750,0x3590,system,system,0696,4,,未翻,
+751,0x3595,dialogue,narrative,_1_｢美紀ｸﾝ……｡,15,_1_｢美紀……。,人工定稿,导入警告: kana_residue
+752,0x35a5,system,system,ts,2,,未翻,
+753,0x35a8,dialogue,narrative,ｽﾏﾅｲ､私が……｣,14,抱歉，是我…｣,人工定稿,导入警告: kana_residue
+754,0x35b8,dialogue,narrative,私が､彼女ｦ信用ｼﾃｲﾚば……｡,25,若我當初相信他就……。,人工定稿,
+755,0x35d4,dialogue,narrative,後悔ﾆ目ｦ伏ｾﾙ｡,13,悔恨垂下眼。,人工定稿,
+756,0x35e2,system,system,s,1,,未翻,
+757,0x35e4,dialogue,narrative,ｾｯｶｸ､ｻｯｷ誰ﾓ死ﾅﾅｶｯﾀﾄｲｳﾉﾆ｡,24,難得剛才誰都沒死。,人工定稿,
+758,0x3600,dialogue,narrative,どｳｼﾃｺﾝﾅ形で､美紀ｸﾝが……｡,26,為什麼美紀會變成這樣……。,人工定稿,
+759,0x361c,system,system,0070,4,,未翻,
+760,0x3621,dialogue,narrative,_1_｢誰ｶ､ｲﾙﾝでｽｶ?,16,_1_｢有誰在那裡?,人工定稿,导入警告: kana_residue
+761,0x3632,system,system,s,1,,未翻,
+762,0x3634,dialogue,narrative,ｻｯｷ声が……ｴｯ!?｣,16,剛才聲音……!?｣,人工定稿,导入警告: kana_residue
+763,0x3648,dialogue,narrative,突如､部屋ﾆ入ｯﾃｷﾀ薫ｻﾝが,22,突然走進房間的薰,人工定稿,
+764,0x3660,dialogue,narrative,私達ｦ見ﾃ目ｦ丸ｸｽﾙ｡,17,看見我們，瞠目。,人工定稿,
+765,0x3674,dialogue,narrative,少ｼ絶句ｼﾃ｡,10,一時語塞。,人工定稿,
+766,0x367f,dialogue,narrative,.美紀ｸﾝﾉ様子ﾄ､手首ｶﾗ流ﾚﾙ血ｦ見ﾃ｡,31,.看著美紀的樣子與手腕流出的血。,人工定稿,
+767,0x36a0,dialogue,narrative,叫ぶ｡,5,喊。,人工定稿,
+768,0x36a6,system,system,1_0071,6,,未翻,
+769,0x36ad,dialogue,narrative,_1_｢ﾋ､人殺ｼ!｣,13,_1_｢殺人犯!｣,人工定稿,导入警告: kana_residue
+770,0x36bb,system,system,.0697,5,,未翻,
+771,0x36c1,dialogue,narrative,_1_｢ﾅ､違ｳ｡,10,_1_｢不對。,人工定稿,导入警告: kana_residue
+772,0x36cc,dialogue,narrative,誤解だ｡ｺﾚﾊ……｣,15,這是誤會……｣,人工定稿,导入警告: kana_residue
+773,0x36dc,system,system,0072,4,,未翻,
+774,0x36e1,dialogue,narrative,_1_｢ｷｬｱｱｱｱｱｱｧｧｧｯ!!｣,19,_1_｢呀呀呀呀呀呀!!｣,人工定稿,导入警告: kana_residue
+775,0x36f8,system,system,0698,4,,未翻,
+776,0x36fd,dialogue,narrative,_1_｢……ｯ!｣,11,_1_｢……!｣,人工定稿,导入警告: kana_residue
+777,0x3709,dialogue,narrative,_0.薫ｻﾝﾊ私ﾉ言葉ﾅど聞ｸ耳持ﾀﾅｲﾄｲｯﾀ様子で,38,_0.薰一副完全聽不進我話的樣子,人工定稿,
+778,0x3730,dialogue,narrative,走ﾘ去ｯﾃｲｯﾃｼﾏｯﾀ｡,15,就這樣走掉了。,人工定稿,
+779,0x3740,system,system,0699,4,,未翻,
+780,0x3745,dialogue,narrative,_1_｢……ｸｯ｡誤解ｻﾚﾃｼﾏｯﾀｶ……｣,28,_1_｢……切。被誤會了……｣,人工定稿,导入警告: kana_residue
+781,0x3764,dialogue,narrative,ｲﾔ､ｱﾙｲﾊ誤解でﾊﾅｲﾉｶﾓｼﾚﾅｲ｡,24,不，或許並非誤會。,人工定稿,
+782,0x3780,dialogue,narrative,彼女ｦ殺ｼﾀﾉﾊ私ﾓ同然だ｡,21,我也形同殺了他。,人工定稿,P7 校对修正: 私も同然だ
+783,0x3798,system,system,0700,4,,未翻,
+784,0x379d,dialogue,narrative,_1_携帯が震ｴﾀ｡,14,_1_手機震了。,人工定稿,
+785,0x37ac,dialogue,narrative,投票ﾉ時間だ｡,12,投票時間到。,人工定稿,
+786,0x37b9,system,system,ts,2,,未翻,
+787,0x37bc,system,system,0701,4,,未翻,
+788,0x37c1,dialogue,narrative,_1_｢……美紀ｸﾝ｡ｽﾏﾅｲﾅ｡,21,_1_｢……美紀。對不起,人工定稿,导入警告: kana_residue
+789,0x37d8,dialogue,narrative,少ｼだｹ待ｯﾃﾃｸﾚﾅｲｶ｣,17,能稍等一下?｣,人工定稿,导入警告: kana_residue
+790,0x37ec,dialogue,narrative,私ﾊｿｯﾄ彼女ｦ床ﾆｵﾛｽﾄ､,19,輕輕把他放到地上，,人工定稿,
+791,0x3800,dialogue,narrative,後ﾛ髪ｦ引ｶﾚﾙ思ｲｦ残ｼﾀﾏﾏ､,22,懷著依依不捨的心情，,人工定稿,
+792,0x3818,dialogue,narrative,投票ホールﾍﾄ向ｶｯﾀ｡,18,前往投票大廳。,人工定稿,
+793,0x382c,dialogue,narrative,投票ホールでﾊ､,14,在投票大廳，,人工定稿,
+794,0x383c,dialogue,narrative,入ﾙﾅﾘ無遠慮ﾅ白ｲ眼で見ﾗﾚﾀ｡,25,一進門就被無禮白眼看待。,人工定稿,
+795,0x3858,dialogue,narrative,本当だ､笹木がｲﾅｲ｡,17,真的，笹木不在。,人工定稿,
+796,0x386c,dialogue,narrative,何ｶｱｯﾀﾝだ｡,10,出事了。,人工定稿,
+797,0x3877,dialogue,narrative,.薫ｻﾝﾉ言ｳｺﾄﾊ本当だｯﾀﾝだ｡,24,.薰説的都是真的。,人工定稿,
+798,0x3890,dialogue,narrative,彼女が人殺ｼﾅﾝだ｡,16,那人就是殺人犯。,人工定稿,
+799,0x38a4,dialogue,narrative,……実際ﾆｿｳﾊ言ｯﾃﾅｶｯﾀｶﾓｼﾚﾅｲ｡,27,……實際上或許沒這麼説。,人工定稿,
+800,0x38c0,dialogue,narrative,だが､ﾋｿﾋｿ話ｽ全ﾃﾉ声が,20,但所有竊竊私語聲,人工定稿,
+801,0x38d8,dialogue,narrative,私ﾆ向ｹﾗﾚﾀ侮蔑でｱﾙｺﾄﾊ確ｶだｯﾀ｡,28,都是針對我的輕蔑。,人工定稿,
+802,0x38f8,dialogue,narrative,ｿｼﾃ――｡,8,然後――,人工定稿,
+803,0x3901,system,system,_0.0702,7,,未翻,
+804,0x3909,dialogue,narrative,_1_｢……投票､ｶ｣,15,_1_｢……投票呀,人工定稿,导入警告: kana_residue
+805,0x3919,system,system,ts,2,,未翻,
+806,0x391c,dialogue,narrative,結局､私ﾊ誰ﾆﾓ事情ｦ話ｽｺﾄﾊでｷﾅｶｯﾀ｡,31,結果，我沒能向任何人説明。,人工定稿,
+807,0x393c,dialogue,narrative,ｿｼﾃ当然ﾅがﾗ,11,理所當然地,人工定稿,
+808,0x3948,dialogue,narrative,美紀ｸﾝが投票ﾆ現ﾚﾙｺﾄﾓﾅｶｯﾀ｡,25,美紀也沒來投票。,人工定稿,P7 校对修正: 現れる 自然化
+809,0x3964,system,system,0703,4,,未翻,
+810,0x3969,dialogue,narrative,_1_｢……美紀ｸﾝ……｣,19,_1_｢……美紀……｣,人工定稿,导入警告: kana_residue
+811,0x3980,dialogue,narrative,……今ﾊ､投票ﾆ集中ｼﾖｳ｡,21,……現在專心投票。,人工定稿,
+812,0x3998,dialogue,narrative,ｿｳ思ｯﾃﾓ､ﾂｲ考ｴﾃｼﾏｳ｡,18,這麼想還是忍不住。,人工定稿,
+813,0x39ac,dialogue,narrative,ｿｼﾃ……｡,8,然後……,人工定稿,
+814,0x39b5,dialogue,narrative,_0.画面ﾊ､探偵タイムﾍ｡,21,_0.畫面進入偵探時間。,人工定稿,
+815,0x39cc,dialogue,narrative,並ﾝだ名前ﾊ……｡,15,排列的名字……,人工定稿,
+816,0x39dc,system,system,0704,4,,未翻,
+817,0x39e1,dialogue,narrative,_1_｢……ﾔﾊﾘﾅ｣,13,_1_｢……果然,人工定稿,导入警告: kana_residue
+818,0x39ef,dialogue,narrative,.ｿｺﾆﾊ『樫沢秀明』ﾄ『浅川楓』ﾉ文字｡,34,.寫著『樫澤秀明』和『淺川楓』。,人工定稿,
+819,0x3a14,dialogue,narrative,ｿﾉ二人だｹ｡,10,只有兩人。,人工定稿,
+820,0x3a1f,system,system,.0705,5,,未翻,
+821,0x3a25,dialogue,narrative,_1_｢……祈ﾙｼｶｱﾙﾏｲ｣,18,_1_｢……只能祈祷,人工定稿,导入警告: kana_residue
+822,0x3a38,dialogue,narrative,ﾄﾘｱｴず『樫沢秀明』ｦ押ｼ､,23,先按下『樫澤秀明』，,人工定稿,
+823,0x3a50,dialogue,narrative,『確認』ｦ押ｽ｡,13,按下『確認』,人工定稿,
+824,0x3a5e,system,system,s,1,,未翻,
+825,0x3a60,dialogue,narrative,『樫沢秀明ﾊシリアルキラーでﾊｱﾘﾏｾﾝ』,35,『樫澤秀明不是連環殺手』,人工定稿,
+826,0x3a84,dialogue,narrative,ｿｳでｽｶ､ﾄ舌打ﾁｽﾙ｡,16,這樣呀，嘖了聲。,人工定稿,
+827,0x3a98,dialogue,narrative,調査ﾊ一向ﾆ進ﾏﾅｲ｡,16,調査毫無進展。,人工定稿,
+828,0x3aac,dialogue,narrative,美紀ｸﾝﾊﾓｳｲﾅｲ｡,13,美紀不在了。,人工定稿,
+829,0x3aba,system,system,s,1,,未翻,
+830,0x3abc,dialogue,narrative,私ﾊ､どｳｽﾚばｲｲﾝだ｡,17,我該怎麼做。,人工定稿,
+831,0x3ad0,dialogue,narrative,どｳｽﾚば……｡,12,該怎麼做……,人工定稿,
+832,0x3add,system,system,ts,2,,未翻,
+833,0x3ae0,dialogue,narrative,ロム2_ﾂﾑじﾆ何ｶｦ吹ｷ込ﾑジャック,29,ROM2_傑克向旋灌輸某事,人工定稿,
+834,0x3b00,dialogue,narrative,美紀ｸﾝﾄｲｳ協力者ｦ得ﾀｺﾄで､,24,得到美紀這個協力者，,人工定稿,
+835,0x3b19,dialogue,narrative,ッπﾝﾉ少ｼだｹ心ﾆ余裕が生ﾏﾚﾀ｡,27,我的心裡稍微有了餘裕。,人工定稿,
+836,0x3b38,dialogue,narrative,ｼｶｼ､油断ﾊ出来ﾅｲ｡,16,但是不能大意。,人工定稿,
+837,0x3b4c,dialogue,narrative,何ｾ､ﾏだシリアルキラーﾔ『X』ﾉ正体ﾊ,33,畢竟連環殺手和『X』的真面目,人工定稿,P7 校对修正: 『X』 标记补回
+838,0x3b70,dialogue,narrative,見当ﾓﾂｲﾃｲﾅｲﾉだｶﾗ……｡,21,還毫無頭緒……。,人工定稿,
+839,0x3b88,system,system,0432,4,,未翻,
+840,0x3b8d,dialogue,narrative,_1_｢ｱ､ｿｳだ､ｵ姉ｻﾏ｣,17,_1_｢對了姐姐大人,人工定稿,导入警告: kana_residue
+841,0x3ba0,system,system,0568,4,,未翻,
+842,0x3ba5,dialogue,narrative,_1_｢ﾝ?｣,7,_1_｢欸｣,人工定稿,导入警告: kana_residue
+843,0x3bad,system,system,_1_0433,7,,未翻,
+844,0x3bb5,dialogue,narrative,_1_｢『探偵』ﾊ指名ｻﾚﾀ人物がﾜｶﾙﾝでｼｮ?,35,_1_｢『偵探』能知道被指名的人，對不?,人工定稿,P7 校对修正: んでしょ 求确认 禁對哦
+845,0x3bdc,dialogue,narrative,ぶｯﾁｬｹ､今ﾏで誰が指名ｻﾚﾃﾀﾝｽｶ?｣,29,説白了，至今誰被指名過?｣,人工定稿,导入警告: kana_residue
+846,0x3bfc,dialogue,narrative,ﾏじﾏじﾄ見ﾂﾒﾗﾚ､私ﾊ言葉ﾆ詰ﾏﾙ｡,27,被直直注視，我語塞了。,人工定稿,
+847,0x3c18,dialogue,narrative,前回ﾉ投票でﾊ､樫沢氏､西野氏､薫ｻﾝ｡,32,上次投票是樫澤、西野、薰。,人工定稿,
+848,0x3c3c,dialogue,narrative,今回ﾉ投票でﾊ､樫沢氏､薫ｻﾝ､ｿｼﾃ……｡,33,這次投票是樫澤、薰，還有……。,人工定稿,
+849,0x3c60,dialogue,narrative,……美紀ｸﾝだ｡,13,……美紀。,人工定稿,
+850,0x3c6e,system,system,s,1,,未翻,
+851,0x3c70,system,system,0569,4,,未翻,
+852,0x3c75,dialogue,narrative,_1_（何故､美紀ｸﾝが狙ﾜﾚﾀ?）,26,_1_（為何美紀會被鎖定?）,人工定稿,
+853,0x3c90,system,system,0434,4,,未翻,
+854,0x3c95,dialogue,narrative,_1_｢西野ﾉｵｯｻﾝﾄ樫沢が指名ｻﾚﾃﾙﾉﾊ,30,_1_｢西野大叔和樫澤被指名,人工定稿,导入警告: kana_residue
+855,0x3cb4,dialogue,narrative,ﾜｶﾙｹど……ｵ姉ｻﾏﾉ口ぶﾘだﾄ,24,明白……但姐姐大人的口氣,人工定稿,
+856,0x3cd0,dialogue,narrative,他ﾆﾓｲﾙｯﾃｺﾄｯｽﾖﾈ?｣,16,還有別人，對不?｣,人工定稿,P7 校对修正: っすよね 求确认 禁對哦
+857,0x3ce4,system,system,0435,4,,未翻,
+858,0x3ce9,dialogue,narrative,_1_｢ｱﾀｼ､ｵ姉ｻﾏﾄﾉ秘密ﾊ､,21,_1_｢我和姐姐大人秘密,人工定稿,导入警告: kana_residue
+859,0x3d00,dialogue,narrative,絶対､誰ﾆﾓ言ﾜﾅｲｼ､教ｴﾃ欲ｼｲｯｽ｣,27,絶不告訴任何人，請告訴我｣,人工定稿,导入警告: kana_residue
+860,0x3d1c,dialogue,narrative,日記ﾉｺﾄﾊ言ｲｿｳﾆﾅｯﾃｲﾀｸｾﾆ……｡,27,明明快説出日記的事了……,人工定稿,
+861,0x3d38,dialogue,narrative,ﾏｧｱﾚﾄﾊ情報ﾉ重要性が違ｲｽぎﾙｶﾗ,28,那和情報的重要性差太多了,人工定稿,
+862,0x3d58,dialogue,narrative,ｻｽがﾆ美紀ｸﾝﾓﾜｶｯﾃｲﾙだﾛｳが｡,25,不愧是美紀，也明白的。,人工定稿,
+863,0x3d74,dialogue,narrative,ｼｶｼ……｡,8,但是……,人工定稿,
+864,0x3d7d,system,system,_0.0570,7,,未翻,
+865,0x3d85,dialogue,narrative,_1_指名ｻﾚﾀ人物ﾆﾂｲﾃﾊ､,20,_1_關於被指名的人，,人工定稿,
+866,0x3d9c,dialogue,narrative,正直､君ﾆ話ｽべｷｶ悩ﾝでｲﾙ｣,23,我猶豫該不該告訴美紀｣,人工定稿,导入警告: kana_residue
+867,0x3db4,system,system,0436,4,,未翻,
+868,0x3db9,dialogue,narrative,_1_｢ｴｰ｡,7,_1_｢欸,人工定稿,导入警告: kana_residue
+869,0x3dc1,dialogue,narrative,_1_ｺﾉ際､ｱﾀｼﾆ全部話ｼﾃ下ｻｲﾖｰ｡,27,_1_這種時候就全部告訴我嘛,人工定稿,
+870,0x3de0,dialogue,narrative,別ﾆ誰が指名ｻﾚﾃﾃﾓ全然､驚ｶﾅｲｯｽ｣,29,不管誰被指名都不會驚訝｣,人工定稿,导入警告: kana_residue
+871,0x3e00,dialogue,narrative,美紀ｸﾝﾉ性格上､事実ｦ知ｯﾀｶﾗﾄ言ｯﾃ､,31,以美紀的個性，就算知道事實，,人工定稿,
+872,0x3e20,dialogue,narrative,恐怖でパニックﾆﾅｯﾀﾘﾊｼﾅｲだﾛｳ｡,28,也不會因恐懼而慌亂。,人工定稿,
+873,0x3e40,dialogue,narrative,ｿﾚでﾓ､心配ｽﾙ点がｱﾙﾄｽﾚば……｡,28,不過若有擔心之處……。,人工定稿,
+874,0x3e60,system,system,0437,4,,未翻,
+875,0x3e65,dialogue,narrative,_1_｢……でﾓ､ｵ姉ｻﾏが指名ｻﾚﾃﾀﾘｼﾀﾗ､,32,_1_｢……但要是姐姐大人被指名，,人工定稿,导入警告: kana_residue
+876,0x3e88,dialogue,narrative,指名ｼﾀ奴フルボッコｯｽｹど!｣,25,指名的混蛋我會狠狠打!｣,人工定稿,导入警告: kana_residue
+877,0x3ea4,dialogue,narrative,美紀ｸﾝﾊ目ﾉ前で,14,美紀就在眼前,人工定稿,
+878,0x3eb4,dialogue,narrative,シュッシュッﾄパンチｦ繰ﾘ広げﾙ｡,29,呼呼揮舞著拳頭。,人工定稿,
+879,0x3ed4,dialogue,narrative,ｿｳ､彼女ﾉ場合､,13,他的情況，,人工定稿,
+880,0x3ee2,system,system,s,1,,未翻,
+881,0x3ee4,dialogue,narrative,指名ｻﾚﾀｺﾄﾆ対ｼﾃ思ﾜず逆上ｼ､,25,對被指名一事忍不住氣憤，,人工定稿,
+882,0x3f00,dialogue,narrative,疑ﾜｼｲ誰ｶﾆ暴力ｦ振ﾙﾜﾅｲｶが､心配ﾅﾉだ｡,33,會不會對可疑的人動粗，才擔心。,人工定稿,
+883,0x3f24,system,system,0571,4,,未翻,
+884,0x3f29,dialogue,narrative,_1_ﾜｶｯﾃｲﾙﾄ思ｳが､仮ﾆ私が指名ｻﾚﾃｲﾃﾓ,33,_1_我想美紀明白，就算我被指名,人工定稿,
+885,0x3f4c,dialogue,narrative,暴力だｹﾊﾔﾒﾃｵｹ｣,14,也別動粗｣,人工定稿,导入警告: kana_residue
+886,0x3f5c,system,system,0572,4,,未翻,
+887,0x3f61,dialogue,narrative,_1_｢ルール違反ﾆﾅﾙｶﾗﾅ｡,21,_1_｢因為會違反規則。,人工定稿,导入警告: kana_residue
+888,0x3f78,dialogue,narrative,反則負ｹ……最悪､ペナルティﾄｼﾃ,29,違規判負……最糟還會,人工定稿,
+889,0x3f98,dialogue,narrative,殺ｻﾚﾙﾄｲｳｺﾄﾓ十分ｱﾘ得ﾙ｣,21,被殺掉也不無可能｣,人工定稿,导入警告: kana_residue
+890,0x3fb0,dialogue,narrative,ｿﾚﾆﾂｲﾃ､私ﾊﾎぼ確信ｦ持ｯﾃｲﾙ｡,25,對此，我幾乎確信。,人工定稿,
+891,0x3fcc,dialogue,narrative,ルールｦ守ｯﾃｲﾃﾓ死ﾇ可能性がｱﾙﾉﾆ,29,就算遵守規則也可能死,人工定稿,
+892,0x3fec,dialogue,narrative,罰ゲームがｿﾚﾖﾘ甘ｲｺﾄﾊｱﾙﾏｲ｡,25,懲罰遊戲不會更輕鬆。,人工定稿,
+893,0x4008,system,system,0438,4,,未翻,
+894,0x400d,dialogue,narrative,_1_｢ﾊｧｰ｡マジ面倒ｸｻｲルールｯｽﾖﾈ!｣,31,_1_｢哈――真是麻煩的規則呀!｣,人工定稿,P7 校对修正: っすよね 共感 → 呀
+895,0x4030,dialogue,narrative,美紀ｸﾝﾊ不満ｿｳﾆ頬ｦ膨ﾗﾏｾﾙが､,26,美紀不滿地鼓起臉，,人工定稿,
+896,0x404c,dialogue,narrative,ｽぐﾆﾏﾀ表情ｦ変ｴﾃ私ｦ見ﾂﾒﾙ｡,24,馬上又換表情注視我。,人工定稿,
+897,0x4068,system,system,0439,4,,未翻,
+898,0x406d,dialogue,narrative,_1_｢……で､誰が指名ｻﾚﾃﾀﾝｽｶ?｣,28,_1_｢……那，誰被指名了?｣,人工定稿,导入警告: kana_residue
+899,0x408c,system,system,0573,4,,未翻,
+900,0x4091,dialogue,narrative,_1_｢……西野氏ﾄ樫沢氏ﾉ他ﾆﾊ､,27,_1_｢……除了西野和樫澤，,人工定稿,导入警告: kana_residue
+901,0x40b0,dialogue,narrative,薫ｻﾝが二回ﾄﾓ指名ｻﾚﾃｲﾀﾅ｣,23,薰兩次都被指名了｣,人工定稿,导入警告: kana_residue
+902,0x40c8,system,system,0440,4,,未翻,
+903,0x40cd,dialogue,narrative,_1_｢ｳﾋｬｰ､薫ｻﾝｯｽｶ! ﾔｯぱアレでｽｶﾈ?,32,_1_｢嗚呀――是薰呀! 果然是那事?｣,人工定稿,导入警告: kana_residue
+904,0x40f0,dialogue,narrative,現役ﾉ警官だｼ､Xﾓ逮捕ｻﾚﾙﾄ,23,現役警官，X也會被抓,人工定稿,
+905,0x4108,dialogue,narrative,ﾁｮｯﾄマズｲﾐﾀｲﾅ?｣,15,有點不妙哦?｣,人工定稿,导入警告: kana_residue
+906,0x4118,system,system,0574,4,,未翻,
+907,0x411d,dialogue,narrative,_1_｢ｿﾚﾊどｳだﾛｳﾅ｡だが私がﾓｼXだｯﾀﾗ､,33,_1_｢這可難説。但如果我是X，,人工定稿,导入警告: kana_residue
+908,0x4140,dialogue,narrative,薫ｻﾝが役職上ﾉ警官でﾓﾅｹﾚば､,26,若薰不是身份上的警官，,人工定稿,
+909,0x415c,dialogue,narrative,最初ｶﾗ狙ｯﾀﾘﾊｼﾅｲだﾛｳ｣,20,一開始就不會鎖定他｣,人工定稿,导入警告: kana_residue
+910,0x4174,system,system,0575,4,,未翻,
+911,0x4179,dialogue,narrative,_1_｢薫ｻﾝが市民ﾅﾗXが勝利ｼﾀ時点で死亡ｽﾙｼ,38,_1_｢若薰是平民，X勝利時就會死,人工定稿,导入警告: kana_residue
+912,0x41a0,dialogue,narrative,薫ｻﾝがシリアルキラーだﾄｼﾀﾗ,26,如果薰是連環殺手,人工定稿,
+913,0x41bc,dialogue,narrative,殺ｽﾄ勝利ﾏでﾉ道が遠ｸﾅﾙだﾛｳｶﾗﾅ｣,29,離殺人勝利的路就遠了｣,人工定稿,导入警告: kana_residue
+914,0x41dc,system,system,0441,4,,未翻,
+915,0x41e1,dialogue,narrative,_1_｢ｱｯ､ｿﾚﾓｿｳｯｽﾈ｣,16,_1_｢呀，説得對｣,人工定稿,导入警告: kana_residue
+916,0x41f2,system,system,s,1,,未翻,
+917,0x41f4,dialogue,narrative,美紀ｸﾝﾊ納得ｼﾀｶﾉﾖｳﾆ手ｦ打ｯﾀ｡,26,美紀像明白似地拍手。,人工定稿,
+918,0x4210,system,system,0576,4,,未翻,
+919,0x4215,dialogue,narrative,_1_｢薫ｻﾝが何故､二度ﾓ指名ｻﾚﾀｶﾊ､,30,_1_｢薰為何兩次都被指名，,人工定稿,导入警告: kana_residue
+920,0x4234,dialogue,narrative,ﾓｳ少ｼ調べﾃﾐﾅｲﾄﾜｶﾗﾅｲﾅ｣,21,不再査一下不會知道｣,人工定稿,导入警告: kana_residue
+921,0x424c,system,system,0442,4,,未翻,
+922,0x4251,dialogue,narrative,_1_｢ｿｳｯｽﾖﾈ｡,11,_1_｢説得對,人工定稿,导入警告: kana_residue
+923,0x425d,dialogue,narrative,_0.ｱ､薫ｻﾝﾆﾊ言ｲﾏｽ?,17,_0.呀，要告訴薰?,人工定稿,
+924,0x4270,dialogue,narrative,気ｦ付ｹﾀ方がｲｲﾖｯﾃ｣,17,要小心點比較好｣,人工定稿,导入警告: kana_residue
+925,0x4284,system,system,0577,4,,未翻,
+926,0x4289,dialogue,narrative,_1_｢ｿﾚｦ伝ｴﾙﾄｲｳｺﾄﾊ､,18,_1_｢把這告訴他，,人工定稿,导入警告: kana_residue
+927,0x429c,dialogue,narrative,私が探偵だﾄ公言ｼﾃﾙﾖｳﾅﾓﾉだぞ｣,28,就等於公開説我是偵探｣,人工定稿,导入警告: kana_residue
+928,0x42bc,system,system,0443,4,,未翻,
+929,0x42c1,dialogue,narrative,_1_｢ｱ､ｿｳｯｽﾈ……｡,16,_1_｢説得對……,人工定稿,导入警告: kana_residue
+930,0x42d2,system,system,s,1,,未翻,
+931,0x42d4,dialogue,narrative,でﾓ､ｳｰﾝ……ﾅﾝﾄｶ警告ｼﾃｱげﾀｲｯｽﾈ｣,30,但是，唔……總想警告他一下｣,人工定稿,导入警告: kana_residue
+932,0x42f4,system,system,0578,4,,未翻,
+933,0x42f9,dialogue,narrative,_1_｢ﾌﾑ｡君ﾅﾗ教ｴﾃ欲ｼｲﾉｶ?｣,23,_1_｢唔。美紀想知道?｣,人工定稿,导入警告: kana_residue
+934,0x4314,system,system,0444,4,,未翻,
+935,0x4319,dialogue,narrative,_1_｢ﾓﾁﾛﾝｯｽﾖ｡,12,_1_｢當然呀。,人工定稿,导入警告: kana_residue
+936,0x4326,dialogue,narrative,0.怖ｲｹど､知ﾗﾅｲ方がﾓｯﾄ怖ｲｯｽﾓﾝ｣,29,0.雖然可怕，但不知道更可怕｣,人工定稿,导入警告: kana_residue
+937,0x4344,system,system,0579,4,,未翻,
+938,0x4349,dialogue,narrative,_1_｢ﾌﾑ……｣,11,_1_｢唔……｣,人工定稿,导入警告: kana_residue
+939,0x4355,dialogue,narrative,_0.ﾔﾊﾘ､彼女ﾆﾊ伝ｴﾃｵｲﾀ方が良ｲだﾛｳﾅ｡,33,_0.果然，還是告訴他比較好。,人工定稿,
+940,0x4378,dialogue,narrative,私ﾊ軽ｸ息ｦ吸込ﾑ｡,15,我輕輕吸口氣。,人工定稿,
+941,0x4388,system,system,0580,4,,未翻,
+942,0x438d,dialogue,narrative,_1_｢……実ﾊﾅ､美紀ｸﾝ｡,20,_1_｢……其實，美紀。,人工定稿,导入警告: kana_residue
+943,0x43a4,dialogue,narrative,ｻｯｷﾉ投票でﾊ､君ﾓ指名ｻﾚﾃｲﾀ｣,25,剛才投票美紀也被指名了｣,人工定稿,导入警告: kana_residue
+944,0x43c0,system,system,0445,4,,未翻,
+945,0x43c5,dialogue,narrative,_1_｢ｴｯ､ｴｴｴｴｴｯ!?｣,16,_1_｢欸欸欸欸!?｣,人工定稿,导入警告: kana_residue
+946,0x43d6,system,system,s,1,,未翻,
+947,0x43d8,system,system,0446,4,,未翻,
+948,0x43dd,dialogue,narrative,_1_｢ﾏ､ﾏﾏﾏ､マジｽｶｰｯ!?｣,21,_1_｢真、真真、真的!?｣,人工定稿,导入警告: kana_residue
+949,0x43f4,system,system,0581,4,,未翻,
+950,0x43f9,dialogue,narrative,_1_｢ｼｯ｡声が大ｷｲ｣,16,_1_｢小聲點!｣,人工定稿,导入警告: kana_residue
+951,0x440a,system,system,s,1,,未翻,
+952,0x440c,system,system,0447,4,,未翻,
+953,0x4411,dialogue,narrative,_1_｢ｱｯ……ﾂｲ……｣,17,_1_｢呀……不小心｣,人工定稿,导入警告: kana_residue
+954,0x4424,dialogue,narrative,美紀ｸﾝﾊ慌ﾃﾃ口元ｦ押ｻｴ､辺ﾘｦ見渡ｽ｡,31,美紀慌張地掩住嘴，環顧四周。,人工定稿,
+955,0x4444,dialogue,narrative,ｿｼﾃ眉ｦﾋｿﾒﾙﾄ小声で話ｼ始ﾒﾀ｡,25,然後皺眉小聲説起話來。,人工定稿,
+956,0x4460,system,system,0448,4,,未翻,
+957,0x4465,dialogue,narrative,_1_｢何でｱﾀｼ!?｣,14,_1_｢為何是我?｣,人工定稿,导入警告: kana_residue
+958,0x4474,system,system,0582,4,,未翻,
+959,0x4479,dialogue,narrative,_1_｢私ﾆﾓ美紀ｸﾝが狙ﾜﾚﾙ理由がﾜｶﾗﾅｲｻ｣,34,_1_｢我也不知道美紀被鎖定的理由｣,人工定稿,导入警告: kana_residue
+960,0x449c,system,system,0449,4,,未翻,
+961,0x44a1,dialogue,narrative,_1_｢ｯﾂｰｶ､ｿﾚｯﾃｱﾀｼが誰ｶﾆ,22,_1_｢那是指我被某人,人工定稿,导入警告: kana_residue
+962,0x44b8,dialogue,narrative,恨ﾏﾚﾃﾙｯﾃｺﾄｯｽﾖﾈ｣,15,被人怨恨的意思｣,人工定稿,导入警告: kana_residue
+963,0x44c8,system,system,0583,4,,未翻,
+964,0x44cd,dialogue,narrative,_1_｢ｲﾔ､断定ﾊ出来ﾅｲ｡,19,_1_｢不，不能斷定。,人工定稿,导入警告: kana_residue
+965,0x44e4,dialogue,narrative,例ｴば西野氏ﾄ君ﾆ共通ｼﾃｲﾙ部分ﾊ,28,比如西野和美紀共同的部分,人工定稿,
+966,0x4504,dialogue,narrative,何だﾄ思ｳ?｣,10,是什麼?｣,人工定稿,导入警告: kana_residue
+967,0x450f,system,system,.0450,5,,未翻,
+968,0x4515,dialogue,narrative,_1_｢ﾍ? ｿﾝﾅﾉﾅｲｯｽﾖ!,17,_1_｢欸? 沒那東西!,人工定稿,导入警告: kana_residue
+969,0x4528,dialogue,narrative,ｱﾙﾄｽﾚば……ｴｰｯﾄ……血液型ﾄｶ?｣,29,要説的話……欸……血型之類?｣,人工定稿,导入警告: kana_residue
+970,0x4548,system,system,0584,4,,未翻,
+971,0x454d,dialogue,narrative,_1_｢ｿﾚが殺ｽ動機ﾆﾂﾅがﾙﾄ思ｳﾉｶ｣,28,_1_｢那會連到殺人動機?,人工定稿,导入警告: kana_residue
+972,0x456c,system,system,0451,4,,未翻,
+973,0x4571,dialogue,narrative,_1_｢だｶﾗﾜｶﾝﾅｲでｽｯﾃ｣,19,_1_｢就説不知道呀｣,人工定稿,导入警告: kana_residue
+974,0x4588,system,system,0585,4,,未翻,
+975,0x458d,dialogue,narrative,_1_｢共通点ﾊ､樫沢氏ﾄ言ｲ争ｯﾃｲﾀｺﾄだﾖ｣,34,_1_｢共通點是，都和樫澤起過爭執｣,人工定稿,导入警告: kana_residue
+976,0x45b0,system,system,0452,4,,未翻,
+977,0x45b5,dialogue,narrative,_1_｢ｱｯ……!,11,_1_｢呀……!,人工定稿,导入警告: kana_residue
+978,0x45c1,dialogue,narrative,_0.ﾄｲｳｺﾄﾊ､ﾔｯぱﾘｱｲﾂ……!｣,24,_0.果然是那混蛋……!｣,人工定稿,导入警告: kana_residue
+979,0x45dc,system,system,0586,4,,未翻,
+980,0x45e1,dialogue,narrative,_1_｢ｲﾔ､ﾑｼﾛ逆でﾊﾅｲｶﾅ｡,20,_1_｢不，説不定相反。,人工定稿,导入警告: kana_residue
+981,0x45f8,dialogue,narrative,私がXだﾄｼﾀﾗ､,12,如果我是X，,人工定稿,
+982,0x4605,system,system,ts,2,,未翻,
+983,0x4608,dialogue,narrative,自分以外ﾄトラブルﾉｱｯﾀ者ｦ指名ｽﾙ｣,31,會指名和自己以外起糾紛的人｣,人工定稿,导入警告: kana_residue
+984,0x4628,system,system,0587,4,,未翻,
+985,0x462d,dialogue,narrative,_1_｢死亡者ﾉ共通点が誰ｶﾄﾉトラブルでｱﾚば,38,_1_｢若死者共通點是與某人的糾紛,人工定稿,导入警告: kana_residue
+986,0x4654,dialogue,narrative,ｿﾉ者が疑ﾜﾚﾙﾉﾊ当然だｶﾗﾅ｡,23,那人被懷疑也是當然的。,人工定稿,
+987,0x466c,dialogue,narrative,隠ﾚﾐﾉﾆﾊﾁｮｳど良ｲだﾛｳ｣,20,正好適合當掩護｣,人工定稿,导入警告: kana_residue
+988,0x4684,system,system,0588,4,,未翻,
+989,0x4689,dialogue,narrative,_1_｢ｿｼﾃ樫沢氏ﾓ頭ﾉ良ｲ男だ｡,25,_1_｢而且樫澤也是聰明人。,人工定稿,导入警告: kana_residue
+990,0x46a4,dialogue,narrative,だｶﾗﾑｼﾛ､樫沢氏でﾊﾅｲﾄ,20,所以反而，不是樫澤,人工定稿,
+991,0x46bc,dialogue,narrative,言ｴﾙﾉでﾊﾅｲｶ?｣,13,才説得通?｣,人工定稿,P7 校对修正: 反而 重复
+992,0x46ca,system,system,s,1,,未翻,
+993,0x46cc,system,system,0453,4,,未翻,
+994,0x46d1,dialogue,narrative,_1_｢ﾑﾑﾑ……だｹど､ｱｲﾂ神経質ｿｳだｼ,31,_1_｢唔唔唔……但那混蛋神經質,人工定稿,导入警告: kana_residue
+995,0x46f4,dialogue,narrative,嫌ｲﾅ奴ﾊ許ｾﾅｸﾃﾄｶ……｣,20,討厭的人無法原諒…｣,人工定稿,导入警告: kana_residue
+996,0x470c,system,system,0589,4,,未翻,
+997,0x4711,dialogue,narrative,_1_｢西野氏ﾊﾄﾓｶｸ､,16,_1_｢西野暫且不論,人工定稿,导入警告: kana_residue
+998,0x4722,system,system,s,1,,未翻,
+999,0x4724,dialogue,narrative,君ﾊ嫌ﾜﾚﾃﾙ感じでﾊﾅｲがﾅ｡,22,美紀倒不像被討厭。,人工定稿,
+1000,0x473c,dialogue,narrative,ﾑｼﾛ可愛がｯﾃﾓﾗｯﾃ――｣,20,反而很受疼愛――｣,人工定稿,导入警告: kana_residue
+1001,0x4754,system,system,0454,4,,未翻,
+1002,0x4759,dialogue,narrative,_1_｢ｱｯ!｣,8,_1_｢呀!｣,人工定稿,导入警告: kana_residue
+1003,0x4762,system,system,1_0590,6,,未翻,
+1004,0x4769,dialogue,narrative,_1_｢どｳｼﾀ?｣,11,_1_｢怎麼了｣,人工定稿,导入警告: kana_residue
+1005,0x4775,system,system,_0.0455,7,,未翻,
+1006,0x477d,dialogue,narrative,_1_｢ジャックｯｽﾖ､ｵ姉ｻﾏ｡,22,_1_｢傑克呀，姐姐大人。,人工定稿,导入警告: kana_residue
+1007,0x4794,dialogue,narrative,ｱｲﾂﾅﾗ､薫ｻﾝﾓ苦手だﾛｳｼ,20,那家夥連薰也難應付,人工定稿,
+1008,0x47ac,dialogue,narrative,樫沢ｦ陥ﾚﾖｳﾄｽﾙ理由ﾓｱﾙｯｽ!｣,24,也有想陷害樫澤的理由!｣,人工定稿,导入警告: kana_residue
+1009,0x47c8,system,system,0591,4,,未翻,
+1010,0x47cd,dialogue,narrative,_1_｢ﾌﾑ……ﾀｼｶﾆｿｳだﾛｳが……,26,_1_｢唔……確實是那樣……,人工定稿,导入警告: kana_residue
+1011,0x47e8,dialogue,narrative,両方ﾄｲｳｺﾄﾊﾅｲぞ｣,15,不可能兩邊都是｣,人工定稿,导入警告: kana_residue
+1012,0x47f8,system,system,0456,4,,未翻,
+1013,0x47fd,dialogue,narrative,_1_｢ｴｯ!? ﾅﾝで!?｣,16,_1_｢欸!為什麼!?｣,人工定稿,导入警告: kana_residue
+1014,0x480e,system,system,s,1,,未翻,
+1015,0x4810,system,system,0592,4,,未翻,
+1016,0x4815,dialogue,narrative,_1_｢両方ｦジャック氏がﾔｯﾃｲﾀﾄｼﾀﾗ,30,_1_｢如果兩邊都是傑克做的話,人工定稿,导入警告: kana_residue
+1017,0x4834,dialogue,narrative,彼ﾊ一人で二票入ﾚﾃｲﾙｺﾄﾆﾅﾙぞ｣,27,他就等於一個人投了兩票｣,人工定稿,导入警告: kana_residue
+1018,0x4850,system,system,0457,4,,未翻,
+1019,0x4855,dialogue,narrative,_1_｢ｱ……｣,10,_1_｢哦…｣,人工定稿,导入警告: kana_residue
+1020,0x4860,system,system,0593,4,,未翻,
+1021,0x4865,dialogue,narrative,_1_｢二度ﾉ投票ｦ通じﾃ､西野氏､薫ｻﾝ､,32,_1_｢透過兩次投票，西野、薰，,人工定稿,导入警告: kana_residue
+1022,0x4888,dialogue,narrative,ｿｼﾃ美紀ｸﾝが指名ｻﾚﾃｲﾙﾄｲｳｺﾄﾊ……｣,31,然後美紀被指名，這表示……｣,人工定稿,导入警告: kana_residue
+1023,0x48a8,system,system,0594,4,,未翻,
+1024,0x48ad,dialogue,narrative,_1_｢少ﾅｸﾄﾓ樫沢氏ﾉ提案ﾆ乗ﾗﾅｶｯﾀ人が,33,_1_｢至少沒搭上樫澤提案的人,人工定稿,导入警告: kana_residue
+1025,0x48d0,dialogue,narrative,二人以上ｲﾙｺﾄﾆﾅﾙ｣,16,有兩個以上｣,人工定稿,导入警告: kana_residue
+1026,0x48e4,dialogue,narrative,ｿﾚﾊシリアルキラーﾉ優先権が,26,從連環殺手的優先權,人工定稿,P7 校对修正: ことからも 句序纠正
+1027,0x4900,dialogue,narrative,発動ｼﾀでｱﾛｳｺﾄｶﾗﾓ確実だ｡,23,發動這點來看也確實。,人工定稿,P7 校对修正: 同上
+1028,0x4918,system,system,0595,4,,未翻,
+1029,0x491d,dialogue,narrative,_1_｢ｿﾉ状態でジャック氏だｹｦ疑ｳﾉﾊ､,32,_1_｢在這種状態只懷疑傑克，,人工定稿,导入警告: kana_residue
+1030,0x4940,dialogue,narrative,少々浅ﾊｶだﾅ｣,12,太膚淺了｣,人工定稿,导入警告: kana_residue
+1031,0x494d,system,system,ts,2,,未翻,
+1032,0x4950,system,system,0458,4,,未翻,
+1033,0x4955,dialogue,narrative,_1_｢……でﾓ怪ｼｲﾉﾆﾊ間違ｲﾅｲｯｽ｣,28,_1_｢……但可疑這點錯不了｣,人工定稿,导入警告: kana_residue
+1034,0x4974,dialogue,narrative,美紀ｸﾝﾊ不服ｿｳﾆ呟ｷ､恨ﾐがﾏｼｲ視線で,32,美紀不服地喃喃，用怨恨視線,人工定稿,
+1035,0x4998,dialogue,narrative,私ｦ見上げﾀ｡,11,仰視著我。,人工定稿,
+1036,0x49a4,system,system,0596,4,,未翻,
+1037,0x49a9,dialogue,narrative,_1_｢君がｿｳ思ｲﾀｸﾅﾙ気持ﾁﾓﾜｶﾗﾅｸﾓﾅｲ｡,32,_1_｢美紀會那麼想的心情我也明白。,人工定稿,导入警告: kana_residue
+1038,0x49cc,dialogue,narrative,だが､推測だｹでﾊ断定ﾓ出来ﾅｲｻ｣,28,但是光靠推測不能斷定｣,人工定稿,导入警告: kana_residue
+1039,0x49ec,system,system,0459,4,,未翻,
+1040,0x49f1,dialogue,narrative,_1_｢……だｯﾀﾗｱﾀｼ､,17,_1_｢……那我，,人工定稿,导入警告: kana_residue
+1041,0x4a04,dialogue,narrative,ｱｲﾂﾆ直接聞ｲﾃｸﾙ!｣,16,直接去問那家夥!｣,人工定稿,导入警告: kana_residue
+1042,0x4a18,system,system,0597,4,,未翻,
+1043,0x4a1d,dialogue,narrative,_1_｢……ﾊ?｣,11,_1_｢…哈?｣,人工定稿,导入警告: kana_residue
+1044,0x4a29,system,system,_0.0460,7,,未翻,
+1045,0x4a31,dialogue,narrative,_1_｢ｿｳでﾓｼﾅｲﾄ､落ﾁ着ｶﾅｲｯｽ!｣,26,_1_｢不那麼做我靜不下心!｣,人工定稿,导入警告: kana_residue
+1046,0x4a4c,dialogue,narrative,ｿｳ言ｳﾄ美紀ｸﾝﾊ､,14,美紀這麼一説，,人工定稿,
+1047,0x4a5c,dialogue,narrative,ジャック氏がｲﾙでｱﾛｳ休憩所ﾍ向ｶｯﾀ｡,32,就朝傑克在的休息處走去。,人工定稿,
+1048,0x4a80,system,system,0598,4,,未翻,
+1049,0x4a85,dialogue,narrative,_1_｢待ﾃ､美紀ｸﾝ!!,16,_1_｢等等，美紀!!,人工定稿,导入警告: kana_residue
+1050,0x4a96,system,system,s,1,,未翻,
+1051,0x4a98,dialogue,narrative,一体､どｳ聞ｸﾂﾓﾘだ!?｣,19,到底打算怎麼問!?｣,人工定稿,导入警告: kana_residue
+1052,0x4aac,dialogue,narrative,私ﾊ慌ﾃﾃ彼女ﾉｱﾄﾆ続ｲﾀ｡,20,我慌張跟在美紀後面。,人工定稿,
+1053,0x4ac4,dialogue,narrative,……ﾔﾚﾔﾚ｡,9,真是的。,人工定稿,
+1054,0x4ace,dialogue,narrative,0.本当ﾆ信用ｼﾃ大丈夫だｯﾀﾉだﾛｳｶ｡,30,0.真的能放心相信他?,人工定稿,
+1055,0x4af0,dialogue,narrative,ｱﾉ行動力ﾆ足ｦｽｸﾜﾚﾅｲﾄ良ｲが……｡,29,別被那行動力連累就好……。,人工定稿,
+1056,0x4b10,dialogue,narrative,ロム2_ﾂﾑじﾆ何ｶｦ吹ｷ込ﾑジャック_休憩所,36,ROM2_傑克向旋灌輸某事_休息處,人工定稿,P7 校对修正: 与 833 标签统一 某事
+1057,0x4b38,dialogue,narrative,美紀ｸﾝﾄﾄﾓﾆ休憩所ﾆ行ｸﾄ､,22,跟美紀一起到休息處，,人工定稿,
+1058,0x4b4f,dialogue,narrative,ャWャック氏ﾊﾔﾀﾗﾄ,16,傑克老是,人工定稿,
+1059,0x4b60,dialogue,narrative,ﾂﾑじｸﾝﾆベタベタｸｯﾂｲﾃｲﾀ｡,23,緊黏著旋不放。,人工定稿,
+1060,0x4b78,dialogue,narrative,ｱｱ見ｴﾃ実ﾊ子どﾓ好ｷ……,21,看不出來喜歡小孩……,人工定稿,P7 校对修正: ああ見えて 漏译补足
+1061,0x4b90,dialogue,narrative,ﾄﾓ思ｴﾅｲﾅ｡,9,想不到。,人工定稿,
+1062,0x4b9a,dialogue,narrative,0.ﾂﾑじｸﾝﾊ意ﾆ介ｻず……,21,0.旋毫不在意……,人工定稿,
+1063,0x4bb0,dialogue,narrative,ｲﾔ､意図的ﾆ無視ｼﾃｲﾙﾖｳﾆ見ｴﾙが､,28,不，看起來像故意無視，,人工定稿,
+1064,0x4bd0,dialogue,narrative,ジャック氏ﾊｼｷﾘﾆ何ｶｦ話ｼｶｹﾃｲﾙ｡,28,傑克不停地找他搭話。,人工定稿,
+1065,0x4bf0,system,system,0046,4,,未翻,
+1066,0x4bf5,dialogue,narrative,_1_｢ﾅｧ､ﾂﾑじｸﾝﾖｫ｡,16,_1_｢欸，旋呀。,人工定稿,导入警告: kana_residue
+1067,0x4c06,system,system,s,1,,未翻,
+1068,0x4c08,dialogue,narrative,オレﾊﾜｶﾙぜ､ｵ前ﾉ気持ﾁがﾖｫ｡,25,我明白咯，旋的心情。,人工定稿,P7 校对修正: だぜ→咯
+1069,0x4c24,dialogue,narrative,ﾌﾋｬﾋｬﾋｬﾋｬ｣,10,桀桀桀桀｣,人工定稿,导入警告: kana_residue
+1070,0x4c2f,system,system,.0023,5,,未翻,
+1071,0x4c35,system,system,_1_0047,7,,未翻,
+1072,0x4c3d,dialogue,narrative,_1_｢ﾌﾋｬﾋｬ､何ﾓ言ﾜﾅｸﾃﾓ顔ﾆ出ﾃﾙぜｪ｡,31,_1_｢桀桀，不用説都寫在臉上。,人工定稿,导入警告: kana_residue
+1073,0x4c60,dialogue,narrative,ﾅｧﾆオレだｯﾃ最初ﾊｿﾝﾅ顔ﾓｼﾀﾓﾝｻ｣,28,我一開始也擺過那種表情｣,人工定稿,导入警告: kana_residue
+1074,0x4c80,system,system,0024,4,,未翻,
+1075,0x4c85,dialogue,narrative,_1_ジャック氏ﾊ小柄ﾅﾂﾑじｸﾝﾉ肩ﾆ手ｦｶｹﾅがﾗ,38,_1_傑克把手搭在矮小旋肩上，,人工定稿,
+1076,0x4cac,dialogue,narrative,ニヤニヤﾄ笑ｯﾃｲﾙ｡,16,不懷好意地笑著。,人工定稿,
+1077,0x4cc0,system,system,0461,4,,未翻,
+1078,0x4cc5,dialogue,narrative,_1_｢ｱｲﾂ､何､話ｼﾃﾙﾝｽｶﾈｪ?｣,23,_1_｢那家夥在説什麼?｣,人工定稿,导入警告: kana_residue
+1079,0x4ce0,system,system,0599,4,,未翻,
+1080,0x4ce5,dialogue,narrative,_1_｢ｻｱﾅ｡,8,_1_｢難説,人工定稿,导入警告: kana_residue
+1081,0x4cee,dialogue,narrative,1_ｼｶｼ世間話ｦｽﾙ組ﾐ合ﾜｾﾄﾓ思ｴﾝ｡,28,1_不過也不像聊家常的組合。,人工定稿,
+1082,0x4d0c,dialogue,narrative,少ｼ様子ｦ見ﾃﾐﾙｶ……｣,19,稍微觀察看看……｣,人工定稿,导入警告: kana_residue
+1083,0x4d20,dialogue,narrative,珍ｼｸﾊﾙｶｸﾝがｲﾅｲｺﾄｶﾗﾓ､,20,從難得遙不在這點，,人工定稿,
+1084,0x4d38,dialogue,narrative,ﾂﾑじｸﾝが逃がｼﾀｶ自ﾗ逃げ出ｼﾀﾄ,27,不是旋放走的，就自己逃走,人工定稿,P7 校对修正: 逃がしたか自ら逃げ出した 二择
+1085,0x4d54,dialogue,narrative,推察でｷﾙ｡,9,能推斷。,人工定稿,
+1086,0x4d5e,dialogue,narrative,0.ﾄﾅﾚば､話ﾉ内容ﾓ際どｲﾓﾉでｱﾙ可能性が,35,0.那麼談話内容也很露骨的可能性,人工定稿,
+1087,0x4d84,dialogue,narrative,高ｲだﾛｳ｡,8,很高。,人工定稿,
+1088,0x4d8d,dialogue,narrative,_0.ｻﾘげﾅｸ､話がﾖｸ聞ｺｴﾙ距離ﾏで近づｸ｡,34,_0.不動聲色靠近到能聽清的距離。,人工定稿,
+1089,0x4db0,system,system,0048,4,,未翻,
+1090,0x4db5,dialogue,narrative,_1_｢ｵｲｺﾗ､聞ｲﾃﾝﾉｶ?｣,18,_1_｢欸，有在聽?｣,人工定稿,导入警告: kana_residue
+1091,0x4dc8,system,system,0025,4,,未翻,
+1092,0x4dcd,system,system,_1_0049,7,,未翻,
+1093,0x4dd5,dialogue,narrative,_1_｢ｲｲ度胸だ｡ｱｱ､ｿｳｲﾔﾖｫ｡,23,_1_｢有膽量。哦對了。,人工定稿,导入警告: kana_residue
+1094,0x4df0,dialogue,narrative,ｵ前ﾉ妹ｻﾝ､ﾊﾙｶﾁｬﾝｶ?,17,妹妹，小遙?,人工定稿,
+1095,0x4e04,dialogue,narrative,可愛ｶｯﾀﾅｧ｡ｴｪ?｣,14,真可愛呀。欸?｣,人工定稿,导入警告: kana_residue
+1096,0x4e14,system,system,0026,4,,未翻,
+1097,0x4e19,dialogue,narrative,_1_｢……!｣,10,_1_｢……!｣,人工定稿,导入警告: kana_residue
+1098,0x4e24,system,system,0462,4,,未翻,
+1099,0x4e29,dialogue,narrative,_1_｢ｱｲﾂ……!,12,_1_｢那家夥!,人工定稿,导入警告: kana_residue
+1100,0x4e36,dialogue,narrative,0.ﾁｮｯﾄｱﾀｼ､行ｯﾃｷﾏｽ!｣,19,0.我稍微去一下!｣,人工定稿,导入警告: kana_residue
+1101,0x4e4c,system,system,0600,4,,未翻,
+1102,0x4e51,dialogue,narrative,_1_｢待ﾃ｡でｼｬばﾗﾅｲ方がｲｲ｣,24,_1_｢等等。別出面比較好,人工定稿,导入警告: kana_residue
+1103,0x4e6c,system,system,0463,4,,未翻,
+1104,0x4e71,dialogue,narrative,_1_｢ｹど……!｣,13,_1_｢可是…!｣,人工定稿,导入警告: kana_residue
+1105,0x4e7f,dialogue,narrative,.正義感ﾉ強ｲ彼女ﾉｺﾄだ｡,21,.美紀正義感很強。,人工定稿,
+1106,0x4e98,dialogue,narrative,行ｷﾀｲ気持ﾁﾊﾜｶﾙが……｡,21,想去的心情我明白……,人工定稿,
+1107,0x4eb0,dialogue,narrative,私ﾊ美紀ｸﾝﾆｿｯﾄ耳打ﾁｽﾙ｡,21,我悄悄對美紀耳語。,人工定稿,
+1108,0x4ec8,system,system,0601,4,,未翻,
+1109,0x4ecd,dialogue,narrative,_1_｢君ﾊｻｯｷ指名ｻﾚﾃｲﾀﾉだぞ｡,25,_1_｢美紀剛才被指名了哦。,人工定稿,导入警告: kana_residue
+1110,0x4ee8,dialogue,narrative,目立ﾂｺﾄﾊｽﾙﾅ｣,12,別引人注目｣,人工定稿,导入警告: kana_residue
+1111,0x4ef5,system,system,ts,2,,未翻,
+1112,0x4ef8,system,system,0464,4,,未翻,
+1113,0x4efd,dialogue,narrative,_1_｢ﾑﾑｩ……｣,12,_1_｢唔……｣,人工定稿,导入警告: kana_residue
+1114,0x4f0a,system,system,0.0602,6,,未翻,
+1115,0x4f11,dialogue,narrative,_1_｢ｿﾚﾆ､君が行ｶﾅｸﾃﾓ､ﾎﾗ｣,23,_1_｢就算美紀不去，看,人工定稿,导入警告: kana_residue
+1116,0x4f2c,dialogue,narrative,ジャック氏達ﾉ方ﾆ､,17,傑克他們那邊，,人工定稿,
+1117,0x4f40,dialogue,narrative,薫ｻﾝがﾂｶﾂｶﾄ歩ｲﾃ行ｯﾃｲﾀ｡,22,薰大歩走了過去。,人工定稿,
+1118,0x4f58,system,system,0058,4,,未翻,
+1119,0x4f5d,dialogue,narrative,_1_｢ﾔﾒﾅｻｲ!｣,11,_1_｢住手!｣,人工定稿,导入警告: kana_residue
+1120,0x4f69,dialogue,narrative,_0.彼女がﾂﾑじｸﾝｦ庇ｳﾖｳﾆ間ﾆ入ﾙﾄ､,30,_0.薰護著旋插進中間，,人工定稿,
+1121,0x4f88,dialogue,narrative,ﾂﾑじｸﾝﾊ何事ﾓﾅｶｯﾀｶﾉﾖｳﾆ,21,旋像什麼都沒發生一樣,人工定稿,
+1122,0x4fa0,dialogue,narrative,ジャック氏ｶﾗ逃げﾃｲｸ｡,20,從傑克身邊逃走了。,人工定稿,
+1123,0x4fb8,dialogue,narrative,残ｻﾚﾀジャック氏ﾄ薫ｻﾝで,22,剩下的傑克和薰,人工定稿,
+1124,0x4fd0,dialogue,narrative,何ﾔﾗ一触即発ﾉ雰囲気ﾆﾅｯﾃｲﾙが,27,氣氛變得一觸即發，,人工定稿,
+1125,0x4fec,dialogue,narrative,ﾏｧｱﾚﾊｲﾂﾓﾉｺﾄだﾄｼﾃ……｡,21,嘛，就當家常便飯……,人工定稿,
+1126,0x5004,system,system,0603,4,,未翻,
+1127,0x5009,dialogue,narrative,_1_｢ｻｯｷﾉ話､少ｼ気ﾆﾅﾙﾅ｣,21,_1_｢剛才的話有點在意,人工定稿,导入警告: kana_residue
+1128,0x5020,system,system,0465,4,,未翻,
+1129,0x5025,dialogue,narrative,_1_｢ｴ､どﾚｯｽｶ?｣,14,_1_｢欸，什麼?｣,人工定稿,P7 校对修正: どれ 误译为何事
+1130,0x5034,system,system,0604,4,,未翻,
+1131,0x5039,dialogue,narrative,_1_｢ジャック氏がﾂﾑじｸﾝﾆ言ｯﾃｲﾀｺﾄだ｡,34,_1_｢傑克剛才對旋説的話。,人工定稿,导入警告: kana_residue
+1132,0x505c,dialogue,narrative,深ｲ意味がｱﾘｿｳだｯﾀだﾛ｣,21,好像有很深含義｣,人工定稿,导入警告: kana_residue
+1133,0x5074,system,system,0466,4,,未翻,
+1134,0x5079,dialogue,narrative,_1_｢ｳｰﾝ､ｱﾀｼﾊﾀだイジメﾃﾙﾖｳﾆｼｶ,28,_1_｢唔，我只覺得像在欺負,人工定稿,P7 校对修正: …ようにしか見えなかった
+1135,0x5098,dialogue,narrative,見ｴﾅｶｯﾀｯｽｹど……｣,17,看不出別的……｣,人工定稿,P7 校对修正: 同上
+1136,0x50ac,system,system,0605,4,,未翻,
+1137,0x50b1,dialogue,narrative,_1_｢ﾌﾑ｡少ｼ話ｦ聞ｷﾆ行ｯﾃﾐﾖｳｶ｣,26,_1_｢唔。稍微去打聽看看,人工定稿,导入警告: kana_residue
+1138,0x50cc,system,system,0467,4,,未翻,
+1139,0x50d1,dialogue,narrative,_1_｢ｳｲｽ!｣,9,_1_｢好!｣,人工定稿,导入警告: kana_residue
+1140,0x50db,dialogue,narrative,_ｻﾃ､入ﾘ込ﾒﾙ隙がｱﾚばｲｲが……｡,28,_那麼，有機會插進去就好……,人工定稿,
+1141,0x50f8,system,system,0059,4,,未翻,
+1142,0x50fd,dialogue,narrative,_1_｢ｲｲでｽｶ!,11,_1_｢聽好!,人工定稿,导入警告: kana_residue
+1143,0x5109,dialogue,narrative,_0.今度同じｺﾄｦｼﾀﾗ､逮捕でｽｶﾗﾈ!｣,30,_0.下次再做同樣事就逮捕哦!｣,人工定稿,导入警告: kana_residue
+1144,0x5128,system,system,0050,4,,未翻,
+1145,0x512d,dialogue,narrative,_1_｢ｱｰ､ｳﾙｾｪﾅ｡キィキィ喚ｸﾝじｬﾈｪﾖ!,32,_1_｢哦，鬧死了。別尖叫!,人工定稿,导入警告: kana_residue
+1146,0x5150,dialogue,narrative,ｱﾝﾏﾘｳﾙｾｪﾄ､,10,太鬧的話，,人工定稿,
+1147,0x515b,dialogue,narrative,.ｿﾉ喉元ｶｯ切ﾘﾀｸﾅﾙだﾛｫ!｣,22,.就會想割開咽喉哦!｣,人工定稿,导入警告: kana_residue
+1148,0x5174,system,system,0060,4,,未翻,
+1149,0x5179,dialogue,narrative,_1_｢ッ!!｣,9,_1_｢!!｣,人工定稿,导入警告: kana_residue
+1150,0x5183,dialogue,narrative,_物騒ﾅ言葉ﾆ薫ｻﾝﾊｽｯｶﾘﾄ黙ﾘ込ﾝでｼﾏｳ｡,33,_面對危險話，薰完全沈默了。,人工定稿,
+1151,0x51a8,system,system,0051,4,,未翻,
+1152,0x51ad,dialogue,narrative,_1_｢何だ､何だァ?,16,_1_｢怎麼，怎麼?,人工定稿,导入警告: kana_residue
+1153,0x51be,system,system,s,1,,未翻,
+1154,0x51c0,dialogue,narrative,ﾓｳだﾝﾏﾘｶｧ? ﾂﾏﾝﾈｪﾅ!｣,19,已經沈默了?真沒勁!｣,人工定稿,导入警告: kana_residue
+1155,0x51d4,system,system,0468,4,,未翻,
+1156,0x51d9,dialogue,narrative,_1_｢相変ﾜﾗずだﾈ､ｵｯｻﾝ!｣,22,_1_｢還是老樣子，大叔!,人工定稿,导入警告: kana_residue
+1157,0x51f0,dialogue,narrative,薫ｻﾝｦ庇ｳﾖｳﾆ､,12,護著薰般，,人工定稿,
+1158,0x51fd,system,system,ts,2,,未翻,
+1159,0x5200,dialogue,narrative,美紀ｸﾝが入ﾘ込ﾝでｲｯﾀ｡,20,美紀插了進來。,人工定稿,
+1160,0x5218,system,system,0052,4,,未翻,
+1161,0x521d,dialogue,narrative,_1_｢次ﾊ､ｵ嬢ﾁｬﾝｶ!,16,_1_｢輪到小姐?,人工定稿,导入警告: kana_residue
+1162,0x522e,system,system,s,1,,未翻,
+1163,0x5230,dialogue,narrative,ｱﾝﾀﾓ元気だﾅｧ!,13,也挺有精神!,人工定稿,
+1164,0x523e,system,system,s,1,,未翻,
+1165,0x5240,dialogue,narrative,ﾌﾋｬﾋｬﾋｬﾋｬｯ!｣,12,桀桀桀桀!｣,人工定稿,导入警告: kana_residue
+1166,0x524d,system,system,ts,2,,未翻,
+1167,0x5250,system,system,0469,4,,未翻,
+1168,0x5255,dialogue,narrative,_1_｢だｶﾗ､ｿﾉ下品ﾅ笑ｲ方､何ﾄｶﾅﾝﾅｲ?｣,32,_1_｢所以説，那下流笑法不能改?｣,人工定稿,导入警告: kana_residue
+1169,0x5278,dialogue,narrative,美紀ｸﾝﾊｳﾝざﾘﾄｼﾀ顔でジャック氏ｦ見ﾔﾙ｡,35,美紀露出厭煩表情看向傑克。,人工定稿,
+1170,0x529c,dialogue,narrative,ｿﾝﾅ彼女ﾉ表情ｦジャック氏ﾊ舐ﾒﾙﾖｳﾅ視線で,37,傑克用垂涎的視線,人工定稿,P7 校对修正: 舐めるような視線 去单字舐
+1171,0x52c4,dialogue,narrative,見下ﾛｼﾃｲﾀ｡,10,俯視著。,人工定稿,
+1172,0x52cf,system,system,.0053,5,,未翻,
+1173,0x52d5,dialogue,narrative,_1_｢ｲｲﾈｪ｡ｿﾉ汚ｲﾓﾉｦ見下ｽ目!,25,_1_｢不錯。那俯視穢物的眼!,人工定稿,导入警告: kana_residue
+1174,0x52f0,dialogue,narrative,ﾀﾏﾝﾈｪﾖ!｣,8,受不了!｣,人工定稿,导入警告: kana_residue
+1175,0x52f9,system,system,_0.0054,7,,未翻,
+1176,0x5301,dialogue,narrative,_1_｢ｱﾝﾀﾐﾀｲﾅクソ生意気ﾅｵ嬢ﾁｬﾝが､,31,_1_｢像這種囂張的小姐，,人工定稿,导入警告: kana_residue
+1177,0x5324,dialogue,narrative,どﾝﾅ風ﾆ殺ｻﾚﾃｲｸﾉｶ……｡,21,會怎麼被殺掉……。,人工定稿,
+1178,0x533c,dialogue,narrative,想像ｽﾙだｹでﾓ興奮ｼﾁﾏｳﾖォ!｣,25,光想像就興奮了哦!｣,人工定稿,导入警告: kana_residue
+1179,0x5358,system,system,0470,4,,未翻,
+1180,0x535d,dialogue,narrative,_1_｢ｳﾋｬｰ……ｿｳｲｳﾉ､マジでキモイﾝだｹど｣,37,_1_｢嗚呀……那種真的很惡心,人工定稿,导入警告: kana_residue
+1181,0x5384,dialogue,narrative,ジャック氏ﾉ言葉ﾊ､ｲﾁｲﾁ美紀ｸﾝﾉ神経ｦ,33,傑克的話句句都讓美紀,人工定稿,P7 校对修正: 与下行合为一句
+1182,0x53a8,dialogue,narrative,逆ﾅでｼﾃｲﾙ｡,10,火冒三丈。,人工定稿,P7 校对修正: 逆なでしている 去重复
+1183,0x53b3,dialogue,narrative,.……ｺﾉ二人､相性ﾊ最悪だﾅ｡,25,.……這兩個人真合不來。,人工定稿,
+1184,0x53d0,system,system,0606,4,,未翻,
+1185,0x53d5,dialogue,narrative,_1_｢落ﾁ着ｹ､美紀ｸﾝ｡,18,_1_｢冷靜點，美紀。,人工定稿,导入警告: kana_residue
+1186,0x53e8,dialogue,narrative,私達ﾊ喧嘩ｦｼﾆ来ﾀﾜｹでﾊﾅｲだﾛｳ?｣,28,我們不是來爭執的?｣,人工定稿,导入警告: kana_residue
+1187,0x5408,system,system,0471,4,,未翻,
+1188,0x540d,dialogue,narrative,_1_｢ﾁｮ､ｵ姉ｻﾏ｡ｱﾀｼﾉｾｲじｬﾅｲｯｽ!,27,_1_｢等，姐姐大人。不是我錯!,人工定稿,导入警告: kana_residue
+1189,0x542c,dialogue,narrative,コイツが余計ﾅコトばｶﾘ言ｳｶﾗ……!｣,32,是這家夥老説多餘的話……!｣,人工定稿,导入警告: kana_residue
+1190,0x5450,system,system,0061,4,,未翻,
+1191,0x5455,dialogue,narrative,_1_｢ﾁ､ﾁｮｯﾄ､ｱﾅﾀ達……!｣,22,_1_｢等等，大家……!,人工定稿,导入警告: kana_residue
+1192,0x546c,system,system,0607,4,,未翻,
+1193,0x5471,dialogue,narrative,_1_｢ｽﾐﾏｾﾝ､薫ｻﾝ｡,15,_1_｢抱歉，薰。,人工定稿,导入警告: kana_residue
+1194,0x5481,system,system,ts,2,,未翻,
+1195,0x5484,dialogue,narrative,ジャック氏ﾄ少ｼ話ｼﾀｲｺﾄがｱﾙﾉで,28,我有點話想跟傑克説，所以,人工定稿,
+1196,0x54a4,dialogue,narrative,外ｼﾃｲﾀだｹﾏｾﾝｶ｣,14,能迴避一下?｣,人工定稿,导入警告: kana_residue
+1197,0x54b4,system,system,0062,4,,未翻,
+1198,0x54b9,dialogue,narrative,_1_｢ｴ､でﾓ……｣,14,_1_｢欸可是…｣,人工定稿,导入警告: kana_residue
+1199,0x54c8,system,system,0472,4,,未翻,
+1200,0x54cd,dialogue,narrative,_1_｢大丈夫ｯｽﾖ｡,14,_1_｢沒問題的。,人工定稿,导入警告: kana_residue
+1201,0x54dc,dialogue,narrative,何ｶｱｯﾃﾓ､ｱﾀｼ､負ｹﾅｲｯｽﾓﾝ!｣,23,就算有事我也不會輸!｣,人工定稿,导入警告: kana_residue
+1202,0x54f4,system,system,0608,4,,未翻,
+1203,0x54f9,dialogue,narrative,_1_｢本当だ｡,11,_1_｢真的。,人工定稿,导入警告: kana_residue
+1204,0x5505,dialogue,narrative,_0.彼女ﾊ空手ﾉ有段者だｶﾗﾅ｣,25,_0.美紀是空手有段者嘛,人工定稿,
+1205,0x5520,system,system,0063,4,,未翻,
+1206,0x5525,dialogue,narrative,_1_｢……ﾜｶﾘﾏｼﾀ｡,15,_1_｢…明白了。,人工定稿,导入警告: kana_residue
+1207,0x5535,system,system,ts,2,,未翻,
+1208,0x5538,dialogue,narrative,でﾓ､何ｶｱｯﾀﾗ呼ﾝでｸだｻｲﾈ｡,23,不過有事請叫我。,人工定稿,
+1209,0x5550,dialogue,narrative,近ｸﾆｲﾏｽｶﾗ｣,10,就在附近｣,人工定稿,导入警告: kana_residue
+1210,0x555b,system,system,.0473,5,,未翻,
+1211,0x5561,system,system,_1_0055,7,,未翻,
+1212,0x5569,dialogue,narrative,_1_｢ﾌﾋｬﾋｬﾋｬｯ｡,13,_1_｢桀桀桀。,人工定稿,导入警告: kana_residue
+1213,0x5577,dialogue,narrative,.ｳぜｪ奴ｦ追ｯ払ｯﾃｸﾚﾃｱﾘがﾄﾖ!｣,26,.謝哦幇我驅走煩人的家夥!｣,人工定稿,P7 校对修正: 烦人家夥 补的
+1214,0x5594,system,system,0609,4,,未翻,
+1215,0x5599,dialogue,narrative,_1_｢感謝ｼﾃｸﾚﾙﾅﾗ､,16,_1_｢要感謝的話，,人工定稿,导入警告: kana_residue
+1216,0x55aa,system,system,s,1,,未翻,
+1217,0x55ac,dialogue,narrative,話聞ｶｾﾃｲﾀだｹﾙだﾛｳｶ｣,19,能讓我聽聽?｣,人工定稿,导入警告: kana_residue
+1218,0x55c0,system,system,0056,4,,未翻,
+1219,0x55c5,dialogue,narrative,_1_｢ｱｱ､ｲｲぜｪ｡,13,_1_｢哦可以。,人工定稿,导入警告: kana_residue
+1220,0x55d3,dialogue,narrative,.で? ｿﾚで?,10,.那? 接著?,人工定稿,
+1221,0x55de,dialogue,narrative,0.ｱﾝﾀﾗﾊ一体､何ｼﾆ来ﾀﾝだ?｣,24,0.各位到底來幹嘛?｣,人工定稿,导入警告: kana_residue
+1222,0x55f8,system,system,0474,4,,未翻,
+1223,0x55fd,dialogue,narrative,_1_｢……顔､近づｹﾅｲでｸﾝﾅｲ?｣,26,_1_｢……臉別靠那麼近?｣,人工定稿,导入警告: kana_residue
+1224,0x5618,system,system,0057,4,,未翻,
+1225,0x561d,dialogue,narrative,_1_｢ｵｯﾄ､失礼｡ﾌｯﾋｬｯﾋｬｯ｣,22,_1_｢哦呀，失禮。桀桀桀,人工定稿,导入警告: kana_residue
+1226,0x5634,dialogue,narrative,ジャック氏ﾊｵｵげｻﾅﾎど美紀ｸﾝｶﾗ離ﾚﾙﾄ,33,傑克誇張地從美紀身邊退開，,人工定稿,
+1227,0x5658,dialogue,narrative,不気味ﾅ笑ﾐｦ向ｹﾀ｡,16,露出陰森的笑。,人工定稿,
+1228,0x566c,system,system,0475,4,,未翻,
+1229,0x5671,dialogue,narrative,_1_｢……単刀直入ﾆ聞ｸｹど｣,24,_1_｢……單刀直入地問,人工定稿,导入警告: kana_residue
+1230,0x568c,system,system,0476,4,,未翻,
+1231,0x5691,dialogue,narrative,_1_｢ｱﾝﾀｯﾃ､『シリアルキラー』ﾅワケ?｣,35,_1_｢傑克該不會是『連環殺手』?｣,人工定稿,导入警告: kana_residue
+1232,0x56b8,dialogue,narrative,単刀直入ｽぎﾙだﾛｳ､美紀ｸﾝ……｡,28,太單刀直入了，美紀……。,人工定稿,
+1233,0x56d8,dialogue,narrative,｢ﾋｬﾋｬﾋｬｯ､だｯﾀﾗどｫｽﾙ?｣,21,桀桀桀，那要怎樣?｣,人工定稿,导入警告: kana_residue
+1234,0x56f0,system,system,0477,4,,未翻,
+1235,0x56f5,dialogue,narrative,_1_｢ｯ､コイツ､ﾔｯぱﾘ!｣,20,_1_｢這家夥果然!,人工定稿,导入警告: kana_residue
+1236,0x570c,dialogue,narrative,ﾌﾑ……｡,7,唔……,人工定稿,
+1237,0x5714,dialogue,narrative,ﾓｼ彼が本当ﾆ『シリアルキラー』ﾅﾗ､,32,如果他真是『連環殺手』，,人工定稿,
+1238,0x5738,dialogue,narrative,正直ﾅﾄｺﾛ､ﾄﾃﾓ厄介だ｡,19,説實話，很棘手。,人工定稿,
+1239,0x574c,system,system,0610,4,,未翻,
+1240,0x5751,dialogue,narrative,_1_｢……ジャック氏､ｿﾚﾊ真実ﾅﾉｶ?｣,31,_1_｢……傑克，那是真的?｣,人工定稿,导入警告: kana_residue
+1241,0x5774,dialogue,narrative,｢答ｴﾊノーだぜ､ボインﾁｬﾝ｡,24,答案是不，巨乳妹。,人工定稿,
+1242,0x5790,dialogue,narrative,残念ﾅがﾗ､オレﾊ『シリアルキラー』じｬﾅｸ､,38,可惜，我不是『連環殺手』，,人工定稿,
+1243,0x57b8,dialogue,narrative,ｸｻﾚ『市民』だ!｣,15,是臭『市民』!｣,人工定稿,导入警告: kana_residue
+1244,0x57c8,system,system,0478,4,,未翻,
+1245,0x57cd,dialogue,narrative,_1_｢嘘だ!｣,10,_1_｢騙人!｣,人工定稿,导入警告: kana_residue
+1246,0x57d8,dialogue,narrative,｢ｱｱ? 嘘じｬﾈｪﾖ｡,14,哦? 不是騙人哦,人工定稿,
+1247,0x57e8,dialogue,narrative,だｶﾗｺｳｼﾃ『シリアルキラー』ｦ,27,所以才這樣找『連環殺手』,人工定稿,
+1248,0x5804,dialogue,narrative,探ｼﾃﾙﾝじｬﾈｪｶﾖ!｣,15,不是唄!｣,人工定稿,导入警告: kana_residue
+1249,0x5814,system,system,0479,4,,未翻,
+1250,0x5819,dialogue,narrative,_1_｢ﾃｺﾄﾊ……市民ﾄｼﾃシリアルキラーｦ倒ｼﾃ,38,_1_｢也就是説……作為市民打倒連環殺手,人工定稿,导入警告: kana_residue
+1251,0x5840,dialogue,narrative,ｻｯｻﾄ帰ﾘﾀｲｯﾃｺﾄ?｣,15,想快點回去?｣,人工定稿,导入警告: kana_residue
+1252,0x5850,dialogue,narrative,｢ﾌﾋｬﾋｬﾋｬﾋｬ!,11,桀桀桀桀!,人工定稿,
+1253,0x585c,dialogue,narrative,ﾝﾅﾜｹﾈｪだﾛｳが!? ｱｧ?｣,19,怎麼可能!? 哦?｣,人工定稿,导入警告: kana_residue
+1254,0x5870,system,system,0611,4,,未翻,
+1255,0x5875,dialogue,narrative,_1_｢ｼｶｼ､ﾅﾗばﾅぜシリアルキラーｦ?｣,32,_1_｢可是那為什麼找連環殺手?｣,人工定稿,导入警告: kana_residue
+1256,0x5898,dialogue,narrative,｢協力ｼﾃｪﾉﾖ!,11,想合作呀!,人工定稿,
+1257,0x58a4,dialogue,narrative,殺人鬼ﾉ先輩ﾄｼﾃﾊﾖ､色々ﾄ心配ﾅﾜｹﾖ｡,31,作為殺人鬼的前輩，各種擔心嘛。,人工定稿,
+1258,0x58c4,dialogue,narrative,だｶﾗ色々レクチャーｼﾃﾔﾛｳﾄ思ｯﾃﾅ!｣,31,所以想好好指導他一番!｣,人工定稿,导入警告: kana_residue
+1259,0x58e4,system,system,0612,4,,未翻,
+1260,0x58e9,dialogue,narrative,_1_｢ﾅﾙﾎどﾅ｡,11,_1_｢原來。,人工定稿,导入警告: kana_residue
+1261,0x58f5,dialogue,narrative,_0.ｱｸﾏで人殺ｼﾆ関ﾜｯﾃｲﾀｲﾄｲｳﾜｹｶ｣,29,_0.也就是説想參與殺人?｣,人工定稿,导入警告: kana_residue
+1262,0x5914,dialogue,narrative,｢ｿｳｲｳｺﾄ｡,8,是這樣。,人工定稿,
+1263,0x591d,dialogue,narrative,_0.ｻｽがボインﾁｬﾝ､ﾖｸﾜｶｯﾃﾝじｬﾈｪｶ｣,31,_0.不愧是巨乳妹，挺明白嘛,人工定稿,
+1264,0x5940,system,system,0613,4,,未翻,
+1265,0x5945,dialogue,narrative,_1_｢前ｶﾗ思ｯﾃｲﾀが､,17,_1_｢我一直想説，,人工定稿,导入警告: kana_residue
+1266,0x5958,dialogue,narrative,ｿﾉボインﾄｲｳﾉﾊどｳﾅﾉだ?,21,那個巨乳是怎麼回事?,人工定稿,
+1267,0x5970,dialogue,narrative,紅春ｸﾝﾉ方がﾖﾎどボインだﾄ思ｳが｣,30,我覺得紅春的才更巨乳｣,人工定稿,导入警告: kana_residue
+1268,0x5990,system,system,0064,4,,未翻,
+1269,0x5995,dialogue,narrative,_1_｢ﾌﾋｬﾋｬﾋｬ!,12,_1_｢桀桀桀!,人工定稿,导入警告: kana_residue
+1270,0x59a2,dialogue,narrative,0.大丈夫､ｱｯﾁﾊタユンだ!｣,23,0.沒問題，那邊是垂的!｣,人工定稿,导入警告: kana_residue
+1271,0x59bc,system,system,0614,4,,未翻,
+1272,0x59c1,dialogue,narrative,_1_｢ﾅﾙﾎど､素晴ﾗｼｲボキャブラリーだﾅ｣,35,_1_｢原來如此，詞彙真豐富呀｣,人工定稿,P7 校对修正: だな 共感 → 呀
+1273,0x59e8,system,system,0480,4,,未翻,
+1274,0x59ed,dialogue,narrative,_1_｢ﾍﾝﾀｰｲ｡,10,_1_｢變態。,人工定稿,导入警告: kana_residue
+1275,0x59f8,dialogue,narrative,ｵ巡ﾘｻﾝ､ｺｺﾆ変態がｲﾏｽﾖｰ｣,22,警察先生，這裡有變態｣,人工定稿,导入警告: kana_residue
+1276,0x5a10,dialogue,narrative,｢ジャックｻﾝ! 逮捕ｼﾏｽﾖ!｣,23,｢傑克先生! 要逮捕咯!｣,人工定稿,导入警告: kana_residue
+1277,0x5a28,dialogue,narrative,呼べば来ﾙﾄ言ｯﾃｲﾀが､,19,説是叫了就來，,人工定稿,
+1278,0x5a3c,dialogue,narrative,本当ﾆ待機ｼﾃｲﾀﾉｶ｡,16,居然真的在待命?,人工定稿,
+1279,0x5a50,system,system,0065,4,,未翻,
+1280,0x5a55,dialogue,narrative,_1_｢ｲｲぜ､別ﾆ｡,13,_1_｢無所謂咯,人工定稿,导入警告: kana_residue
+1281,0x5a63,dialogue,narrative,.どｳｾオレﾊ死刑囚ﾖ｡,18,.反正我是死刑犯。,人工定稿,
+1282,0x5a78,dialogue,narrative,ｺｺｶﾗ脱出出来ﾀﾄｼﾃﾓ死ﾇ運命だｶﾗﾅ!｣,31,就算逃出這裡也是死路一條!｣,人工定稿,导入警告: kana_residue
+1283,0x5a98,dialogue,narrative,｢ｯ……｣,7,｢……｣,人工定稿,导入警告: kana_residue
+1284,0x5aa0,system,system,0066,4,,未翻,
+1285,0x5aa5,dialogue,narrative,_1_｢でﾓﾖ｡ﾓｳｽぐ殺ｻﾚﾙｯﾃﾄｷﾆ､,25,_1_｢可是嘛，快被殺時，,人工定稿,导入警告: kana_residue
+1286,0x5ac0,dialogue,narrative,ｺｫﾝﾅ素晴ﾗｼｲ殺人ゲームﾆｵ呼ばﾚｻﾚﾃﾖ｡,33,被邀進這麼棒的殺人遊戲。,人工定稿,
+1287,0x5ae4,dialogue,narrative,ｿﾘｬテンションﾓ上がﾙだﾛ?｣,24,興致自然會高漲對不?｣,人工定稿,P7 校对修正: だろ 求确认 禁哦
+1288,0x5b00,system,system,0067,4,,未翻,
+1289,0x5b05,dialogue,narrative,_1_｢だｶﾗｵ前ﾗﾓ､ﾓｯﾄ楽ｼﾒﾖ!,23,_1_｢所以大家也盡情玩!,人工定稿,导入警告: kana_residue
+1290,0x5b20,dialogue,narrative,下ﾗﾈｪ作戦ﾆ乗ｯﾃﾙ暇がｱｯﾀﾗ､殺ｼ合ｴ!,31,有空做無聊作戰，不如殘殺!,人工定稿,
+1291,0x5b40,dialogue,narrative,全員死ﾈばｲｲﾉｻ! ﾌﾋｬﾋｬﾋｬﾋｬﾋｬ!｣,28,全都去死!桀桀桀桀桀!｣,人工定稿,导入警告: kana_residue
+1292,0x5b60,dialogue,narrative,休憩所ﾆ､ジャック氏ﾉ不気味ﾅ高笑ｲが響ｸ｡,37,休息處裡，響起傑克陰森的大笑。,人工定稿,P7 校对修正: 休憩所 与块内统一
+1293,0x5b88,dialogue,narrative,不快ﾅｿﾉ声ﾆ､顔ｦｼｶﾒﾙ者ﾊｲﾀが……｡,30,那聲音令人不快，有人皺眉……,人工定稿,
+1294,0x5ba8,dialogue,narrative,彼ﾆ説教ｼﾖｳﾅどﾄｲｳ者ﾊ､,20,想對他説教的人，,人工定稿,
+1295,0x5bc0,dialogue,narrative,薫ｻﾝﾓ含ﾒ､誰ﾓｲﾅｶｯﾀ｡,18,連薰在内也沒人。,人工定稿,
+1296,0x5bd4,dialogue,narrative,何ｦ言ｯﾃﾓ無駄｡,13,多説無用。,人工定稿,
+1297,0x5be2,system,system,s,1,,未翻,
+1298,0x5be4,dialogue,narrative,説得ﾉ手立ﾃがﾅｲ｡,15,無從説服。,人工定稿,
+1299,0x5bf4,dialogue,narrative,彼ﾊｿﾝﾅ相手だﾄ､皆が悟ｯﾀﾉだ……｡,30,大家領悟到，他就是那種對手……,人工定稿,
+1300,0x5c14,dialogue,narrative,ロム2_ジャックｦ警戒ｽﾙ,21,ROM2_警戒傑克,人工定稿,
+1301,0x5c2c,dialogue,narrative,休憩所ｦ出ﾃ､溜息ｦﾂｸ｡,19,走出休息處，嘆息。,人工定稿,P7 校对修正: 休憩所 与块内统一
+1302,0x5c40,dialogue,narrative,休憩所ﾆｲﾃ疲ﾚﾙﾄﾊ､どｳｲｳｺﾄだ……｡,30,待在休息所會累，真怪……,人工定稿,
+1303,0x5c60,system,system,0615,4,,未翻,
+1304,0x5c65,dialogue,narrative,_1_｢ｼｶｼ､ジャック氏ﾊ思ｯﾀ以上ﾆ,28,_1_｢不過，傑克比想像中更,人工定稿,导入警告: kana_residue
+1305,0x5c84,dialogue,narrative,ｺﾉゲームｦ楽ｼﾝでｲﾙﾅ｣,19,享受這個遊戲呀。｣,人工定稿,P7 校对修正: だな 共感 → 呀
+1306,0x5c98,system,system,0481,4,,未翻,
+1307,0x5c9d,dialogue,narrative,_1_｢ｱｲﾂが『市民』ｯﾃホントｯｽｶﾈ?｣,31,_1_｢那夥真是『市民』?｣,人工定稿,导入警告: kana_residue
+1308,0x5cc0,system,system,0616,4,,未翻,
+1309,0x5cc5,dialogue,narrative,_1_｢……ﾏだ､ﾜｶﾗﾅｲﾅ｣,19,_1_｢……還不清楚｣,人工定稿,导入警告: kana_residue
+1310,0x5cdc,dialogue,narrative,ジャック氏ﾉ性格ｦ考ｴﾙﾄ､,22,考慮傑克的性格，,人工定稿,
+1311,0x5cf4,dialogue,narrative,彼ﾉ発言ｦ全ﾃ信じﾙｺﾄﾊ出来ﾅｲ｡,26,無法全信他的發言。,人工定稿,
+1312,0x5d10,dialogue,narrative,ﾓｯﾄﾓ､知略ｦﾒぐﾗｾﾙタイプﾆﾓ見ｴﾅｲｶﾗ,31,不過，也不像會用智謀的人，,人工定稿,
+1313,0x5d30,dialogue,narrative,深ｸ考ｴｽぎﾙﾉﾓ禁物だが……｡,25,想太多也不好……,人工定稿,
+1314,0x5d4c,system,system,0617,4,,未翻,
+1315,0x5d51,dialogue,narrative,_1_｢美紀ｸﾝﾊどｳ思ｯﾃﾙ? ﾔﾊﾘ､,25,_1_｢美紀怎麼想?果然，,人工定稿,导入警告: kana_residue
+1316,0x5d6c,dialogue,narrative,彼が『シリアルキラー』だﾄ思ｳｶ?｣,31,覺得他是『連環殺手』?｣,人工定稿,导入警告: kana_residue
+1317,0x5d8c,system,system,0482,4,,未翻,
+1318,0x5d91,dialogue,narrative,_1_｢ｿﾘｬｿｳｯｽﾖ!,13,_1_｢當然咯!,人工定稿,导入警告: kana_residue
+1319,0x5d9f,dialogue,narrative,.だｯﾃ怪ｼｲじｬﾅｲｯｽｶ!,18,.因為很可疑嘛!,人工定稿,
+1320,0x5db4,dialogue,narrative,ﾐﾝﾅだｯﾃｷｯﾄｿｳ思ｯﾃﾙｯｽ!｣,21,大家一定也這麼想!｣,人工定稿,导入警告: kana_residue
+1321,0x5dcc,dialogue,narrative,……ｿﾚﾓ､一理ｱﾙ｡,15,……也有道理。,人工定稿,
+1322,0x5ddc,dialogue,narrative,ﾓｼ『シリアルキラー』同士ﾉ票が集ﾏｯﾃｼﾏｴば,39,若『連環殺手』彼此的票集中起來，,人工定稿,
+1323,0x5e04,dialogue,narrative,指名ｻﾚﾀ人物が殺ｻﾚﾙ確率ﾊずｯﾄ高ｸﾅﾙ｡,33,被指名者被殺的機率會更高。,人工定稿,
+1324,0x5e28,dialogue,narrative,ｿﾚﾆ彼が『市民』だﾄｼﾃﾓ､ｱﾝﾅ真意ｦ聞ｲﾃ,34,就算他是『市民』，既然聽到,人工定稿,P7 校对修正: 聞いてしまった以上は
+1325,0x5e4c,dialogue,narrative,ｼﾏｯﾀ以上ﾊ､警戒ｾざﾙｦ得ﾅｲﾉだ｡,27,那種真意，不得不警戒。,人工定稿,P7 校对修正: 同上 去重复
+1326,0x5e68,dialogue,narrative,どﾉﾐﾁ､早ｸ『シリアルキラー』ﾄ『X』ｦ,34,總之，得盡快把『連環殺手』和『X』,人工定稿,
+1327,0x5e8c,dialogue,narrative,探ｼ出ｻﾅｹﾚば､回ｦ重ﾈﾙごﾄﾆ,23,找出來，否則毎過一輪,人工定稿,
+1328,0x5ea4,dialogue,narrative,被害者ﾊ増ｴﾃｼﾏｳ｡,15,被害者會增加。,人工定稿,
+1329,0x5eb4,system,system,0618,4,,未翻,
+1330,0x5eb9,dialogue,narrative,_1_｢ﾀｼｶﾆ､ｱﾚだｹ堂々ﾄ不気味ﾅｺﾄｦ,29,_1_｢確實，那等陰森話語，,人工定稿,导入警告: kana_residue
+1331,0x5ed8,dialogue,narrative,言ﾜﾚﾃﾊ皆ﾉ心ﾓ穏ﾔｶでﾊｱﾙﾏｲ｡,24,被那麼説，誰心都不安。,人工定稿,
+1332,0x5ef4,dialogue,narrative,ｾｯｶｸ状況が安定ｼﾂﾂｱﾙﾄｲｳﾉﾆ……｣,29,好不容易状況漸穩，卻……｣,人工定稿,导入警告: kana_residue
+1333,0x5f14,system,system,0483,4,,未翻,
+1334,0x5f19,dialogue,narrative,_1_｢でﾓ仕方ﾅｲｯｽﾖ｡,17,_1_｢但也沒法子。,人工定稿,导入警告: kana_residue
+1335,0x5f2c,dialogue,narrative,ｱﾝﾅｺﾄ言ｯﾃ投票ｻﾚﾁｬｳﾅﾗ,20,説那種話被投也活該,人工定稿,
+1336,0x5f44,dialogue,narrative,自業自得ｯﾃｲｳｶ……｣,18,該説自作自受……｣,人工定稿,导入警告: kana_residue
+1337,0x5f58,system,system,0619,4,,未翻,
+1338,0x5f5d,dialogue,narrative,_1_｢だがｿﾚﾊ……殺人ゲームｦ,26,_1_｢但那……讓殺人遊戲,人工定稿,导入警告: kana_residue
+1339,0x5f78,dialogue,narrative,進ﾒﾃｼﾏｳｺﾄﾆﾅﾙぞ｣,15,繼續下去哇。｣,人工定稿,导入警告: kana_residue
+1340,0x5f88,system,system,0620,4,,未翻,
+1341,0x5f8d,dialogue,narrative,_1_｢ダメﾅﾝだ｡ﾓｳ誰ﾓ､死ﾝでﾊｲｹﾅｲ｡,30,_1_｢不行。不能再有人死。,人工定稿,导入警告: kana_residue
+1342,0x5fac,dialogue,narrative,ｿﾝﾅｺﾄﾆﾅｯﾀﾗ､,11,變成那樣，,人工定稿,
+1343,0x5fb8,dialogue,narrative,ﾓｳｺﾉゲームﾊ止ﾒﾗﾚﾅｸﾅﾙ……｣,25,遊戲就停不下來了……｣,人工定稿,导入警告: kana_residue
+1344,0x5fd4,dialogue,narrative,殺ｼﾀ奴がｲﾙ｡,11,有殺人者。,人工定稿,
+1345,0x5fe0,dialogue,narrative,殺ｻﾅｲﾄ殺ｻﾚﾙ｡,12,不殺就被殺。,人工定稿,
+1346,0x5fed,system,system,ts,2,,未翻,
+1347,0x5ff0,dialogue,narrative,殺ｻﾅｷｬ｡,7,得殺。,人工定稿,
+1348,0x5ff8,dialogue,narrative,ｿｳｲｳ思考ｦ蔓延ｻｾﾃﾊﾅﾗﾅｲﾉだ｡,25,不能讓這種想法蔓延。,人工定稿,
+1349,0x6014,dialogue,narrative,絶対ﾆ……｡,10,絶對……,人工定稿,
+1350,0x601f,dialogue,narrative,.だが､美紀ｸﾝﾉ言ｳ通ﾘ……,23,.但正如美紀所説……,人工定稿,
+1351,0x6038,dialogue,narrative,ジャック氏ﾉ話ｶﾗ､ｿｳｲｯﾀ思考ﾆ,26,從傑克的話，陷入那想法,人工定稿,
+1352,0x6054,dialogue,narrative,入ﾘﾂﾂｱﾙ者がｲﾃﾓｵｶｼｸﾅｲ｡,21,有人已陷也不奇怪。,人工定稿,
+1353,0x606c,system,system,0621,4,,未翻,
+1354,0x6071,dialogue,narrative,_1_｢……美紀ｸﾝ｡聞ｷ込ﾐｦｽﾙぞ｣,27,_1_｢……美紀。去打聽。｣,人工定稿,导入警告: kana_residue
+1355,0x6090,system,system,0484,4,,未翻,
+1356,0x6095,dialogue,narrative,_1_｢ｵ､シリアルキラーが誰ｶﾜｶｯﾀﾝｽｶ!?｣,35,_1_｢哦，知道連環殺手是誰了!?｣,人工定稿,导入警告: kana_residue
+1357,0x60bc,system,system,0622,4,,未翻,
+1358,0x60c1,dialogue,narrative,_1_｢ｲﾔ｡だが､止ﾒﾈばﾅﾙﾏｲ｡,23,_1_｢不。但必須阻止。,人工定稿,导入警告: kana_residue
+1359,0x60dc,dialogue,narrative,ジャック氏ﾍﾉ投票ｦ｣,18,對傑克的投票。｣,人工定稿,导入警告: kana_residue
+1360,0x60f0,system,system,0623,4,,未翻,
+1361,0x60f5,dialogue,narrative,_1_｢次ﾉ投票ﾓｻｯｷﾄ同じﾆｽﾙべｷだﾄ,29,_1_｢下次投票也該和剛才一樣,人工定稿,导入警告: kana_residue
+1362,0x6114,dialogue,narrative,釘ｦ刺ｼﾃ回ｯﾃｵｺｳ｣,15,去叮囑大家。｣,人工定稿,导入警告: kana_residue
+1363,0x6124,system,system,0624,4,,未翻,
+1364,0x6129,dialogue,narrative,_1_｢ｿﾚｶﾗ､一応､誰ﾆ入ﾚﾙｶﾓ聞ｲﾃｵｺｳ｡,31,_1_｢還有，也問問大家投誰。,人工定稿,导入警告: kana_residue
+1365,0x614c,dialogue,narrative,君ﾆ調査用ﾉ投票ｦ依頼ｽﾙﾆｼﾃﾓ,25,就算拜託調査用投票,人工定稿,
+1366,0x6168,dialogue,narrative,他ｶﾗ投票ｻﾚﾃｲﾅｲ者ﾉ方が良ｲｶﾗﾅ｣,28,還是沒被別人投的人比較好｣,人工定稿,导入警告: kana_residue
+1367,0x6188,system,system,0485,4,,未翻,
+1368,0x618d,dialogue,narrative,_1_｢了解ｯｽ!｣,12,_1_｢了解!｣,人工定稿,导入警告: kana_residue

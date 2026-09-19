@@ -1,0 +1,219 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_game.tob,23,,未翻,
+2,0x18,system,system,kw_game.sts,11,,未翻,
+3,0x24,dialogue,label,ROM2_KW_殺人ゲーム,18,ROM2_KW_殺人遊戲,人工定稿,
+4,0x38,dialogue,label,ROM2_KW会話_殺人ゲーム,22,ROM2_KW會話_殺人遊戲,人工定稿,
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_殺人ゲーム_美紀,24,ROM2_KW_殺人遊戲_美紀,人工定稿,
+8,0x94,system,system,1066,4,,未翻,
+9,0x99,dialogue,narrative,me.｢ｯﾀｸ､殺人ゲームﾅﾝﾃ冗談じｬﾅｲｯｽﾖ!,34,me.｢真是的，殺人遊戲可不是開玩笑!,人工定稿,"P7 校对: 冗談じゃない 否定强调, 「不是開玩笑」翻译腔改「可不是開玩笑」"
+10,0xbc,dialogue,narrative,何でｺﾝﾅ変ﾅゲームﾆ付ｷ合ﾜｻﾚﾅｷｬ,28,為何非得奉陪這種怪遊戲,人工定稿,
+11,0xdc,dialogue,narrative,ﾅﾗﾅｲﾝｽｶ!｣,9,不可!｣,人工定稿,P7 校对: 〜なきゃならない 的 ならない 被误读为「不行」; 与上行「為何非得奉陪」成「非得…不可」
+12,0xe6,system,system,s,1,,未翻,
+13,0xe8,system,system,1844,4,,未翻,
+14,0xed,dialogue,narrative,me.｢私ﾓｿｳ思ｳ｡,13,me.｢我也是。,人工定稿,导入警告: kana_residue
+15,0xfc,dialogue,narrative,私達ｦｻﾗｯﾀ者ﾊ何ｦ考ｴﾃｲﾀﾉだﾛｳﾅ｣,28,抓走我們的人究竟在想什麼｣,人工定稿,导入警告: kana_residue
+16,0x11c,system,system,1067,4,,未翻,
+17,0x121,dialogue,narrative,me.｢何ｦ考ｴﾃｲﾀﾄｼﾃﾓ許ｾﾅｲｯｽ!,25,me.｢不管想什麼都不可原諒!,人工定稿,导入警告: kana_residue
+18,0x13c,dialogue,narrative,理由ﾅﾝﾃ関係ﾅｲｯｽﾖ!｣,18,理由根本無所謂!｣,人工定稿,导入警告: kana_residue
+19,0x150,dialogue,narrative,ロム2_KW_殺人ゲーム_昇,22,ROM2_KW_殺人遊戲_昇,人工定稿,
+20,0x168,system,system,0290,4,,未翻,
+21,0x16d,dialogue,narrative,me.｢悪趣味ﾅゲームだﾖﾅ｣,22,me.｢真是惡趣味遊戲呀｣,人工定稿,导入警告: kana_residue
+22,0x184,system,system,1845,4,,未翻,
+23,0x189,dialogue,narrative,me.｢ｱｱ｡酷ｸ病ﾝでｲﾙﾅ｣,19,me.｢哦，病得不輕呀｣,人工定稿,导入警告: kana_residue
+24,0x1a0,system,system,0291,4,,未翻,
+25,0x1a5,dialogue,narrative,me.｢ｿﾓｿﾓゲームじｬｽﾏﾅｲだﾛ,24,me.｢這可不是遊戲那麼簡單,人工定稿,导入警告: kana_residue
+26,0x1c0,dialogue,narrative,ｺﾝﾅｺﾄ……｣,10,這種事…｣,人工定稿,导入警告: kana_residue
+27,0x1cc,system,system,1846,4,,未翻,
+28,0x1d1,dialogue,narrative,me.｢全ｸだ｡何ﾄｶ手ｦ打ﾀﾈばﾅﾙﾏｲﾅ｣,29,me.｢沒錯。總得設法才行呀｣,人工定稿,P7 校对: 全くだ 为赞同(非「真是的」exasperation); 比照 kw_death まったくだ→沒錯
+29,0x1f0,system,system,0292,4,,未翻,
+30,0x1f5,dialogue,narrative,me.｢ｱｱ｡俺ﾓ協力ｽﾙﾖ｣,18,me.｢哦。我也協助｣,人工定稿,导入警告: kana_residue
+31,0x208,dialogue,narrative,ロム2_KW_殺人ゲーム_香菜,24,ROM2_KW_殺人遊戲_香菜,人工定稿,
+32,0x224,system,system,0288,4,,未翻,
+33,0x229,dialogue,narrative,me.｢下ﾗﾅｽぎﾙﾜ｡全ｸﾓｯﾃ意味不明!｣,30,me.｢太無聊了。完全莫名其妙!｣,人工定稿,导入警告: kana_residue
+34,0x248,system,system,1847,4,,未翻,
+35,0x24d,dialogue,narrative,me.｢同感だﾅ｣,12,me.｢同感呀｣,人工定稿,导入警告: kana_residue
+36,0x25a,system,system,s,1,,未翻,
+37,0x25c,system,system,0289,4,,未翻,
+38,0x261,dialogue,narrative,me.｢何ｦ考ｴﾃｺﾝﾅゲームｦ,21,me.｢不知是什麼心態,人工定稿,"P7 校对: 何を考えて…思い付いたか知らない 跨行重排, 去增译「是誰」与「做這遊戲/想出的」重复"
+39,0x278,dialogue,narrative,思ｲﾂｲﾀｶ知ﾗﾅｲｹど､,16,想出這遊戲，但,人工定稿,"P7 校对: 同上, 补回 けど 转折与 このゲーム 落点"
+40,0x28c,dialogue,narrative,私､絶対､負ｹﾙﾂﾓﾘﾅｲｶﾗ｣,20,我，絶對，不會輸的｣,人工定稿,导入警告: kana_residue
+41,0x2a4,dialogue,narrative,ロム2_KW_殺人ゲーム_香菜_隠ﾚ家前,32,ROM2_KW_殺人遊戲_香菜_藏身處前,人工定稿,
+42,0x2c8,system,system,1848,4,,未翻,
+43,0x2cd,dialogue,narrative,me.｢ﾎｳ､随分ﾄ強気ﾆ出ﾀﾅ｡,22,me.｢哦，相當強硬呀。,人工定稿,导入警告: kana_residue
+44,0x2e4,dialogue,narrative,……香菜ｸﾝﾆﾊ何ｶ策でﾓｱﾙﾉｶ?｣,26,……香菜有什麼對策?｣,人工定稿,"P7 校对: 何か策でも 的「什麼」补回, 原译「有何對策」过简"
+45,0x300,dialogue,narrative,｢策ｯﾃワケじｬﾅｲｹど､ﾁｮｯﾄ考ｴがﾈ｡,29,｢不算對策，只是有點想法。,人工定稿,导入警告: kana_residue
+46,0x320,dialogue,narrative,ｳﾏｸｲｷｿｳﾅﾗ説明ｽﾙﾜ｣,17,要是行得通就説明｣,人工定稿,导入警告: kana_residue
+47,0x334,dialogue,narrative,ロム2_KW_殺人ゲーム_香菜_合流,29,ROM2_KW_殺人遊戲_香菜_會合,人工定稿,
+48,0x354,dialogue,narrative,ロム2_KW_殺人ゲーム_圭介,24,ROM2_KW_殺人遊戲_圭介,人工定稿,
+49,0x36d,binary,system,合�0156,-1,,未翻,
+50,0x375,dialogue,narrative,me.｢……人ﾉ命ｦ弄ﾝでｲﾙﾄｼｶ思ｴﾏｾﾝ｣,31,me.｢……只覺得是在玩弄人命｣,人工定稿,导入警告: kana_residue
+51,0x398,system,system,1849,4,,未翻,
+52,0x39d,dialogue,narrative,me.｢ｱｱ｡ｺﾉゲームﾊ､,17,me.｢哦。這遊戲，,人工定稿,导入警告: kana_residue
+53,0x3b0,dialogue,narrative,殺人ｦ目的ﾄｼﾃｲﾙﾉだｶﾗﾅ｣,21,是以殺人為目的的呀｣,人工定稿,导入警告: kana_residue
+54,0x3c8,system,system,0157,4,,未翻,
+55,0x3cd,dialogue,narrative,me.｢ｸｿｯ……一体誰ﾅﾝだ｡,22,me.｢可惡……到底是誰。,人工定稿,导入警告: kana_residue
+56,0x3e4,dialogue,narrative,ｺﾝﾅﾌざｹﾀゲームｦ,15,這種胡鬧遊戲,人工定稿,
+57,0x3f4,dialogue,narrative,考ｴﾃ僕達ｦ巻ｷ込ﾝだ奴ﾊ!!｣,23,想出還牽連我們的混蛋!!｣,人工定稿,导入警告: kana_residue
+58,0x40c,system,system,0158,4,,未翻,
+59,0x411,dialogue,narrative,me.｢……ｿｲﾂだｹﾊ､絶対ﾆ許ｾﾏｾﾝﾖ｣,29,me.｢……唯獨那人絶不原諒｣,人工定稿,导入警告: kana_residue
+60,0x430,system,system,1850,4,,未翻,
+61,0x435,dialogue,narrative,me.｢……私ﾓｿｳ思ｳﾖ｣,18,me.｢……我也同感｣,人工定稿,导入警告: kana_residue
+62,0x448,dialogue,narrative,ロム2_KW_殺人ゲーム_霞,22,ROM2_KW_殺人遊戲_霞,人工定稿,
+63,0x460,system,system,0163,4,,未翻,
+64,0x465,dialogue,narrative,me.｢……どｳｼﾃ､,14,me.｢……為何，,人工定稿,导入警告: kana_residue
+65,0x474,dialogue,narrative,ｺﾝﾅ酷ｲｺﾄが出来ﾙﾉでｼｮｳｶ｣,23,怎能做出這麼殘酷的事｣,人工定稿,导入警告: kana_residue
+66,0x48c,system,system,0164,4,,未翻,
+67,0x491,dialogue,narrative,me.｢人ｦ死ﾅｾﾙゲームﾅﾝﾃ……誰でｱｯﾃﾓ､,34,me.｢讓人送命的遊戲……不管是誰，,人工定稿,导入警告: kana_residue
+68,0x4b4,dialogue,narrative,ｿﾝﾅ権利……どｺﾆﾓﾅｲﾉﾆ……｣,25,那種權利…明明無處可尋…｣,人工定稿,导入警告: kana_residue
+69,0x4d0,system,system,1851,4,,未翻,
+70,0x4d5,dialogue,narrative,me.｢ｱｱ｡確ｶﾆ理不尽ｽぎﾙﾅ｣,23,me.｢哦。確實太不講理了｣,人工定稿,导入警告: kana_residue
+71,0x4f0,system,system,0165,4,,未翻,
+72,0x4f5,dialogue,narrative,me.｢私……ｽごｸ､怖ｲﾝでｽ｡,23,me.｢我……非常，害怕。,人工定稿,导入警告: kana_residue
+73,0x510,dialogue,narrative,ｿﾚｶﾗ……ﾄﾃﾓ哀ｼｸﾃ……｣,21,還有……非常悲傷……｣,人工定稿,导入警告: kana_residue
+74,0x528,system,system,1852,4,,未翻,
+75,0x52d,dialogue,narrative,me.｢哀ｼｲ……ｶ｣,14,me.｢悲傷……?｣,人工定稿,"P7 校对: 恢复原文省略号; 「…呀」槽内放不下 ……, 哀しい…か 的疑问用问号承接"
+76,0x53c,system,system,0166,4,,未翻,
+77,0x541,dialogue,narrative,me.｢ﾊｲ｡,7,me.｢是,人工定稿,导入警告: kana_residue
+78,0x549,dialogue,narrative,me.ｺﾝﾅゲームｦ思ｲﾂｸ人がｲﾙだﾅﾝﾃ……｣,34,me.居然有人想得出這種遊戲……｣,人工定稿,"P7 校对: 引号按原文跨度(78 的 ｣ 收 seq77 的 ｢), 删去机翻多加的开引号"
+79,0x56c,system,system,1853,4,,未翻,
+80,0x571,dialogue,narrative,me.｢……ｿｳだﾅ｣,14,me.｢……的確｣,人工定稿,导入警告: kana_residue
+81,0x580,dialogue,narrative,ロム2_KW_殺人ゲーム_ﾊﾙｶ,23,ROM2_KW_殺人遊戲_遙,人工定稿,
+82,0x598,system,system,0108,4,,未翻,
+83,0x59d,dialogue,narrative,me.｢……ｳｳ……怖ｲゲーム､ｲﾔ｡,27,me.｢…嗚嗚…這遊戲好可怕。,人工定稿,导入警告: kana_residue
+84,0x5bc,dialogue,narrative,ﾓｳﾜﾀｼ､ﾔﾒﾀｲ｡,11,我不想玩了,人工定稿,
+85,0x5c8,dialogue,narrative,ﾊﾔｸ帰ﾘﾀｲﾖ｣,10,好想回去｣,人工定稿,导入警告: kana_residue
+86,0x5d4,system,system,1854,4,,未翻,
+87,0x5d9,dialogue,narrative,me.｢ﾊﾙｶｸﾝ……｡,14,me.｢遙……。,人工定稿,导入警告: kana_residue
+88,0x5e8,dialogue,narrative,ｿｳだﾅ､ﾅﾙべｸ早ｸ帰ﾚﾙﾖｳﾆ,21,也是，盡量早點能回去,人工定稿,
+89,0x600,dialogue,narrative,努力ﾊｽﾙｻ……｣,13,會努力的……｣,人工定稿,导入警告: kana_residue
+90,0x610,dialogue,narrative,ロム2_KW_殺人ゲーム_ﾂﾑじ,24,ROM2_KW_殺人遊戲_旋,人工定稿,
+91,0x62c,system,system,0117,4,,未翻,
+92,0x631,dialogue,narrative,me.｢……面白ｲゲームﾅﾗ好ｷだｹど｡,30,me.｢……有趣的遊戲我倒喜歡。,人工定稿,导入警告: kana_residue
+93,0x650,dialogue,narrative,ｺﾉゲームﾊ全然面白ｸﾅｲｼ……ｿﾚﾆ……｣,33,這遊戲一點都不有趣……而且……｣,人工定稿,导入警告: kana_residue
+94,0x674,system,system,0118,4,,未翻,
+95,0x679,dialogue,narrative,me.｢ﾊﾙｶｦ怖がﾗｾﾙｶﾗ､大嫌ｲ｣,24,me.｢會嚇到遙，最討厭｣,人工定稿,导入警告: kana_residue
+96,0x694,system,system,1855,4,,未翻,
+97,0x699,dialogue,narrative,me.｢……ｿｳｶ｣,12,me.｢…是哦｣,人工定稿,导入警告: kana_residue
+98,0x6a6,system,system,s,1,,未翻,
+99,0x6a8,system,system,0119,4,,未翻,
+100,0x6ad,dialogue,narrative,me.｢誰が考ｴﾂｲﾀﾄｶ……,20,me.｢是誰想出來的……,人工定稿,导入警告: kana_residue
+101,0x6c4,dialogue,narrative,ｿﾝﾅﾉﾊどｳでﾓｲｲでｽﾖ｡,18,那種事怎樣都好。,人工定稿,
+102,0x6d8,dialogue,narrative,ｿﾚﾖﾘﾓぼｸﾊ､早ｸﾊﾙｶﾄ帰ﾘﾀｲ……｣,27,比起那，我想早點和遙回去…｣,人工定稿,导入警告: kana_residue
+103,0x6f4,dialogue,narrative,ロム2_KW_殺人ゲーム_ジャック,28,ROM2_KW_殺人遊戲_傑克,人工定稿,
+104,0x714,system,system,0133,4,,未翻,
+105,0x719,dialogue,narrative,me.｢ﾌﾋｬﾋｬﾋｬッ!,14,me.｢桀桀桀!,人工定稿,导入警告: kana_residue
+106,0x728,dialogue,narrative,最高じｬﾈｴﾉ､殺人ゲームﾅﾝﾃﾖｫ!,27,這不是最棒的嘛，殺人遊戲!,人工定稿,
+107,0x744,dialogue,narrative,ゾクゾクｽﾙぜｪ!｣,15,令人興奮咯!｣,人工定稿,"P7 校对: するぜぇ→咯(风格指南 だぜ→咯), 与 seq119 同形同译; 原「呀」不符 ぜ"
+108,0x754,system,system,1856,4,,未翻,
+109,0x759,dialogue,narrative,me.｢……自分ﾓ死ﾇｶﾓｼﾚﾅｲﾄ言ｳﾉﾆ､,29,me.｢……明明自己也可能會死，,人工定稿,导入警告: kana_residue
+110,0x778,dialogue,narrative,楽ｼｿｳだﾅ｣,9,開心呀｣,人工定稿,导入警告: kana_residue
+111,0x782,system,system,s,1,,未翻,
+112,0x784,system,system,0134,4,,未翻,
+113,0x789,dialogue,narrative,me.｢ｱｱ楽ｼｲｻ! どｳｾオレﾊ死刑囚!,29,me.｢哦，真開心!反正死刑犯!,人工定稿,导入警告: kana_residue
+114,0x7a8,dialogue,narrative,ｾﾒﾃｺﾉぐﾗｲ楽ｼﾏﾈｪﾄﾅ!,18,至少得享受這樂趣!,人工定稿,
+115,0x7bc,dialogue,narrative,ﾌﾋｬﾋｬ､ｱﾝﾀﾓ楽ｼｲﾖﾅ､ボインﾁｬﾝ?｣,28,桀桀，巨乳妹也開心唄?｣,人工定稿,导入警告: kana_residue
+116,0x7dc,system,system,1857,4,,未翻,
+117,0x7e1,dialogue,narrative,me.｢……ﾔﾊﾘ､ｱﾅﾀﾊ悪趣味だ｣,25,me.｢……果然，真是惡趣味｣,人工定稿,导入警告: kana_residue
+118,0x7fc,system,system,0135,4,,未翻,
+119,0x801,dialogue,narrative,me.ｱﾘがﾄﾖ､褒ﾒ言葉だぜ!｣,23,me.謝了，這是誇獎咯!｣,人工定稿,导入警告: kana_residue
+120,0x81c,dialogue,narrative,ロム2_KW_殺人ゲーム_薫,22,ROM2_KW_殺人遊戲_薰,人工定稿,
+121,0x834,system,system,0275,4,,未翻,
+122,0x839,dialogue,narrative,me.｢私ﾉ前で殺人ゲームだﾅﾝﾃ許ｼﾏｾﾝ!,33,me.｢在我面前玩殺人遊戲絶不允許!,人工定稿,导入警告: kana_residue
+123,0x85c,dialogue,narrative,全員逮捕でｽ!｣,13,全員逮捕!｣,人工定稿,导入警告: kana_residue
+124,0x86c,system,system,1858,4,,未翻,
+125,0x871,dialogue,narrative,me.｢ｼｶｼ薫ｻﾝ｡,12,me.｢不過薰。,人工定稿,导入警告: kana_residue
+126,0x87e,system,system,s,1,,未翻,
+127,0x880,dialogue,narrative,ｺｺﾍ集ﾒﾗﾚﾀ方々ﾊ,14,被聚集來的各位,人工定稿,
+128,0x890,dialogue,narrative,被害者だﾄ思ｲﾏｽが……｣,21,我想是受害者……｣,人工定稿,导入警告: kana_residue
+129,0x8a8,system,system,0276,4,,未翻,
+130,0x8ad,dialogue,narrative,me.｢詳ｼｲｺﾄﾊ署ﾉ方で聞ｷﾏｽｶﾗ｣,26,me.｢詳細情況到警局問｣,人工定稿,P7 校对: 补回原文句尾漏掉的收尾引号｣
+131,0x8c8,system,system,1859,4,,未翻,
+132,0x8cd,dialogue,narrative,me.｢……ﾄ言ﾜﾚﾃﾓ｡,16,me.｢…雖這麼説。,人工定稿,导入警告: kana_residue
+133,0x8e0,dialogue,narrative,ﾁﾅﾐﾆ薫ｻﾝﾆﾊ首謀者が誰ｶ､見当ﾊ?｣,29,順便問薰，主謀是誰有頭緒?｣,人工定稿,导入警告: kana_residue
+134,0x900,system,system,0277,4,,未翻,
+135,0x905,dialogue,narrative,me.｢ｿﾝﾅｺﾄ､ﾜｶﾙﾜｹが……,21,me.｢這種事怎會知道…,人工定稿,导入警告: kana_residue
+136,0x91c,dialogue,narrative,ｲ､ｲｲｴ｡必ず見ﾂｹ出ｼﾃ見ｾﾙﾜ!｣,25,不、不是。一定能找出來!｣,人工定稿,导入警告: kana_residue
+137,0x938,system,system,1860,4,,未翻,
+138,0x93d,dialogue,narrative,me.｢薫ｻﾝﾊ怖ｸﾅｲﾉでｽｶ?｣,21,me.｢薰難道不害怕?｣,人工定稿,P7 校对: 补回原文句尾漏掉的收尾引号｣
+139,0x954,system,system,0278,4,,未翻,
+140,0x959,dialogue,narrative,me.｢怖ｲﾆ決ﾏｯﾃﾏｽ｡,16,me.｢當然害怕。,人工定稿,导入警告: kana_residue
+141,0x96c,dialogue,narrative,でﾓ……年長ﾉ私がｼｯｶﾘｼﾅｲﾄ……｣,29,可是……年長的我得振作……｣,人工定稿,P7 校对: 恢复原文句尾省略号
+142,0x98c,system,system,0279,4,,未翻,
+143,0x991,dialogue,narrative,me.｢ｿﾚﾆ私ﾊ警察官ﾖ? 皆ｦ守ﾙ義務がｱﾘﾏｽ｣,36,me.｢而且我是警察哦?有保護大家的義務｣,人工定稿,导入警告: kana_residue
+144,0x9b8,dialogue,narrative,ｺﾉ元気､空回ﾘでﾅｹﾚば良ｲがﾅ｡,26,這股幹勁，不白費就好了。,人工定稿,
+145,0x9d4,dialogue,narrative,ロム2_KW_殺人ゲーム_樫沢,24,ROM2_KW_殺人遊戲_樫澤,人工定稿,
+146,0x9f0,system,system,0266,4,,未翻,
+147,0x9f5,dialogue,narrative,me.｢実ﾆ下ﾗﾅｲゲームでｽﾈ｡,23,me.｢真是無聊的遊戲。,人工定稿,导入警告: kana_residue
+148,0xa10,dialogue,narrative,僕ﾊ､参加ｻｾﾗﾚﾃｲﾙｺﾄﾆ,18,我對被迫參加這件事,人工定稿,
+149,0xa24,dialogue,narrative,憤ﾘｦ感じﾃｻｴｲﾏｽ｣,15,甚至感到憤怒｣,人工定稿,导入警告: kana_residue
+150,0xa34,system,system,1861,4,,未翻,
+151,0xa39,system,system,me.0267,7,,未翻,
+152,0xa41,dialogue,narrative,me.｢……ｼｶｼ､ゲームﾄｲｳｶﾗﾆﾊ,25,me.｢……不過，既然叫遊戲,人工定稿,导入警告: kana_residue
+153,0xa5c,dialogue,narrative,攻略法がｱﾙﾊずでｽ｡,17,應該有攻略。,人工定稿,"P7 校对: 攻略法 为日式词, 全库口径作「攻略」(r2_t1_3_0_0 同形)"
+154,0xa70,dialogue,narrative,僕ﾊｿﾚｦ見ﾂｹﾀｲﾄ思ｲﾏｽ｣,19,我想找出它｣,人工定稿,导入警告: kana_residue
+155,0xa84,system,system,1862,4,,未翻,
+156,0xa89,dialogue,narrative,me.｢ﾂﾏﾘ､勝ﾁﾆ行ｸﾄｲｳｺﾄｶ?｣,23,me.｢就是説，要去取勝?｣,人工定稿,"P7 校对: 求确认问句(ということか?), 依 v1.4 卡禁「哦」, 槽宽内只留问号"
+157,0xaa4,system,system,0268,4,,未翻,
+158,0xaa9,dialogue,narrative,me.｢ｱｱ､ｲｴ｡誤解ﾉｱﾙ言ｲ方でｼﾀﾈ｡,28,me.｢哦，不。這説法易生誤解。,人工定稿,导入警告: kana_residue
+159,0xac8,dialogue,narrative,正ｼｸﾊ､破綻ｻｾﾙ方法ﾄでﾓ,21,正確説，讓它崩潰之法,人工定稿,P7 校对修正
+160,0xae0,dialogue,narrative,言ｲﾏｼｮｳｶ……止ﾒﾙ方法でｽﾈ｣,25,該説……是阻止的方法。｣,人工定稿,导入警告: kana_residue
+161,0xafc,system,system,1863,4,,未翻,
+162,0xb01,dialogue,narrative,me.｢……ﾅﾙﾎどﾅ｡,15,me.｢…原來如此,人工定稿,导入警告: kana_residue
+163,0xb14,dialogue,narrative,ｱﾉ作戦ﾓｿﾉﾋﾄﾂｶ｣,14,那作戰是其一｣,人工定稿,导入警告: kana_residue
+164,0xb24,system,system,0269,4,,未翻,
+165,0xb29,dialogue,narrative,me.｢ｱﾚﾊﾏだ完璧ﾄﾊ言ｴﾏｾﾝｶﾗ……,28,me.｢那個還稱不上完美……,人工定稿,导入警告: kana_residue
+166,0xb48,dialogue,narrative,ﾓｯﾄ安全ﾅﾓﾉｦ考ｴﾏｽ｣,17,會想更安全的方案｣,人工定稿,导入警告: kana_residue
+167,0xb5c,dialogue,narrative,ロム2_KW_殺人ゲーム_唯柚,24,ROM2_KW_殺人遊戲_唯柚,人工定稿,
+168,0xb78,system,system,0203,4,,未翻,
+169,0xb7d,dialogue,narrative,me.｢……ﾕﾕ､ｺﾝﾅゲームｲﾔだﾖ｣,26,me.｢……唯柚討厭這遊戲哦｣,人工定稿,导入警告: kana_residue
+170,0xb98,system,system,1864,4,,未翻,
+171,0xb9d,dialogue,narrative,me.｢ｿﾚﾊ私ﾓ同じだ｣,17,me.｢那我也一樣｣,人工定稿,导入警告: kana_residue
+172,0xbb0,system,system,0204,4,,未翻,
+173,0xbb5,dialogue,narrative,me.｢……どｳｼﾃｺﾝﾅ目ﾆ遭ｯﾁｬｳﾉ?,27,me.｢……為什麼會遇上這種事?,人工定稿,导入警告: kana_residue
+174,0xbd4,dialogue,narrative,ﾕﾕ､悪ｲｺﾄｼﾀ?｣,12,唯柚做壞事?｣,人工定稿,导入警告: kana_residue
+175,0xbe4,system,system,1865,4,,未翻,
+176,0xbe9,dialogue,narrative,me.｢ｿｳｲｳﾜｹでﾊﾅｲだﾛｳ｡,20,me.｢並非那樣呀。,人工定稿,"P7 校对: だろ(う) 无问号, 依 v1.4 卡去「哦」(漂移清单), 陈述用「呀」"
+177,0xc00,dialogue,narrative,ｵｿﾗｸﾊﾅ……｣,11,大概是……｣,人工定稿,"P7 校对: おそらく 全库多作「大概」; 「恐怕如此」会读成对上句的肯定回应, 与否定句矛盾; 顺带恢复原文省略号"
+178,0xc0c,dialogue,narrative,ロム2_KW_殺人ゲーム_紅春,24,ROM2_KW_殺人遊戲_紅春,人工定稿,
+179,0xc28,system,system,0246,4,,未翻,
+180,0xc2d,dialogue,narrative,me.｢ﾌｪｪ……ｺﾝﾅ不気味ﾅゲーム､,28,me.｢欸欸……這麼詭異的遊戲，,人工定稿,导入警告: kana_residue
+181,0xc4c,dialogue,narrative,私､ﾔﾘﾀｸﾅｲでｽﾖｫ｣,15,我不想玩哦｣,人工定稿,导入警告: kana_residue
+182,0xc5c,system,system,1866,4,,未翻,
+183,0xc61,dialogue,narrative,me.｢ｿﾚﾊ皆同じだ｡,16,me.｢大家都一樣。,人工定稿,导入警告: kana_residue
+184,0xc74,dialogue,narrative,ゲームｿﾉﾓﾉｦ止ﾒﾗﾚﾚば良ｲが､,25,要是能阻止遊戲本身就好，,人工定稿,
+185,0xc90,dialogue,narrative,ｿﾝﾅｺﾄ簡単ﾆﾊでｷﾅｲだﾛｳｼﾅ……｣,27,但那種事大概沒那麼容易……｣,人工定稿,P7 校对: 补回 だろう 的推测语气
+186,0xcac,system,system,0247,4,,未翻,
+187,0xcb1,dialogue,narrative,me.｢……ｳｩ……｣,15,me.｢……嗚……｣,人工定稿,导入警告: kana_residue
+188,0xcc4,dialogue,narrative,ロム2_KW_殺人ゲーム_西野,24,ROM2_KW_殺人遊戲_西野,人工定稿,
+189,0xce0,system,system,0070,4,,未翻,
+190,0xce5,dialogue,narrative,me.｢ﾝ､全ｸｹｼｶﾗﾝﾖ!｣,17,me.｢唔，不像話!｣,人工定稿,"P7 校对: 补回收尾｣(原译无｣); 槽宽不足, 「豈有此理」压成「不像話」"
+191,0xcf7,binary,system,�0071,-1,,未翻,
+192,0xcfd,dialogue,narrative,me.｢ｺﾉ崇高ﾅﾙ国会議員でｱﾙ西野吉勇ｦ､,34,me.｢把崇高的國會議員西野吉勇，,人工定稿,导入警告: kana_residue
+193,0xd20,dialogue,narrative,ｺﾝﾅ下ﾗﾝゲームﾆ巻ｷ込ﾑﾄﾊｯ……!,28,竟敢捲入這種低級遊戲……!,人工定稿,
+194,0xd40,dialogue,narrative,私ﾊ忙ｼｲﾄｲｳﾉﾆ､ﾏｯﾀｸ!｣,19,明明很忙，真是的!｣,人工定稿,导入警告: kana_residue
+195,0xd54,system,system,0072,4,,未翻,
+196,0xd59,dialogue,narrative,me.｢ﾝ､チミﾓｿｳﾊ思ﾜﾝｶﾈ?｣,22,me.｢唔，不這麼覺得?｣,人工定稿,"P7 校对: 求同问句(かね?), 依 v1.4 卡禁「哦」, 槽宽内只留问号"
+197,0xd70,system,system,1867,4,,未翻,
+198,0xd75,dialogue,narrative,me.｢西野氏ﾆ限ﾗず､ﾐﾝﾅﾓ,21,me.｢不只西野，大家也,人工定稿,导入警告: kana_residue
+199,0xd8c,dialogue,narrative,同じ状態ﾅﾉでｽが……｣,20,都是同樣的状態……｣,人工定稿,导入警告: kana_residue
+200,0xda4,system,system,0073,4,,未翻,
+201,0xda9,dialogue,narrative,me.｢ﾝ､同じﾅﾜｹﾅｶﾛｳ!,18,me.｢唔，怎會一樣!,人工定稿,导入警告: kana_residue
+202,0xdbc,dialogue,narrative,チミ達ﾄ違ｯﾃ､私ﾉ時間ﾊ貴重ﾅﾉだ!｣,30,和大家不同，我的時間很寶貴!｣,人工定稿,导入警告: kana_residue
+203,0xddc,system,system,0074,4,,未翻,
+204,0xde1,dialogue,narrative,me.｢ﾏｯﾀｸ､ｿﾝﾅｺﾄﾓ,15,me.｢真是，這裡,人工定稿,导入警告: kana_residue
+205,0xdf4,dialogue,narrative,ﾜｶﾗﾝ連中ばｶﾘｶ､ｺｺﾊ｡,18,全是不明白的蠢材。,人工定稿,
+206,0xe08,dialogue,narrative,先が思ｲﾔﾗﾚﾙ｣,12,前途堪憂｣,人工定稿,导入警告: kana_residue
+207,0xe18,system,system,0075,4,,未翻,
+208,0xe1d,dialogue,narrative,me.｢ｲｲｶ｡ルールﾊﾖｸﾜｶﾗﾝが､,24,me.｢聽好。規則我不明白，,人工定稿,导入警告: kana_residue
+209,0xe38,dialogue,narrative,ﾄﾆｶｸ市民が何人死ﾉｳが､私が助ｶﾚばｲｲ!,34,總之不管死多少市民，我能得救就行!,人工定稿,
+210,0xe5c,dialogue,narrative,ｿﾉﾖｳﾆｼﾀﾏｴﾖ! ﾜｶｯﾀﾅ!｣,19,就那樣做! 明白哦!｣,人工定稿,导入警告: kana_residue
+211,0xe70,system,system,1868,4,,未翻,
+212,0xe75,dialogue,narrative,me.｢……ｱｲﾆｸ､賛同ｼｶﾈﾏｽ｣,23,me.｢……恕難贊同｣,人工定稿,导入警告: kana_residue
+213,0xe90,system,system,0076,4,,未翻,
+214,0xe95,dialogue,narrative,me.｢ﾊｧ? チミﾉ賛同ﾅぞｲﾗﾝ!,24,me.｢什麼? 才不需要贊同!,人工定稿,"P7 校对: ハァ? 为不敢置信的「什麼?」, 非领会语气的「哦?」"
+215,0xeb0,dialogue,narrative,私がｿｳｼﾛﾄ言ｯﾄﾙﾉだ!,18,是我説要那樣做的!,人工定稿,
+216,0xec4,dialogue,narrative,ﾝ､ﾏｯﾀｸ､教育がﾅｯﾄﾗﾝ｣,19,唔，真是，缺乏教養｣,人工定稿,导入警告: kana_residue
+217,0xed8,system,system,1869,4,,未翻,
+218,0xedd,dialogue,narrative,me.｢…………言ｲ返ｽだｹ無駄ｶ｣,27,me.｢…………反駁也是徒勞｣,人工定稿,导入警告: kana_residue

@@ -1,0 +1,178 @@
+﻿seq,anchor,kind,role,orig,orig_bytes,trans,status,note
+1,0x0,system,system,../tob/rom2/kw_detect.tob,25,,未翻,
+2,0x1c,system,system,kw_detect.sts,13,,未翻,
+3,0x2c,dialogue,label,ROM2_KW_探偵,12,ROM2_KW_偵探,人工定稿,
+4,0x3c,dialogue,label,ROM2_KW会話_探偵,16,ROM2_KW會話_偵探,人工定稿,
+5,0x50,dialogue,label,<switch_err> ﾆ分岐ｼﾃｷﾀ,22,<switch_err> 分支到了,人工定稿,"终轮分岐行统一: ﾆ=助词に, 基准形 分支到了"
+6,0x68,dialogue,command,フェードアウト,14,,未翻,
+7,0x78,dialogue,narrative,ロム2_KW_探偵_昇,16,ROM2_KW_偵探_昇,人工定稿,
+8,0x8c,system,system,0279,4,,未翻,
+9,0x91,dialogue,narrative,tec｢探偵ｯﾃ難ｼｿｳだﾖﾅ｡,20,tec｢偵探好像很難呀。,人工定稿,"P7 校对: だよな 共感陈述, 依 v1.4 卡用「呀」(去「哦」)"
+10,0xa8,dialogue,narrative,俺が探偵だｯﾀﾗ何ｼﾃｲｲｶﾜｶﾗﾅｲﾖ｣,27,要是我是偵探也不知該做什麼｣,人工定稿,导入警告: kana_residue
+11,0xc4,system,system,1771,4,,未翻,
+12,0xc9,dialogue,narrative,tec｢ｿｳだﾅ……誰がシリアルキラーﾅﾉｶ,34,tec｢對呀……究竟誰是連環殺手,人工定稿,导入警告: kana_residue
+13,0xec,dialogue,narrative,知ｯﾀﾄｺﾛで……ﾄｲｳ問題ﾓｱﾙｼﾅ｣,26,就算知道……也是個問題呀｣,人工定稿,导入警告: kana_residue
+14,0x108,system,system,0280,4,,未翻,
+15,0x10d,dialogue,narrative,tec｢だﾖﾅｧ｡,10,tec｢對呀。,人工定稿,导入警告: kana_residue
+16,0x118,dialogue,narrative,簡単ﾆ処刑ｯﾃﾜｹﾆﾓｲｶﾅｲﾓﾝﾅ……｣,27,也不能就那麼簡單處刑……｣,人工定稿,导入警告: kana_residue
+17,0x134,dialogue,narrative,ロム2_KW_探偵_香菜,18,ROM2_KW_偵探_香菜,人工定稿,
+18,0x148,dialogue,narrative,｢純粋ﾆゲームﾄｼﾃ楽ｼﾑﾅﾗ､,22,｢若單純當遊戲享受，,人工定稿,导入警告: kana_residue
+19,0x160,dialogue,narrative,ﾄｲｳ注釈付ｷだｹど､,16,雖附這種注解，,人工定稿,
+20,0x174,dialogue,narrative,探偵ﾊ中々面白ｿｳﾈ｣,17,偵探好像挺有趣呀｣,人工定稿,"P7 校对: そうね 共感陈述, 依 v1.4 卡用「呀」(去「哦」)"
+21,0x188,system,system,1772,4,,未翻,
+22,0x18d,dialogue,narrative,tec｢ﾅぜだ?｣,11,tec｢為何?｣,人工定稿,导入警告: kana_residue
+23,0x199,dialogue,narrative,.st｢自分ﾉ1票ﾊ何ﾆﾓﾅﾗﾅｲﾉﾆ､,24,.st｢自己1票毫無作用，,人工定稿,导入警告: kana_residue
+24,0x1b4,dialogue,narrative,ｿﾉ情報ﾄ言葉だｹで状況ｦ変ｴﾙﾉﾖ｣,28,光靠信息和話語就能改變状況｣,人工定稿,导入警告: kana_residue
+25,0x1d4,system,system,0281,4,,未翻,
+26,0x1d9,dialogue,narrative,tec｢ｼｶﾓ自分が探偵だﾅﾝﾃ明ｶｼﾀﾗ,28,tec｢而且暴露自己是偵探的話,人工定稿,导入警告: kana_residue
+27,0x1f8,dialogue,narrative,殺ｻﾚﾁｬｳｶﾗ､ｿﾚﾓでｷﾅｲ……,22,會被殺，那也做不到……,人工定稿,
+28,0x210,dialogue,narrative,ギリギリﾉ駆ｹ引ｷ､面白ｿｳじｬﾅｲ｣,28,極限心理戰，不也挺有趣?｣,人工定稿,导入警告: kana_residue
+29,0x230,system,system,1773,4,,未翻,
+30,0x235,dialogue,narrative,tec｢君ﾊ､ゲームﾊハードモードで始ﾒﾙタイプｶ｣,41,tec｢玩遊戲都從困難模式開始的類型?｣,人工定稿,"P7 校对: ゲームは 缺谓语, 补「玩」; 去误加的「是」"
+31,0x260,system,system,0282,4,,未翻,
+32,0x265,dialogue,narrative,tec｢ｳｳﾝ?,8,tec｢唔?,人工定稿,导入警告: kana_residue
+33,0x26e,dialogue,narrative,ecベリーハードﾄｶマニアックﾄｶ,28,ec極難、狂熱之類,人工定稿,"P7 校对: 列舉补顿号, 与上行 とか 结构一致"
+34,0x28c,dialogue,narrative,アルティメットﾄｶエキスパートｶﾅ｡ﾅﾝで?｣,37,極限、專家之類。為什麼?｣,人工定稿,"P7 校对: 列舉补顿号, 或→、(并列非选择)"
+35,0x2b4,system,system,1774,4,,未翻,
+36,0x2b9,dialogue,narrative,tec｢ｲﾔ､マゾゲーマーﾉ匂ｲがｼﾀﾓﾉでﾅ｣,33,tec｢不，聞到了受虐玩家的味道｣,人工定稿,P7 校对: イヤ、 全库口径作「不，」(去「沒，」)
+37,0x2dc,system,system,0283,4,,未翻,
+38,0x2e1,dialogue,narrative,tec｢だｯﾃ､開発者ﾉ本気ﾄ戦ﾜﾅｲﾄ,27,tec｢因為不與開發者認真較量,人工定稿,导入警告: kana_residue
+39,0x300,dialogue,narrative,勝ｯﾀ気ﾆﾅﾚﾅｲじｬﾅｲ｣,17,就沒法覺得贏了｣,人工定稿,导入警告: kana_residue
+40,0x314,dialogue,narrative,何ﾄ戦ｯﾃｲﾙﾉだ､彼女ﾊ……｡,23,他在跟什麼戰鬥……。,人工定稿,
+41,0x32c,dialogue,narrative,ロム2_KW_探偵_圭介,18,ROM2_KW_偵探_圭介,人工定稿,
+42,0x340,system,system,0144,4,,未翻,
+43,0x345,dialogue,narrative,tec｢冷静ﾅ観察力､的確ﾅ判断力,27,tec｢冷靜觀察力、準確判斷力,人工定稿,导入警告: kana_residue
+44,0x364,dialogue,narrative,ｿｼﾃ説得力……｣,14,加上説服力……,人工定稿,
+45,0x374,system,system,0145,4,,未翻,
+46,0x379,dialogue,narrative,tec｢探偵ﾆ求ﾒﾗﾚﾙﾓﾉｯﾃ,19,tec｢偵探所需的東西,人工定稿,导入警告: kana_residue
+47,0x390,dialogue,narrative,楓ｻﾝﾐﾀｲﾅ人でｼｮｳﾈ｡ｷｯﾄ｣,21,就像楓那樣的人。一定｣,人工定稿,导入警告: kana_residue
+48,0x3a8,system,system,1775,4,,未翻,
+49,0x3ad,dialogue,narrative,tec｢言ﾜﾚﾃﾐﾙﾄｿｳｶﾓｼﾚﾅｲﾅ｡,22,tec｢這麼説或許沒錯。,人工定稿,导入警告: kana_residue
+50,0x3c4,dialogue,narrative,ﾂｲでﾆ美人でグラマーだﾄﾅｵﾖｼ｡,27,而且又是美女又是巨乳更好。,人工定稿,
+51,0x3e0,dialogue,narrative,ﾄ､ｲｯﾀﾄｺﾛｶ｣,10,就是這樣｣,人工定稿,导入警告: kana_residue
+52,0x3eb,system,system,t0146,5,,未翻,
+53,0x3f1,dialogue,narrative,tec｢ｿﾝﾅ事ﾊ言ｯﾃﾅｲでｽﾖ……｣,25,tec｢沒説過那種話哦……｣,人工定稿,导入警告: kana_residue
+54,0x40c,dialogue,narrative,ロム2_KW_探偵_霞,16,ROM2_KW_偵探_霞,人工定稿,
+55,0x420,system,system,0149,4,,未翻,
+56,0x425,dialogue,narrative,tec｢探偵ｻﾝﾊ……誰ｦ指名ｼﾃﾓ,25,tec｢偵探先生……指認誰都,人工定稿,P7 校对: 探偵サン 职业泛称按 style-notes 作「偵探先生」; 拆句让 57 承接
+57,0x440,dialogue,narrative,殺ｽｺﾄﾆﾊﾅﾗﾅｲﾝでｽﾖﾈ……｣,22,也不會導致殺人呀……｣,人工定稿,P7 校对: んですよね 共感陈述用「呀」(卡 v1.4); 与 56 连读
+58,0x458,system,system,1776,4,,未翻,
+59,0x45d,dialogue,narrative,tec｢ｱｧ､ルールﾆｿｳ書ｲﾃｱﾙﾅ｣,24,tec｢哦，規則裡這麼寫的｣,人工定稿,导入警告: kana_residue
+60,0x478,system,system,0150,4,,未翻,
+61,0x47d,dialogue,narrative,tec｢私……探偵ｻﾝがﾖｶｯﾀﾉﾆ……｣,29,tec｢我……本想當偵探先生……｣,人工定稿,P7 校对: 探偵サン 作「偵探先生」; 槽位 29B 内压缩 本來想當→本想當
+62,0x49c,system,system,1777,4,,未翻,
+63,0x4a1,dialogue,narrative,tec｢……ｲﾔ､君ﾆﾊﾑｼﾛ酷だﾄ思ｳぞ｡,29,tec｢……不，那反而很殘酷。,人工定稿,导入警告: kana_residue
+64,0x4c0,dialogue,narrative,ﾅぜﾅﾗ探偵ﾊ､シリアルキラーｦ告発ｽﾙ役目だ｡,39,因為偵探的職責是告發連環殺手。,人工定稿,
+65,0x4e8,dialogue,narrative,君ﾆ､誰ｶｦ殺ｾﾅﾝﾃ提案がでｷﾙｶ?｣,27,怎麼能提議去殺誰?｣,人工定稿,"P7 校对: 「提出去殺誰」句读不顺, 改「提議」(原文行首无标记)"
+66,0x504,system,system,0151,4,,未翻,
+67,0x509,dialogue,narrative,tec｢ｿ､ｿﾝﾅｺﾄ……ｼﾅｲでｽ｣,22,tec｢那、那……不會做｣,人工定稿,P7 校对: ソ、ソン 口吃按全库惯例保留(22B 槽内作 那、那)
+68,0x520,system,system,1778,4,,未翻,
+69,0x525,dialogue,narrative,tec｢ｺﾉゲームでﾊどﾝﾅ役職でﾓ,26,tec｢這個遊戲裡無論什麼身份,人工定稿,导入警告: kana_residue
+70,0x540,dialogue,narrative,命ﾉ選択ｦｽﾙ場面が用意ｻﾚﾃｲﾙ｡,26,都準備了抉擇性命的場面。,人工定稿,
+71,0x55c,dialogue,narrative,……ﾏｯﾀｸ､悪趣味ﾅｺﾄだ｣,21,……真是惡趣味｣,人工定稿,导入警告: kana_residue
+72,0x574,system,system,0152,4,,未翻,
+73,0x579,dialogue,narrative,tec｢……ﾊｲ……｣,15,tec｢……是……｣,人工定稿,导入警告: kana_residue
+74,0x58c,dialogue,narrative,ロム2_KW_探偵_美紀,18,ROM2_KW_偵探_美紀,人工定稿,
+75,0x5a0,system,system,1030,4,,未翻,
+76,0x5a5,dialogue,narrative,tec｢ｵ姉ｻﾏ!!｣,12,tec｢姐姐大人,人工定稿,导入警告: kana_residue
+77,0x5b2,system,system,st1779,6,,未翻,
+78,0x5b9,dialogue,narrative,tec｢どｳｼﾀ? 美紀ｸﾝ｣,18,tec｢怎麼了? 美紀｣,人工定稿,导入警告: kana_residue
+79,0x5cc,system,system,1031,4,,未翻,
+80,0x5d1,dialogue,narrative,tec｢ｱﾀｼ､凄ｲ事考ｴﾁｬｲﾏｼﾀ!!!!｣,27,tec｢我想到件超棒的事!!!!｣,人工定稿,导入警告: kana_residue
+81,0x5f0,dialogue,narrative,嫌ﾅ予感ｼｶｼﾅｲﾉだが｡,18,只覺得有不祥預感。,人工定稿,
+82,0x604,system,system,1032,4,,未翻,
+83,0x609,dialogue,narrative,tec｢ｺｺｦ出ﾀﾗ､浅川探偵事務所ｦ開ｷﾏｼｮｳ!｣,36,tec｢出去後，就開淺川偵探事務所!｣,人工定稿,导入警告: kana_residue
+84,0x630,system,system,1033,4,,未翻,
+85,0x635,dialogue,narrative,tec｢ｵ姉ｻﾏﾊ名探偵! ｱﾀｼﾊｿﾉ助手!!,30,tec｢姐姐大人是名偵探!我是助手!,人工定稿,导入警告: kana_residue
+86,0x654,dialogue,narrative,最高ﾉコンビでｽﾖﾈ!?｣,19,是最棒的組合對不!?｣,人工定稿,"P7 校对: ですよね!? 真问句, 依 v1.4 卡用「對不」(禁 哦); 19B 满槽"
+87,0x668,dialogue,narrative,何故ｿﾉ発想ﾆﾅｯﾀﾉだﾛｳﾅ……｡,25,為何會有那種想法……。,人工定稿,
+88,0x684,dialogue,narrative,ロム2_KW_探偵_ﾊﾙｶ,17,ROM2_KW_偵探_遙,人工定稿,
+89,0x698,system,system,0103,4,,未翻,
+90,0x69d,dialogue,narrative,tec｢ﾜﾀｼﾓテレビで見ﾀｺﾄｱﾙ｣,24,tec｢我也在電視上見過｣,人工定稿,导入警告: kana_residue
+91,0x6b8,system,system,0104,4,,未翻,
+92,0x6bd,dialogue,narrative,tec｢ｵｿｳじﾄｶｼﾃﾙフリｼﾃ､,21,tec｢裝作打掃之類，,人工定稿,导入警告: kana_residue
+93,0x6d4,dialogue,narrative,ｲﾛｲﾛ見ﾀﾘ聞ｲﾀﾘｼﾁｬｳﾉ｣,19,就會東看西聽｣,人工定稿,导入警告: kana_residue
+94,0x6e8,dialogue,narrative,……ｱﾚﾉ仕事ﾊ家政婦でﾊ……?,26,……那人做家政阿姨……?,人工定稿,P7 校对修正
+95,0x704,dialogue,narrative,ロム2_KW_探偵_ﾂﾑじ,18,ROM2_KW_偵探_旋,人工定稿,
+96,0x718,system,system,0107,4,,未翻,
+97,0x71d,dialogue,narrative,tec｢探偵ｯﾃｻ､他ﾉ人ﾄﾊ違ｳタイミングで,34,tec｢偵探呀，會在跟別人不同的時機,人工定稿,导入警告: kana_residue
+98,0x740,dialogue,narrative,投票ｽﾙでｼｮ?,11,投票對不?,人工定稿,"P7 校对: でしょ? 求确认, 依 v1.4 卡用「對不?」(去「的哦」)"
+99,0x74c,dialogue,narrative,ｿﾉ時ﾆ指名ｼﾅｶｯﾀﾗどｳﾅﾙﾉｶﾅ?｣,25,那時不指認會怎樣?｣,人工定稿,导入警告: kana_residue
+100,0x768,system,system,1780,4,,未翻,
+101,0x76d,dialogue,narrative,tec｢ｻｧﾅ｡私が探偵だﾄｼﾃﾓ試ｽ勇気ﾅどﾅｲ｡,35,tec｢誰知道。就算當偵探也沒勇氣試。,人工定稿,导入警告: kana_residue
+102,0x794,dialogue,narrative,ﾀだ何ﾓﾜｶﾗﾅｲだｹｶ､,16,只是什麼都不知，,人工定稿,
+103,0x7a8,dialogue,narrative,反則で負ｹﾆﾅﾙﾉｶ……｣,19,還是會違規算輸……｣,人工定稿,"P7 校对: 〜か〜のか 选择结构, 补「還是」"
+104,0x7bc,system,system,0108,4,,未翻,
+105,0x7c1,dialogue,narrative,tec｢……試ｼﾃｸﾚﾅｲｶﾅ､探偵ｻﾝ｣,26,tec｢……試試嘛，偵探先生｣,人工定稿,P7 校对: 探偵サン 作「偵探先生」; 槽位内 要不要試試→試試嘛
+106,0x7dc,dialogue,narrative,断固拒否ｼﾃｵｺｳ｡,14,堅決拒絶。,人工定稿,
+107,0x7ec,dialogue,narrative,ロム2_KW_探偵_ジャック,22,ROM2_KW_偵探_傑克,人工定稿,
+108,0x804,system,system,0119,4,,未翻,
+109,0x809,dialogue,narrative,tec｢ｱｧ? 探偵?,13,tec｢哦? 偵探?,人工定稿,导入警告: kana_residue
+110,0x817,dialogue,narrative,tクソﾂﾏﾗﾈｪ役割だﾖ｣,18,t無聊透頂的角色｣,人工定稿,导入警告: kana_residue
+111,0x82c,system,system,0120,4,,未翻,
+112,0x831,dialogue,narrative,tec｢誰ﾓ殺ｾﾈｪ役職ﾅﾝざ,20,tec｢誰都殺不了的身份,人工定稿,导入警告: kana_residue
+113,0x848,dialogue,narrative,警官ﾄﾓどﾓ消ｴﾁﾏｴ｣,16,連警官一起消失｣,人工定稿,导入警告: kana_residue
+114,0x85c,dialogue,narrative,彼が探偵ﾔ警官だｯﾀﾗ,18,要是他是偵探或警官,人工定稿,
+115,0x870,dialogue,narrative,どﾝﾅプレイｦｼﾃｲﾀﾉだﾛｳｶ……｡,26,會是怎樣的玩法……。,人工定稿,
+116,0x88c,dialogue,narrative,ロム2_KW_探偵_薫,16,ROM2_KW_偵探_薰,人工定稿,
+117,0x8a0,system,system,0270,4,,未翻,
+118,0x8a5,dialogue,narrative,tec｢探偵業ｦ行ｳﾆﾊ､,17,tec｢要從事偵探，,人工定稿,导入警告: kana_residue
+119,0x8b8,dialogue,narrative,警察ﾉ許可が必要だｯﾃ知ｯﾃﾏｼﾀ?｣,28,知道需要警察許可?｣,人工定稿,导入警告: kana_residue
+120,0x8d8,system,system,1781,4,,未翻,
+121,0x8dd,dialogue,narrative,tec｢ｿｳﾅﾉｶ｡,10,tec｢是哦。,人工定稿,导入警告: kana_residue
+122,0x8e8,dialogue,narrative,言ﾜﾚﾃﾐﾚば確ｶﾆ､尾行ﾅﾝﾃ許可でﾓﾅｹﾚば,33,這麼説確實，跟蹤沒許可的話,人工定稿,
+123,0x90c,dialogue,narrative,ストーキングでｼｶﾅｲﾓﾉﾅ｣,22,就只能是跟蹤狂｣,人工定稿,导入警告: kana_residue
+124,0x924,system,system,1782,4,,未翻,
+125,0x929,dialogue,narrative,tec｢でﾊ探偵がストーカーﾆﾅｯﾀ場合､,32,tec｢那偵探變成跟蹤狂的話，,人工定稿,导入警告: kana_residue
+126,0x94c,dialogue,narrative,どｳﾅﾙﾉだ?｣,10,會怎樣?｣,人工定稿,导入警告: kana_residue
+127,0x957,system,system,t0271,5,,未翻,
+128,0x95d,dialogue,narrative,tec｢……裁判で判断ｻﾚﾙﾉでﾊﾅｲでｼｮｳｶ｡,34,tec｢……應該由審判判斷。,人工定稿,导入警告: kana_residue
+129,0x980,dialogue,narrative,でﾓ一般人ﾖﾘﾊ有利ﾆﾅﾙｶﾓｼﾚﾏｾﾝﾈ｡,28,但比一般人或許會有利呀。,人工定稿,P7 校对: かもしれませんね 共感陈述用「呀」(卡 v1.4)
+130,0x9a0,dialogue,narrative,ｿﾚﾆ警察ﾉ職質ﾊパスでｷﾙｶﾓ……｣,28,而且警察的盤問或許能過……｣,人工定稿,导入警告: kana_residue
+131,0x9c0,dialogue,narrative,グレーゾーンﾄｲｳﾜｹｶ……｡,23,就是所謂灰色地帶……。,人工定稿,
+132,0x9d8,dialogue,narrative,ロム2_KW_探偵_樫沢,18,ROM2_KW_偵探_樫澤,人工定稿,
+133,0x9ec,system,system,0254,4,,未翻,
+134,0x9f1,dialogue,narrative,tec｢探偵が最ﾓ活躍ｽﾙパターンﾊ,28,tec｢偵探最活躍的模式是,人工定稿,导入警告: kana_residue
+135,0xa10,dialogue,narrative,ﾋｯｿﾘﾄシリアルキラーｦ3人ﾄﾓ,25,悄悄地把3個連環殺手都,人工定稿,
+136,0xa2c,dialogue,narrative,見ﾂｹﾃｼﾏｯﾃｶﾗ発表ｽﾙ事でｼｮｳﾈ｣,26,找到之後才公開呀｣,人工定稿,P7 校对: でしょうね 共感陈述用「呀」(卡 v1.4)
+137,0xa48,system,system,1783,4,,未翻,
+138,0xa4d,dialogue,narrative,tec｢ｱﾙ意味命がｹﾆﾅﾙがﾅ｣,22,tec｢某種意義上很要命｣,人工定稿,导入警告: kana_residue
+139,0xa64,system,system,0255,4,,未翻,
+140,0xa69,dialogue,narrative,tec｢ｴｪ｡,7,tec｢欸,人工定稿,导入警告: kana_residue
+141,0xa71,dialogue,narrative,tecｿﾉ上で､ｿﾉ3人ｦ見ﾂｹﾀｶﾗﾄｲｯﾃ,27,tec｢在此之上就算找到那3人,人工定稿,导入警告: kana_residue
+142,0xa90,dialogue,narrative,殺ｼﾃｼﾏｯﾃｲｲﾉｶﾄｲｳ問題ﾓｱﾘﾏｽ｣,25,也有該不該殺的問題｣,人工定稿,"P7 校对: 殺していいのか=妥當性, 非能力, 能否殺掉→該不該殺"
+143,0xaac,system,system,1784,4,,未翻,
+144,0xab1,dialogue,narrative,tec｢ｿﾚﾆ3人見ﾂｹﾙﾆﾊ3回ﾉ調査が必要だ｡,34,tec｢而且找3人需要3次調査。,人工定稿,导入警告: kana_residue
+145,0xad4,dialogue,narrative,ｿﾚﾓ最短ﾅﾗば､だ｡,15,那還得是最短。,人工定稿,
+146,0xae4,dialogue,narrative,ｱﾏﾘ頼ﾚﾙ能力でﾓｱﾙﾏｲ｣,19,也不是很可靠的能力｣,人工定稿,导入警告: kana_residue
+147,0xaf8,system,system,0256,4,,未翻,
+148,0xafd,dialogue,narrative,tec｢ｿｳでｽﾈ｡長期戦ﾆﾅﾙﾄシリアルキラーが,37,tec｢對呀。變成持久戰連環殺手就,人工定稿,导入警告: kana_residue
+149,0xb24,dialogue,narrative,有利でｽが､ｿﾚﾏで探偵が生ｷﾃｲﾚば,29,會有利，但到時偵探還活著的話,人工定稿,
+150,0xb44,dialogue,narrative,逆転でｷﾙ……ﾄｲｯﾀﾄｺﾛでｼｮｳｶ｣,26,能逆轉……大概就是如此｣,人工定稿,导入警告: kana_residue
+151,0xb60,dialogue,narrative,ﾄﾆｶｸ私ﾊ死ﾇﾜｹﾆﾊｲｶﾅｲﾉだﾅ……｡,27,總之我絶不能死……。,人工定稿,
+152,0xb7c,dialogue,narrative,ロム2_KW_探偵_唯柚,18,ROM2_KW_偵探_唯柚,人工定稿,
+153,0xb90,system,system,0197,4,,未翻,
+154,0xb95,dialogue,narrative,tec｢楓ｻﾝｯﾃ人ﾉ事ｦﾖｸ見ﾃﾏｽﾖﾈ｣,26,tec｢楓很會觀察別人呀｣,人工定稿,"P7 校对: ますよね 共感陈述用「呀」(卡 v1.4, 去「哦」)"
+155,0xbb0,system,system,1785,4,,未翻,
+156,0xbb5,dialogue,narrative,tec｢ｿｳｶ?,8,tec｢哦?,人工定稿,导入警告: kana_residue
+157,0xbbe,dialogue,narrative,ecｱﾏﾘ人ﾉ輪ﾉ中ﾆｲﾅｲｶﾗ,19,ec不太在人際圈裡,人工定稿,
+158,0xbd4,dialogue,narrative,ｿｳ見ｴﾙﾉｶﾓｼﾚﾅｲﾅ｣,15,或許看來是那樣｣,人工定稿,导入警告: kana_residue
+159,0xbe4,system,system,0198,4,,未翻,
+160,0xbe9,dialogue,narrative,tec｢ﾅﾝだｶ探偵ｻﾝｯぽｲﾉでｽ｣,24,tec｢總覺得像偵探先生哦｣,人工定稿,P7 校对: 探偵サン 作「偵探先生」(与 r2_t3_3_0_0 定稿一致)
+161,0xc04,dialogue,narrative,ｵｯﾄ……｡,8,不妙……,人工定稿,
+162,0xc0d,dialogue,narrative,.stｺﾉ子ﾉ方がﾖｯぽど,18,.st這孩子反而更,人工定稿,
+163,0xc20,dialogue,narrative,人ｦ見ﾃｲﾙﾉでﾊﾅｲｶ……?,20,莫非在觀察人……?,人工定稿,
+164,0xc38,dialogue,narrative,ロム2_KW_探偵_紅春,18,ROM2_KW_偵探_紅春,人工定稿,
+165,0xc4c,system,system,0238,4,,未翻,
+166,0xc51,dialogue,narrative,tec｢探偵ｻﾝｯﾃ誰ﾅﾝでｼｮｳﾈ?｣,24,tec｢偵探先生到底是誰?｣,人工定稿,P7 校对: 探偵サン 作「偵探先生」
+167,0xc6c,system,system,1786,4,,未翻,
+168,0xc71,dialogue,narrative,tec｢ｻｱﾅ､ｺﾉ状況で名乗ﾙﾖｳﾅ事ﾊ,27,tec｢誰知道，這情況自報的事,人工定稿,导入警告: kana_residue
+169,0xc90,dialogue,narrative,ｿｳｿｳﾅｻｿｳでﾊｱﾙが｣,16,似乎不太可能｣,人工定稿,导入警告: kana_residue
+170,0xca4,system,system,0239,4,,未翻,
+171,0xca9,dialogue,narrative,tec｢シリアルキラーｻﾝｦ見ﾂｹﾃﾙﾅﾗ,29,tec｢如果找到連環殺手的話,人工定稿,导入警告: kana_residue
+172,0xcc8,dialogue,narrative,教ｴﾃｸﾚﾃﾓｲｲｲﾉﾆ……｣,18,明明能告訴我……｣,人工定稿,"P7 校对: くれてもいいのに 漏「能/可以」, 补「能」"
+173,0xcdc,system,system,1787,4,,未翻,
+174,0xce1,dialogue,narrative,tec｢ｿｳｲｳﾜｹﾆﾓｲｸﾏｲ｣,17,tec｢不會那樣發展｣,人工定稿,导入警告: kana_residue
+175,0xcf4,system,system,0240,4,,未翻,
+176,0xcf9,dialogue,narrative,tec｢ﾊｧ……ｿｳでｽﾖﾈ……｣,22,tec｢唔……對呀……｣,人工定稿,导入警告: kana_residue
+177,0xd10,dialogue,narrative,ロム2_KW_探偵_西野,18,ROM2_KW_偵探_西野,人工定稿,
